@@ -7,4 +7,4 @@
 - [ ] Photos are square, centered on the face, and have no location metadata
 - [ ] Figures from papers are openly licensed and credited, or are our own
 
-See the [README](https://github.com/picsl-upenn/picsl-website#readme) for how to update the site with Claude Code.
+See the [README](https://github.com/picslupenn/picsl-website#readme) for how to update the site with Claude Code.

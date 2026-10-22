@@ -6,6 +6,8 @@ Static website for the Penn Image Computing and Science Laboratory, replacing th
 WordPress site at https://picsl.upenn.edu. Built with Jekyll on the
 [Lab Website Template](https://github.com/greenelab/lab-website-template)
 ([documentation](https://greene-lab.gitbook.io/lab-website-template-docs)).
+The `protowebsite` repository in the same organization is an earlier draft of the site
+that is no longer used; make changes here instead.
 
 The easiest way to update the site is to ask [Claude Code](https://claude.com/claude-code)
 to do it, then open a pull request. The tutorial below walks through that.
@@ -23,7 +25,7 @@ Lab members don't need write access to the repository. You work on your own copy
 2. Fork and clone the repository, then start Claude Code in it:
 
    ```sh
-   gh repo fork picsl-upenn/picsl-website --clone
+   gh repo fork picslupenn/picsl-website --clone
    cd picsl-website
    claude
    ```
@@ -90,7 +92,7 @@ know the work best.
 > Commit these changes and open a pull request to the lab's repository.
 
 Claude commits to your branch, pushes it to your fork, and opens a pull request (PR)
-against `picsl-upenn/picsl-website` describing the change. Then:
+against `picslupenn/picsl-website` describing the change. Then:
 
 - A lab admin approves the automated checks. GitHub requires this for first-time
   contributors.
@@ -127,7 +129,7 @@ version of the site.
 
 Admins can also make changes directly with Claude Code in a clone of the lab's
 repository. To add or remove admins, change people's roles in the
-[picsl-upenn organization](https://github.com/orgs/picsl-upenn/people), or give them the
+[picslupenn organization](https://github.com/orgs/picslupenn/people), or give them the
 Maintain or Admin role on this repository. Everyone else contributes through forks and
 needs no access.
 
@@ -163,7 +165,7 @@ Merges to `main` are built and deployed to GitHub Pages by the workflows in
 `.github/workflows/`. Pull requests get a preview build automatically.
 
 Moving the site to picsl.upenn.edu is prepared in pull request
-[#1](https://github.com/picsl-upenn/picsl-website/pull/1). That PR lists the DNS changes
+[#1](https://github.com/picslupenn/picsl-website/pull/1). That PR lists the DNS changes
 Penn IT needs to make, and should be merged only after DNS has changed.
 
 ## Migration from WordPress
