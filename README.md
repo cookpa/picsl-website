@@ -14,20 +14,23 @@ to do it, then open a pull request. The tutorial below walks through that.
 
 ### One-time setup
 
+Lab members don't need write access to the repository. You work on your own copy (a
+*fork*) and propose changes with a pull request, which a lab admin reviews and merges.
+
 1. Install [Claude Code](https://docs.claude.com/en/docs/claude-code/overview), and make
-   sure you have `git`, the GitHub CLI (`gh`, logged in with `gh auth login`) and Ruby with
-   Bundler. On a Mac, `brew install git gh ruby` covers all of these.
-2. Ask a lab admin to give you write access to the
-   [picsl-upenn/picsl-website](https://github.com/picsl-upenn/picsl-website) repository.
-3. Clone the repository and start Claude Code in it:
+   sure you have `git`, the GitHub CLI (`gh`) and Ruby with Bundler. On a Mac,
+   `brew install git gh ruby` covers all of these. Log in to GitHub with `gh auth login`.
+2. Fork and clone the repository, then start Claude Code in it:
 
    ```sh
-   git clone https://github.com/picsl-upenn/picsl-website.git
+   gh repo fork picsl-upenn/picsl-website --clone
    cd picsl-website
    claude
    ```
 
-4. Ask Claude to get the site running locally:
+   `gh repo fork --clone` creates your fork on GitHub, clones it, and sets the lab's
+   repository up as the `upstream` remote.
+3. Ask Claude to get the site running locally:
 
    > Install what's needed and show me how to preview the site locally.
 
@@ -40,9 +43,10 @@ to do it, then open a pull request. The tutorial below walks through that.
 Each change follows the same loop: start a branch, describe what you want in plain
 language, check the result, refine, and open a pull request.
 
-**1. Start from a fresh branch.**
+**1. Start from a fresh branch.** Your fork doesn't update itself, so bring it up to date
+with the lab's repository first:
 
-> Pull the latest main and create a branch called update-my-profile.
+> Sync my fork with the lab's repository and create a branch called update-my-profile.
 
 **2. Describe the change.** Be specific and point Claude to sources. Claude can read web
 pages, download images, look up papers in PubMed and ORCID, and edit the site files.
@@ -83,19 +87,21 @@ know the work best.
 
 **4. Open a pull request.** When you're done:
 
-> Commit these changes and open a pull request.
+> Commit these changes and open a pull request to the lab's repository.
 
-Claude commits to your branch, pushes it to GitHub, and opens a pull request (PR)
-describing the change. Then:
+Claude commits to your branch, pushes it to your fork, and opens a pull request (PR)
+against `picsl-upenn/picsl-website` describing the change. Then:
 
-- Within a few minutes, a bot comments on the PR with a **preview link** showing the
-  whole site with your changes. Check it, especially on a phone.
-- A lab admin reviews the PR. If they ask for changes, describe them to Claude on the
-  same branch and push again; the preview updates automatically.
+- A lab admin approves the automated checks. GitHub requires this for first-time
+  contributors.
+- A bot then comments on the PR with a **preview link** showing the whole site with your
+  changes. Check it, especially on a phone.
+- The admin reviews the PR. If they ask for changes, describe them to Claude on the same
+  branch and push again; the PR and its preview update automatically.
 - Once the PR is merged, the live site updates automatically within a few minutes.
 
-Please don't push directly to `main`. Pull requests give everyone a chance to catch
-mistakes and keep a record of what changed and why.
+For your next change, start again at step 1 so your new branch starts from the latest
+version of the site.
 
 ### Tips
 
@@ -109,6 +115,21 @@ mistakes and keep a record of what changed and why.
   picks up changes on the next build.
 - **Big changes:** for something large, such as a redesign or many new pages, ask Claude
   to propose a plan first.
+
+## For admins: reviewing pull requests
+
+1. On a PR from a new contributor, click **Approve and run** so the checks and preview
+   build can run.
+2. Open the preview link that the bot posts in the PR comments and look over the changes.
+   The **Files changed** tab shows exactly what was edited.
+3. Ask for changes in a review comment, or merge with **Squash and merge**. The live site
+   updates within a few minutes.
+
+Admins can also make changes directly with Claude Code in a clone of the lab's
+repository. To add or remove admins, change people's roles in the
+[picsl-upenn organization](https://github.com/orgs/picsl-upenn/people), or give them the
+Maintain or Admin role on this repository. Everyone else contributes through forks and
+needs no access.
 
 ## Where things live
 
@@ -141,13 +162,9 @@ Then open http://localhost:4000.
 Merges to `main` are built and deployed to GitHub Pages by the workflows in
 `.github/workflows/`. Pull requests get a preview build automatically.
 
-To serve the site at picsl.upenn.edu (not done yet):
-
-1. Add a `CNAME` file containing `picsl.upenn.edu`, and set the custom domain in the
-   repository's Pages settings.
-2. Ask Penn IT to point `picsl.upenn.edu` at GitHub Pages with a `CNAME` record to
-   `picsl-upenn.github.io`.
-3. When DNS has propagated, turn on "Enforce HTTPS" in the Pages settings.
+Moving the site to picsl.upenn.edu is prepared in pull request
+[#1](https://github.com/picsl-upenn/picsl-website/pull/1). That PR lists the DNS changes
+Penn IT needs to make, and should be merged only after DNS has changed.
 
 ## Migration from WordPress
 
