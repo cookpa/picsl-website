@@ -44,6 +44,11 @@
   margin: 0 !important;
 }
 
+// justified text leaves large gaps in narrow cards
+.card-text p {
+  text-align: left;
+}
+
 .card-title {
   font-family: var(--heading);
   font-weight: var(--semi-bold);

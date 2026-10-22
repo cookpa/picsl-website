@@ -1,3 +1,24 @@
+- title: 'FireANTs: fast, training-free image registration on the GPU'
+  image: images/research/fireants-thumb.jpg
+  link: /research/fireants.html
+  description: A training-free, GPU-accelerated registration algorithm from the Gee lab that is two orders of magnitude faster than ANTs on a GPU and robust across modalities, species and organs. Published in Nature Communications.
+  date: '2026-06-09'
+  tags:
+  - research
+- title: Postmortem MRI links deep brain atrophy to specific neurodegenerative pathologies
+  image: images/research/postmortem-subcortical-thumb.jpg
+  link: /research/postmortem-mri-subcortical-pathology.html
+  description: Postmortem MRI and neuropathology from 132 brain donors reveal disease- and region-specific links between subcortical and limbic atrophy and tau, α-synuclein and TDP-43. Published in Alzheimer's & Dementia.
+  date: '2026-07-01'
+  tags:
+  - research
+- title: Large language model ensembles turn echocardiography reports into structured data
+  image: images/research/llm-echo-ensemble.svg
+  link: /research/llm-echo-report-extraction.html
+  description: Consensus voting across five open-source LLMs extracts key measurements from intraoperative echocardiography reports with up to 99% accuracy. Published in the British Journal of Anaesthesia.
+  date: '2025-05-01'
+  tags:
+  - research
 - title: Short-term memory and medial temporal lobe
   image: images/wp/2016/10/website_small.png
   link: /research/short-term-memory-and-medial-temporal-lobe.html
@@ -174,7 +195,7 @@
   tags:
   - research
 - title: Segmentation of the aortic leaflets in 3D echocardiographic images
-  image: images/wp/2014/02/av-apparatus-template.tif
+  image: images/wp/2014/02/av-apparatus-template.jpg
   link: /research/segmentation-of-the-aortic-leaflets-in-3d-echocardiographic-images.html
   description: Given the importance of image-based morphological assessment in the diagnosis and surgical treatment of aortic valve disease, there is considerable need to develop a standardized framework for 3D valve segmentation and…
   date: '2014-02-27'
