@@ -1,6 +1,6 @@
 ---
 name: Nidhi Mundada
-image: images/fallback.svg
+image: images/members/nidhi-mundada.jpg
 role: phd
 links:
   google-scholar: dEhe0R8AAAAJ
