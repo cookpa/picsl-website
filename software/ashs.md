@@ -6,7 +6,12 @@ redirect_from:
 
 # ASHS
 
-![multiatlas](/images/wp/2013/01/multiatlas-300x118.png)
+{%
+  include figure.html
+  image="images/software/ashs.png"
+  width="60%"
+%}
+
 ASHS stands for “Automatic Segmentation of Hippocampal Subfields.” Here is what it does:
 
 - Automatically labels hippocampal subfields and medial temporal lobe cortices in MRI
@@ -17,4 +22,8 @@ ASHS stands for “Automatic Segmentation of Hippocampal Subfields.” Here is w
 - Free, open-source software
   - Can be executed directly from [ITK-SNAP 3.8](http://itksnap.org)
 
-Please visit the [ASHS documentation page](https://sites.google.com/view/ashs-dox/home "ASHS homepage") to learn more and the [ASHS page on NITRC](http://www.nitrc.org/projects/ashs/ "ASHS on NITRC") to download the software.
+ASHS development is led by [Paul Yushkevich](/members/paul-yushkevich.html).
+
+{% include button.html link="https://sites.google.com/view/ashs-dox/home" text="Documentation" icon="fa-solid fa-book" %}
+{% include button.html link="https://github.com/pyushkevich/ashs" text="Code" icon="fa-brands fa-github" %}
+{% include button.html link="http://www.nitrc.org/projects/ashs/" text="Download (NITRC)" icon="fa-solid fa-download" %}

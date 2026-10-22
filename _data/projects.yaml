@@ -27,7 +27,7 @@
   tags:
   - research
 - title: ANTsX pipelines for mapping the mouse brain
-  image: images/research/antsx-mouse.jpg
+  image: images/research/antsx-mouse-thumb.jpg
   link: /research/antsx-mouse-brain.html
   description: Open-source ANTsX pipelines align spatial transcriptomics, fMOST morphology, MRI and light-sheet data to common mouse brain atlases for the BRAIN Initiative. Published in Nature Communications.
   date: '2025-11-22'
@@ -55,7 +55,7 @@
   tags:
   - research
 - title: High-resolution imaging of the medial temporal lobe in ADNI
-  image: images/research/adni3-mtl.jpg
+  image: images/research/adni3-mtl-thumb.jpg
   link: /research/adni3-mtl-morphometry.html
   description: 'For ADNI''s 20th anniversary: why a dedicated hippocampal subfield MRI scan joined ADNI3, how it is analyzed, and what surface-based analysis reveals about tau-driven atrophy. Published in Alzheimer''s & Dementia.'
   date: '2024-11-01'
@@ -83,7 +83,7 @@
   tags:
   - research
 - title: Tau-neurodegeneration mismatch reveals vulnerability and resilience in Alzheimer's
-  image: images/research/tn-mismatch.jpg
+  image: images/research/tn-mismatch-thumb.jpg
   link: /research/tn-mismatch.html
   description: Regional mismatch between tau PET and atrophy groups Alzheimer's patients by non-AD factors and predicts diverging outcomes; limbic mismatch tracks TDP-43 at autopsy. Published in Alzheimer's & Dementia.
   date: '2024-03-01'
@@ -561,48 +561,72 @@
 - title: ITK-SNAP
   image: images/wp/2013/01/snaplogo-big.png
   link: /software/itk-snap.html
-  description: SNAP is a software application used to segment structures in 3D medical images. It provides semi-automatic segmentation using active contour methods, as well as manual delineation and image navigation. In addition to…
+  description: Interactive open-source application for segmenting structures in 3D and 4D medical images, with over 10,000 monthly downloads.
   tags:
   - software
 - title: ANTs
   image: images/wp/2013/01/193638.jpeg
   link: /software/ants.html
-  description: Advanced Normalization Tools (ANTs) extracts information from complex datasets that include imaging. ANTs development is led by Brian Avants and supported by other researchers and developers at PICSL and other…
+  description: 'Advanced Normalization Tools: accurate diffeomorphic image registration, template building and image analysis.'
+  tags:
+  - software
+- title: FireANTs
+  image: images/software/fireants-card.jpg
+  link: /software/fireants.html
+  description: Fast, training-free diffeomorphic registration on the GPU, using adaptive Riemannian optimization.
+  tags:
+  - software
+- title: Greedy
+  image: images/software/greedy.jpg
+  link: /software/greedy.html
+  description: Very fast CPU-based affine and deformable registration for pipelines that register many images in parallel.
+  tags:
+  - software
+- title: Convert3D
+  image: images/software/convert3d.jpg
+  link: /software/convert3d.html
+  description: Command-line Swiss army knife for medical image processing that complements ITK-SNAP.
+  tags:
+  - software
+- title: ASHS
+  image: images/software/ashs.png
+  link: /software/ashs.html
+  description: Automatic segmentation of hippocampal subfields and medial temporal lobe cortices in MRI.
+  tags:
+  - software
+- title: PHAS
+  image: images/software/phas-card.jpg
+  link: /software/phas.html
+  description: Web-based platform for archiving and annotating digital histopathology images and training deep learning classifiers.
   tags:
   - software
 - title: Camino
   image: images/wp/2013/06/squid_text_post_size.png
   link: /software/camino.html
-  description: Camino is an open-source toolkit for diffusion MRI simulation and image processing. The PICSL contribution to the tool is led by Philip Cook and focuses on image reconstruction pipelines and tractography. See the Camino…
+  description: Open-source toolkit for diffusion MRI simulation, image reconstruction and tractography.
   tags:
   - software
 - title: HistoloZee
   image: images/wp/2014/04/HZee01-1024x577.jpg
   link: /software/histolozee.html
-  description: HistoloZee is a tool that integrates histology reconstruction, MRI co-registration, and manual segmentation tools in an easy-to-use and intuitive interface. HistoloZee permits real-time interaction with complex and…
-  tags:
-  - software
-- title: ASHS
-  image: images/wp/2013/01/multiatlas-300x118.png
-  link: /software/ashs.html
-  description: 'ASHS stands for “Automatic Segmentation of Hippocampal Subfields.” Here is what it does: - Automatically labels hippocampal subfields and medial temporal lobe cortices in MRI - Uses T1-weighted and T2-weighted MRI to…'
+  description: Interactive histology reconstruction, MRI co-registration and manual segmentation of large histology datasets.
   tags:
   - software
 - title: LESYMAP
   image: images/wp/2017/07/LESYMAP-300x150.png
   link: /software/lesymap.html
-  description: Lesymap uses univariate and multivariate methods to map functional regions of the brain that, when lesioned, cause specific cognitive deficits. All is required is a set of Nifti images with the lesion of each subject…
+  description: Univariate and multivariate lesion-symptom mapping of brain regions whose damage causes specific cognitive deficits.
   tags:
   - software
 - title: LINDA
   image: images/wp/2017/07/LINDA-300x150.png
   link: /software/linda.html
-  description: An R toolkit for automatic segmentation of chronic stroke lesions. LINDA uses hierarchical predictions from low to high resolution, to achieve an iterative improvement of the segmentation. Relies on ANTsR for image…
+  description: R toolkit for automatic segmentation of chronic stroke lesions.
   tags:
   - software
 - title: TLEprediction
   image: images/wp/2017/07/TLEprediction-300x150.png
   link: /software/tleprediction.html
-  description: TLEprediction is a small tool that uses R and Matlab to achieve the prediction of seizure onset laterality in patients with temporal lobe epilepsy. The tools uses three PET asymmetries to achieve the prediction and has…
+  description: Predicts the side of seizure onset in temporal lobe epilepsy from PET asymmetries.
   tags:
   - software

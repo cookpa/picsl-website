@@ -24,8 +24,8 @@ We also make these methods freely available as open-source software.
 
 {% capture text %}
 
-Multi-atlas segmentation, medial temporal lobe morphometry, cardiac shape
-modeling, brain network analysis and more.
+Imaging of neurodegenerative disease from in vivo MRI to postmortem MRI and
+histology, image registration, cardiac shape modeling, and AI for clinical imaging.
 
 {%
   include button.html
@@ -36,11 +36,15 @@ modeling, brain network analysis and more.
   style="bare"
 %}
 
+<small>Image: tau tangle burden mapped into a 3D atlas of the medial temporal lobe,
+from [Ravikumar et al., *Nature Communications* (2024)](research/mtl-tau-atlas.html),
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).</small>
+
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/wp/2013/01/multiatlas-e1359655139135.png"
+  image="images/home/research.jpg"
   link="research"
   title="Research"
   text=text
@@ -48,7 +52,8 @@ modeling, brain network analysis and more.
 
 {% capture text %}
 
-ITK-SNAP, ANTs, ASHS and other open-source tools for medical image analysis.
+ITK-SNAP, ANTs, FireANTs, Greedy, ASHS and other open-source tools for medical
+image analysis.
 
 {%
   include button.html
@@ -59,11 +64,15 @@ ITK-SNAP, ANTs, ASHS and other open-source tools for medical image analysis.
   style="bare"
 %}
 
+<small>Image: mouse brain templates built with ANTs (left) and FireANTs (right), from
+[Jena, Chaudhari & Gee, *Nature Communications* (2026)](research/fireants.html),
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).</small>
+
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/wp/2013/01/snaplogo-big.png"
+  image="images/home/software.jpg"
   link="software"
   title="Software"
   flip=true
@@ -87,7 +96,7 @@ Faculty, staff, students and alumni of PICSL.
 
 {%
   include feature.html
-  image="images/wp/2016/10/ASHSComp09182015.jpg"
+  image="images/home/team.jpg"
   link="team"
   title="Team"
   text=text
