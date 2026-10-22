@@ -1,7 +1,7 @@
 ---
 name: Min Chen
 image: images/wp/2021/03/MinChen_ProfilePic.jpg
-role: postdoc
+role: research-associate
 redirect_from:
 - /people/post-docs/min-chen-2/
 ---

@@ -1,7 +1,7 @@
 ---
 name: Alison Pouch
 image: images/wp/2019/02/headshot.jpg
-role: faculty
+role: principal-investigator
 links:
   orcid: 0000-0001-8854-5301
 redirect_from:

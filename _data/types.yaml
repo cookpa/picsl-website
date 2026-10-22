@@ -10,6 +10,10 @@ faculty:
   icon: fa-solid fa-chalkboard-user
   description: Faculty
 
+research-associate:
+  icon: fa-solid fa-flask
+  description: Research Associate
+
 staff:
   icon: fa-solid fa-code
   description: Research Staff

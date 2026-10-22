@@ -1,7 +1,8 @@
 ---
 name: Christopher Olm
 image: images/fallback.svg
-role: phd
+role: alumni
+group: alum
 redirect_from:
 - /people/students/christopher-olm/
 ---

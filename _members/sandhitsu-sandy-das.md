@@ -1,7 +1,7 @@
 ---
 name: Sandhitsu (Sandy) Das
 image: images/wp/2013/01/srdas.jpg
-role: faculty
+role: principal-investigator
 links:
   orcid: 0000-0003-0530-2887
 redirect_from:
