@@ -7,7 +7,7 @@ aliases:
 links:
   home-page: https://patchlab.pennbrain.upenn.edu/
   orcid: 0000-0001-8543-4016
-  google-scholar: qc6CJjYAAAAJ
+  google-scholar: x-a4f8wAAAAJ
   github: pyushkevich
   linkedin: paul-yushkevich-a5568313
 redirect_from:
@@ -18,7 +18,7 @@ My scientific interests lie at the intersection of computer science, biomedical 
 
 ## Publications
 
-- [Google Scholar](https://scholar.google.com/citations?user=qc6CJjYAAAAJ)
+- [Google Scholar](https://scholar.google.com/citations?user=x-a4f8wAAAAJ)
 - [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Yushkevich+PA%5BAuthor%5D&sort=date)
 
 ## Current Grants
