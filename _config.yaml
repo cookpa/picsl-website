@@ -12,7 +12,14 @@ show-title: false
 
 # site social media and other links
 links:
+  twitter: picslupenn
   address: https://maps.app.goo.gl/?q=Richards+Medical+Research+Laboratories+3700+Hamilton+Walk+Philadelphia+PA
+
+# external links at the end of the top menu (icon, text and tooltip are optional)
+nav-links:
+  - url: https://x.com/picslupenn
+    icon: fa-brands fa-x-twitter
+    tooltip: "@picslupenn on X"
 
 ### jekyll settings
 

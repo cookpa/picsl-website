@@ -55,5 +55,16 @@
         </a>
       {% endif %}
     {% endfor %}
+    {% for link in site.nav-links %}
+      <a
+        href="{{ link.url | uri_escape }}"
+        target="_blank"
+        rel="noopener"
+        data-tooltip="{{ link.tooltip | xml_escape }}"
+        aria-label="{{ link.tooltip | default: link.text | xml_escape }}"
+      >
+        {% include icon.html icon=link.icon %}{{ link.text }}
+      </a>
+    {% endfor %}
   </nav>
 </header>
