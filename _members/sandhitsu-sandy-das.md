@@ -3,6 +3,8 @@ name: Sandhitsu (Sandy) Das
 image: images/wp/2013/01/srdas.jpg
 role: principal-investigator
 links:
+  home-page: https://www.med.upenn.edu/apps/faculty/index.php/g275/p5478761
+  email: sudas@pennmedicine.upenn.edu
   orcid: 0000-0003-0530-2887
 redirect_from:
 - /people/faculty-staff/sandhitsu-sandy-das/
@@ -20,4 +22,12 @@ In addition to this, I’m involved in several ongoing projects in the laborator
 - MTL subregional morphometry using high-resolution structural MRI now available as part of the ADNI2 (Alzheimer’s Disease Neuroimaging Initiative) study. We are part of the ADNI subfield imaging group that is testing several automated methods to make measurements of MTL subregions, including hippocampal subfields. This work is supported by Alzheimer’s Association.
 - Exploring the role of hippocampus and extra-hippocampal MTL cortex in mediating working memory (Collaborator: [David Wolk](http://www.med.upenn.edu/apps/faculty/index.php/g20000440/c485/p4326)). This project uses cortical cortical thickness as an imaging marker and extensive behavioral testing in older healthy controls and amnesic MCI patients to tease out the brain-behavior relationships as they relate to object memory, spatial memory and contextual binding of the two during working memory tasks.
 
-Selected publications:
+## Positions
+
+- Research Associate Professor of Neurology, Perelman School of Medicine
+
+## Education
+
+- Ph.D., Neuroengineering, University of Pennsylvania, 2006
+- M.Tech., Digital Signal Processing, Indian Institute of Technology, 1999
+- B.Tech., Electrical Engineering, Indian Institute of Technology, 1997
