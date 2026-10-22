@@ -359,7 +359,7 @@
   publisher: American Journal of Neuroradiology
   date: '2019-07-25'
   link: https://doi.org/hcpjc9
-  orcid: 0000-0002-7184-7028
+  orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.neuroimage.2014.10.052
@@ -477,7 +477,7 @@
   publisher: Alzheimer's &amp; Dementia
   date: '2025-07-01'
   link: https://doi.org/g9v46j
-  orcid: 0000-0002-7184-7028
+  orcid: 0000-0003-0530-2887
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2025.01.13.25320488
@@ -627,7 +627,7 @@
   publisher: Neurobiology of Aging
   date: '2022-01-01'
   link: https://doi.org/gnj6fj
-  orcid: 0000-0002-7184-7028
+  orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/brain/awab262
@@ -828,7 +828,7 @@
   publisher: Hippocampus
   date: '2018-11-06'
   link: https://doi.org/hcpjdm
-  orcid: 0000-0002-7184-7028
+  orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3174/ajnr.A5734
@@ -1414,7 +1414,7 @@
   publisher: 'NeuroImage: Clinical'
   date: '2016-01-01'
   link: https://doi.org/f8t3cr
-  orcid: 0000-0002-7184-7028
+  orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/EMBC.2016.7592099
@@ -3836,7 +3836,7 @@
   publisher: Annals of Neurology
   date: '2021-10-15'
   link: https://doi.org/gnbmmc
-  orcid: 0000-0002-7184-7028
+  orcid: 0000-0003-0530-2887
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2020.11.05.20224873
@@ -3949,219 +3949,5 @@
   date: '2018-09-14'
   link: https://doi.org/gd35n6
   orcid: 0000-0001-8854-5301
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1002/hipo.70036
-  title: "Automatic Segmentation of Medial Temporal Lobe Subregions in Multi\u2010\
-    Scanner, Multi\u2010Modality Magnetic Resonance Imaging of Variable Quality"
-  authors:
-  - Yue Li
-  - Long Xie
-  - Pulkit Khandelwal
-  - Laura E. M. Wisse
-  - Christopher A. Brown
-  - Karthik Prabhakaran
-  - M. Dylan Tisdall
-  - "Dawn Mechanic\u2010Hamilton"
-  - John A. Detre
-  - Sandhitsu R. Das
-  - David A. Wolk
-  - Paul A. Yushkevich
-  publisher: Hippocampus
-  date: '2025-10-07'
-  link: https://doi.org/hbcff9
-  orcid: 0000-0002-7184-7028
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1002/alz.14492
-  title: "A multi\u2010cohort study of longitudinal and cross\u2010sectional Alzheimer's\
-    \ disease biomarkers in cognitively unimpaired older adults"
-  authors:
-  - Long Xie
-  - Sandhitsu R. Das
-  - Yue Li
-  - Laura E. M. Wisse
-  - Emily McGrew
-  - Xueying Lyu
-  - Michael DiCalogero
-  - Ujashi Shah
-  - Ademola Ilesanmi
-  - Amanda E. Denning
-  - Chris A. Brown
-  - Jesse Cohen
-  - Lasya Sreepada
-  - Mengjin Dong
-  - Niyousha Sadeghpour
-  - Pulkit Khandelwal
-  - Ranjit Ittyerah
-  - Sadhana Ravikumar
-  - Shokufeh Sadaghiani
-  - Stanislau Hrybouski
-  - Robin de Flores
-  - Eli Gibson
-  - Paul A. Yushkevich
-  - David A. Wolk
-  publisher: Alzheimer's &amp; Dementia
-  date: '2025-01-27'
-  link: https://doi.org/g9d4bt
-  orcid: 0000-0002-7184-7028
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.media.2022.102683
-  title: 'Deep label fusion: A generalizable hybrid multi-atlas and deep convolutional
-    neural network for medical image segmentation'
-  authors:
-  - Long Xie
-  - Laura E.M. Wisse
-  - Jiancong Wang
-  - Sadhana Ravikumar
-  - Pulkit Khandelwal
-  - Trevor Glenn
-  - Anica Luther
-  - Sydney Lim
-  - David A. Wolk
-  - Paul A. Yushkevich
-  publisher: Medical Image Analysis
-  date: '2023-01-01'
-  link: https://doi.org/grpjr5
-  orcid: 0000-0002-7184-7028
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1007/s10278-021-00470-1
-  title: Brain MRI Deep Learning and Bayesian Inference System Augments Radiology
-    Resident Performance
-  authors:
-  - Jeffrey D. Rudie
-  - Jeffrey Duda
-  - Michael Tran Duong
-  - Po-Hao Chen
-  - Long Xie
-  - Robert Kurtz
-  - Jeffrey B. Ware
-  - Joshua Choi
-  - Raghav R. Mattay
-  - Emmanuel J. Botzolakis
-  - James C. Gee
-  - R. Nick Bryan
-  - Tessa S. Cook
-  - Suyash Mohan
-  - Ilya M. Nasrallah
-  - Andreas M. Rauschecker
-  publisher: Journal of Digital Imaging
-  date: '2021-06-15'
-  link: https://doi.org/hcpjgj
-  orcid: 0000-0002-7184-7028
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1002/hbm.25151
-  title: Longitudinal atrophy in early Braak regions in preclinical Alzheimer's disease
-  authors:
-  - Long Xie
-  - Laura E. M. Wisse
-  - Sandhitsu R. Das
-  - Nicolas Vergnet
-  - Mengjin Dong
-  - Ranjit Ittyerah
-  - Robin de Flores
-  - Paul A. Yushkevich
-  - David A. Wolk
-  publisher: Human Brain Mapping
-  date: '2020-08-26'
-  link: https://doi.org/gjdncg
-  orcid: 0000-0002-7184-7028
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1148/ryai.2020190146
-  title: 'Subspecialty-Level Deep Gray Matter Differential Diagnoses with Deep                     Learning
-    and Bayesian Networks on Clinical Brain MRI: A Pilot                     Study'
-  authors:
-  - Jeffrey D. Rudie
-  - Andreas M. Rauschecker
-  - Long Xie
-  - Jiancong Wang
-  - Michael Tran Duong
-  - Emmanuel J. Botzolakis
-  - Asha Kovalovich
-  - John M. Egan
-  - Tessa Cook
-  - R. Nick Bryan
-  - Ilya M. Nasrallah
-  - Suyash Mohan
-  - James C. Gee
-  publisher: 'Radiology: Artificial Intelligence'
-  date: '2020-09-01'
-  link: https://doi.org/gtj5xq
-  orcid: 0000-0002-7184-7028
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1148/radiol.2020190283
-  title: Artificial Intelligence System Approaching Neuroradiologist-level                    Differential
-    Diagnosis Accuracy at Brain MRI
-  authors:
-  - Andreas M. Rauschecker
-  - Jeffrey D. Rudie
-  - Long Xie
-  - Jiancong Wang
-  - Michael Tran Duong
-  - Emmanuel J. Botzolakis
-  - Asha M. Kovalovich
-  - John Egan
-  - Tessa C. Cook
-  - R. Nick Bryan
-  - Ilya M. Nasrallah
-  - Suyash Mohan
-  - James C. Gee
-  publisher: Radiology
-  date: '2020-06-01'
-  link: https://doi.org/gg55nd
-  orcid: 0000-0002-7184-7028
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1002/hipo.23172
-  title: 'Characterization of hippocampal subfields using ex vivo MRI and histology
-    data: Lessons for in vivo segmentation'
-  authors:
-  - Robin de Flores
-  - David Berron
-  - "Song\u2010Lin Ding"
-  - Ranjit Ittyerah
-  - John B. Pluta
-  - Long Xie
-  - Daniel H. Adler
-  - John L. Robinson
-  - Theresa Schuck
-  - John Q. Trojanowski
-  - Murray Grossman
-  - Weixia Liu
-  - Stephen Pickup
-  - Sandhitsu R. Das
-  - David A. Wolk
-  - Paul A. Yushkevich
-  - Laura E. M. Wisse
-  publisher: Hippocampus
-  date: '2019-11-01'
-  link: https://doi.org/gjc8pq
-  orcid: 0000-0002-7184-7028
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1002/hbm.24607
-  title: "Automated segmentation of medial temporal lobe subregions on in vivo T1\u2010\
-    weighted MRI in early stages of Alzheimer's disease"
-  authors:
-  - Long Xie
-  - Laura E. M. Wisse
-  - John Pluta
-  - Robin de Flores
-  - Virgine Piskin
-  - "Jose V. Manj\xF3n"
-  - Hongzhi Wang
-  - Sandhitsu R. Das
-  - "Song\u2010Lin Ding"
-  - David A. Wolk
-  - Paul A. Yushkevich
-  publisher: Human Brain Mapping
-  date: '2019-04-29'
-  link: https://doi.org/gfz9zf
-  orcid: 0000-0002-7184-7028
   plugin: orcid.py
   file: orcid.yaml
