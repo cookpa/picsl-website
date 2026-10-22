@@ -6,8 +6,6 @@ group: alum
 redirect_from:
 - /people/alumni/yang-alex-liu/
 ---
-
-![page](/images/wp/2014/04/page-274x300.jpg)
 **Research Overview**
 I am a Ph.D. candidate in the program of [Applied Mathematics and Computational Science](http://www.amcs.upenn.edu/) at University of Pennsylvania. My research interest lies in the computational algorithms in quantitative analysis of medical image. In particular, I am currently focusing on 3D image reconstruction of serial 2D histological sections and normalization with volumetric atlas.
 **Education**

@@ -1,13 +1,11 @@
 ---
 name: Nagesh Subbanna
-image: images/fallback.svg
+image: images/wp/2016/06/Negash.jpg
 role: alumni
 group: alum
 redirect_from:
 - /people/alumni/nagesh-subbanna/
 ---
-
-![negash](/images/wp/2016/06/Negash.jpg)
  
 I am a member of the Penn Image Computing and Science Laboratory in the Department of Radiology. My general interests are image segmentation, in particular biomedical image segmentation.  I am particularly interested in efficient pattern extraction and utilising them in various models for biomedical image segmentation.  My current research include using the Multi atlas label fusion for segmentation of MS and brain tumour lesions and employing texture extraction techniques for the segmentation of brain tumour volumes.
  

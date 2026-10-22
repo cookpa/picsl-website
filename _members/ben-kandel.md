@@ -6,8 +6,6 @@ group: alum
 redirect_from:
 - /people/alumni/ben-kandel/
 ---
-
-![kandel](/images/wp/2014/02/headshot_lores-239x300.jpg)
 **Research Overview**
 I am a Bioengineering doctoral student in the HHMI/NIBIB Interfaces program, researching statistical representations of high-dimensional neuroimaging data and multimodality data integration.  In particular, my research focuses on novel methods to incorporate functional and structural imaging modalities to construct biologically interpretable and statistically accurate multivariate models of the brain.  Because multivariate models more accurately reflect the brain’s organization than univariate models, they have the potential to increase power in observational studies and provide greater insight into how different aspects of the brain integrate into a cohesive whole.
 **Projects**

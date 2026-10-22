@@ -6,8 +6,6 @@ group: alum
 redirect_from:
 - /people/alumni/laura-wisse/
 ---
-
-![Pasfoto](/images/wp/2015/01/Pasfoto.jpg)
 **Research Overview**
 My main interests are imaging of the medial temporal lobe in aging and diseases such as Alzheimer disease and Major Depressive Disorder. I am involved in the development of new tools for assessing medial temporal lobe structures, but I am also interested in investigating how these medial temporal lobe structures relate to aging, disease and cognitive functions, such as memory.
 I am part of the Hippocampus Gang, led by Paul Yushkevich and David Wolk.

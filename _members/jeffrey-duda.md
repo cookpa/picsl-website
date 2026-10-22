@@ -1,13 +1,10 @@
 ---
 name: Jeffrey Duda
-image: images/fallback.svg
+image: images/wp/2013/05/mybrain3.png
 role: staff
 redirect_from:
 - /people/faculty-staff/jeffrey-duda/
 ---
-
-![mybrain3](/images/wp/2013/05/mybrain3-150x150.png "brain")
-
 This was my brain on grad school
 
 I am currently a Research Specialist at Penn working in the  [Penn Image Computing & Science Laboratory](http://picsl.upenn.edu).  The primary focus of my work is the development of methods for using multivariate neuroimaging data to examine structural and functional networks in the brain in order to learn how their properties relate to behavior.

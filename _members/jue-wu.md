@@ -1,13 +1,12 @@
 ---
 name: Jue Wu (John)
-image: images/fallback.svg
+image: images/wp/2013/05/headshot1.jpg
 role: alumni
 group: alum
 redirect_from:
 - /people/alumni/295-2/
 ---
-
-![headshot1](/images/wp/2013/05/headshot1-150x150.jpg) Jue Wu (John)
+ Jue Wu (John)
 **Research Overview**
 My research has been mainly focused on pediatric brain image analysis for fetuses, neonates, young children and adolescents. I adapt and apply mathematical modeling and image processing tools to pediatric datasets, which are challenging data due to their low signal to noise ratio, low resolution with regard to child brain and dynamic structure and function during development. I study the structural neurodevelopment of at risk fetuses and neonates with congenital heart defects, which adversely affect brain growth and maturation. I have also been working on effects of socioeconomic status on brains of healthy neonates, young children and adolescents. I’m also involved in non-pediatric projects, such as epilepsy surgery planning, rodent brain, lung image segmentation and hippocampus segmentation.
 **Major Research Projects**

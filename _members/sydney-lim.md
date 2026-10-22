@@ -5,5 +5,3 @@ role: staff
 redirect_from:
 - /people/faculty-staff/sydney-lim/
 ---
-
-![](/images/wp/2019/06/Sydney-Lim-225x300.jpeg)

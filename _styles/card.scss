@@ -22,7 +22,10 @@
 
 .card-image img {
   aspect-ratio: 3 / 2;
-  object-fit: cover;
+  // show whole logos and figures instead of cropping them
+  object-fit: contain;
+  padding: 10px;
+  background: #ffffff;
   width: 100%;
   // box-shadow: var(--shadow);
 }

@@ -1,13 +1,11 @@
 ---
 name: Muzhi Yang
-image: images/fallback.svg
+image: images/wp/2014/04/DSCF5587resized1-240x300.jpg
 role: alumni
 group: alum
 redirect_from:
 - /people/alumni/muzhi-yang/
 ---
-
-![Muzhi](/images/wp/2014/04/DSCF5587resized1-240x300.jpg)
  
  
  

@@ -1,13 +1,11 @@
 ---
 name: Yuanjie Zheng
-image: images/fallback.svg
+image: images/wp/2014/01/zheng.jpg
 role: alumni
 group: alum
 redirect_from:
 - /people/alumni/yuanjie-zheng/
 ---
-
-![zheng](/images/wp/2014/01/zheng-206x300.jpg)
 My ultimate research goal is to enhance patient care by creating algorithms for automatically quantifying and generalizing the information latent in various medical images and leveraging them to resolve biomedical problems and answer important clinical questions in different fields of ocular diseases, breast cancer, complementary medicine and others. You can learn more [here](https://sites.google.com/site/zhengvision/).
 
 1. Age-related Macular Degeneration, Glaucoma, Dry Eye, Bulbar Redness, Choroidal degeneration, Presbyopia, Myopia, breast cancer

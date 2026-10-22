@@ -7,8 +7,6 @@ links:
 redirect_from:
 - /people/faculty-staff/long-xie/
 ---
-
-![img_2772_meitu_1](/images/wp/2014/04/IMG_2772_meitu_1-1024x1024.jpg)
 **Research Overview**
 I am a research scientist at the University of Pennsylvania, under the direction of [Prof. Paul Yushkevich](/members/paul-yushkevich.html) and Prof. David Wolk. My current research interest is in developing novel imaging biomarkers as well as improving the current ones for early diagnosis and monitoring of Alzheimer’s Disease (AD).
 More Info: [Google Scholar](https://scholar.google.com/citations?user=xCo1UNkAAAAJ&hl=en) / [LinkedIn](https://www.linkedin.com/in/long-xie-62318a3b) / [Research Gate](https://www.researchgate.net/profile/Long_Xie5)

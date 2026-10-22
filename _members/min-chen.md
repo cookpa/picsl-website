@@ -5,9 +5,6 @@ role: postdoc
 redirect_from:
 - /people/post-docs/min-chen-2/
 ---
-
-![Min Chen Profile Image](/images/wp/2021/03/MinChen_ProfilePic-276x300.jpg)
-
 Min Chen Profile Image
 
 ## Biography

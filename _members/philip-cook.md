@@ -7,9 +7,6 @@ links:
 redirect_from:
 - /people/faculty-staff/philip-cook/
 ---
-
-![pac_mainpage](/images/wp/2013/02/pac_mainpage.jpg)
-
 ## Research
 
 My primary research interests are in pipelines for multi-modal MRI studies of the brain. I approach from two perspectives. As a software developer, I contribute to [Camino](http://camino.org.uk), [ANTs](http://stnava.github.io/ANTs/) and [ANTsR](http://stnava.github.io/ANTs/), and PipeDream. As an imaging scientist, I use these and other tools in studies of dementia, stress neurobiology and traumatic brain injury.

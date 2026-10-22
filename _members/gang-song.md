@@ -1,13 +1,11 @@
 ---
 name: Gang Song
-image: images/fallback.svg
+image: images/wp/2014/02/gang1.jpg
 role: alumni
 group: alum
 redirect_from:
 - /people/alumni/gang-song/
 ---
-
-![gang](/images/wp/2014/02/gang1.jpg)
 **Research Overview**
 Research focuses in computational algorithms of quantitative analysis of medical images of various modalities, both in vivo and ex vivo, for disease analysis, diagnosis and quantification. Modalities include computed tomography, magnetic resonance imaging and histology. Specially interested in building analysis pipeline of serial CT volumetric images for registration, segmentation and analysis of pulmonary kinematics. Research also includes reconstruction of serial histology 2D slices into 3D space and normalization with volumetric atlas.
 **Projects**
