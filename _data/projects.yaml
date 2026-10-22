@@ -110,6 +110,132 @@
   date: '2023-07-01'
   tags:
   - research
+- title: Tau pathology and cortical thinning in whole-hemisphere 7T MRI
+  image: images/research/ptau-7t-morphometry.svg
+  link: /research/ptau-7t-morphometry.html
+  description: Pairing thickness from 7 tesla ex vivo MRI of 33 hemispheres with histopathology links tau pathology to tissue loss in key Alzheimer's regions. Published in Alzheimer's & Dementia.
+  date: '2022-12-04'
+  tags:
+  - research
+- title: Fully automated modeling of the left ventricle and mitral valve
+  image: images/research/lv-mv-modeling.svg
+  link: /research/lv-mv-modeling.html
+  description: Deep learning segmentation and diffeomorphic medial modeling produce shape models of the left ventricle and mitral valve from pre-operative 3D echo. Published in Medical Image Analysis.
+  date: '2022-08-01'
+  tags:
+  - research
+- title: 'NODEO: image registration with neural ordinary differential equations'
+  image: images/research/nodeo.svg
+  link: /research/nodeo.html
+  description: Treating voxels as particles in a dynamical system modeled by a neural ODE gives accurate diffeomorphic registration with built-in regularity constraints. Presented at CVPR 2022.
+  date: '2022-06-19'
+  tags:
+  - research
+- title: 3D glutamate imaging at 7T locates seizure onset in nonlesional epilepsy
+  image: images/research/glucest-thumb.jpg
+  link: /research/glucest-epilepsy.html
+  description: Volumetric GluCEST imaging at 7 tesla showed higher glutamate in the hippocampus on the side of seizure onset in MRI-negative temporal lobe epilepsy. Published in Brain and Behavior.
+  date: '2021-08-01'
+  tags:
+  - research
+- title: Medial temporal lobe atrophy patterns in semantic variant PPA
+  image: images/research/svppa-mtl-thumb.jpg
+  link: /research/svppa-mtl-atrophy.html
+  description: High-resolution T2 MRI and ASHS reveal perirhinal and CA1 atrophy in semantic variant primary progressive aphasia, with faster BA36 atrophy over time. Published in Neurobiology of Aging.
+  date: '2021-02-01'
+  tags:
+  - research
+- title: 4D modeling of normal and leaking mitral valves
+  image: images/research/4d-mitral-valve.svg
+  link: /research/4d-mitral-valve.html
+  description: Multi-atlas segmentation, medial modeling and Kalman filtering produce temporally consistent 4D models of the mitral valve from real-time 3D echo. Published in Experimental Mechanics.
+  date: '2021-01-01'
+  tags:
+  - research
+- title: Explainable AI for deep gray matter diagnosis on clinical brain MRI
+  image: images/research/deep-gray-ddx.svg
+  link: /research/deep-gray-ddx.html
+  description: 'Deep learning feature extraction plus expert-derived Bayesian networks diagnosed 35 diseases of the deep gray matter at the level of academic neuroradiologists. Published in Radiology: Artificial Intelligence.'
+  date: '2020-09-01'
+  tags:
+  - research
+- title: An AI system approaching neuroradiologist-level diagnosis on brain MRI
+  image: images/research/ai-ddx-brain-mri.svg
+  link: /research/ai-ddx-brain-mri.html
+  description: Combining deep learning with Bayesian networks, an AI system matched academic neuroradiologists at differential diagnosis for 19 diseases on brain MRI. Published in Radiology.
+  date: '2020-06-01'
+  tags:
+  - research
+- title: An ex vivo atlas of the earliest brain regions affected by Alzheimer's disease
+  image: images/research/ex-vivo-mtl-atlas-isbi.svg
+  link: /research/ex-vivo-mtl-atlas-isbi.html
+  description: Groupwise registration of ex vivo MRI builds a population atlas of the medial temporal lobe that links cortical thinning to Alzheimer's pathology in the earliest Braak regions. Presented at ISBI 2020.
+  date: '2020-04-03'
+  tags:
+  - research
+- title: 'ASHS-T1: segmenting medial temporal lobe subregions on routine T1 MRI'
+  image: images/research/ashs-t1.svg
+  link: /research/ashs-t1.html
+  description: A new atlas set that labels the dura lets ASHS segment MTL subregions on routine T1 MRI, detecting early atrophy in prodromal Alzheimer's disease. Published in Human Brain Mapping.
+  date: '2019-08-15'
+  tags:
+  - research
+- title: Diffeomorphic medial modeling
+  image: images/research/diffeomorphic-medial.svg
+  link: /research/diffeomorphic-medial-modeling.html
+  description: A shape analysis approach that combines medial modeling with diffeomorphic flows, keeping skeletons in correspondence as shapes deform. Presented at IPMI 2019.
+  date: '2019-06-01'
+  tags:
+  - research
+- title: Medial temporal lobe asymmetry in temporal lobe epilepsy at 7T
+  image: images/research/tle-asymmetry-7t.svg
+  link: /research/tle-asymmetry-7t.html
+  description: 7T structural and functional MRI shows different patterns of MTL asymmetry in lesional and MRI-negative temporal lobe epilepsy. Published in Human Brain Mapping.
+  date: '2019-06-01'
+  tags:
+  - research
+- title: Segmenting the left ventricle and mitral valve together in 3D echo
+  image: images/research/lv-mv-segmentation-stacom.svg
+  link: /research/lv-mv-segmentation-stacom.html
+  description: Multi-atlas label fusion segments the left ventricular mitral valve complex in pre-operative 3D TEE, a step toward predicting outcomes in ischemic mitral regurgitation. Presented at STACOM.
+  date: '2019-01-01'
+  tags:
+  - research
+- title: A 3D atlas of the human hippocampus from ex vivo MRI and histology
+  image: images/wp/2014/04/PM-HF-atlas-Figure10-3D-1024x347.jpeg
+  link: /research/hippocampus-atlas-pnas.html
+  description: Ex vivo MRI of 31 hippocampal specimens, labeled using histology, yields a 3D probabilistic atlas of hippocampal subfields and their changes in aging and Alzheimer's disease. Published in PNAS.
+  date: '2018-04-17'
+  tags:
+  - research
+- title: Predicting return to duty after blast-related mild TBI
+  image: images/research/tbi-return-to-duty.svg
+  link: /research/tbi-return-to-duty.html
+  description: In 303 service members with blast-related mild TBI, cognitive testing and concussion history predicted return to duty versus medical retirement. Published in the Journal of Neurotrauma.
+  date: '2018-04-15'
+  tags:
+  - research
+- title: Mapping the network architecture of the medial temporal lobe at 7T
+  image: images/research/mtl-network-7t.svg
+  link: /research/mtl-network-7t.html
+  description: Structural and functional 7 tesla MRI of 31 healthy adults reveals hub subregions and a two-module network organization in the medial temporal lobe. Published in Human Brain Mapping.
+  date: '2018-02-01'
+  tags:
+  - research
+- title: Matching in vivo and ex vivo MRI of the hippocampus in the same people
+  image: images/wp/2016/10/ASHSComp09182015.jpg
+  link: /research/in-vivo-ex-vivo-hippocampus.html
+  description: Registering 3T in vivo and 9.4T ex vivo scans of the same individuals shows how to validate in vivo hippocampal subfield segmentation against tissue. Published in Cerebral Cortex.
+  date: '2017-11-01'
+  tags:
+  - research
+- title: Deep learning segments the choroid in OCT despite retinal disease
+  image: images/research/choroid-oct.svg
+  link: /research/choroid-oct.html
+  description: A convolutional neural network segments the choroid in OCT images of patients with macular degeneration without first finding the retinal layers. Presented at the OMIA workshop at MICCAI 2017.
+  date: '2017-09-14'
+  tags:
+  - research
 - title: Short-term memory and medial temporal lobe
   image: images/wp/2016/10/website_small.png
   link: /research/short-term-memory-and-medial-temporal-lobe.html
