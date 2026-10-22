@@ -1,0 +1,4167 @@
+# DO NOT EDIT, GENERATED AUTOMATICALLY
+
+- id: doi:10.1162/IMAG.a.1358
+  title: Spatial covariance of mGluR5 density and structural degeneration in behavioral
+    variant frontotemporal degeneration
+  authors:
+  - Melanie A. Matyi
+  - Maggie K. Pecsok
+  - Christopher A. Olm
+  - Hamsanandini Radhakrishnan
+  - Laynie Dratch
+  - Vivianna M. Van Deerlin
+  - Emma Rhodes
+  - Jeffrey S. Phillips
+  - Philip A. Cook
+  - James C. Gee
+  - David J. Irwin
+  - Corey T. McMillan
+  - David Roalf
+  - Lauren Massimo
+  publisher: Imaging Neuroscience
+  date: '2026-01-01'
+  link: https://doi.org/hcpjcp
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-026-72508-3
+  title: Adaptive Riemannian optimization for multi-scale diffeomorphic matching
+  authors:
+  - Rohit Jena
+  - Pratik Chaudhari
+  - James C. Gee
+  publisher: Nature Communications
+  date: '2026-06-09'
+  link: https://doi.org/hcpjcq
+  orcid: 0000-0002-2258-0187
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.64898/2026.05.05.723039
+  title: Deep Computational Anatomy via Latent-Aligned Multiview Normalizing Flows
+  authors:
+  - Nicholas J. Tustison
+  - Brian B. Avants
+  - Philip A. Cook
+  - James C. Gee
+  - James R. Stone
+  publisher: openRxiv
+  date: '2026-05-10'
+  link: https://doi.org/hcpjcr
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TCSVT.2026.3682491
+  title: 'LSDiff: Diffusion-Guided Level Set for Low-Contrast Lesion Boundary Segmentation'
+  authors:
+  - Wenshuo Li
+  - Wenhui Huang
+  - Jing Wang
+  - James C. Gee
+  - Yuanjie Zheng
+  publisher: IEEE Transactions on Circuits and Systems for Video Technology
+  date: '2026-08-01'
+  link: https://doi.org/hcpjcs
+  orcid: 0000-0002-2258-0187
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TMI.2026.3674592
+  title: Text-Image Co-Alignment for Weakly Supervised Polyp Segmentation
+  authors:
+  - Wenhui Huang
+  - Zhen Pan
+  - Xiaoyan Wang
+  - Yedi Zhang
+  - Jingzhen He
+  - James C. Gee
+  - Yuanjie Zheng
+  publisher: IEEE Transactions on Medical Imaging
+  date: '2026-06-01'
+  link: https://doi.org/hcpjct
+  orcid: 0000-0002-2258-0187
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.64898/2025.12.16.25342409
+  title: Hepatic and abdominal adiposity in type 2 diabetes as assessed with machine
+    learning on CT scans
+  authors:
+  - Richard H. Tran
+  - Pavan Raghupathy
+  - Mohamad Hazim
+  - Elizabeth Thompson
+  - Sophia Swago
+  - Abhijit Bhattaru
+  - Matthew MacLean
+  - Jeffrey T. Duda
+  - James Gee
+  - Charles Kahn
+  - Daniel J. Rader
+  - Arijitt Borthakur
+  - Walter R. Witschey
+  - Hersh Sagreiya
+  publisher: openRxiv
+  date: '2025-12-18'
+  link: https://doi.org/hcpjcv
+  orcid: 0000-0002-2258-0187
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1161/HYPERTENSIONAHA.125.25259
+  title: 'Geometric Aging of the Thoracic Aorta: Insights From 2 Large Cohorts'
+  authors:
+  - Cameron A. Beeche
+  - Hamed Tavolinejad
+  - Bingxin Zhao
+  - Patrick Segers
+  - Jeffrey T. Duda
+  - James Gee
+  - Walter R. Witschey
+  - Julio A. Chirinos
+  publisher: Hypertension
+  date: '2025-11-01'
+  link: https://doi.org/hcpjcw
+  orcid: 0000-0002-2258-0187
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1161/CIRCULATIONAHA.125.074554
+  title: 'Early Vascular Aging Determined by 3-Dimensional Aortic Geometry: Genetic
+    Determinants and Clinical Consequences'
+  authors:
+  - Cameron Beeche
+  - Bingxin Zhao
+  - Hamed Tavolinejad
+  - Bianca Pourmussa
+  - Joonghyun Kim
+  - Jeffrey Duda
+  - James Gee
+  - Walter R. Witschey
+  - Julio A. Chirinos
+  publisher: Circulation
+  date: '2025-09-16'
+  link: https://doi.org/g97k6c
+  orcid: 0000-0002-2258-0187
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s43856-025-01061-9
+  title: Evaluating acute image ordering for real-world patient cases via language
+    model alignment with radiological guidelines
+  authors:
+  - Michael S. Yao
+  - Allison Chae
+  - Piya Saraiya
+  - Charles E. Kahn
+  - Walter R. Witschey
+  - James C. Gee
+  - Hersh Sagreiya
+  - Osbert Bastani
+  publisher: Communications Medicine
+  date: '2025-08-04'
+  link: https://doi.org/hcpjcx
+  orcid: 0000-0002-2258-0187
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.media.2025.103577
+  title: Deep implicit optimization enables robust learnable features for deformable
+    image registration
+  authors:
+  - Rohit Jena
+  - Pratik Chaudhari
+  - James C. Gee
+  publisher: Medical Image Analysis
+  date: '2025-07-01'
+  link: https://doi.org/hcpjcz
+  orcid: 0000-0002-2258-0187
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1148/ryct.240505
+  title: 'Functional Lung Imaging Using CT: An Update'
+  authors:
+  - Changhyun Lee
+  - Juergen Biederer
+  - Yoshiharu Ohno
+  - Joon Beom Seo
+  - Grace Parraga
+  - David L. Levin
+  - James C. Gee
+  - Rohit Jena
+  - Yoshiyuki Ozawa
+  - Mark O. Wielpuetz
+  - Eric A. Hoffman
+  - Edwin J. R. van Beek
+  publisher: 'Radiology: Cardiothoracic Imaging'
+  date: '2025-06-01'
+  link: https://doi.org/hcpjc2
+  orcid: 0000-0002-2258-0187
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.03.04.25323383
+  title: Executive dysfunction relates to salience network desegregation in behavioral
+    variant frontotemporal dementia
+  authors:
+  - Melanie A. Matyi
+  - Hamsanandini Radhakrishnan
+  - Christopher A. Olm
+  - Jeffrey S. Phillips
+  - Philip A. Cook
+  - Emma Rhodes
+  - James C. Gee
+  - David J. Irwin
+  - Corey T. McMillan
+  - Lauren Massimo
+  publisher: openRxiv
+  date: '2025-03-05'
+  link: https://doi.org/hcpjc3
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1148/radiol.243659
+  title: Effective Structured Information Extraction from Chest Radiography Reports
+    Using Open-Weights Large Language Models
+  authors:
+  - James C. Gee
+  - Michael S. Yao
+  publisher: Radiology
+  date: '2025-01-01'
+  link: https://doi.org/hcpjc4
+  orcid: 0000-0002-2258-0187
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2463/mrms.rev.2024-0053
+  title: 'Beyond Macrostructure: Is There a Role for Radiomics Analysis in Neuroimaging
+    ?'
+  authors:
+  - Sandhitsu R. Das
+  - Ademola Ilesanmi
+  - David A. Wolk
+  - James C. Gee
+  publisher: Magnetic Resonance in Medical Sciences
+  date: '2024-01-01'
+  link: https://doi.org/hcpjc5
+  orcid: 0000-0002-2258-0187
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.01.17.23284693
+  title: ANTsX neuroimaging-derived structural phenotypes of UK Biobank
+  authors:
+  - Nicholas J. Tustison
+  - Michael A. Yassa
+  - Batool Rizvi
+  - Philip A. Cook
+  - Andrew J. Holbrook
+  - Mithra T. Sathishkumar
+  - Mia G. Tustison
+  - James C. Gee
+  - James R. Stone
+  - Brian B. Avants
+  publisher: openRxiv
+  date: '2023-01-18'
+  link: https://doi.org/hcpjc6
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-031-46005-0_5
+  title: "SynthA1c: Towards Clinically Interpretable Patient Representations for\_\
+    Diabetes Risk Stratification"
+  authors:
+  - Michael S. Yao
+  - Allison Chae
+  - Matthew T. MacLean
+  - Anurag Verma
+  - Jeffrey Duda
+  - James C. Gee
+  - Drew A. Torigian
+  - Daniel Rader
+  - Charles E. Kahn
+  - Walter R. Witschey
+  - Hersh Sagreiya
+  publisher: Lecture Notes in Computer Science
+  date: '2023-01-01'
+  link: https://doi.org/hcpjc7
+  orcid: 0000-0002-2258-0187
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neurobiolaging.2022.02.007
+  title: Phases of volume loss in patients with known frontotemporal lobar degeneration
+    spectrum pathology
+  authors:
+  - Sarah E. Burke
+  - Jeffrey S. Phillips
+  - Christopher A. Olm
+  - Claire S. Peterson
+  - Phillip A. Cook
+  - James C. Gee
+  - Edward B. Lee
+  - John Q. Trojanowski
+  - Lauren Massimo
+  - David J. Irwin
+  - Murray Grossman
+  publisher: Neurobiology of Aging
+  date: '2022-05-01'
+  link: https://doi.org/hcpjc8
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.05.31.446440
+  title: Anatomical Structures, Cell Types, and Biomarkers Tables Plus 3D Reference
+    Organs in Support of a Human Reference Atlas
+  authors:
+  - "Katy B\xF6rner"
+  - Sarah A. Teichmann
+  - Ellen M. Quardokus
+  - James Gee
+  - Kristen Browne
+  - David Osumi-Sutherland
+  - Bruce W. Herr
+  - Andreas Bueckle
+  - Hrishikesh Paul
+  - Muzlifah A. Haniffa
+  - Laura Jardine
+  - Amy Bernard
+  - Song-Lin Ding
+  - Jeremy A. Miller
+  - Shin Lin
+  - Marc Halushka
+  - Avinash Boppana
+  - Teri A. Longacre
+  - John Hickey
+  - Yiing Lin
+  - M. Todd Valerius
+  - Yongqun He
+  - Gloria Pryhuber
+  - Xin Sun
+  - Marda Jorgensen
+  - Andrea J. Radtke
+  - Clive Wasserfall
+  - Fiona Ginty
+  - Jonhan Ho
+  - Joel Sunshine
+  - Rebecca T. Beuschel
+  - Maigan Brusko
+  - Sujin Lee
+  - Rajeev Malhotra
+  - Sanjay Jain
+  - Griffin Weber
+  publisher: openRxiv
+  date: '2021-06-01'
+  link: https://doi.org/gsxmwm
+  orcid: 0000-0002-2258-0187
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3174/ajnr.A6138
+  title: Convolutional Neural Network for Automated FLAIR Lesion Segmentation on Clinical
+    Brain MR Imaging
+  authors:
+  - M.T. Duong
+  - J.D. Rudie
+  - J. Wang
+  - L. Xie
+  - S. Mohan
+  - J.C. Gee
+  - A.M. Rauschecker
+  publisher: American Journal of Neuroradiology
+  date: '2019-07-25'
+  link: https://doi.org/hcpjc9
+  orcid: 0000-0002-7184-7028
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuroimage.2014.10.052
+  title: 'Decomposing cerebral blood flow MRI into functional and structural components:
+    A non-local approach based on prediction'
+  authors:
+  - Benjamin M. Kandel
+  - Danny J.J. Wang
+  - John A. Detre
+  - James C. Gee
+  - Brian B. Avants
+  publisher: NeuroImage
+  date: '2015-01-01'
+  link: https://doi.org/f6rtkb
+  orcid: 0000-0002-2258-0187
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuroimage.2026.122098
+  title: "Volumetric postmortem MRI of the medial temporal lobe in Alzheimer\u2019\
+    s disease and related disorders: methodological advances and implications for\
+    \ in vivo biomarker development"
+  authors:
+  - Yasmine Salman
+  - Amanda E Denning
+  - Jolien M Schaeverbeke
+  - "Sandra O Tom\xE9"
+  - Nicolas Joudiou
+  - Pulkit Khandelwal
+  - Paul A Yushkevich
+  - Rik Vandenberghe
+  - Bernard Gallez
+  - Laura EM Wisse
+  - Bernard J Hanseeuw
+  publisher: NeuroImage
+  date: '2026-09-01'
+  link: https://doi.org/hcpjdb
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/geronb/gbag044
+  title: Cortical thickness in perirhinal area BA35 predicts adaptive episodic memory-guided
+    decision making in older adults
+  authors:
+  - Karolina M Lempert
+  - Michael S Cohen
+  - Kameron A MacNear
+  - Frances M Reckers
+  - Laura Zaneski
+  - Long Xie
+  - Sandhitsu R Das
+  - Paul A Yushkevich
+  - David A Wolk
+  - Joseph W Kable
+  publisher: 'The Journals of Gerontology, Series B: Psychological Sciences and Social
+    Sciences'
+  date: '2026-06-22'
+  link: https://doi.org/hcpjdc
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.64898/2026.05.07.722301
+  title: 'High-resolution postmortem MRI of the human infant brain: cortical reconstruction
+    and anatomical parcellation'
+  authors:
+  - Pulkit Khandelwal
+  - Sala Young
+  - Nathan Xi Ngo
+  - Paul A. Yushkevich
+  - Andre van der Kouwe
+  - Robin L. Haynes
+  - Hannah C. Kinney
+  - Lilla Zollei
+  publisher: openRxiv
+  date: '2026-05-09'
+  link: https://doi.org/hcpjdd
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.08.14.25333712
+  title: "Enrichment of patients with concomitant LATE on the Alzheimer\u2019s disease\
+    \ continuum using hippocampal volume"
+  authors:
+  - Nidhi S. Mundada
+  - Xueying Lyu
+  - Christopher A. Brown
+  - Niyousha Sadeghpour
+  - Emily McGrew
+  - Long Xie
+  - Philip A Cook
+  - James Gee
+  - Paul A. Yushkevich
+  - Sandhitsu R. Das
+  - David A. Wolk
+  publisher: openRxiv
+  date: '2025-08-16'
+  link: https://doi.org/hcpjdf
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/alz.70511
+  title: "Tau, atrophy, and domain\u2010specific cognitive impairment in typical Alzheimer's\
+    \ disease"
+  authors:
+  - Anika Wuestefeld
+  - Long Xie
+  - Emily McGrew
+  - "Alexa Pichet\u2010Binette"
+  - Nicola Spotorno
+  - Danielle van Westen
+  - "Niklas Mattsson\u2010Carlgren"
+  - Paul A. Yushkevich
+  - Sandhitsu R. Das
+  - David A. Wolk
+  - Laura E. M. Wisse
+  publisher: Alzheimer's &amp; Dementia
+  date: '2025-07-01'
+  link: https://doi.org/g9v46j
+  orcid: 0000-0002-7184-7028
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.01.13.25320488
+  title: 'Tau Burden is Best Captured by Magnitude and Extent: Tau-MaX as a Measure
+    of Global Tau'
+  authors:
+  - Christopher A. Brown
+  - Sandhitsu R. Das
+  - Katheryn A.Q. Cousins
+  - Thomas F. Tropea
+  - Alice-Chen Plotkin
+  - John A. Detre
+  - Paul A. Yushkevich
+  - Corey T. McMillan
+  - Edward B. Lee
+  - Leslie M. Shaw
+  - Ilya M. Nasrallah
+  - David A. Wolk
+  publisher: openRxiv
+  date: '2025-01-14'
+  link: https://doi.org/hcpjdg
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.01.08.25320149
+  title: 'Fully automated segmentation of the locus coeruleus: application to assess
+    the effects of age, sex and education'
+  authors:
+  - Robin de Flores
+  - Tao Blanchard
+  - Emilie Foyard
+  - "Mika\xEBl Naveau"
+  - Nicolas Delcroix
+  - "L\xE9a Chauveau"
+  - Brigitte Landeau
+  - Denis Vivien
+  - Paul A. Yushkevich
+  - "Ga\xEBl Ch\xE9telat"
+  publisher: openRxiv
+  date: '2025-01-09'
+  link: https://doi.org/hcpjdh
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/alz.14161
+  title: "Morphometry of medial temporal lobe subregions using high\u2010resolution\
+    \ T2\u2010weighted MRI in ADNI3: Why, how, and what's next?"
+  authors:
+  - Paul A. Yushkevich
+  - Ranjit Ittyerah
+  - Yue Li
+  - Amanda E. Denning
+  - Niyousha Sadeghpour
+  - Sydney Lim
+  - Emily McGrew
+  - Long Xie
+  - Robin DeFlores
+  - Christopher A. Brown
+  - Laura E. M. Wisse
+  - David A. Wolk
+  - Sandhitsu R. Das
+  publisher: Alzheimer's &amp; Dementia
+  date: '2024-09-16'
+  link: https://doi.org/g8r798
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.10.27.24316243
+  title: "BOLD Amplitude Correlates of Preclinical Alzheimer\u2019s Disease"
+  authors:
+  - Stanislau Hrybouski
+  - Sandhitsu R. Das
+  - Long Xie
+  - Christopher A. Brown
+  - Melissa Flamporis
+  - Jacqueline Lane
+  - Ilya M. Nasrallah
+  - John A. Detre
+  - Paul A. Yushkevich
+  - David A. Wolk
+  publisher: openRxiv
+  date: '2024-10-29'
+  link: https://doi.org/hcpjdj
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/braincomms/fcad245
+  title: "Aging and Alzheimer\u2019s disease have dissociable effects on local and\
+    \ regional medial temporal lobe connectivity"
+  authors:
+  - Stanislau Hrybouski
+  - Sandhitsu R Das
+  - Long Xie
+  - Laura E M Wisse
+  - Melissa Kelley
+  - Jacqueline Lane
+  - Monica Sherin
+  - Michael DiCalogero
+  - Ilya Nasrallah
+  - John Detre
+  - Paul A Yushkevich
+  - David A Wolk
+  publisher: Brain Communications
+  date: '2023-01-01'
+  link: https://doi.org/gs9d5v
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1212/WNL.0000000000207421
+  title: Association of Sleep-Disordered Breathing and Medial Temporal Lobe Atrophy
+    in Cognitively Unimpaired Amyloid-Positive Older Adults
+  authors:
+  - "Claire Andr\xE9"
+  - Elizabeth Kuhn
+  - "St\xE9phane Rehel"
+  - Valentin Ourry
+  - "Sol\xE8ne Demeilliez-Servouin"
+  - Cassandre Palix
+  - Francesca Felisatti
+  - Pierre Champetier
+  - Sophie Dautricourt
+  - Paul Yushkevich
+  - Denis Vivien
+  - Vincent de La Sayette
+  - "Ga\xEBl Ch\xE9telat"
+  - Robin de Flores
+  - "G\xE9raldine Rauchs"
+  publisher: Neurology
+  date: '2023-07-25'
+  link: https://doi.org/hcpjdk
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neurobiolaging.2021.09.017
+  title: Tau pathology mediates age effects on medial temporal lobe structure
+  authors:
+  - Laura EM Wisse
+  - Long Xie
+  - Sandhitsu R Das
+  - Robin de Flores
+  - Oskar Hansson
+  - Mohamad Habes
+  - Jimit Doshi
+  - Christos Davatzikos
+  - Paul A Yushkevich
+  - David A Wolk
+  publisher: Neurobiology of Aging
+  date: '2022-01-01'
+  link: https://doi.org/gnj6fj
+  orcid: 0000-0002-7184-7028
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/brain/awab262
+  title: Three-dimensional mapping of neurofibrillary tangle burden in the human medial
+    temporal lobe
+  authors:
+  - Paul A Yushkevich
+  - "M\xF3nica Mu\xF1oz L\xF3pez"
+  - "Mar\xEDa\_Mercedes I\xF1iguez de Onzo\xF1o Martin"
+  - Ranjit Ittyerah
+  - Sydney Lim
+  - Sadhana Ravikumar
+  - Madigan L Bedard
+  - Stephen Pickup
+  - Weixia Liu
+  - Jiancong Wang
+  - Ling Yu Hung
+  - Jade Lasserve
+  - Nicolas Vergnet
+  - Long Xie
+  - Mengjin Dong
+  - Salena Cui
+  - Lauren McCollum
+  - John L Robinson
+  - Theresa Schuck
+  - Robin de Flores
+  - Murray Grossman
+  - M Dylan Tisdall
+  - Karthik Prabhakaran
+  - Gabor Mizsei
+  - Sandhitsu R Das
+  - "Emilio Artacho-P\xE9rula"
+  - "Mar\u0131\u2019a del Mar Arroyo Jim\xE9nez"
+  - "Mar\u0131\u2019a Pilar Marcos Raba"
+  - Francisco Javier Molina Romero
+  - "Sandra Cebada S\xE1nchez"
+  - "Jos\xE9 Carlos Delgado Gonz\xE1lez"
+  - Carlos de la Rosa-Prieto
+  - "Marta C\xF3rcoles Parada"
+  - Edward B Lee
+  - John Q Trojanowski
+  - Daniel T Ohm
+  - Laura E M Wisse
+  - David A Wolk
+  - David J Irwin
+  - Ricardo Insausti
+  publisher: Brain
+  date: '2021-07-14'
+  link: https://doi.org/gpdwfj
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.01.15.421909
+  title: 3D Mapping of Neurofibrillary Tangle Burden in the Human Medial Temporal
+    Lobe
+  authors:
+  - Paul A Yushkevich
+  - "M\xF3nica Mu\xF1oz L\xF3pez"
+  - "Maria Mercedes I\xF1iguez de Onzo\xF1o Martin"
+  - Ranjit Ittyerah
+  - Sydney Lim
+  - Sadhana Ravikumar
+  - Madigan L. Bedard
+  - Stephen Pickup
+  - Weixia Liu
+  - Jiancong Wang
+  - Ling Yu Hung
+  - Jade Lasserve
+  - Nicolas Vergnet
+  - Long Xie
+  - Mengjin Dong
+  - Salena Cui
+  - Lauren McCollum
+  - John L. Robinson
+  - Theresa Schuck
+  - Robin de Flores
+  - Murray Grossman
+  - M. Dylan Tisdall
+  - Karthik Prabhakaran
+  - Gabor Mizsei
+  - Sandhitsu R. Das
+  - "Emilio Artacho-P\xE9rula"
+  - "Mar\xEDa del Mar Arroyo Jim\xE9nez"
+  - "Mar\xEDa Pilar Marcos Rabal"
+  - Francisco Javier Molina Romero
+  - "Sandra Cebada S\xE1nchez"
+  - "Jos\xE9 Carlos Delgado Gonz\xE1lez"
+  - Carlos de la Rosa-Prieto
+  - "Marta C\xF3rcoles Parada"
+  - Edward B. Lee
+  - John Q. Trojanowski
+  - Daniel T. Ohm
+  - Laura E.M. Wisse
+  - David A. Wolk
+  - David J. Irwin
+  - Ricardo Insausti
+  publisher: openRxiv
+  date: '2021-01-17'
+  link: https://doi.org/gszbgx
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.nicl.2020.102256
+  title: 'TAPAS: A Thresholding Approach for Probability Map Automatic Segmentation
+    in Multiple Sclerosis'
+  authors:
+  - Alessandra M. Valcarcel
+  - John Muschelli
+  - Dzung L. Pham
+  - Melissa Lynne Martin
+  - Paul Yushkevich
+  - Rachel Brandstadter
+  - Kristina R. Patterson
+  - Matthew K. Schindler
+  - Peter A. Calabresi
+  - Rohit Bakshi
+  - Russell T. Shinohara
+  publisher: 'NeuroImage: Clinical'
+  date: '2020-01-01'
+  link: https://doi.org/gsxrmx
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/609156
+  title: 'TAPAS: A Thresholding Approach for Probability Map Automatic Segmentation
+    in Multiple Sclerosis'
+  authors:
+  - Alessandra M. Valcarcel
+  - John Muschelli
+  - Dzung L. Pham
+  - Melissa Lynne Martin
+  - Paul Yushkevich
+  - Peter A. Calabresi
+  - Rohit Bakshi
+  - Russell T. Shinohara
+  publisher: openRxiv
+  date: '2019-04-22'
+  link: https://doi.org/gk2xsj
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s12021-018-9385-x
+  title: User-Guided Segmentation of Multi-modality Medical Imaging Datasets with
+    ITK-SNAP
+  authors:
+  - Paul A. Yushkevich
+  - Artem Pashchinskiy
+  - Ipek Oguz
+  - Suyash Mohan
+  - J. Eric Schmitt
+  - Joel M. Stein
+  - "D\u017Eenan Zuki\u0107"
+  - Jared Vicory
+  - Matthew McCormick
+  - Natalie Yushkevich
+  - Nadav Schwartz
+  - Yang Gao
+  - Guido Gerig
+  publisher: Neuroinformatics
+  date: '2018-06-27'
+  link: https://doi.org/ggf657
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/hbm.24530
+  title: 'Structural and functional asymmetry of medial temporal subregions in unilateral
+    temporal lobe epilepsy: A 7T MRI study'
+  authors:
+  - Preya Shah
+  - Danielle S. Bassett
+  - Laura E.M. Wisse
+  - John A. Detre
+  - Joel M. Stein
+  - Paul A. Yushkevich
+  - Russell T. Shinohara
+  - Mark A. Elliott
+  - Sandhitsu R. Das
+  - Kathryn A. Davis
+  publisher: Human Brain Mapping
+  date: '2019-01-21'
+  link: https://doi.org/gst2n3
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/hipo.23026
+  title: "Task\u2010enhanced arterial spin labeled perfusion MRI predicts longitudinal\
+    \ neurodegeneration in mild cognitive impairment"
+  authors:
+  - Long Xie
+  - Sandhitsu R. Das
+  - Arun Pilania
+  - Molly Daffner
+  - Grace E. Stockbower
+  - Sudipto Dolui
+  - Paul A. Yushkevich
+  - John A. Detre
+  - David A. Wolk
+  publisher: Hippocampus
+  date: '2018-11-06'
+  link: https://doi.org/hcpjdm
+  orcid: 0000-0002-7184-7028
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3174/ajnr.A5734
+  title: Quantitative MRI of Perivascular Spaces at 3T for Early Diagnosis of Mild
+    Cognitive Impairment
+  authors:
+  - M. Niazi
+  - M. Karaman
+  - S. Das
+  - X.J. Zhou
+  - P. Yushkevich
+  - K. Cai
+  publisher: American Journal of Neuroradiology
+  date: '2018-08-09'
+  link: https://doi.org/gd7rg4
+  orcid: 0000-0003-0530-2887
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/hbm.23887
+  title: Mapping the structural and functional network architecture of the medial
+    temporal lobe using 7T MRI
+  authors:
+  - Preya Shah
+  - Danielle S. Bassett
+  - Laura E.M. Wisse
+  - John A. Detre
+  - Joel M. Stein
+  - Paul A. Yushkevich
+  - Russell T. Shinohara
+  - John B. Pluta
+  - Elijah Valenciano
+  - Molly Daffner
+  - David A. Wolk
+  - Mark A. Elliott
+  - Brian Litt
+  - Kathryn A. Davis
+  - Sandhitsu R. Das
+  publisher: Human Brain Mapping
+  date: '2017-11-20'
+  link: https://doi.org/gcvxsd
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/hipo.23063
+  title: Associative memory for conceptually unitized word pairs in mild cognitive
+    impairment is related to the volume of the perirhinal cortex
+  authors:
+  - Emma Delhaye
+  - "Dawn Mechanic\u2010Hamilton"
+  - Laura Saad
+  - Sandhitsu R. Das
+  - Laura E. M. Wisse
+  - Paul A. Yushkevich
+  - David A. Wolk
+  - Christine Bastin
+  publisher: Hippocampus
+  date: '2018-12-26'
+  link: https://doi.org/gnc72q
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/1.JMI.5.1.011018
+  title: 'Cancer imaging phenomics toolkit: quantitative imaging analytics for precision
+    diagnostics and predictive modeling of clinical outcome'
+  authors:
+  - Christos Davatzikos
+  - Saima Rathore
+  - Spyridon Bakas
+  - Sarthak Pati
+  - Mark Bergman
+  - Ratheesh Kalarot
+  - Patmaa Sridharan
+  - Aimilia Gastounioti
+  - Nariman Jahani
+  - Eric Cohen
+  - Hamed Akbari
+  - Birkan Tunc
+  - Jimit Doshi
+  - Drew Parker
+  - Michael Hsieh
+  - Aristeidis Sotiras
+  - Hongming Li
+  - Yangming Ou
+  - Robert K. Doot
+  - Michel Bilello
+  - Yong Fan
+  - Russell T. Shinohara
+  - Paul Yushkevich
+  - Ragini Verma
+  - Despina Kontos
+  publisher: Journal of Medical Imaging
+  date: '2018-01-11'
+  link: https://doi.org/gh3wkb
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-04747-4_3
+  title: "Characterizing Anatomical Variability and Alzheimer\u2019s Disease Related\
+    \ Cortical Thinning in the Medial Temporal Lobe Using Graph-Based Groupwise Registration\
+    \ and Point Set Geodesic Shooting"
+  authors:
+  - Long Xie
+  - Laura E. M. Wisse
+  - Sandhitsu R. Das
+  - Ranjit Ittyerah
+  - Jiancong Wang
+  - David A. Wolk
+  - Paul A. Yushkevich
+  publisher: Lecture Notes in Computer Science
+  date: '2018-01-01'
+  link: https://doi.org/hcpjdn
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.1801093115
+  title: "Characterizing the human hippocampus in aging and Alzheimer\u2019s disease\
+    \ using a computational atlas derived from ex vivo MRI and histology"
+  authors:
+  - Daniel H. Adler
+  - Laura E. M. Wisse
+  - Ranjit Ittyerah
+  - John B. Pluta
+  - Song-Lin Ding
+  - Long Xie
+  - Jiancong Wang
+  - Salmon Kadivar
+  - John L. Robinson
+  - Theresa Schuck
+  - John Q. Trojanowski
+  - Murray Grossman
+  - John A. Detre
+  - Mark A. Elliott
+  - Jon B. Toledo
+  - Weixia Liu
+  - Stephen Pickup
+  - Michael I. Miller
+  - Sandhitsu R. Das
+  - David A. Wolk
+  - Paul A. Yushkevich
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2018-03-28'
+  link: https://doi.org/gdfcvq
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.nicl.2018.09.032
+  title: Clinical validation of automated hippocampal segmentation in temporal lobe
+    epilepsy
+  authors:
+  - Peter N. Hadar
+  - Lohith G. Kini
+  - Carlos Coto
+  - Virginie Piskin
+  - Lauren E. Callans
+  - Stephanie H. Chen
+  - Joel M. Stein
+  - Sandhitsu R. Das
+  - Paul A. Yushkevich
+  - Kathryn A. Davis
+  publisher: 'NeuroImage: Clinical'
+  date: '2018-01-01'
+  link: https://doi.org/gfqpdh
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-00807-9_14
+  title: Combining Deep Learning and Multi-atlas Label Fusion for Automated Placenta
+    Segmentation from 3DUS
+  authors:
+  - Baris U. Oguz
+  - Jiancong Wang
+  - Natalie Yushkevich
+  - Alison Pouch
+  - James Gee
+  - Paul A. Yushkevich
+  - Nadav Schwartz
+  - Ipek Oguz
+  publisher: Lecture Notes in Computer Science
+  date: '2018-01-01'
+  link: https://doi.org/hcpjdp
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.nicl.2018.02.008
+  title: Defining SNAP by cross-sectional and longitudinal definitions of neurodegeneration
+  authors:
+  - L.E.M. Wisse
+  - S.R. Das
+  - C. Davatzikos
+  - B.C. Dickerson
+  - S.X. Xie
+  - P.A. Yushkevich
+  - D.A. Wolk
+  publisher: 'NeuroImage: Clinical'
+  date: '2018-01-01'
+  link: https://doi.org/gc3phj
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-319-75238-9_1
+  title: 'Dice Overlap Measures for Objects of Unknown Number: Application to Lesion
+    Segmentation'
+  authors:
+  - Ipek Oguz
+  - Aaron Carass
+  - Dzung L. Pham
+  - Snehashis Roy
+  - Nagesh Subbana
+  - Peter A. Calabresi
+  - Paul A. Yushkevich
+  - Russell T. Shinohara
+  - Jerry L. Prince
+  publisher: Lecture Notes in Computer Science
+  date: '2018-01-01'
+  link: https://doi.org/hcpjdq
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3233/JAD-170945
+  title: Early Tau Burden Correlates with Higher Rate of Atrophy in Transentorhinal
+    Cortex
+  authors:
+  - Long Xie
+  - Sandhitsu R. Das
+  - Laura E.M. Wisse
+  - Ranjit Ittyerah
+  - Paul A. Yushkevich
+  - David A. Wolk
+  publisher: "Journal of Alzheimer\u2019s Disease"
+  date: '2018-02-06'
+  link: https://doi.org/gczkf8
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-319-75238-9_4
+  title: Joint Intensity Fusion Image Synthesis Applied to Multiple Sclerosis Lesion
+    Segmentation
+  authors:
+  - Greg M. Fleishman
+  - Alessandra Valcarcel
+  - Dzung L. Pham
+  - Snehashis Roy
+  - Peter A. Calabresi
+  - Paul Yushkevich
+  - Russell T. Shinohara
+  - Ipek Oguz
+  publisher: Lecture Notes in Computer Science
+  date: '2018-01-01'
+  link: https://doi.org/hcpjdr
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neurobiolaging.2018.01.024
+  title: Longitudinal and cross-sectional structural magnetic resonance imaging correlates
+    of AV-1451 uptake
+  authors:
+  - Sandhitsu R. Das
+  - Long Xie
+  - Laura E.M. Wisse
+  - Ranjit Ittyerah
+  - Nicholas J. Tustison
+  - Bradford C. Dickerson
+  - Paul A. Yushkevich
+  - David A. Wolk
+  publisher: Neurobiology of Aging
+  date: '2018-06-01'
+  link: https://doi.org/hcpjds
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.nicl.2017.12.036
+  title: Systematic comparison of different techniques to measure hippocampal subfield
+    volumes in ADNI2
+  authors:
+  - Susanne G. Mueller
+  - Paul A. Yushkevich
+  - Sandhitsu Das
+  - Lei Wang
+  - Koen Van Leemput
+  - Juan Eugenio Iglesias
+  - Kate Alpert
+  - Adam Mezher
+  - Peter Ng
+  - Katrina Paz
+  - Michael W. Weiner
+  publisher: 'NeuroImage: Clinical'
+  date: '2018-01-01'
+  link: https://doi.org/gc56p3
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/hipo.22671
+  title: 'A harmonized segmentation protocol for hippocampal and parahippocampal subregions:
+    Why do we need one and what are the key goals?'
+  authors:
+  - Laura E.M. Wisse
+  - Ana M. Daugherty
+  - Rosanna K. Olsen
+  - David Berron
+  - Valerie A. Carr
+  - Craig E.L. Stark
+  - Robert S.C. Amaral
+  - Katrin Amunts
+  - Jean C. Augustinack
+  - Andrew R. Bender
+  - Jeffrey D. Bernstein
+  - Marina Boccardi
+  - Martina Bocchetta
+  - Alison Burggren
+  - M. Mallar Chakravarty
+  - Marie Chupin
+  - Arne Ekstrom
+  - Robin de Flores
+  - Ricardo Insausti
+  - Prabesh Kanel
+  - Olga Kedo
+  - Kristen M. Kennedy
+  - Geoffrey A. Kerchner
+  - Karen F. LaRocque
+  - Xiuwen Liu
+  - Anne Maass
+  - Nicolai Malykhin
+  - Susanne G. Mueller
+  - Noa Ofen
+  - Daniela J. Palombo
+  - Mansi B. Parekh
+  - John B. Pluta
+  - Jens C. Pruessner
+  - Naftali Raz
+  - Karen M. Rodrigue
+  - Dorothee Schoemaker
+  - Andrea T. Shafer
+  - Trevor A. Steve
+  - Nanthia Suthana
+  - Lei Wang
+  - Julie L. Winterburn
+  - Michael A. Yassa
+  - Paul A. Yushkevich
+  - Renaud la Joie
+  publisher: Hippocampus
+  date: '2016-11-15'
+  link: https://doi.org/f9s4br
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.nicl.2017.05.022
+  title: A protocol for manual segmentation of medial temporal lobe subregions in
+    7 Tesla MRI
+  authors:
+  - D. Berron
+  - P. Vieweg
+  - A. Hochkeppler
+  - J.B. Pluta
+  - S.-L. Ding
+  - A. Maass
+  - A. Luther
+  - L. Xie
+  - S.R. Das
+  - D.A. Wolk
+  - T. Wolbers
+  - P.A. Yushkevich
+  - "E. D\xFCzel"
+  - L.E.M. Wisse
+  publisher: 'NeuroImage: Clinical'
+  date: '2017-01-01'
+  link: https://doi.org/gbjq4d
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuroimage.2017.04.057
+  title: A tract-specific approach to assessing white matter in preterm infants
+  authors:
+  - Diliana Pecheva
+  - Paul Yushkevich
+  - Dafnis Batalle
+  - Emer Hughes
+  - Paul Aljabar
+  - Julia Wurie
+  - Joseph V. Hajnal
+  - A. David Edwards
+  - Daniel C. Alexander
+  - Serena J. Counsell
+  - Hui Zhang
+  publisher: NeuroImage
+  date: '2017-08-01'
+  link: https://doi.org/gbxhqz
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/cercor/bhw299
+  title: Comparison of In Vivo and Ex Vivo MRI of the Human Hippocampal Formation
+    in the Same Subjects
+  authors:
+  - L.E.M. Wisse
+  - D.H. Adler
+  - R. Ittyerah
+  - J.B. Pluta
+  - J.L. Robinson
+  - T. Schuck
+  - J.Q. Trojanowski
+  - M. Grossman
+  - J.A. Detre
+  - M.A. Elliott
+  - J.B. Toledo
+  - W. Liu
+  - S. Pickup
+  - S.R. Das
+  - D.A. Wolk
+  - P.A. Yushkevich
+  publisher: Cerebral Cortex
+  date: '2016-09-24'
+  link: https://doi.org/hcpjdt
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-319-67389-9_24
+  title: Gradient Boosted Trees for Corrective Learning
+  authors:
+  - Baris U. Oguz
+  - Russell T. Shinohara
+  - Paul A. Yushkevich
+  - Ipek Oguz
+  publisher: Lecture Notes in Computer Science
+  date: '2017-01-01'
+  link: https://doi.org/hcpjdv
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/MPUL.2017.2701493
+  title: 'ITK-SNAP: An Intractive Medical Image Segmentation Tool to Meet the Need
+    for Expert-Guided Segmentation of Complex Medical Images'
+  authors:
+  - Paul A. Yushkevich
+  - Guido Gerig
+  publisher: IEEE Pulse
+  date: '2017-07-01'
+  link: https://doi.org/hcpjdw
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-319-59448-4_10
+  title: Image Segmentation and Modeling of the Pediatric Tricuspid Valve in Hypoplastic
+    Left Heart Syndrome
+  authors:
+  - Alison M. Pouch
+  - Ahmed H. Aly
+  - Andras Lasso
+  - Alexander V. Nguyen
+  - Adam B. Scanlan
+  - Francis X. McGowan
+  - Gabor Fichtinger
+  - Robert C. Gorman
+  - Joseph H. Gorman
+  - Paul A. Yushkevich
+  - Matthew A. Jolley
+  publisher: Lecture Notes in Computer Science
+  date: '2017-01-01'
+  link: https://doi.org/g5m2fx
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neurobiolaging.2016.09.011
+  title: Medial temporal lobe subregional morphometry using high resolution MRI in
+    Alzheimer's disease
+  authors:
+  - David A. Wolk
+  - Sandhitsu R. Das
+  - Susanne G. Mueller
+  - Michael W. Weiner
+  - Paul A. Yushkevich
+  publisher: Neurobiology of Aging
+  date: '2017-01-01'
+  link: https://doi.org/ggw7wb
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuroimage.2016.09.070
+  title: 'Multi-template analysis of human perirhinal cortex in brain MRI: Explicitly
+    accounting for anatomical variability'
+  authors:
+  - Long Xie
+  - John B. Pluta
+  - Sandhitsu R. Das
+  - Laura E.M. Wisse
+  - Hongzhi Wang
+  - Lauren Mancuso
+  - Dasha Kliot
+  - Brian B. Avants
+  - Song-Lin Ding
+  - "Jos\xE9 V. Manj\xF3n"
+  - David A. Wolk
+  - Paul A. Yushkevich
+  publisher: NeuroImage
+  date: '2017-01-01'
+  link: https://doi.org/f9jbzr
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-319-67434-6_16
+  title: Multiple Sclerosis Lesion Segmentation Using Joint Label Fusion
+  authors:
+  - Mengjin Dong
+  - Ipek Oguz
+  - Nagesh Subbana
+  - Peter Calabresi
+  - Russell T. Shinohara
+  - Paul Yushkevich
+  publisher: Lecture Notes in Computer Science
+  date: '2017-01-01'
+  link: https://doi.org/hcpjdx
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fnins.2017.00330
+  title: Neural Correlates of Verbal Episodic Memory and Lexical Retrieval in Logopenic
+    Variant Primary Progressive Aphasia
+  authors:
+  - Khaing T. Win
+  - John Pluta
+  - Paul Yushkevich
+  - David J. Irwin
+  - Corey T. McMillan
+  - Katya Rascovsky
+  - David Wolk
+  - Murray Grossman
+  publisher: Frontiers in Neuroscience
+  date: '2017-06-14'
+  link: https://doi.org/hcpjdz
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/mrm.26381
+  title: Self-gated MRI of multiple beat morphologies in the presence of arrhythmias
+  authors:
+  - Francisco Contijoch
+  - Srikant Kamesh Iyer
+  - James J. Pilla
+  - Paul Yushkevich
+  - Joseph H. Gorman
+  - Robert C. Gorman
+  - Harold Litt
+  - Yuchi Han
+  - Walter R.T. Witschey
+  publisher: Magnetic Resonance in Medicine
+  date: '2016-08-31'
+  link: https://doi.org/ghgcgp
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-319-66182-7_85
+  title: Spatiotemporal Segmentation and Modeling of the Mitral Valve in Real-Time
+    3D Echocardiographic Images
+  authors:
+  - Alison M. Pouch
+  - Ahmed H. Aly
+  - Eric K. Lai
+  - Natalie Yushkevich
+  - Rutger H. Stoffers
+  - Joseph H. Gorman
+  - Albert T. Cheung
+  - Joseph H. Gorman
+  - Robert C. Gorman
+  - Paul A. Yushkevich
+  publisher: Lecture Notes in Computer Science
+  date: '2017-01-01'
+  link: https://doi.org/hcpjd2
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.nicl.2016.03.002
+  title: 'A brain stress test: Cerebral perfusion during memory encoding in mild cognitive
+    impairment'
+  authors:
+  - Long Xie
+  - Sudipto Dolui
+  - Sandhitsu R. Das
+  - Grace E. Stockbower
+  - Molly Daffner
+  - Hengyi Rao
+  - Paul A. Yushkevich
+  - John A. Detre
+  - David A. Wolk
+  publisher: 'NeuroImage: Clinical'
+  date: '2016-01-01'
+  link: https://doi.org/f8t3cr
+  orcid: 0000-0002-7184-7028
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/EMBC.2016.7592099
+  title: 'A framework for informing segmentation of in vivo MRI with information derived
+    from ex vivo imaging: Application in the medial temporal lobe'
+  authors:
+  - Paul A. Yushkevich
+  - Laura Wisse
+  - Daniel Adler
+  - Ranjit Ittyerah
+  - John B. Pluta
+  - John L. Robinson
+  - Theresa Schuck
+  - John Q. Trojanowski
+  - Murray Grossman
+  - John A. Detre
+  - Mark A. Elliott
+  - Jon B. Toledo
+  - Weixia Liu
+  - Stephen Pickup
+  - Sandhitsu R. Das
+  - David A. Wolk
+  publisher: 2016 38th Annual International Conference of the IEEE Engineering in
+    Medicine and Biology Society (EMBC)
+  date: '2016-08-01'
+  link: https://doi.org/hcpjd3
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-319-46723-8_65
+  title: Accounting for the Confound of Meninges in Segmenting Entorhinal and Perirhinal
+    Cortices in T1-Weighted MRI
+  authors:
+  - Long Xie
+  - Laura E. M. Wisse
+  - Sandhitsu R. Das
+  - Hongzhi Wang
+  - David A. Wolk
+  - "Jose V. Manj\xF3n"
+  - Paul A. Yushkevich
+  publisher: Lecture Notes in Computer Science
+  date: '2016-01-01'
+  link: https://doi.org/hcpjd4
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3174/ajnr.A4659
+  title: Automated Hippocampal Subfield Segmentation at 7T MRI
+  authors:
+  - L.E.M. Wisse
+  - H.J. Kuijf
+  - A.M. Honingh
+  - H. Wang
+  - J.B. Pluta
+  - S.R. Das
+  - D.A. Wolk
+  - J.J.M. Zwanenburg
+  - P.A. Yushkevich
+  - M.I. Geerlings
+  publisher: American Journal of Neuroradiology
+  date: '2016-02-04'
+  link: https://doi.org/gtcd6h
+  orcid: 0000-0003-0530-2887
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3233/JAD-160014
+  title: "Clinical Application of Automatic Segmentation of Medial Temporal Lobe Subregions\
+    \ in Prodromal and Dementia-Level Alzheimer\u2019s Disease"
+  authors:
+  - Eske Christiane Gertje
+  - John Pluta
+  - Sandhitsu Das
+  - Lauren Mancuso
+  - Dasha Kliot
+  - Paul Yushkevich
+  - David Wolk
+  publisher: Journal of Alzheimer's Disease
+  date: '2016-10-04'
+  link: https://doi.org/f87ztr
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-319-46723-8_62
+  title: Globally Optimal Label Fusion with Shape Priors
+  authors:
+  - Ipek Oguz
+  - Satyananda Kashyap
+  - Hongzhi Wang
+  - Paul Yushkevich
+  - Milan Sonka
+  publisher: Lecture Notes in Computer Science
+  date: '2016-01-01'
+  link: https://doi.org/hcpjd5
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/EMBC.2016.7591443
+  title: 'ITK-SNAP: An interactive tool for semi-automatic segmentation of multi-modality
+    biomedical images'
+  authors:
+  - Paul A. Yushkevich
+  - Yang Gao
+  - Guido Gerig
+  publisher: 2016 38th Annual International Conference of the IEEE Engineering in
+    Medicine and Biology Society (EMBC)
+  date: '2016-08-01'
+  link: https://doi.org/ggwcds
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jbiomech.2016.04.038
+  title: In-vivo heterogeneous functional and residual strains in human aortic valve
+    leaflets
+  authors:
+  - Ankush Aggarwal
+  - Alison M. Pouch
+  - Eric Lai
+  - John Lesicko
+  - Paul A. Yushkevich
+  - Joseph H. Gorman III
+  - Robert C. Gorman
+  - Michael S. Sacks
+  publisher: Journal of Biomechanics
+  date: '2016-08-01'
+  link: https://doi.org/f86xc9
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fnana.2016.00009
+  title: Maturation Along White Matter Tracts in Human Brain Using a Diffusion Tensor
+    Surface Model Tract-Specific Analysis
+  authors:
+  - Zhang Chen
+  - Hui Zhang
+  - Paul A. Yushkevich
+  - Min Liu
+  - Christian Beaulieu
+  publisher: Frontiers in Neuroanatomy
+  date: '2016-02-16'
+  link: https://doi.org/hcpjd6
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.athoracsur.2016.05.087
+  title: Modeling the Myxomatous Mitral Valve With Three-Dimensional Echocardiography
+  authors:
+  - Alison M. Pouch
+  - Benjamin M. Jackson
+  - Eric Lai
+  - Manabu Takebe
+  - Sijie Tian
+  - Albert T. Cheung
+  - Y. Joseph Woo
+  - Prakash A. Patel
+  - Hongzhi Wang
+  - Paul A. Yushkevich
+  - Robert C. Gorman
+  - Joseph H. Gorman
+  publisher: The Annals of Thoracic Surgery
+  date: '2016-09-01'
+  link: https://doi.org/f8ztpz
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.athoracsur.2015.09.076
+  title: Preoperative Three-Dimensional Valve Analysis Predicts Recurrent Ischemic
+    Mitral Regurgitation After Mitral Annuloplasty
+  authors:
+  - Wobbe Bouma
+  - Eric K. Lai
+  - Melissa M. Levack
+  - Eric K. Shang
+  - Alison M. Pouch
+  - Thomas J. Eperjesi
+  - Theodore J. Plappert
+  - Paul A. Yushkevich
+  - Massimo A. Mariani
+  - Kamal R. Khabbaz
+  - Thomas G. Gleason
+  - Feroze Mahmood
+  - Michael A. Acker
+  - Y. Joseph Woo
+  - Albert T. Cheung
+  - Benjamin M. Jackson
+  - Joseph H. Gorman
+  - Robert C. Gorman
+  publisher: The Annals of Thoracic Surgery
+  date: '2016-02-01'
+  link: https://doi.org/f76pqq
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-319-46726-9_8
+  title: Probabilistic Atlas of the Human Hippocampus Combining Ex Vivo MRI and Histology
+  authors:
+  - Daniel H. Adler
+  - Ranjit Ittyerah
+  - John Pluta
+  - Stephen Pickup
+  - Weixia Liu
+  - David A. Wolk
+  - Paul A. Yushkevich
+  publisher: Lecture Notes in Computer Science
+  date: '2016-01-01'
+  link: https://doi.org/hcpjd7
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1161/CIRCEP.115.003520
+  title: Quantification of Left Ventricular Function With Premature Ventricular Complexes
+    Reveals Variable Hemodynamics
+  authors:
+  - Francisco Contijoch
+  - Kelly Rogers
+  - Hannah Rears
+  - Mohammed Shahid
+  - Peter Kellman
+  - Joseph Gorman
+  - Robert C. Gorman
+  - Paul Yushkevich
+  - Erica S. Zado
+  - Gregory E. Supple
+  - Francis E. Marchlinski
+  - Walter R.T. Witschey
+  - Yuchi Han
+  publisher: 'Circulation: Arrhythmia and Electrophysiology'
+  date: '2016-04-01'
+  link: https://doi.org/ghgcr3
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-319-47118-1_13
+  title: Supervoxel-Based Hierarchical Markov Random Field Framework for Multi-atlas
+    Segmentation
+  authors:
+  - Ning Yu
+  - Hongzhi Wang
+  - Paul A. Yushkevich
+  publisher: Lecture Notes in Computer Science
+  date: '2016-01-01'
+  link: https://doi.org/hcpjd8
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jtcvs.2016.06.040
+  title: The value of preoperative 3-dimensional over 2-dimensional valve analysis
+    in predicting recurrent ischemic mitral regurgitation after mitral annuloplasty
+  authors:
+  - Inez J. Wijdh-den Hamer
+  - Wobbe Bouma
+  - Eric K. Lai
+  - Melissa M. Levack
+  - Eric K. Shang
+  - Alison M. Pouch
+  - Thomas J. Eperjesi
+  - Theodore J. Plappert
+  - Paul A. Yushkevich
+  - Judy Hung
+  - Massimo A. Mariani
+  - Kamal R. Khabbaz
+  - Thomas G. Gleason
+  - Feroze Mahmood
+  - Michael A. Acker
+  - Y.Joseph Woo
+  - Albert T. Cheung
+  - Matthew J. Gillespie
+  - Benjamin M. Jackson
+  - Joseph H. Gorman
+  - Robert C. Gorman
+  publisher: The Journal of Thoracic and Cardiovascular Surgery
+  date: '2016-09-01'
+  link: https://doi.org/f82p4g
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuroimage.2015.01.004
+  title: 'Quantitative comparison of 21 protocols for labeling hippocampal subfields
+    and parahippocampal subregions in in vivo MRI: Towards a harmonized segmentation
+    protocol'
+  authors:
+  - Paul A. Yushkevich
+  - Robert S.C. Amaral
+  - Jean C. Augustinack
+  - Andrew R. Bender
+  - Jeffrey D. Bernstein
+  - Marina Boccardi
+  - Martina Bocchetta
+  - Alison C. Burggren
+  - Valerie A. Carr
+  - M. Mallar Chakravarty
+  - "Ga\xEBl Ch\xE9telat"
+  - Ana M. Daugherty
+  - Lila Davachi
+  - Song-Lin Ding
+  - Arne Ekstrom
+  - Mirjam I. Geerlings
+  - Abdul Hassan
+  - Yushan Huang
+  - J. Eugenio Iglesias
+  - Renaud La Joie
+  - Geoffrey A. Kerchner
+  - Karen F. LaRocque
+  - Laura A. Libby
+  - Nikolai Malykhin
+  - Susanne G. Mueller
+  - Rosanna K. Olsen
+  - Daniela J. Palombo
+  - Mansi B. Parekh
+  - John B. Pluta
+  - Alison R. Preston
+  - Jens C. Pruessner
+  - Charan Ranganath
+  - Naftali Raz
+  - Margaret L. Schlichting
+  - Dorothee Schoemaker
+  - Sachi Singh
+  - Craig E.L. Stark
+  - Nanthia Suthana
+  - Alexa Tompary
+  - Marta M. Turowski
+  - Koen Van Leemput
+  - Anthony D. Wagner
+  - Lei Wang
+  - Julie L. Winterburn
+  - Laura E.M. Wisse
+  - Michael A. Yassa
+  - Michael M. Zeineh
+  publisher: NeuroImage
+  date: '2015-05-01'
+  link: https://doi.org/gg7744
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neurobiolaging.2014.03.041
+  title: Anterior and posterior MTL networks in aging and MCI
+  authors:
+  - Sandhitsu R. Das
+  - John Pluta
+  - Lauren Mancuso
+  - Daria Kliot
+  - Paul A. Yushkevich
+  - David A. Wolk
+  publisher: Neurobiology of Aging
+  date: '2015-01-01'
+  link: https://doi.org/gdz7nh
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuroimage.2015.07.087
+  title: 'Assessing atrophy measurement techniques in dementia: Results from the MIRIAD
+    atrophy challenge'
+  authors:
+  - David M. Cash
+  - Chris Frost
+  - Leonardo O. Iheme
+  - "Devrim \xDCnay"
+  - Melek Kandemir
+  - Jurgen Fripp
+  - Olivier Salvado
+  - Pierrick Bourgeat
+  - Martin Reuter
+  - Bruce Fischl
+  - Marco Lorenzi
+  - Giovanni B. Frisoni
+  - Xavier Pennec
+  - Ronald K. Pierson
+  - Jeffrey L. Gunter
+  - Matthew L. Senjem
+  - Clifford R. Jack
+  - Nicolas Guizard
+  - Vladimir S. Fonov
+  - D. Louis Collins
+  - Marc Modat
+  - M. Jorge Cardoso
+  - Kelvin K. Leung
+  - Hongzhi Wang
+  - Sandhitsu R. Das
+  - Paul A. Yushkevich
+  - Ian B. Malone
+  - Nick C. Fox
+  - Jonathan M. Schott
+  - Sebastien Ourselin
+  publisher: NeuroImage
+  date: '2015-12-01'
+  link: https://doi.org/f7wjkg
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/hbm.22627
+  title: Automated volumetry and regional thickness analysis of hippocampal subfields
+    and medial temporal cortical structures in mild cognitive impairment
+  authors:
+  - Paul A. Yushkevich
+  - John B. Pluta
+  - Hongzhi Wang
+  - Long Xie
+  - Song-Lin Ding
+  - Eske C. Gertje
+  - Lauren Mancuso
+  - Daria Kliot
+  - Sandhitsu R. Das
+  - David A. Wolk
+  publisher: Human Brain Mapping
+  date: '2014-09-02'
+  link: https://doi.org/gghzp6
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neurobiolaging.2014.09.021
+  title: Guest editorial
+  authors:
+  - Lei Wang
+  - Paul Yushkevich
+  - Sebastien Ourselin
+  publisher: Neurobiology of Aging
+  date: '2015-01-01'
+  link: https://doi.org/hcpjd9
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.media.2015.09.003
+  title: 'Medially constrained deformable modeling for segmentation of branching medial
+    structures: Application to aortic valve segmentation and morphometry'
+  authors:
+  - Alison M. Pouch
+  - Sijie Tian
+  - Manabu Takebe
+  - Jiefu Yuan
+  - Robert Gorman
+  - Albert T. Cheung
+  - Hongzhi Wang
+  - Benjamin M. Jackson
+  - Joseph H. Gorman
+  - Robert C. Gorman
+  - Paul A. Yushkevich
+  publisher: Medical Image Analysis
+  date: '2015-12-01'
+  link: https://doi.org/f76hc2
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ISBI.2015.7163891
+  title: Multi-atlas label fusion with augmented atlases for fast and accurate segmentation
+    of cardiac MR images
+  authors:
+  - Long Xie
+  - Suman Sedai
+  - Xi Liang
+  - Colin B. Compas
+  - Hongzhi Wang
+  - Paul A. Yushkevich
+  - Tanveer Syeda-Mahmood
+  publisher: 2015 IEEE 12th International Symposium on Biomedical Imaging (ISBI)
+  date: '2015-04-01'
+  link: https://doi.org/hcpjfb
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/S1355617715000223
+  title: Relationship of Contextual Cueing and Hippocampal Volume in Amnestic Mild
+    Cognitive Impairment Patients and Cognitively Normal Older Adults
+  authors:
+  - Selam Negash
+  - Daria Kliot
+  - Darlene V. Howard
+  - James H. Howard
+  - Sandhistu R. Das
+  - Paul A. Yushkevich
+  - John B. Pluta
+  - Steven E. Arnold
+  - David A. Wolk
+  publisher: Journal of the International Neuropsychological Society
+  date: '2015-04-01'
+  link: https://doi.org/f7f247
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-319-14678-2_20
+  title: 'Segmentation of the Aortic Valve Apparatus in 3D Echocardiographic Images:
+    Deformable Modeling of a Branching Medial Structure'
+  authors:
+  - Alison M. Pouch
+  - Sijie Tian
+  - Manabu Takabe
+  - Hongzhi Wang
+  - Jiefu Yuan
+  - Albert T. Cheung
+  - Benjamin M. Jackson
+  - Joseph H. Gorman
+  - Robert C. Gorman
+  - Paul A. Yushkevich
+  publisher: Lecture Notes in Computer Science
+  date: '2015-01-01'
+  link: https://doi.org/hcpjfc
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neurobiolaging.2015.08.029
+  title: Suspected non-AD pathology in mild cognitive impairment
+  authors:
+  - Laura E.M. Wisse
+  - Nirali Butala
+  - Sandhitsu R. Das
+  - Christos Davatzikos
+  - Bradford C. Dickerson
+  - Sanjeev N. Vaishnavi
+  - Paul A. Yushkevich
+  - David A. Wolk
+  publisher: Neurobiology of Aging
+  date: '2015-12-01'
+  link: https://doi.org/hcpjfd
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12968-015-0146-9
+  title: User-initialized active contour segmentation and golden-angle real-time cardiovascular
+    magnetic resonance enable accurate assessment of LV function in patients with
+    sinus rhythm and arrhythmias
+  authors:
+  - Francisco Contijoch
+  - Walter R.T. Witschey
+  - Kelly Rogers
+  - Hannah Rears
+  - Michael Hansen
+  - Paul Yushkevich
+  - Joseph Gorman
+  - Robert C. Gorman
+  - Yuchi Han
+  publisher: Journal of Cardiovascular Magnetic Resonance
+  date: '2015-01-01'
+  link: https://doi.org/f7dbpj
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-319-10443-0_11
+  title: Automatic Clustering and Thickness Measurement of Anatomical Variants of
+    the Human Perirhinal Cortex
+  authors:
+  - Long Xie
+  - John Pluta
+  - Hongzhi Wang
+  - Sandhitsu R. Das
+  - Lauren Mancuso
+  - Dasha Kliot
+  - Brian B. Avants
+  - Song-Lin Ding
+  - David A. Wolk
+  - Paul A. Yushkevich
+  publisher: Lecture Notes in Computer Science
+  date: '2014-01-01'
+  link: https://doi.org/hcpjfg
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Automatic clustering and thickness measurement of anatomical variants of
+    the human perirhinal cortex.
+  publisher: 'Medical image computing and computer-assisted intervention : MICCAI
+    ... International Conference on Medical Image Computing and Computer-Assisted
+    Intervention'
+  date: '2022-05-26'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84909595977&partnerID=MN8TOARS
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.media.2013.10.001
+  title: Fully automatic segmentation of the mitral leaflets in 3D transesophageal
+    echocardiographic images using multi-atlas joint label fusion and deformable medial
+    modeling
+  authors:
+  - A.M. Pouch
+  - H. Wang
+  - M. Takabe
+  - B.M. Jackson
+  - J.H. Gorman
+  - R.C. Gorman
+  - P.A. Yushkevich
+  - C.M. Sehgal
+  publisher: Medical Image Analysis
+  date: '2014-01-01'
+  link: https://doi.org/f5k6zt
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuroimage.2013.08.067
+  title: Histology-derived volumetric annotation of the human hippocampal subfields
+    in postmortem MRI
+  authors:
+  - Daniel H. Adler
+  - John Pluta
+  - Salmon Kadivar
+  - Caryne Craige
+  - James C. Gee
+  - Brian B. Avants
+  - Paul A. Yushkevich
+  publisher: NeuroImage
+  date: '2014-01-01'
+  link: https://doi.org/f5mgw9
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.athoracsur.2014.01.010
+  title: "Real-Time Magnetic Resonance Imaging Technique\_for Determining Left Ventricle\
+    \ Pressure-Volume Loops"
+  authors:
+  - Walter R.T. Witschey
+  - Francisco Contijoch
+  - Jeremy R. McGarvey
+  - Victor A. Ferrari
+  - Michael S. Hansen
+  - Madonna E. Lee
+  - Satoshi Takebayashi
+  - Chikashi Aoki
+  - Julio A. Chirinos
+  - Paul A. Yushkevich
+  - Joseph H. Gorman
+  - James J. Pilla
+  - Robert C. Gorman
+  publisher: The Annals of Thoracic Surgery
+  date: '2014-05-01'
+  link: https://doi.org/f52n4r
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.athoracsur.2013.07.096
+  title: Statistical Assessment of Normal Mitral Annular Geometry Using Automated
+    Three-Dimensional Echocardiographic Analysis
+  authors:
+  - Alison M. Pouch
+  - Mathieu Vergnat
+  - Jeremy R. McGarvey
+  - Giovanni Ferrari
+  - Benjamin M. Jackson
+  - Chandra M. Sehgal
+  - Paul A. Yushkevich
+  - Robert C. Gorman
+  - Joseph H. Gorman
+  publisher: The Annals of Thoracic Surgery
+  date: '2014-01-01'
+  link: https://doi.org/f5ng64
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1097/WNN.0000000000000044
+  title: White Matter Disease Contributes to Apathy and Disinhibition in Behavioral
+    Variant Frontotemporal Dementia
+  authors:
+  - John P. Powers
+  - Lauren Massimo
+  - Corey T. McMillan
+  - Paul A. Yushkevich
+  - Hui Zhang
+  - James C. Gee
+  - Murray Grossman
+  publisher: Cognitive and Behavioral Neurology
+  date: '2014-12-01'
+  link: https://doi.org/f6tq9c
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-642-40811-3_61
+  title: Automated Segmentation and Geometrical Modeling of the Tricuspid Aortic Valve
+    in 3D Echocardiographic Images
+  authors:
+  - Alison M. Pouch
+  - Hongzhi Wang
+  - Manabu Takabe
+  - Benjamin M. Jackson
+  - Chandra M. Sehgal
+  - Joseph H. Gorman
+  - Robert C. Gorman
+  - Paul A. Yushkevich
+  publisher: Lecture Notes in Computer Science
+  date: '2013-01-01'
+  link: https://doi.org/hcpjfh
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Automated segmentation and geometrical modeling of the tricuspid aortic valve
+    in 3D echocardiographic images.
+  publisher: 'Medical image computing and computer-assisted intervention : MICCAI
+    ... International Conference on Medical Image Computing and Computer-Assisted
+    Intervention'
+  date: '2022-05-26'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84894640092&partnerID=MN8TOARS
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-642-38868-2_24
+  title: Deformable Modeling Using a 3D Boundary Representation with Quadratic Constraints
+    on the Branching Structure of the Blum Skeleton
+  authors:
+  - Paul A. Yushkevich
+  - Hui Gary Zhang
+  publisher: Lecture Notes in Computer Science
+  date: '2013-01-01'
+  link: https://doi.org/hcpjfj
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Deformable modeling using a 3D boundary representation with quadratic constraints
+    on the branching structure of the Blum skeleton.
+  publisher: 'Information processing in medical imaging : proceedings of the ... conference'
+  date: '2022-05-26'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84901258883&partnerID=MN8TOARS
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-642-40811-3_89
+  title: Groupwise Segmentation with Multi-atlas Joint Label Fusion
+  authors:
+  - Hongzhi Wang
+  - Paul A. Yushkevich
+  publisher: Lecture Notes in Computer Science
+  date: '2013-01-01'
+  link: https://doi.org/hcpjfk
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Groupwise segmentation with multi-atlas joint label fusion.
+  publisher: 'Medical image computing and computer-assisted intervention : MICCAI
+    ... International Conference on Medical Image Computing and Computer-Assisted
+    Intervention'
+  date: '2022-05-26'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84894620675&partnerID=MN8TOARS
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/hipo.22051
+  title: Increased functional connectivity within medial temporal lobe in mild cognitive
+    impairment
+  authors:
+  - Sandhitsu R. Das
+  - John Pluta
+  - Lauren Mancuso
+  - Dasha Kliot
+  - Sylvia Orozco
+  - Bradford C. Dickerson
+  - Paul A. Yushkevich
+  - David A. Wolk
+  publisher: Hippocampus
+  date: '2012-07-20'
+  link: https://doi.org/f4hjvc
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TPAMI.2012.143
+  title: Multi-Atlas Segmentation with Joint Label Fusion
+  authors:
+  - ' Hongzhi Wang'
+  - J. W. Suh
+  - S. R. Das
+  - J. B. Pluta
+  - C. Craige
+  - P. A. Yushkevich
+  publisher: IEEE Transactions on Pattern Analysis and Machine Intelligence
+  date: '2013-03-01'
+  link: https://doi.org/f4nw6f
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-642-38868-2_46
+  title: Multi-atlas Segmentation with Robust Label Transfer and Label Fusion
+  authors:
+  - Hongzhi Wang
+  - Alison Pouch
+  - Manabu Takabe
+  - Benjamin Jackson
+  - Joseph Gorman
+  - Robert Gorman
+  - Paul A. Yushkevich
+  publisher: Lecture Notes in Computer Science
+  date: '2013-01-01'
+  link: https://doi.org/hcpjfm
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Multi-atlas segmentation with robust label transfer and label fusion.
+  publisher: 'Information processing in medical imaging : proceedings of the ... conference'
+  date: '2022-05-26'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84901255308&partnerID=MN8TOARS
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-642-40760-4_67
+  title: 'Multi-atlas Segmentation without Registration: A Supervoxel-Based Approach'
+  authors:
+  - Hongzhi Wang
+  - Paul A. Yushkevich
+  publisher: Lecture Notes in Computer Science
+  date: '2013-01-01'
+  link: https://doi.org/hcpjfn
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'Multi-atlas segmentation without registration: a supervoxel-based approach.'
+  publisher: 'Medical image computing and computer-assisted intervention : MICCAI
+    ... International Conference on Medical Image Computing and Computer-Assisted
+    Intervention'
+  date: '2022-05-26'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84894630924&partnerID=MN8TOARS
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fneur.2013.00212
+  title: White Matter Disease Correlates with Lexical Retrieval Deficits in Primary
+    Progressive Aphasia
+  authors:
+  - John P. Powers
+  - Corey T. McMillan
+  - Caroline C. Brun
+  - Paul A. Yushkevich
+  - Hui Zhang
+  - James C. Gee
+  - Murray Grossman
+  publisher: Frontiers in Neurology
+  date: '2013-01-01'
+  link: https://doi.org/gssmr3
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ISBI.2012.6235692
+  title: Dependency prior for multi-atlas label fusion
+  authors:
+  - Hongzhi Wang
+  - Paul A Yushkevich
+  publisher: 2012 9th IEEE International Symposium on Biomedical Imaging (ISBI)
+  date: '2012-05-01'
+  link: https://doi.org/hcpjfq
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1118/1.3673773
+  title: Development of a semi-automated method for mitral valve modeling with medial
+    axis representation using 3D ultrasound
+  authors:
+  - Alison M. Pouch
+  - Paul A. Yushkevich
+  - Benjamin M. Jackson
+  - Arminder S. Jassar
+  - Mathieu Vergnat
+  - Joseph H. Gorman
+  - Robert C. Gorman
+  - Chandra M. Sehgal
+  publisher: Medical Physics
+  date: '2012-01-31'
+  link: https://doi.org/fzwg7z
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.910708
+  title: Dynamic shape modeling of the mitral valve from real-time 3D ultrasound images
+    using continuous medial representation
+  authors:
+  - Alison M. Pouch
+  - Paul A. Yushkevich
+  - Benjamin M. Jackson
+  - Joseph H. Gorman III
+  - Robert C. Gorman
+  - Chandra M. Sehgal
+  publisher: SPIE Proceedings
+  date: '2012-02-23'
+  link: https://doi.org/hcpjfr
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/CVPR.2012.6247771
+  title: 'From label fusion to correspondence fusion: A new approach to unbiased groupwise
+    registration'
+  authors:
+  - P. A. Yushkevich
+  - ' Hongzhi Wang'
+  - J. Pluta
+  - B. B. Avants
+  publisher: 2012 IEEE Conference on Computer Vision and Pattern Recognition
+  date: '2012-06-01'
+  link: https://doi.org/hcpjfs
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ULTSYM.2012.0055
+  title: Fully automatic segmentation of the open mitral leaflets in 3D transesophageal
+    echocardiographic images using multi-atlas label fusion and deformable medial
+    modeling
+  authors:
+  - Alison M. Pouch
+  - Hongzhi Wang
+  - Paul A. Yushkevich
+  - Manabu Takabe
+  - Benjamin M. Jackson
+  - Joseph H. Gorman
+  - Robert C. Gorman
+  - Chandra M. Sehgal
+  publisher: 2012 IEEE International Ultrasonics Symposium
+  date: '2012-10-01'
+  link: https://doi.org/hcpjft
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Guiding automatic segmentation with multiple manual segmentations
+  publisher: Lecture Notes in Computer Science (including subseries Lecture Notes
+    in Artificial Intelligence and Lecture Notes in Bioinformatics)
+  date: '2022-05-26'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84988884418&partnerID=MN8TOARS
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Guiding automatic segmentation with multiple manual segmentations.
+  publisher: 'Medical image computing and computer-assisted intervention : MICCAI
+    ... International Conference on Medical Image Computing and Computer-Assisted
+    Intervention'
+  date: '2022-05-26'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84872906188&partnerID=MN8TOARS
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3233/JAD-2012-111931
+  title: In vivo Analysis of Hippocampal Subfield Atrophy in Mild Cognitive Impairment
+    via Semi-Automatic Segmentation of T2-Weighted MRI
+  authors:
+  - John Pluta
+  - Paul Yushkevich
+  - Sandhitsu Das
+  - David Wolk
+  publisher: Journal of Alzheimer's Disease
+  date: '2012-07-05'
+  link: https://doi.org/hcpjfv
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuroimage.2012.01.098
+  title: Measuring longitudinal change in the hippocampal formation from in vivo high-resolution
+    T2-weighted MRI
+  authors:
+  - Sandhitsu R. Das
+  - Brian B. Avants
+  - John Pluta
+  - Hongzhi Wang
+  - Jung W. Suh
+  - Michael W. Weiner
+  - Susanne G. Mueller
+  - Paul A. Yushkevich
+  publisher: NeuroImage
+  date: '2012-04-01'
+  link: https://doi.org/fxzh2p
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ISBI.2012.6235542
+  title: Reconstruction of the human hippocampus in 3D from histology and high-resolution
+    ex-vivo MRI
+  authors:
+  - Daniel H. Adler
+  - Alex Yang Liu
+  - John Pluta
+  - Salmon Kadivar
+  - Sylvia Orozco
+  - Hongzhi Wang
+  - James C. Gee
+  - Brian B. Avants
+  - Paul A. Yushkevich
+  publisher: 2012 9th IEEE International Symposium on Biomedical Imaging (ISBI)
+  date: '2012-05-01'
+  link: https://doi.org/hcpjfw
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fnins.2012.00166
+  title: Robust Automated Amygdala Segmentation via Multi-Atlas Diffeomorphic Registration
+  authors:
+  - Jamie L. Hanson
+  - Jung W. Suh
+  - Brendon M. Nacewicz
+  - Matthew J. Sutterer
+  - Amelia A. Cayo
+  - Diane E. Stodola
+  - Cory A. Burghy
+  - Hongzhi Wang
+  - Brian B. Avants
+  - Paul A. Yushkevich
+  - Marilyn J. Essex
+  - Seth D. Pollak
+  - Richard J. Davidson
+  publisher: Frontiers in Neuroscience
+  date: '2012-01-01'
+  link: https://doi.org/gnb8zs
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jbiomech.2011.11.033
+  title: Semi-automated mitral valve morphometry and computational stress analysis
+    using 3D ultrasound
+  authors:
+  - Alison M. Pouch
+  - Chun Xu
+  - Paul A. Yushkevich
+  - Arminder S. Jassar
+  - Mathieu Vergnat
+  - Joseph H. Gorman
+  - Robert C. Gorman
+  - Chandra M. Sehgal
+  - Benjamin M. Jackson
+  publisher: Journal of Biomechanics
+  date: '2012-03-01'
+  link: https://doi.org/fx4nds
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/CVPR.2012.6247765
+  title: Spatial bias in multi-atlas based segmentation
+  authors:
+  - ' Hongzhi Wang'
+  - P. A. Yushkevich
+  publisher: 2012 IEEE Conference on Computer Vision and Pattern Recognition
+  date: '2012-06-01'
+  link: https://doi.org/hcpjfx
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1212/WNL.0b013e31825830bd
+  title: White matter imaging contributes to the multimodal diagnosis of frontotemporal
+    lobar degeneration
+  authors:
+  - C.T. McMillan
+  - C. Brun
+  - S. Siddiqui
+  - M. Churgin
+  - D. Libon
+  - P. Yushkevich
+  - H. Zhang
+  - A. Boller
+  - J. Gee
+  - M. Grossman
+  publisher: Neurology
+  date: '2012-05-29'
+  link: https://doi.org/gfkdx7
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuroimage.2011.01.006
+  title: 'A learning-based wrapper method to correct systematic errors in automatic
+    image segmentation: Consistently improved performance in hippocampus, cortex and
+    brain segmentation'
+  authors:
+  - Hongzhi Wang
+  - Sandhitsu R. Das
+  - Jung Wook Suh
+  - Murat Altinay
+  - John Pluta
+  - Caryne Craige
+  - Brian Avants
+  - Paul A. Yushkevich
+  publisher: NeuroImage
+  date: '2011-04-01'
+  link: https://doi.org/cmrsk9
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuroimage.2011.06.085
+  title: Heterogeneity of functional activation during memory encoding across hippocampal
+    subfields in temporal lobe epilepsy
+  authors:
+  - Sandhitsu R. Das
+  - Dawn Mechanic-Hamilton
+  - John Pluta
+  - Marc Korczykowski
+  - John A. Detre
+  - Paul A. Yushkevich
+  publisher: NeuroImage
+  date: '2011-10-01'
+  link: https://doi.org/fstvng
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ISBI.2011.5872812
+  title: Hippocampus segmentation using a stable maximum likelihood classifier ensemble
+    algorithm
+  authors:
+  - Hongzhi Wang
+  - Jung Wook Suh
+  - Sandhitsu Das
+  - Murat Altinay
+  - John Pluta
+  - Paul Yushkevich
+  publisher: '2011 IEEE International Symposium on Biomedical Imaging: From Nano to
+    Macro'
+  date: '2011-03-01'
+  link: https://doi.org/dxzqq2
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-642-22092-0_7
+  title: Optimal Weights for Multi-atlas Label Fusion
+  authors:
+  - Hongzhi Wang
+  - Jung Wook Suh
+  - John Pluta
+  - Murat Altinay
+  - Paul Yushkevich
+  publisher: Lecture Notes in Computer Science
+  date: '2011-01-01'
+  link: https://doi.org/c9wqxr
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Optimal weights for multi-atlas label fusion.
+  publisher: 'Information processing in medical imaging : proceedings of the ... conference'
+  date: '2022-05-26'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-80052320717&partnerID=MN8TOARS
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/CVPR.2011.5995382
+  title: Regression-based label fusion for multi-atlas segmentation
+  authors:
+  - Hongzhi Wang
+  - Jung Wook Suh
+  - Sandhitsu Das
+  - John Pluta
+  - Murat Altinay
+  - Paul Yushkevich
+  publisher: CVPR 2011
+  date: '2011-06-01'
+  link: https://doi.org/cd9tv9
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/IEMBS.2010.5626538
+  title: '3D mesh based wall thickness measurement: Identification of left ventricular
+    hypertrophy phenotypes'
+  authors:
+  - C Tobon-Gomez
+  - C Butakoff
+  - P Yushkevich
+  - M Huguet
+  - A F Frangi
+  publisher: 2010 Annual International Conference of the IEEE Engineering in Medicine
+    and Biology
+  date: '2010-08-01'
+  link: https://doi.org/fcxp2p
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- title: '3D mesh based wall thickness measurement: identification of left ventricular
+    hypertrophy phenotypes.'
+  publisher: 'Conference proceedings : ... Annual International Conference of the
+    IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine
+    and Biology Society. Conference'
+  date: '2022-05-23'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-79953192248&partnerID=MN8TOARS
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- title: '3D mesh based wall thickness measurement: identification of left ventricular
+    hypertrophy phenotypes.'
+  publisher: 'Conference proceedings : ... Annual International Conference of the
+    IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine
+    and Biology Society. Conference'
+  date: '2022-05-26'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84903873344&partnerID=MN8TOARS
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-642-14366-3_8
+  title: A Computational White Matter Atlas for Aging with Surface-Based Representation
+    of Fasciculi
+  authors:
+  - Hui Zhang
+  - Paul A. Yushkevich
+  - Daniel Rueckert
+  - James C. Gee
+  publisher: Lecture Notes in Computer Science
+  date: '2010-01-01'
+  link: https://doi.org/d7gk7t
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.media.2010.05.002
+  title: A tract-specific framework for white matter morphometry combining macroscopic
+    and microscopic tract features
+  authors:
+  - Hui Zhang
+  - Suyash P. Awate
+  - Sandhitsu R. Das
+  - John H. Woo
+  - Elias R. Melhem
+  - James C. Gee
+  - Paul A. Yushkevich
+  publisher: Medical Image Analysis
+  date: '2010-10-01'
+  link: https://doi.org/dh54tc
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-642-15705-9_57
+  title: Automatic Cardiac MRI Segmentation Using a Biventricular Deformable Medial
+    Model
+  authors:
+  - Hui Sun
+  - Alejandro F. Frangi
+  - Hongzhi Wang
+  - Federico M. Sukno
+  - Catalina Tobon-Gomez
+  - Paul A. Yushkevich
+  publisher: Lecture Notes in Computer Science
+  date: '2010-01-01'
+  link: https://doi.org/fmg9t3
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Automatic cardiac MRI segmentation using a biventricular deformable medial
+    model.
+  publisher: 'Medical image computing and computer-assisted intervention : MICCAI
+    ... International Conference on Medical Image Computing and Computer-Assisted
+    Intervention'
+  date: '2022-05-26'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84856970375&partnerID=MN8TOARS
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuroimage.2009.12.007
+  title: 'Bias in estimation of hippocampal atrophy using deformation-based morphometry
+    arises from asymmetric global normalization: An illustration in ADNI 3 T MRI data'
+  authors:
+  - Paul A. Yushkevich
+  - Brian B. Avants
+  - Sandhitsu R. Das
+  - John Pluta
+  - Murat Altinay
+  - Caryne Craige
+  publisher: NeuroImage
+  date: '2010-04-01'
+  link: https://doi.org/fvmn99
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuroimage.2010.06.072
+  title: 'Cerebral cortical folding analysis with multivariate modeling and testing:
+    Studies on gender differences and neonatal development'
+  authors:
+  - Suyash P. Awate
+  - Paul A. Yushkevich
+  - Zhuang Song
+  - Daniel J. Licht
+  - James C. Gee
+  publisher: NeuroImage
+  date: '2010-11-01'
+  link: https://doi.org/fbqdhm
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TMI.2010.2046908
+  title: 'N4ITK: Improved N3 Bias Correction'
+  authors:
+  - Nicholas J Tustison
+  - Brian B Avants
+  - Philip A Cook
+  - ' Yuanjie Zheng'
+  - Alexander Egan
+  - Paul A Yushkevich
+  - James C Gee
+  publisher: IEEE Transactions on Medical Imaging
+  date: '2010-06-01'
+  link: https://doi.org/b75xjw
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuroimage.2010.06.040
+  title: Nearly automatic segmentation of hippocampal subfields in in vivo focal T2-weighted
+    MRI
+  authors:
+  - Paul A. Yushkevich
+  - Hongzhi Wang
+  - John Pluta
+  - Sandhitsu R. Das
+  - Caryne Craige
+  - Brian B. Avants
+  - Michael W. Weiner
+  - Susanne Mueller
+  publisher: NeuroImage
+  date: '2010-12-01'
+  link: https://doi.org/dwzcs8
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ISBI.2010.5490318
+  title: Shape-based semi-automatic hippocampal subfield segmentation with learning-based
+    bias removal
+  authors:
+  - Hongzhi Wang
+  - Sandhitsu R. Das
+  - John Pluta
+  - Caryne Craige
+  - Murat Altinay
+  - Michael Weiner
+  - Susanne Mueller
+  - Paul A. Yushkevich
+  publisher: '2010 IEEE International Symposium on Biomedical Imaging: From Nano to
+    Macro'
+  date: '2010-01-01'
+  link: https://doi.org/bbrr8t
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-642-15711-0_14
+  title: 'Standing on the Shoulders of Giants: Improving Medical Image Segmentation
+    via Bias Correction'
+  authors:
+  - Hongzhi Wang
+  - Sandhitsu Das
+  - John Pluta
+  - Caryne Craige
+  - Murat Altinay
+  - Brian Avants
+  - Michael Weiner
+  - Susanne Mueller
+  - Paul Yushkevich
+  publisher: Lecture Notes in Computer Science
+  date: '2010-01-01'
+  link: https://doi.org/ffrnkm
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'Standing on the shoulders of giants: improving medical image segmentation
+    via bias correction.'
+  publisher: 'Medical image computing and computer-assisted intervention : MICCAI
+    ... International Conference on Medical Image Computing and Computer-Assisted
+    Intervention'
+  date: '2022-05-26'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-79958783537&partnerID=MN8TOARS
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuroimage.2009.09.062
+  title: The optimal template effect in hippocampus studies of diseased populations
+  authors:
+  - Brian B. Avants
+  - Paul Yushkevich
+  - John Pluta
+  - David Minkoff
+  - Marc Korczykowski
+  - John Detre
+  - James C. Gee
+  publisher: NeuroImage
+  date: '2010-02-01'
+  link: https://doi.org/cj9s4z
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuroimage.2008.08.042
+  title: "A high-resolution computational atlas of the human hippocampus from postmortem\
+    \ magnetic resonance imaging at 9.4\_T"
+  authors:
+  - P YUSHKEVICH
+  - B AVANTS
+  - J PLUTA
+  - S DAS
+  - D MINKOFF
+  - D MECHANICHAMILTON
+  - S GLYNN
+  - S PICKUP
+  - W LIU
+  - J GEE
+  publisher: NeuroImage
+  date: '2009-01-15'
+  link: https://doi.org/cscfcf
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-642-04271-3_18
+  title: A Tract-Specific Framework for White Matter Morphometry Combining Macroscopic
+    and Microscopic Tract Features
+  authors:
+  - Hui Zhang
+  - Suyash P. Awate
+  - Sandhitsu R. Das
+  - John H. Woo
+  - Elias R. Melhem
+  - James C. Gee
+  - Paul A. Yushkevich
+  publisher: Lecture Notes in Computer Science
+  date: '2009-01-01'
+  link: https://doi.org/cbns69
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- title: A tract-specific framework for white matter morphometry combining macroscopic
+    and microscopic tract features.
+  publisher: 'Medical image computing and computer-assisted intervention : MICCAI
+    ... International Conference on Medical Image Computing and Computer-Assisted
+    Intervention'
+  date: '2022-05-26'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-79953317407&partnerID=MN8TOARS
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuroimage.2008.10.051
+  title: Continuous medial representation of brain structures using the biharmonic
+    PDE
+  authors:
+  - Paul A. Yushkevich
+  publisher: NeuroImage
+  date: '2009-03-01'
+  link: https://doi.org/d9qmzc
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-642-04271-3_25
+  title: 'Gender Differences in Cerebral Cortical Folding: Multivariate Complexity-Shape
+    Analysis with Insights into Handling Brain-Volume Differences'
+  authors:
+  - Suyash P. Awate
+  - Paul Yushkevich
+  - Daniel Licht
+  - James C. Gee
+  publisher: Lecture Notes in Computer Science
+  date: '2009-01-01'
+  link: https://doi.org/cmjx6n
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'Gender differences in cerebral cortical folding: multivariate complexity-shape
+    analysis with insights into handling brain-volume differences.'
+  publisher: 'Medical image computing and computer-assisted intervention : MICCAI
+    ... International Conference on Medical Image Computing and Computer-Assisted
+    Intervention'
+  date: '2022-05-26'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-79551685573&partnerID=MN8TOARS
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.yebeh.2009.07.012
+  title: Hippocampal volumetry and functional MRI of memory in temporal lobe epilepsy
+  authors:
+  - Dawn Mechanic-Hamilton
+  - Marc Korczykowski
+  - Paul A. Yushkevich
+  - Kathy Lawler
+  - John Pluta
+  - Simon Glynn
+  - Joseph I. Tracy
+  - Ronald L. Wolf
+  - Michael R. Sperling
+  - Jacqueline A. French
+  - John A. Detre
+  publisher: Epilepsy &amp; Behavior
+  date: '2009-09-01'
+  link: https://doi.org/bfrk7k
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-642-02498-6_46
+  title: Multivariate High-Dimensional Cortical Folding Analysis, Combining Complexity
+    and Shape, in Neonates with Congenital Heart Disease
+  authors:
+  - Suyash P. Awate
+  - Paul Yushkevich
+  - Zhuang Song
+  - Daniel Licht
+  - James C. Gee
+  publisher: Lecture Notes in Computer Science
+  date: '2009-01-01'
+  link: https://doi.org/d2pp2p
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Multivariate high-dimensional cortical folding analysis, combining complexity
+    and shape, in neonates with congenital heart disease.
+  publisher: 'Information processing in medical imaging : proceedings of the ... conference'
+  date: '2022-05-26'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-70349318362&partnerID=MN8TOARS
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/hipo.20620
+  title: Structure specific analysis of the hippocampus in temporal lobe epilepsy
+  authors:
+  - Sandhitsu R. Das
+  - "Dawn Mechanic\u2010Hamilton"
+  - Marc Korczykowski
+  - John Pluta
+  - Simon Glynn
+  - Brian B. Avants
+  - John A. Detre
+  - Paul A. Yushkevich
+  publisher: Hippocampus
+  date: '2009-05-12'
+  link: https://doi.org/bnnz48
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-540-88378-4_5
+  title: Structure-Specific Statistical Mapping of White Matter Tracts
+  authors:
+  - Paul A. Yushkevich
+  - Hui Zhang
+  - Tony J. Simon
+  - James C. Gee
+  publisher: Mathematics and Visualization
+  date: '2009-01-01'
+  link: https://doi.org/d3vnf8
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-642-04271-3_57
+  title: Tensor-Based Morphometry of Fibrous Structures with Application to Human
+    Brain White Matter
+  authors:
+  - Hui Zhang
+  - Paul A. Yushkevich
+  - Daniel Rueckert
+  - James C. Gee
+  publisher: Lecture Notes in Computer Science
+  date: '2009-01-01'
+  link: https://doi.org/fn7dkq
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Tensor-based morphometry of fibrous structures with application to human
+    brain white matter.
+  publisher: 'Medical image computing and computer-assisted intervention : MICCAI
+    ... International Conference on Medical Image Computing and Computer-Assisted
+    Intervention'
+  date: '2022-05-26'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84883842871&partnerID=MN8TOARS
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ISBI.2009.5193136
+  title: Ventricularwall thickness analysis in acute myocardial infarction and hypertrophic
+    cardiomyopathy
+  authors:
+  - Hui Sun
+  - Catalina Tobon-Gomez
+  - Sandhitsu R. Das
+  - Marina Huguet
+  - Paul A. Yushkevich
+  - Alejandro F. Frangi
+  publisher: '2009 IEEE International Symposium on Biomedical Imaging: From Nano to
+    Macro'
+  date: '2009-06-01'
+  link: https://doi.org/bg4gnk
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-540-85988-8_67
+  title: '3D Cerebral Cortical Morphometry in Autism: Increased Folding in Children
+    and Adolescents in Frontal, Parietal, and Temporal Lobes'
+  authors:
+  - Suyash P. Awate
+  - Lawrence Win
+  - Paul Yushkevich
+  - Robert T. Schultz
+  - James C. Gee
+  publisher: Lecture Notes in Computer Science
+  date: '2008-01-01'
+  link: https://doi.org/c3f62f
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- title: '3D cerebral cortical morphometry in autism: increased folding in children
+    and adolescents in frontal, parietal, and temporal lobes.'
+  publisher: 'Medical image computing and computer-assisted intervention : MICCAI
+    ... International Conference on Medical Image Computing and Computer-Assisted
+    Intervention'
+  date: '2022-05-26'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-79551689701&partnerID=MN8TOARS
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ISBI.2008.4541289
+  title: Branching medial models for cardiac shape representation
+  authors:
+  - ' Hui Sun'
+  - Brian B. Avants
+  - Alejandro F. Frangi
+  - Sebastian Ordas
+  - James C. Gee
+  - Paul A. Yushkevich
+  publisher: '2008 5th IEEE International Symposium on Biomedical Imaging: From Nano
+    to Macro'
+  date: '2008-05-01'
+  link: https://doi.org/cpknhb
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ISBI.2008.4540957
+  title: Building an atlas of hippocampal subfields using postmortem MRI
+  authors:
+  - Paul A. Yushkevich
+  - Brian B. Avants
+  - John Pluta
+  - David Minkoff
+  - Stephen Pickup
+  - ' Weixia Liu'
+  - John A. Detre
+  - Murray Grossman
+  - James C. Gee
+  publisher: '2008 5th IEEE International Symposium on Biomedical Imaging: From Nano
+    to Macro'
+  date: '2008-05-01'
+  link: https://doi.org/ffb89v
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Cardiac medial modeling and time-course heart wall thickness analysis.
+  publisher: 'Medical image computing and computer-assisted intervention : MICCAI
+    ... International Conference on Medical Image Computing and Computer-Assisted
+    Intervention'
+  date: '2022-05-26'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-79551683880&partnerID=MN8TOARS
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-540-85988-8_61
+  title: 'Shape-Based Alignment of Hippocampal Subfields: Evaluation in Postmortem
+    MRI'
+  authors:
+  - Paul A. Yushkevich
+  - Brian B. Avants
+  - John Pluta
+  - David Minkoff
+  - John A. Detre
+  - Murray Grossman
+  - James C. Gee
+  publisher: Lecture Notes in Computer Science
+  date: '2008-01-01'
+  link: https://doi.org/dck35j
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'Shape-based alignment of hippocampal subfields: evaluation in postmortem
+    MRI.'
+  publisher: 'Medical image computing and computer-assisted intervention : MICCAI
+    ... International Conference on Medical Image Computing and Computer-Assisted
+    Intervention'
+  date: '2022-05-26'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-80052635049&partnerID=MN8TOARS
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ISBI.2008.4541071
+  title: Spatial correspondence based asymmetry analysis in FMRI
+  authors:
+  - Sandhitsu R. Das
+  - Dawn Mechanic-Hamilton
+  - Marc Korczykowski
+  - Brian B. Avants
+  - John A. Detre
+  - James C. Gee
+  - Paul A. Yushkevich
+  publisher: '2008 5th IEEE International Symposium on Biomedical Imaging: From Nano
+    to Macro'
+  date: '2008-05-01'
+  link: https://doi.org/cgh3h6
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuroimage.2008.01.013
+  title: Structure-specific statistical mapping of white matter tracts
+  authors:
+  - Paul A. Yushkevich
+  - Hui Zhang
+  - Tony J. Simon
+  - James C. Gee
+  publisher: NeuroImage
+  date: '2008-06-01'
+  link: https://doi.org/fpsmrx
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ISBI.2008.4541094
+  title: Surface-based modeling of white matter fasciculi with orientation encoding
+  authors:
+  - ' Hui Zhang'
+  - Paul A. Yushkevich
+  - Tony J Simon
+  - James C. Gee
+  publisher: '2008 5th IEEE International Symposium on Biomedical Imaging: From Nano
+    to Macro'
+  date: '2008-05-01'
+  link: https://doi.org/dc64d5
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Evaluation of shape-based normalization in the corpus callosum for white
+    matter connectivity analysis
+  publisher: Lecture Notes in Computer Science (including subseries Lecture Notes
+    in Artificial Intelligence and Lecture Notes in Bioinformatics)
+  date: '2022-05-26'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-38349100540&partnerID=MN8TOARS
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Evaluation of shape-based normalization in the corpus callosum for white
+    matter connectivity analysis.
+  publisher: 'Medical image computing and computer-assisted intervention : MICCAI
+    ... International Conference on Medical Image Computing and Computer-Assisted
+    Intervention'
+  date: '2022-05-26'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84883848794&partnerID=MN8TOARS
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TMI.2007.906784
+  title: 'High-Dimensional Spatial Normalization of Diffusion Tensor Images Improves
+    the Detection of White Matter Differences: An Example Study Using Amyotrophic
+    Lateral Sclerosis'
+  authors:
+  - ' Hui Zhang'
+  - B.B. Avants
+  - P.A. Yushkevich
+  - J.H. Woo
+  - ' Sumei Wang'
+  - L.F. McCluskey
+  - L.B. Elman
+  - E.R. Melhem
+  - J.C. Gee
+  publisher: IEEE Transactions on Medical Imaging
+  date: '2007-11-01'
+  link: https://doi.org/b3qk6x
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuroimage.2007.01.029
+  title: Hippocampus-specific fMRI group activation analysis using the continuous
+    medial representation
+  authors:
+  - Paul A. Yushkevich
+  - John A. Detre
+  - Dawn Mechanic-Hamilton
+  - "Mar\xEDa A. Fern\xE1ndez-Seara"
+  - Kathy Z. Tang
+  - Angela Hoang
+  - Marc Korczykowski
+  - Hui Zhang
+  - James C. Gee
+  publisher: NeuroImage
+  date: '2007-05-01'
+  link: https://doi.org/csc8qv
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TCBB.2007.1035
+  title: Neuroinformatics for Genome-Wide 3-D Gene Expression Mapping in the Mouse
+    Brain
+  authors:
+  - L. Ng
+  - S.D. Pathak
+  - ' Chihchau Kuan'
+  - C. Lau
+  - ' Hongwei Dong'
+  - A. Sodt
+  - ' Chinh Dang'
+  - B. Avants
+  - P. Yushkevich
+  - J.C. Gee
+  - D. Haynor
+  - E. Lein
+  - A. Jones
+  - M. Hawrylycz
+  publisher: IEEE/ACM Transactions on Computational Biology and Bioinformatics
+  date: '2007-07-01'
+  link: https://doi.org/bb2chd
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ISBI.2007.356878
+  title: NON-UNIFORM SMOOTHING IN HIPPOCAMPUS-SPECIFIC GROUP FMRI ANALYSIS
+  authors:
+  - Paul Yushkevich
+  - John Detre
+  - James Gee
+  publisher: '2007 4th IEEE International Symposium on Biomedical Imaging: From Nano
+    to Macro'
+  date: '2007-01-01'
+  link: https://doi.org/bb3rm6
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TMI.2007.900322
+  title: Shape-Based Normalization of the Corpus Callosum for DTI Connectivity Analysis
+  authors:
+  - Hui Sun
+  - Paul A. Yushkevich
+  - Hui Zhang
+  - Philip A. Cook
+  - Jeffrey T. Duda
+  - Tony J. Simon
+  - James C. Gee
+  publisher: IEEE Transactions on Medical Imaging
+  date: '2007-09-01'
+  link: https://doi.org/d644zm
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICCV.2007.4409169
+  title: Structure-Specific Statistical Mapping of White Matter Tracts using the Continuous
+    Medial Representation
+  authors:
+  - Paul A. Yushkevich
+  - Hui Zhang
+  - Tony J. Simon
+  - James C. Gee
+  publisher: 2007 IEEE 11th International Conference on Computer Vision
+  date: '2007-01-01'
+  link: https://doi.org/bss58c
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Unbiased white matter atlas construction using diffusion tensor images
+  publisher: Lecture Notes in Computer Science (including subseries Lecture Notes
+    in Artificial Intelligence and Lecture Notes in Bioinformatics)
+  date: '2022-05-26'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-38349016804&partnerID=MN8TOARS
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Unbiased white matter atlas construction using diffusion tensor images.
+  publisher: 'Medical image computing and computer-assisted intervention : MICCAI
+    ... International Conference on Medical Image Computing and Computer-Assisted
+    Intervention'
+  date: '2022-05-26'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-79551689580&partnerID=MN8TOARS
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/11784012_28
+  title: 3D Mouse Brain Reconstruction from Histology Using a Coarse-to-Fine Approach
+  authors:
+  - Paul A. Yushkevich
+  - Brian B. Avants
+  - Lydia Ng
+  - Michael Hawrylycz
+  - Pablo D. Burstein
+  - Hui Zhang
+  - James C. Gee
+  publisher: Lecture Notes in Computer Science
+  date: '2006-01-01'
+  link: https://doi.org/dk4g9v
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/3-540-31272-2_8
+  title: Anatomy-Based Visualizations of Diffusion Tensor Images of Brain White Matter
+  authors:
+  - James C. Gee
+  - Hui Zhang
+  - Abraham Dubb
+  - Brian B. Avants
+  - Paul A. Yushkevich
+  - Jeffrey T. Duda
+  publisher: Mathematics and Visualization
+  date: '2006-01-01'
+  link: https://doi.org/c8z9px
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TMI.2006.884634
+  title: Continuous Medial Representation for Anatomical Structures
+  authors:
+  - Paul A. Yushkevich
+  - Hui Zhang
+  - James C. Gee
+  publisher: IEEE Transactions on Medical Imaging
+  date: '2006-12-01'
+  link: https://doi.org/dmbvzf
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.media.2006.06.004
+  title: Deformable registration of diffusion tensor MR images with explicit orientation
+    optimization
+  authors:
+  - H ZHANG
+  - P YUSHKEVICH
+  - D ALEXANDER
+  - J GEE
+  publisher: Medical Image Analysis
+  date: '2006-10-01'
+  link: https://doi.org/fdg77d
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/CVPRW.2006.68
+  title: Efficient Generation of Shape-Based Reference Frames for the Corpus Callosum
+    for DTI-based Connectivity Analysis
+  authors:
+  - ' Hui Sun'
+  - P.A. Yushkevich
+  - ' Hui Zhang'
+  - J.C. Gee
+  - T.J. Simon
+  publisher: 2006 Conference on Computer Vision and Pattern Recognition Workshop (CVPRW'06)
+  date: ''
+  link: https://doi.org/dpmz4x
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Hippocampus-specific fMRI group activation analysis with continuous M-Reps.
+  publisher: 'Medical image computing and computer-assisted intervention : MICCAI
+    ... International Conference on Medical Image Computing and Computer-Assisted
+    Intervention'
+  date: '2022-05-26'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84883845895&partnerID=MN8TOARS
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Hippocampus-specific fMRI group activation analysis with continuous M-reps
+  publisher: Lecture Notes in Computer Science (including subseries Lecture Notes
+    in Artificial Intelligence and Lecture Notes in Bioinformatics)
+  date: '2022-05-26'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-33750237211&partnerID=MN8TOARS
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuroimage.2006.01.015
+  title: 'User-guided 3D active contour segmentation of anatomical structures: Significantly
+    improved efficiency and reliability'
+  authors:
+  - Paul A. Yushkevich
+  - Joseph Piven
+  - Heather Cody Hazlett
+  - Rachel Gimpel Smith
+  - Sean Ho
+  - James C. Gee
+  - Guido Gerig
+  publisher: NeuroImage
+  date: '2006-07-01'
+  link: https://doi.org/d585gp
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- title: An automated approach to connectivity-based partitioning of brain structures
+  publisher: Lecture Notes in Computer Science (including subseries Lecture Notes
+    in Artificial Intelligence and Lecture Notes in Bioinformatics)
+  date: '2022-05-26'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-33744818214&partnerID=MN8TOARS
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- title: An automated approach to connectivity-based partitioning of brain structures.
+  publisher: 'Medical image computing and computer-assisted intervention : MICCAI
+    ... International Conference on Medical Image Computing and Computer-Assisted
+    Intervention'
+  date: '2022-05-26'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-79551687810&partnerID=MN8TOARS
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Deformable registration of diffusion tensor MR images with explicit orientation
+    optimization
+  publisher: Lecture Notes in Computer Science (including subseries Lecture Notes
+    in Artificial Intelligence and Lecture Notes in Bioinformatics)
+  date: '2022-05-26'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-33744784599&partnerID=MN8TOARS
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Deformable registration of diffusion tensor MR images with explicit orientation
+    optimization.
+  publisher: 'Medical image computing and computer-assisted intervention : MICCAI
+    ... International Conference on Medical Image Computing and Computer-Assisted
+    Intervention'
+  date: '2022-05-26'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-79551685681&partnerID=MN8TOARS
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Parametric medial shape representation in 3-D via the Poisson partial differential
+    equation with non-linear boundary conditions.
+  publisher: 'Information processing in medical imaging : proceedings of the ... conference'
+  date: '2022-05-26'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-34047233686&partnerID=MN8TOARS
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Parametric medial shape representation in 3-D via the poisson partial differential
+    equation with non-linear boundary conditions
+  publisher: Lecture Notes in Computer Science
+  date: '2022-05-26'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-26444586056&partnerID=MN8TOARS
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.acra.2005.06.014
+  title: Regional Structural Characterization of the Brain of Schizophrenia Patients1
+  authors:
+  - Paul Yushkevich
+  - Abraham Dubb
+  - Zhiyong Xie
+  - Ruben Gur
+  - Raquel Gur
+  - James Gee
+  publisher: Academic Radiology
+  date: '2005-10-01'
+  link: https://doi.org/fxb49j
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/11566489_89
+  title: Statistical Modeling of Shape and Appearance Using the Continuous Medial
+    Representation
+  authors:
+  - Paul A. Yushkevich
+  - Hui Zhang
+  - James C. Gee
+  publisher: Lecture Notes in Computer Science
+  date: '2005-01-01'
+  link: https://doi.org/bjh5zd
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Statistical modeling of shape and appearance using the continuous medial
+    representation.
+  publisher: 'Medical image computing and computer-assisted intervention : MICCAI
+    ... International Conference on Medical Image Computing and Computer-Assisted
+    Intervention'
+  date: '2022-05-26'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-79551687302&partnerID=MN8TOARS
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Regional structural characterization of the brain of schizophrenia patients
+  publisher: Lecture Notes in Computer Science
+  date: '2022-05-26'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-20344368003&partnerID=MN8TOARS
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Registration of diffusion tensor images
+  publisher: Proceedings of the IEEE Computer Society Conference on Computer Vision
+    and Pattern Recognition
+  date: '2022-05-26'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-5044224015&partnerID=MN8TOARS
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Towards diffusion profile image registration
+  publisher: '2004 2nd IEEE International Symposium on Biomedical Imaging: Macro to
+    Nano'
+  date: '2022-05-26'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-17144366602&partnerID=MN8TOARS
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0262-8856(02)00135-X
+  title: Continuous medial representations for geometric object modeling in 2D and
+    3D
+  authors:
+  - Paul Yushkevich
+  - P. Thomas Fletcher
+  - Sarang Joshi
+  - Andrew Thall
+  - Stephen M. Pizer
+  publisher: Image and Vision Computing
+  date: '2003-01-01'
+  link: https://doi.org/dvrnvf
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1023/A:1026313132218
+  title: Deformable M-Reps for 3D Medical Image Segmentation
+  authors:
+  - Stephen M. Pizer
+  - P. Thomas Fletcher
+  - Sarang Joshi
+  - Andrew Thall
+  - James Z. Chen
+  - Yonatan Fridman
+  - Daniel S. Fritsch
+  - A. Graham Gash
+  - John M. Glotzer
+  - Michael R. Jiroutek
+  - Conglin Lu
+  - Keith E. Muller
+  - Gregg Tracton
+  - Paul Yushkevich
+  - Edward L. Chaney
+  publisher: International Journal of Computer Vision
+  date: '2003-11-01'
+  link: https://doi.org/djh54b
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Feature selection for shape-based classification of biological objects
+  publisher: Lecture Notes in Computer Science (including subseries Lecture Notes
+    in Artificial Intelligence and Lecture Notes in Bioinformatics)
+  date: '2022-05-26'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-33744812523&partnerID=MN8TOARS
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Feature selection for shape-based classification of biological objects.
+  publisher: 'Information processing in medical imaging : proceedings of the ... conference'
+  date: '2022-05-26'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-4644336365&partnerID=MN8TOARS
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TMI.2002.1009389
+  title: Multiscale deformable model segmentation and statistical shape analysis using
+    medial descriptions
+  authors:
+  - S. Joshi
+  - S. Pizer
+  - P.T. Fletcher
+  - P. Yushkevich
+  - A. Thall
+  - J.S. Marron
+  publisher: IEEE Transactions on Medical Imaging
+  date: '2002-05-01'
+  link: https://doi.org/fcksjz
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Intuitive, localized analysis of shape variability
+  publisher: Lecture Notes in Computer Science (including subseries Lecture Notes
+    in Artificial Intelligence and Lecture Notes in Bioinformatics)
+  date: '2022-05-26'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84937417765&partnerID=MN8TOARS
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Segmentation, registration, and measurement of shape variation via image
+    object shape
+  publisher: IEEE Transactions on Medical Imaging
+  date: '2022-05-26'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-0033201361&partnerID=MN8TOARS
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.11.10.687672
+  title: 'Diffusion MRI Processing in the HEALthy Brain and Child Development Study:
+    Innovations and Applications'
+  authors:
+  - Matthew Cieslak
+  - M. Okan Irfanoglu
+  - Steven L. Meisler
+  - Taylor Salo
+  - Adam Raikes
+  - Philip A Cook
+  - Ai Wern Chung
+  - Erik G. Lee
+  - Ruolin Li
+  - Xu Li
+  - Diliana Pecheva
+  - Damien A. Fair
+  - Christopher D. Smyser
+  - Michael P. Harms
+  - Bennett A. Landman
+  - Jessica Wisnowski
+  - Hao Huang
+  - Andrew L. Alexander
+  - Theodore D. Satterthwaite
+  publisher: openRxiv
+  date: '2025-11-11'
+  link: https://doi.org/hcpjfz
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/hbm.26570
+  title: "Diffusion\n                    <scp>MRI</scp>\n                    head\
+    \ motion correction methods are highly accurate but impacted by denoising and\
+    \ sampling scheme"
+  authors:
+  - Matthew Cieslak
+  - Philip A. Cook
+  - Golia Shafiei
+  - Tinashe M. Tapera
+  - Hamsanandini Radhakrishnan
+  - Mark Elliott
+  - David R. Roalf
+  - Desmond J. Oathes
+  - Dani S. Bassett
+  - M. Dylan Tisdall
+  - Ariel Rokem
+  - Scott T. Grafton
+  - Theodore D. Satterthwaite
+  publisher: Human Brain Mapping
+  date: '2024-01-30'
+  link: https://doi.org/hcpjf2
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.02.09.527696
+  title: Development of White Matter Fiber Covariance Networks Supports Executive
+    Function in Youth
+  authors:
+  - "Jo\xEBlle Bagautdinova"
+  - Josiane Bourque
+  - Valerie J Sydnor
+  - Matt Cieslak
+  - Aaron F Alexander-Bloch
+  - Max A Bertolero
+  - Phil A Cook
+  - Raquel C Gur
+  - Ruben E Gur
+  - Bart Larsen
+  - Tyler M Moore
+  - Hamsi Radhakrishnan
+  - David R Roalf
+  - Russel T Shinohara
+  - Tinashe M Tapera
+  - Chenying Zhao
+  - Aristeidis Sotiras
+  - Christos Davatzikos
+  - Theodore D Satterthwaite
+  publisher: openRxiv
+  date: '2023-02-10'
+  link: https://doi.org/hcpjf3
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.10.19.20215392
+  title: The ANTsX ecosystem for quantitative biological and medical imaging
+  authors:
+  - Nicholas J. Tustison
+  - Philip A. Cook
+  - Andrew J. Holbrook
+  - Hans J. Johnson
+  - John Muschelli
+  - Gabriel A. Devenyi
+  - Jeffrey T. Duda
+  - Sandhitsu R. Das
+  - Nicholas C. Cullen
+  - Daniel L. Gillen
+  - Michael A. Yassa
+  - James R. Stone
+  - James C. Gee
+  - Brian B. Avants
+  publisher: openRxiv
+  date: '2020-10-21'
+  link: https://doi.org/hcpjf4
+  orcid: 0000-0003-0530-2887
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/868810
+  title: 'Longitudinal ComBat: A Method for Harmonizing Longitudinal Multi-scanner
+    Imaging Data'
+  authors:
+  - Joanne C. Beer
+  - Nicholas J. Tustison
+  - Philip A. Cook
+  - Christos Davatzikos
+  - Yvette I. Sheline
+  - Russell T. Shinohara
+  - Kristin A. Linn
+  publisher: openRxiv
+  date: '2019-12-08'
+  link: https://doi.org/gkwj7x
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1523/JNEUROSCI.2200-17.2018
+  title: Diminished Cortical Thickness Is Associated with Impulsive Choice in Adolescence
+  authors:
+  - Marieta Pehlivanova
+  - Daniel H. Wolf
+  - Aristeidis Sotiras
+  - Antonia N. Kaczkurkin
+  - Tyler M. Moore
+  - Rastko Ciric
+  - Philip A. Cook
+  - Angel Garcia de La Garza
+  - Adon F.G. Rosen
+  - Kosha Ruparel
+  - Anup Sharma
+  - Russell T. Shinohara
+  - David R. Roalf
+  - Ruben C. Gur
+  - Christos Davatzikos
+  - Raquel E. Gur
+  - Joseph W. Kable
+  - Theodore D. Satterthwaite
+  publisher: The Journal of Neuroscience
+  date: '2018-02-12'
+  link: https://doi.org/gc9hh9
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.64898/2026.08.17.26360463
+  title: Adaptive hub reorganization distinguishes cognitive preservation from decline
+    in epilepsy
+  authors:
+  - Tamjid Imtiaz
+  - Alfredo Lucas
+  - Emily Zhang
+  - Mariam Josyula
+  - Nina Petillo
+  - Daniel J. Zhou
+  - Mallory Mckee
+  - Joel M. Stein
+  - Kathy A. Lawler
+  - Sandhitsu Das
+  - Kathryn A. Davis
+  publisher: openRxiv
+  date: '2026-08-18'
+  link: https://doi.org/hcpjf5
+  orcid: 0000-0003-0530-2887
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.brs.2025.103013
+  title: A wireless, 60-channel, AI-enabled neurostimulation platform
+  authors:
+  - Daniel S. Rizzuto
+  - Haydn G. Herrema
+  - Zhe Hu
+  - Daniil Utin
+  - Joshua Kahn
+  - Chris Ho
+  - Andrew B. Smiles
+  - Robert E. Gross
+  - Bradley C. Lega
+  - Sandhitsu R. Das
+  - Michael J. Kahana
+  publisher: Brain Stimulation
+  date: '2026-01-01'
+  link: https://doi.org/hcpjf6
+  orcid: 0000-0003-0530-2887
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.07.08.25331145
+  title: 'Improving the Detection of Mild Cognitive Impairment with FlowGAN: a Framework
+    for ASL to FDG-PET Image Synthesis'
+  authors:
+  - Chetan Vadali
+  - Alfredo Lucas
+  - T. Campbell Arnold
+  - Sudipto Dolui
+  - Sandhitsu Das
+  - David A. Wolk
+  - Kathryn A. Davis
+  - Joel M. Stein
+  - John A. Detre
+  publisher: openRxiv
+  date: '2025-07-10'
+  link: https://doi.org/hcpjf7
+  orcid: 0000-0003-0530-2887
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.02.04.635298
+  title: A wireless, 60-channel, AI-enabled neurostimulation platform
+  authors:
+  - Daniel S. Rizzuto
+  - Haydn G. Herrema
+  - Zhe Hu
+  - Daniel Utin
+  - Joshua Kahn
+  - Chris Ho
+  - Andrew Smiles
+  - Robert E. Gross
+  - Bradley C. Lega
+  - Sandhitsu R. Das
+  - Michael J. Kahana
+  publisher: openRxiv
+  date: '2025-02-06'
+  link: https://doi.org/hcpjf8
+  orcid: 0000-0003-0530-2887
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.05.28.24308027
+  title: 'Enhancing the Diagnostic Utility of ASL Imaging in Temporal Lobe Epilepsy
+    through FlowGAN: An ASL to PET Image Translation Framework'
+  authors:
+  - Alfredo Lucas
+  - Chetan Vadali
+  - Sofia Mouchtaris
+  - T. Campbell Arnold
+  - James J. Gugger
+  - Catherine Kulick-Soper
+  - Mariam Josyula
+  - Nina Petillo
+  - Sandhitsu Das
+  - Jacob Dubroff
+  - John A. Detre
+  - Joel M. Stein
+  - Kathryn A. Davis
+  publisher: openRxiv
+  date: '2024-05-28'
+  link: https://doi.org/hcpjf9
+  orcid: 0000-0003-0530-2887
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.06.06.23291025
+  title: 'Improved Seizure Onset-Zone Lateralization in Temporal Lobe Epilepsy using
+    7T Resting-State fMRI: A Direct Comparison with 3T'
+  authors:
+  - Alfredo Lucas
+  - Eli J. Cornblath
+  - Nishant Sinha
+  - Lorenzo Caciagli
+  - Peter Hadar
+  - Ashley Tranquille
+  - Joel M. Stein
+  - Sandhitsu Das
+  - Kathryn A. Davis
+  publisher: openRxiv
+  date: '2023-06-07'
+  link: https://doi.org/hcpjgb
+  orcid: 0000-0003-0530-2887
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/ana.26233
+  title: "Tau\u2010Atrophy Variability Reveals Phenotypic Heterogeneity in Alzheimer's\
+    \ Disease"
+  authors:
+  - Sandhitsu R. Das
+  - Xueying Lyu
+  - Michael Tran Duong
+  - Long Xie
+  - Lauren McCollum
+  - Robin de Flores
+  - Michael DiCalogero
+  - David J. Irwin
+  - Bradford C. Dickerson
+  - Ilya M. Nasrallah
+  - Paul A. Yushkevich
+  - David A. Wolk
+  publisher: Annals of Neurology
+  date: '2021-10-15'
+  link: https://doi.org/gnbmmc
+  orcid: 0000-0002-7184-7028
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.11.05.20224873
+  title: 'Remote effects of temporal lobe epilepsy surgery: long-term morphological
+    changes after surgical resection'
+  authors:
+  - T. Campbell Arnold
+  - Lohith G. Kini
+  - John M. Bernabei
+  - Andrew Y. Revell
+  - Sandhitsu R. Das
+  - Joel M. Stein
+  - Tim H. Lucas
+  - Dario J. Englot
+  - Victoria L. Morgan
+  - Brian Litt
+  - Kathryn A. Davis
+  publisher: openRxiv
+  date: '2020-11-06'
+  link: https://doi.org/hcpjgc
+  orcid: 0000-0003-0530-2887
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.64898/2026.08.13.744704
+  title: 'Bridging Biomedical Atlas Ecosystem: Cross-Atlas Alignment And Scalable
+    Tissue Specimen Registration'
+  authors:
+  - Yashvardhan Jain
+  - Bhargav Desai
+  - Danial Qaurooni
+  - Antara Bhavsar
+  - Peter Kienle
+  - Alison M. Pouch
+  - "Kathleen O\u2019Neill"
+  - Siddharth Apte
+  - Bruce W. Herr
+  - Stephen A. Fisher
+  - "Katy B\xF6rner"
+  publisher: openRxiv
+  date: '2026-08-18'
+  link: https://doi.org/hcpjgd
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11340-026-01273-7
+  title: 'The In-Situ Mechanics of the Tricuspid Valve: Strain Heterogeneity and Anisotropy
+    via 3D Digital Image Correlation'
+  authors:
+  - T. G. LaRue
+  - C. E. Haese
+  - A. M. Pouch
+  - J. N. Fuhg
+  - T. A. Timek
+  - M. K. Rausch
+  publisher: Experimental Mechanics
+  date: '2026-02-25'
+  link: https://doi.org/hcpjgf
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.echo.2025.04.004
+  title: Dynamic Segmentation of Three-Dimensional Transesophageal Echocardiography
+    Using an Automated Neural Network for Transcatheter Edge-to-Edge Repair
+  authors:
+  - Charlotte L. Frost
+  - Mahesh Vidula
+  - Ray Hu
+  - Howard C. Herrmann
+  - Alison M. Pouch
+  - Tiffany Chen
+  publisher: Journal of the American Society of Echocardiography
+  date: '2025-08-01'
+  link: https://doi.org/hcpjgg
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.media.2023.102804
+  title: Strain estimation in aortic roots from 4D echocardiographic images using
+    medial modeling and deformable registration
+  authors:
+  - Ankush Aggarwal
+  - Peter Mortensen
+  - Jilei Hao
+  - "\u0141ukasz Kaczmarczyk"
+  - Albert T. Cheung
+  - Lourdes Al Ghofaily
+  - Robert C. Gorman
+  - Nimesh D. Desai
+  - Joseph E. Bavaria
+  - Alison M. Pouch
+  publisher: Medical Image Analysis
+  date: '2023-07-01'
+  link: https://doi.org/hcpjgh
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cnm.3142
+  title: A noninvasive method for the determination of<i>in vivo</i>mitral valve leaflet
+    strains
+  authors:
+  - Bruno V. Rego
+  - Amir H. Khalighi
+  - Andrew Drach
+  - Eric K. Lai
+  - Alison M. Pouch
+  - Robert C. Gorman
+  - Joseph H. Gorman
+  - Michael S. Sacks
+  publisher: International Journal for Numerical Methods in Biomedical Engineering
+  date: '2018-09-14'
+  link: https://doi.org/gd35n6
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/hipo.70036
+  title: "Automatic Segmentation of Medial Temporal Lobe Subregions in Multi\u2010\
+    Scanner, Multi\u2010Modality Magnetic Resonance Imaging of Variable Quality"
+  authors:
+  - Yue Li
+  - Long Xie
+  - Pulkit Khandelwal
+  - Laura E. M. Wisse
+  - Christopher A. Brown
+  - Karthik Prabhakaran
+  - M. Dylan Tisdall
+  - "Dawn Mechanic\u2010Hamilton"
+  - John A. Detre
+  - Sandhitsu R. Das
+  - David A. Wolk
+  - Paul A. Yushkevich
+  publisher: Hippocampus
+  date: '2025-10-07'
+  link: https://doi.org/hbcff9
+  orcid: 0000-0002-7184-7028
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/alz.14492
+  title: "A multi\u2010cohort study of longitudinal and cross\u2010sectional Alzheimer's\
+    \ disease biomarkers in cognitively unimpaired older adults"
+  authors:
+  - Long Xie
+  - Sandhitsu R. Das
+  - Yue Li
+  - Laura E. M. Wisse
+  - Emily McGrew
+  - Xueying Lyu
+  - Michael DiCalogero
+  - Ujashi Shah
+  - Ademola Ilesanmi
+  - Amanda E. Denning
+  - Chris A. Brown
+  - Jesse Cohen
+  - Lasya Sreepada
+  - Mengjin Dong
+  - Niyousha Sadeghpour
+  - Pulkit Khandelwal
+  - Ranjit Ittyerah
+  - Sadhana Ravikumar
+  - Shokufeh Sadaghiani
+  - Stanislau Hrybouski
+  - Robin de Flores
+  - Eli Gibson
+  - Paul A. Yushkevich
+  - David A. Wolk
+  publisher: Alzheimer's &amp; Dementia
+  date: '2025-01-27'
+  link: https://doi.org/g9d4bt
+  orcid: 0000-0002-7184-7028
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.media.2022.102683
+  title: 'Deep label fusion: A generalizable hybrid multi-atlas and deep convolutional
+    neural network for medical image segmentation'
+  authors:
+  - Long Xie
+  - Laura E.M. Wisse
+  - Jiancong Wang
+  - Sadhana Ravikumar
+  - Pulkit Khandelwal
+  - Trevor Glenn
+  - Anica Luther
+  - Sydney Lim
+  - David A. Wolk
+  - Paul A. Yushkevich
+  publisher: Medical Image Analysis
+  date: '2023-01-01'
+  link: https://doi.org/grpjr5
+  orcid: 0000-0002-7184-7028
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10278-021-00470-1
+  title: Brain MRI Deep Learning and Bayesian Inference System Augments Radiology
+    Resident Performance
+  authors:
+  - Jeffrey D. Rudie
+  - Jeffrey Duda
+  - Michael Tran Duong
+  - Po-Hao Chen
+  - Long Xie
+  - Robert Kurtz
+  - Jeffrey B. Ware
+  - Joshua Choi
+  - Raghav R. Mattay
+  - Emmanuel J. Botzolakis
+  - James C. Gee
+  - R. Nick Bryan
+  - Tessa S. Cook
+  - Suyash Mohan
+  - Ilya M. Nasrallah
+  - Andreas M. Rauschecker
+  publisher: Journal of Digital Imaging
+  date: '2021-06-15'
+  link: https://doi.org/hcpjgj
+  orcid: 0000-0002-7184-7028
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/hbm.25151
+  title: Longitudinal atrophy in early Braak regions in preclinical Alzheimer's disease
+  authors:
+  - Long Xie
+  - Laura E. M. Wisse
+  - Sandhitsu R. Das
+  - Nicolas Vergnet
+  - Mengjin Dong
+  - Ranjit Ittyerah
+  - Robin de Flores
+  - Paul A. Yushkevich
+  - David A. Wolk
+  publisher: Human Brain Mapping
+  date: '2020-08-26'
+  link: https://doi.org/gjdncg
+  orcid: 0000-0002-7184-7028
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1148/ryai.2020190146
+  title: 'Subspecialty-Level Deep Gray Matter Differential Diagnoses with Deep                     Learning
+    and Bayesian Networks on Clinical Brain MRI: A Pilot                     Study'
+  authors:
+  - Jeffrey D. Rudie
+  - Andreas M. Rauschecker
+  - Long Xie
+  - Jiancong Wang
+  - Michael Tran Duong
+  - Emmanuel J. Botzolakis
+  - Asha Kovalovich
+  - John M. Egan
+  - Tessa Cook
+  - R. Nick Bryan
+  - Ilya M. Nasrallah
+  - Suyash Mohan
+  - James C. Gee
+  publisher: 'Radiology: Artificial Intelligence'
+  date: '2020-09-01'
+  link: https://doi.org/gtj5xq
+  orcid: 0000-0002-7184-7028
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1148/radiol.2020190283
+  title: Artificial Intelligence System Approaching Neuroradiologist-level                    Differential
+    Diagnosis Accuracy at Brain MRI
+  authors:
+  - Andreas M. Rauschecker
+  - Jeffrey D. Rudie
+  - Long Xie
+  - Jiancong Wang
+  - Michael Tran Duong
+  - Emmanuel J. Botzolakis
+  - Asha M. Kovalovich
+  - John Egan
+  - Tessa C. Cook
+  - R. Nick Bryan
+  - Ilya M. Nasrallah
+  - Suyash Mohan
+  - James C. Gee
+  publisher: Radiology
+  date: '2020-06-01'
+  link: https://doi.org/gg55nd
+  orcid: 0000-0002-7184-7028
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/hipo.23172
+  title: 'Characterization of hippocampal subfields using ex vivo MRI and histology
+    data: Lessons for in vivo segmentation'
+  authors:
+  - Robin de Flores
+  - David Berron
+  - "Song\u2010Lin Ding"
+  - Ranjit Ittyerah
+  - John B. Pluta
+  - Long Xie
+  - Daniel H. Adler
+  - John L. Robinson
+  - Theresa Schuck
+  - John Q. Trojanowski
+  - Murray Grossman
+  - Weixia Liu
+  - Stephen Pickup
+  - Sandhitsu R. Das
+  - David A. Wolk
+  - Paul A. Yushkevich
+  - Laura E. M. Wisse
+  publisher: Hippocampus
+  date: '2019-11-01'
+  link: https://doi.org/gjc8pq
+  orcid: 0000-0002-7184-7028
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/hbm.24607
+  title: "Automated segmentation of medial temporal lobe subregions on in vivo T1\u2010\
+    weighted MRI in early stages of Alzheimer's disease"
+  authors:
+  - Long Xie
+  - Laura E. M. Wisse
+  - John Pluta
+  - Robin de Flores
+  - Virgine Piskin
+  - "Jose V. Manj\xF3n"
+  - Hongzhi Wang
+  - Sandhitsu R. Das
+  - "Song\u2010Lin Ding"
+  - David A. Wolk
+  - Paul A. Yushkevich
+  publisher: Human Brain Mapping
+  date: '2019-04-29'
+  link: https://doi.org/gfz9zf
+  orcid: 0000-0002-7184-7028
+  plugin: orcid.py
+  file: orcid.yaml

@@ -1,0 +1,78 @@
+---
+name: Long Xie
+image: images/wp/2019/07/IMG_2772_meitu_1-1024x1024-1.jpg
+role: faculty
+links:
+  orcid: 0000-0002-7184-7028
+redirect_from:
+- /people/faculty-staff/long-xie/
+---
+
+![img_2772_meitu_1](/images/wp/2014/04/IMG_2772_meitu_1-1024x1024.jpg)
+**Research Overview**
+I am a research scientist at the University of Pennsylvania, under the direction of [Prof. Paul Yushkevich](/members/paul-yushkevich.html) and Prof. David Wolk. My current research interest is in developing novel imaging biomarkers as well as improving the current ones for early diagnosis and monitoring of Alzheimer’s Disease (AD).
+More Info: [Google Scholar](https://scholar.google.com/citations?user=xCo1UNkAAAAJ&hl=en) / [LinkedIn](https://www.linkedin.com/in/long-xie-62318a3b) / [Research Gate](https://www.researchgate.net/profile/Long_Xie5)
+**Projects**
+
+- [Multi-Template Analysis of Human Perirhinal Cortex (PRC) in Brain MRI: Explicitly Accounting for Anatomical Variability](/research/multi-template-analysis-of-human-perirhinal-cortex-prc-in-brain-mri-explicitly-accounting-for-anatomical-variability.html)
+- [Accounting for the Confound of Meninges in Segmenting Entorhinal and Perirhinal Cortices in T1-weighted MRI](/research/accounting-for-the-confound-of-meninges-in-segmenting-entorhinal-and-perirhinal-cortices-in-t1-weighted-mri.html)
+- Arterial Spin Labeling (ASL) Data Cleaning and Analysis
+
+**Education**
+
+- Ph.D. in Bioengineering, University of Pennsylvania, 2018.
+- M.S.E. in Bioengineering, University of Pennsylvania, 2013.
+- B.E. in Biomedical Engineering, Zhejiang University, 2011.
+
+## **Journal Publications**
+
+- Das, S.R., **Xie, L.**, Wisse, L.E., Ittyerah, R., Salena C., Yushkevich, P.A., Wolk, D.A. and Alzheimer’s Disease Neuroimaging Initiative. (2019). In-vivo Measures of Tau Burden are Associated with Atrophy in Early Braak Stage Medial Temporal Lobe Regions in Amyloid Negative Individuals. Alzheimer’s & Dementia. (Accepted)
+- Duong M., Wang J., Rudie J.D., **Xie L.**, Mohan S., Gee J.C., Rauschecker A.M. (2019) Convolutional Neural Network for Automated FLAIR Lesion Segmentation on Clinical Brain MR. American Journal of Neuroradiology. (Accepted)
+- Parivash, S.N., Goubran, M., Mills, B.D., Rezaii, P., Thaler, C., Wolman, D., Bian, W., Mitchell, L.A., Boldt, B., Douglas, D., Wilson, E., Choi J., **Xie L.**, Yushkevich P.A., Digiacomo P., Wongsripuemtet J., Parekh M., Fiehler J., Do H., Lopez J., Rosenerg J., Camarillo D.B., Grant G., Wintermark M. and Zeineh M. (2019). Longitudinal changes in hippocampal subfield volume associated with collegiate football. Journal of neurotrauma.
+- **Xie L.**, Wisse L.E.M., Pluta J., de Flores R., Piskin V., Manjón J.V., Wang H., Das S.R., Ding S-L., Wolk D.A., Yushkevich P.A., for the Alzheimer’s Disease Neuroimaging Initiative. (2019). Automated segmentation of medial temporal lobe subregions on in vivo T1-weighted MRI in early stages of Alzheimer’s disease. Human brain mapping.
+- **Xie, L.**, Das, S. R., Pilania, A., Daffner, M., Stockbower, G. E., Dolui, S., Yushkevich, P. , Detre, J.A. and Wolk, D. A. (2019). Task-enhanced arterial spin labeled perfusion MRI predicts longitudinal neurodegeneration in mild cognitive impairment. Hippocampus, 29(1), 26-36.
+- **Xie, L.**, Das, S. R., Wisse, L. E., Ittyerah, R., Yushkevich, P. A., Wolk, D. A., & Alzheimer’s Disease Neuroimaging Initiative. (2018). Early Tau Burden Correlates with Higher Rate of Atrophy in Transentorhinal Cortex. Journal of Alzheimer’s Disease, 62(1), 85-92.
+- **Xie, L.**, Shinohara, R.T., Ittyerah, R., Kuijf, H.J., Pluta, J.B., Blom, K., Kooistra, M., Reijmer, Y.D., Koek, H.L., Zwanenburg, J.J.M. and Wang, H. (2018). Automated Multi-Atlas Segmentation of Hippocampal and Extrahippocampal Subregions in Alzheimer’s Disease at 3T and 7T: What Atlas Composition Works Best?. Journal of Alzheimer’s disease, 63(1), p.217.
+- Das, S.R., **Xie, L.**, Wisse, L.E., Ittyerah, R., Tustison, N.J., Dickerson, B.C., Yushkevich, P.A., Wolk, D.A. and Alzheimer’s Disease Neuroimaging Initiative. (2018). Longitudinal and cross-sectional structural MRI correlates of AV-1451 uptake. Neurobiology of Aging, 66, pp.49-58.
+- Berron, D., Vieweg, P., Hochkeppler, A., Pluta, J.B., Ding, S.L., Maass, A., Luther A., **Xie L.**, Das S.R., Wolk D.A., Wolbers, T. (2017). A protocol for manual segmentation of medial temporal lobe subregions in 7 tesla MRI. NeuroImage: Clinical, 15, pp.466-482.
+- Adler, D.H., Wisse, L.E., Ittyerah, R., Pluta, J.B., Ding, S.L., **Xie, L.**, Wang, J., Kadivar, S., Robinson, J.L., Schuck, T. and Trojanowski, J.Q. (2018). Characterizing the human hippocampus in aging and Alzheimer’s disease using a computational atlas derived from ex vivo MRI and histology. Proceedings of the National Academy of Sciences (PNAS), 115(16), pp.4252-4257.
+- Koeing M.A., Mechanic-Hamilton D., Xie X.S., Combs F.M., Cappola R.A., **Xie L.**, Detre A.J., Wolk A.D., Arnold E.S. (2017). Effects of the Insulin Sensitizer Metformin in Alzheimer’s Disease: Pilot Data from a Randomized Placebo-Controlled Crossover Study. Alzheimer’s Disease & Associated Disorders, 31(2), p.107.
+- Tustison N., Avants B.B., Wang H., **Xie L.**, Yushkevich A.P., Manjon V.J. (2017). A patch-based framework for new ITK functionality: Joint fusion, denoising, and non-local super-resolution. Insight Journal.
+- **Xie L.**, Pluta J., Das S.R., Wisse E.M.L., Wang H., Mancuso L., Kliot D., Avants B.B., Ding S-L., Manjon V.J., Wolk D.A., Yushkevich P.A. (2016). Multi-template Analysis of Human Perirhinal Cortex in Brain MRI: Explicitly Accounting for Anatomical Variability. Neuroimage, 144, 183-202.
+- **Xie L.**, Dolui S., Das S.R., Stockbower G.E., Daffner M., Rao H., Yushkevich P.A., Detre J.A., Wolk D.A. (2016). A Brain Stress Test: Cerebral Perfusion During Memory Encoding in Mild Cognitive Impairment. Neuroimage: Clinical 11, 388-397.
+- Ban H.Y., Schweiger M., Kavuri V.C., Cochran J.M., **Xie L.**, Busch D.R., Katrašnik J., Pathak S., Chung S.H., Lee K., Choe R. (2016). Heterodyne Frequency-domain Multispectral Diffuse Optical Tomography of Breast Cancer in the Parallel-plane Transmission Geometry. Medical Physics, 43(7), pp.4383-4395.
+- Yushkevich P.A., Pluta J.B., Wang H., **Xie L.**, Ding S-L., Gertje E.C., Mancuso L., Kilot D., Das S.R., Wolk D.A. (2015). Automated Volumetry and Regional Thickness Analysis of Hippocampal Subfields and Medial Temporal Cortical Structures in Mild Cognitive Impairment. Human brain mapping, 36(1), 258-287.
+
+**Peer-reviewed Conference Publications**
+
+- **Xie, L.**, Wang, J., Dong M., Wolk D.A., Yushkevich, P.A. (2019). Improving Multi-Atlas Segmentation by Convolutional Neural Network Based Patch Error Estimation. *Shenzhen, China.* *In Medical Image Computing and Computer-Assisted Intervention–MICCAI 2019.* **(Early accepted paper)**
+- Yushkevich P.A., Aly A., Wang J., **Xie L.**, Gorman R.C., Younes L., Pouch A. (2019). Diffeomorphic Medial Modeling. *Hongkong, China.* *In International Conference on Information Processing in Medical Imaging 2019 (IPMI 2019).* **(Early accepted paper, oral presentation)**
+- **Xie, L.**, Wisse, L.E., Das, S.R., Ittyerah, R., Wang, J., Wolk, D.A., Yushkevich, P.A. and Alzheimer’s Disease Neuroimaging Initiative. (2018). Characterizing Anatomical Variability and Alzheimer’s Disease Related Cortical Thinning in the Medial Temporal Lobe Using Graph-Based Groupwise Registration and Point Set Geodesic Shooting. *Granada, Spain.* *In International Workshop on Shape in Medical Imaging (pp. 28-37). Springer, Cham.* **(Oral presentation)**
+- **Xie L.**, Wisse E.M.L., Manjon V.J. Wang H., Das, S.R., Wolk A.D., Yushkevich A.P. (2016). Accounting for the Confound of Meninges in Segmenting Entorhinal and Perirhinal Cortices in T1-weighted MRI. *Athens, Greece. Medical Image Computing and Computer-Assisted Intervention–MICCAI 2016* (pp. 564-571)*.* Springer International Publishing. **(Early accepted paper)**
+- **Xie L.**, Sedai S., Liang X., Compas C. B., Wang H., Yushkevich P.A., Syeda-Mahmood T. (2015). Multi-atlas Label Fusion with Augmented Atlases for Fast and Accurate Segmentation of Cardiac MR Images. *New York, U.S.A. Biomedical Imaging (ISBI), 2015 IEEE 12th International Symposium on*(pp. 376-379). IEEE. (**Oral presentation**)
+- **Xie L.**, Pluta J., Wang H., Das S.R., Mancuso L., Kliot D., Avants B.B., Ding S-L., Wolk D.A., Yushkevich P.A. (2014). Automatic Clustering and Thickness Measurement of Anatomical Variants of the Human Perirhinal Cortex. *Boston, U.S.A. Medical Image Computing and Computer-Assisted Intervention–MICCAI 2014*(pp. 81-88). Springer International Publishing. (**Oral presentation, 4% acceptance rate**)
+
+## **Selected Abstract Presentations**
+
+- **Xie L.**, Wisse E.M.L., Das S.R., Ittyerah R., de Flores R., Yushkevicha P.A., David A. Wolk D.A. (2019). Novel Measures of Longitudinal Change in Medial Temporal Lobe Subregions Discriminate Preclinical Alzheimer’s Disease Patients from Amyloid-b Negative Controls. *Los Angeles, U.S.A. Alzheimer’s Association International Conference (AAIC) 2019.* **(Oral presentation)**
+- Wisse L.E.M., **Xie L.**, Das S.R., de Flores R., Yushkevich P.A., Wolk D.A. (2019). Cross-sectional and longitudinal medial temporal lobe subregional atrophy in suspected non-Alzheimer’s pathophysiology. *Los Angeles, U.S.A. Alzheimer’s Association International Conference (AAIC) 2019.* **(Oral presentation)**
+- Wisse L.E.M., Glenn T., Das S.R., de Flores R., **Xie L.**, Yushkevich P.A., Wolk D.A. (2019). Medial temporal lobe correlates of anosagnosia in prodromal AD. *Los Angeles, U.S.A. Alzheimer’s Association International Conference (AAIC) 2019.*
+- McCollum L., Das S.R., **Xie L.**, Cui S., de Flores R., Wisse L.E.M., Yushkevich P.A., Wolk D.A. (2019). Amyloid-Positive Cognitive Impairment Is Less “Alzheimer’s-Like” When Tau Is Negative. *Los Angeles, U.S.A. Alzheimer’s Association International Conference (AAIC) 2019.*
+- de Flores R., Wisse L.E.M., Das S.R., **Xie L.**, McMillan C., Trojanowski J.Q., Grossman M., Lee E., Irwin D., Yushkevich P.A., Wolk D.A. (2019). Contribution of tau, TDP-43, β-amyloid and α-synuclein to medial temporal lobe atrophy. *Los Angeles, U.S.A. Alzheimer’s Association International Conference (AAIC) 2019.*
+- Klooster N.B., Pilania A., Wisse L.E.M., Das S.R., **Xie L.**, Wolk D.A., Chatterjee A. (2019). Semantic Richness in People with Preclinical Alzheimer’s disease. *Los Angeles, U.S.A. Alzheimer’s Association International Conference (AAIC) 2019.*
+- Das, S., **Xie, L.,** Wisse, L., Ittyerah, R., Yushkevich, P., & Wolk, D. (2019). 18F-AV-1451 Tau Tracer Uptake Correlates with Medial Temporal Lobe Subregional Atrophy in Amyloid Negative Individuals. *Philadelphia, U.S.A. American Academy of Neurology (AAN) 2019 and Miami, U.S.A. Human Amyloid Imaging (HAI) 2019.*
+- **Xie, L.**, Wisse, L., Das, S.R., Ittyerah, R., Yushkevich, P.A. and Wolk, D.A. (2018). Pattern of Cortical Thinning and Shape Variability Related to Alzheimer’s Disease in Regions Affected by Earliest Neurofibrillary Tangle Pathology. *Chicago, U.S.A. Alzheimer’s Association International Conference (AAIC) 2018.*
+- **Xie, L.**, Wisse, L., Das, S.R., Ittyerah, R., Wolk, D.A. and Yushkevich, P.A. (2018). Dura Matters: Failure to Account for the Dura Mater Confounds Measures of Atrophy in Cortical Regions linked to the Earliest Neurofibrillary Tangle Pathology. *Chicago, U.S.A. Alzheimer’s Association International Conference (AAIC) 2018.*
+- Das, S.R., Ittyerah, R., Wisse, L., **Xie, L.**, Yushkevich, P.A. and Wolk, D.A. (2018). AV1451 Tau Tracer Uptake Correlates with Hippocampal CA1 Subfield Atrophy in Amyloid-Negative Individuals. *Chicago, U.S.A. Alzheimer’s Association International Conference (AAIC) 2018.*
+- Alper J., Feldman R.E., Pai A., Rutland J.W., Huang K-H., **Xie L.**, Fleysher L., Rus A.L., Marcuse L.V., Fields M.C., Lin H-M., Delman B.N., Hof P., Balchandani P. (2018). Automated Hippocampal Subfield Segmentation using 7T MRI in Patients with Epilepsy. *San Diego, U.S.A. Society of Neuroscience (SfN) 2018.* **(Oral presentation)**
+- **Xie L.**, Das S.R., Wisse E.M.L., Ittyeraha R., Yushkevicha A.P., David A.W. (2017). Tau Burden Correlates with Longitudinal Structural Change in Regions Affected by Earliest Neurofibrillary Tangle Pathology in Amyloid β Positive ADNI Subjects. *London, U.K. Alzheimer’s Association International Conference (AAIC) 2017.* **(Oral presentation)**
+- **Xie L.**, Ding Y., Gee C.J., Rauschecher M.A., Rudie D.J. (2017). Localization of Subcortical Structures with the Presence of Lesions in Clinical Brain MRI. *Honolulu, U.S.A.* *25thAnnual Meeting of the International Society of Magnetic Resonance in Medicine (ISMRM) 2017*.
+- Wisse L.E.M., Adler D., Ittyerah R., Pluta J.B., Ding, SL., **Xie L.**, Wang J., Kadivar S., Robinson J.L., Schuck T., Trojanowski J.Q., Grossman M., Detre J.A., Elliott M.A., Toledo J.B., Liu W., Pickup S., Das S.R., Wolk D.A., Yushkevich P.A. (2017) Alzheimer’s disease and the hippocampus: novel insights from an ex vivo computational atlas combining MRI and histology. *London, U.K. Alzheimer’s Association International Conference 2017 (AAIC) and Washington, U.S.A. Society of Neuroscience (SfN) 2017.*
+- Das S.R., Wisse E.M.L., **Xie L.**, Ittyeraha R., Yushkevicha A.P., David A.W. (2017). Relationship Between Longitudinal Structural Atrophy and AV1451 Tau Uptake in Amyloid-Positive Individuals. *London, U.K. Alzheimer’s Association International Conference (AAIC) 2017.* **(Oral presentation)**
+- Rauschecker A., **Xie L.**, Rudie J., Ding Y., Mohan S., Botzolakis E., Gee J. (2017). Automated Detection and Characterization of White Matter Lesions on Clinical Brain MRI. *Long Beach, U.S.A. American Society of Neuroradiology (ASNR) 2017.*
+- Rudie J., **Xie L.**, Rauschecker A., Ding Y., Chen P-H., Nasrallah I., Bryan N., Mohan S., Botzolakis E., Gee J. (2017). Automated Diagnosis of Basal Ganglia Diseases Using a Customized Image-Processing Pipeline Coupled with Bayesian Networks. *Long Beach, U.S.A. American Society of Neuroradiology (ASNR) 2017.*
+- Wisse E.M.L., Das S.R., **Xie L.**, Ittyeraha R., Yushkevicha A.P., David A.W. (2017). Regional AV1451 uptake and cortical thickness in relation to memory, language and executive in amyloid positive subjects. *London, U.K. Alzheimer’s Association International Conference (AAIC) 2017.*
+- **Xie L.**, Das S.R., Pilania A., Daffner M., Stockbower G.E., Dolui S., Detre J.A., Wolk D.A. (2016). Cerebral Blood Flow Measured by Arterial Spin Labeled MRI Predicts Longitudinal Hippocampal Atrophy in Mild Cognitive Impairment. *Singapore, Singapore.* *24thAnnual Meeting of the International Society of Magnetic Resonance in Medicine (ISMRM) 2016*.
+- **Xie L.**, Pluta J. B., Das S.R., Wisse E.M.L., Avants B.B., Ding S-L., Wolk D.A., Yushkevich A.P. (2016). Spatial Distribution of Alzheimer’s Disease May Vary Among Anatomical Variants of Perirhinal Cortex, *Organization for Human Bain Mapping (OHBM) 2016.*
+- Koenig A.M., **Xie L.**, Wolk D.A., Arnold S.E. (2016). Treatment with the Insulin Sensitizer Metformin Is Associated with Increased Orbitofrontal Metabolism in Individuals with Alzheimer’s Disease. *Washington D.C., U.S.A.* *2016 Annual Meeting of the American Association for Geriatric Psychiatry (AAGP) 2016*.
+- Dolui S., **Xie L.**, Wolk D.A., Detre J.A. (2016). Regional CBF and Cognition in Longitudinal ADNI Disease Groups. *Singapore, Singapore. 24thAnnual Meeting of the International Society of Magnetic Resonance in Medicine (ISMRM) 2016*.

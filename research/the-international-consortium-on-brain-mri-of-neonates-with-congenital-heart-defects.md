@@ -1,0 +1,12 @@
+---
+title: The International Consortium on Brain MRI of Neonates with Congenital Heart Defects
+layout: post
+date: '2014-02-12'
+redirect_from:
+- /the-international-consortium-on-brain-mri-of-neonates-with-congenital-heart-defects/
+---
+
+![imagesFromDifferentSites](/images/wp/2014/02/imagesFromDifferentSites-300x67.png)
+The International Consortium on CHD Neonatal Brain MRI was established to coordinate efforts to tackle this problem of MR data normalization and provide an open common platform with tools for processing and analyzing CHD brain imaging data in preoperative neonates. This multi-institutional collaboration has obtained the commitment of nine members from Europe, North America, Australia and New Zealand. Consortium members have and will contribute all existing preoperative MR images of CHD neonates acquired as part of study protocols at each institution. The total number of subjects involved will be over 500. The funding for the Consortium came from Saving Tiny Heart Society.
+The aims of the Consortium include: (1) developing a set of high resolution structural MRI templates of preoperative CHD brains; (2) constructing a probabilistic injury map with anatomical reference based on manual and automatic segmentations. This paper presents preliminary results from the first attempts to normalize and process the data from the Consortium members and fulfill the first aim. The second aim will be accomplished based on the first aim and the methods to extract white matter lesion that are being developed.
+Our strategy to normalize the Consortium data set was to utilize an advanced deformable image registration method to construct a set of templates with optimal shape and appearance. The adopted method was able to transfer individual images into a common template space and tolerate difference in tissue contrast, image resolution and inter-subject variability. A collection of templates were built based on cohorts with a unique characteristic, such as site, age and diagnosis. Subsequent volumetric analyses were performed to measure the tissue and regional brain volumes. Visual inspection confirmed that the constructed templates were of sufficient quality. They aided in normalizing subject images and subsequent segmentation of tissues and lobar regions. Results on data from different sites showed consistent distributions and brain growth in two CHD subtypes did not differ significantly.

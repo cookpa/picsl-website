@@ -1,0 +1,370 @@
+- title: Short-term memory and medial temporal lobe
+  image: images/wp/2016/10/website_small.png
+  link: /research/short-term-memory-and-medial-temporal-lobe.html
+  description: Medial temporal lobe (MTL) is generally thought to be a principal site of long term memory (LTM) process, and isn’t usually associated with short term memory (STM). Some recent work have suggested a role for MTL in STM…
+  date: '2016-10-15'
+  tags:
+  - research
+- title: Tau-PET imaging and subregional atrophy in medial temporal lobe
+  image: images/fallback.svg
+  link: /research/tau-pet-imaging-and-subregional-atrophy-in-medial-temporal-lobe.html
+  description: We recently examined potential relationship between tau protein uptake in medial temporal lobe (MTL) and volumetric measures of MTL subregions in a small dataset of Alzheimer’s disease patients. Since tau protein…
+  date: '2016-10-15'
+  tags:
+  - research
+- title: Accounting for the Confound of Meninges in Segmenting Entorhinal and Perirhinal Cortices in T1-weighted MRI
+  image: images/wp/2016/10/feature-image-2.jpg
+  link: /research/accounting-for-the-confound-of-meninges-in-segmenting-entorhinal-and-perirhinal-cortices-in-t1-weighted-mri.html
+  description: Quantification of medial temporal lobe (MTL) cortices, including entorhinal cortex (ERC) and perirhinal cortex (PRC), from in vivo MRI is desirable for studying the human memory system as well as in early diagnosis and…
+  date: '2016-10-13'
+  tags:
+  - research
+- title: 'Multi-Template Analysis of Human Perirhinal Cortex in Brain MRI: Explicitly Accounting for Anatomical Variability'
+  image: images/wp/2016/10/templates.png
+  link: /research/multi-template-analysis-of-human-perirhinal-cortex-prc-in-brain-mri-explicitly-accounting-for-anatomical-variability.html
+  description: The human perirhinal cortex (PRC) plays critical roles in episodic and semantic memory and visual perception. The PRC consists of Brodmann areas 35 and 36 (BA35, BA36). In Alzheimer’s disease (AD), BA35 is the first…
+  date: '2016-10-12'
+  tags:
+  - research
+- title: First comparison of in vivo/ ex vivo MRI scans of the human hippocampus
+  image: images/wp/2016/10/ASHSComp09182015.jpg
+  link: /research/first-comparison-of-in-vivo-ex-vivo-mri-scans-of-the-human-hippocampus.html
+  description: In our recent publication in Cerebral Cortex we compared in vivo and ex vivo MRI scans of the human hippocampus and evaluated to ability to match information between the two modalities. We were able to validate several…
+  date: '2016-10-04'
+  tags:
+  - research
+- title: Medial temporal lobe subregional morphometry using high resolution MRI in Alzheimer’s Disease
+  image: images/wp/2016/10/wolk_table.jpg
+  link: /research/medial-temporal-lobe-subregional-morphometry-using-high-resolution-mri-in-alzheimers-disease.html
+  description: Group comparison of select MTL subregional measurements adjusted for age and ICV. Statistical significance is based on comparison with the “normal aging” group (amyloid-negative ADNI controls). Error bars reflect 1…
+  date: '2016-10-04'
+  tags:
+  - research
+- title: Psychometric Tests Predict ABeta in Mild Cognitive Impairment
+  image: images/fallback.svg
+  link: /research/psychometric-tests-predict-abeta-in-mild-cognitive-impairment.html
+  description: Our paper showing that psychometric tests predict Alzheimer’s Disease pathology in Mild Cognitive Impairment subjects was just accepted by the Journal of Alzheimer’s Disease. Read the in-press version here.
+  date: '2015-04-21'
+  tags:
+  - research
+- title: Single-Subject Cortical Structural Networks
+  image: images/fallback.svg
+  link: /research/single-subject-cortical-structural-networks.html
+  description: We designed a method to construct structural cortical graphs in a manner similar to BOLD-based functional connectivity graphs (paper, poster at MICCAI 2014).
+  date: '2014-10-21'
+  tags:
+  - research
+- title: Multi-Modal Dimensionality Reduction
+  image: images/fallback.svg
+  link: /research/multi-modal-dimensionality-reduction.html
+  description: Our paper on multi-modal dimensionality reduction was recently accepted by Methods. It shows how to use our sparse dimensionality reduction techniques to form interpretable predictive models from neuroimaging data. All…
+  date: '2014-10-21'
+  tags:
+  - research
+- title: Relating brain anatomy and cognitive ability using a multivariate multimodal framework
+  image: images/wp/2013/05/eigenanatomy_ftd.png
+  link: /research/relating-brain-anatomy-and-cognitive-ability-using-a-multivariate-multimodal-framework.html
+  description: Linking structural neuroimaging data from multiple modalities to cognitive performance is an important challenge for cognitive neuroscience. In this study we examined the relationship between verbal fluency performance…
+  date: '2014-06-26'
+  tags:
+  - research
+- title: Reproducibility of graph metrics of human brain structural networks
+  image: images/wp/2014/05/fninf-08-00046-g002.jpg
+  link: /research/reproducibility-of-graph-metrics-of-human-brain-structural-networks.html
+  description: Recent interest in human brain connectivity has led to the application of graph theoretical analysis to human brain structural networks, in particular white matter connectivity inferred from diffusion imaging and fiber…
+  date: '2014-05-07'
+  tags:
+  - research
+- title: Regional Thickness Measurement of Extra-hippocampal Medial Temporal Lobe Structures
+  image: images/fallback.svg
+  link: /research/regional-thickness-measurement-of-extra-hippocampal-medial-temporal-lobe-ehmtl-structures.html
+  description: Extra-hippocampal medial temporal lobe (ehMTL) structures, which consists of entorhinal (ERC) and perirhinal (PRC) cortices, receives increasing attention because they are amongst the earliest sites affected by…
+  date: '2014-04-11'
+  tags:
+  - research
+- title: Interactive Medical Image Registration
+  image: images/fallback.svg
+  link: /research/interactive-image-registration.html
+  description: Interactive image registration is required by some medical applications since automatic image registration is often slow and sometimes error-prone. We consider interactive registration methods that incorporate…
+  date: '2014-04-11'
+  tags:
+  - research
+- title: Polyaffine transformation model using region trajectory
+  image: images/wp/2014/04/polyaffine-300x232.jpg
+  link: /research/polyaffine-transformation-model-using-region-trajectory.html
+  description: We propose a novel way to construct a diffeomorphic polyaffine transformation model. Each affine transform is defined on a local region and the resulting diffeomorphism encapsulates all the local transforms by a smooth…
+  date: '2014-04-11'
+  tags:
+  - research
+- title: Controllability on Brain Networks
+  image: images/wp/2014/04/51AE6387-FE6D-459A-AA56-43C335C586B8-300x187.jpg
+  link: /research/controllability-on-brain-networks.html
+  description: Neuroscientific investigations seek to reveal how neural systems perform complex functions, how those systems and functions are altered in disease states, and how therapeutic interventions can be used to redirect these…
+  date: '2014-04-10'
+  tags:
+  - research
+- title: Postmortem, probabilistic atlas of the human hippocampal formation
+  image: images/wp/2014/04/PM-HF-atlas-Figure10-3D-e1396620350460.jpeg
+  link: /research/pm-hf-atlas.html
+  description: We are constructing a computational, probabilistic atlas of the human hippocampal formation (HF) from postmortem, high-resolution 9.4T MRI and densely acquired histology. The human HF consists of several structures of…
+  date: '2014-04-04'
+  tags:
+  - research
+- title: ANTsR
+  image: images/fallback.svg
+  link: /research/antsr.html
+  description: We have been developing a framework to incorporate ITK and ANTs-based image processing methods into the R programming language to allow for interactive statistical analysis of medical images. R provides the most…
+  date: '2014-03-28'
+  tags:
+  - research
+- title: Sparse Regression for Medical Images
+  image: images/fallback.svg
+  link: /research/sparse-regression-for-medical-images.html
+  description: Our paper on sparse regression for predicting cognitive performance from cortical thickness was published at Information Processing in Medical Imaging (IPMI) 2013. We developed a method for performing regression on…
+  date: '2014-03-28'
+  tags:
+  - research
+- title: Sparse Dimensionality Reduction for Medical Imaging
+  image: images/fallback.svg
+  link: /research/sparse-dimensionality-reduction-for-medical-imaging.html
+  description: The complex and high-dimensional nature of medical images makes them difficult to incorporate into traditional linear model-based statistical analysis. One way of simplifying analysis of medical images is to use a…
+  date: '2014-03-28'
+  tags:
+  - research
+- title: ANTs Perfusion Processing
+  image: images/fallback.svg
+  link: /research/ants-perfusion-processing.html
+  description: We have recently updated ANTs to perform processing of perfusion ASL images. The pipeline is designed to be consistent with the antsCorticalThickness pipeline for computing cortical thickness and incorporates…
+  date: '2014-03-28'
+  tags:
+  - research
+- title: Anterior and Posterior MTL networks in Aging and MCI
+  image: images/fallback.svg
+  link: /research/anterior-and-posterior-mtl-networks-in-aging-and-mci.html
+  description: Our paper looking at dissociable functional networks of anterior and posterior MTL regions in older healthy controls and MCI patients just got accepted for publication in Neurobiology of Aging. We labeled MTL subregions…
+  date: '2014-03-15'
+  tags:
+  - research
+- title: Semi-automated segmentation of the mitral leafelts in 3D echocardiographic images
+  image: images/wp/2014/02/valves.gif
+  link: /research/semi-automated-segmentation-of-the-mitral-leafelts-in-3d-echocardiographic-images.html
+  description: Precise 3D modeling of the mitral valve has the potential to improve our understanding of valve morphology, particularly in the setting of mitral regurgitation (MR). Toward this goal, we have developed a…
+  date: '2014-02-27'
+  tags:
+  - research
+- title: Fully automated segmentation of the mitral leaflets using multi-atlas label fusion and deformable medial modeling
+  image: images/wp/2014/02/fully-automated-segmentation-of-the-mitral-leaflets.jpg
+  link: /research/fully-automated-segmentation-of-the-mitral-leaflets-using-multi-atlas-label-fusion-and-deformable-medial-modeling-2.html
+  description: Comprehensive visual and quantitative analysis of in vivo human mitral valve morphology is central to the diagnosis and surgical treatment of mitral valve disease. Real-time 3D transesophageal echocardiography (3D TEE)…
+  date: '2014-02-27'
+  tags:
+  - research
+- title: Prediction of stress distributions on image-derived models of the mitral leaflets
+  image: images/wp/2014/02/MV-stress-distributions.jpg
+  link: /research/prediction-of-stress-distributions-on-image-derived-models-of-the-mitral-leaflets.html
+  description: An integrated methodology for imaging, segmenting, modeling, and deriving computationally-predicted pressure-derived mitral leaflet stresses is presented and points the way towards intraoperative and periprocedural…
+  date: '2014-02-27'
+  tags:
+  - research
+- title: Statistical analysis of normal mitral annular geometry
+  image: images/wp/2014/02/normal-annuli.jpg
+  link: /research/statistical-analysis-of-normal-mitral-annular-geometry.html
+  description: The basis of mitral annuloplasty ring design has progressed from qualitative surgical intuition to experimental and theoretical analysis of annular geometry with quantitative imaging techniques. In this work, we present…
+  date: '2014-02-27'
+  tags:
+  - research
+- title: Segmentation of the aortic leaflets in 3D echocardiographic images
+  image: images/wp/2014/02/av-apparatus-template.tif
+  link: /research/segmentation-of-the-aortic-leaflets-in-3d-echocardiographic-images.html
+  description: Given the importance of image-based morphological assessment in the diagnosis and surgical treatment of aortic valve disease, there is considerable need to develop a standardized framework for 3D valve segmentation and…
+  date: '2014-02-27'
+  tags:
+  - research
+- title: 7T fMRI R03 grant
+  image: images/wp/2014/02/Screen-Shot-2014-02-21-at-9.42.13-AM.png
+  link: /research/7t-r03-grant.html
+  description: We just found out that our R03 grant application for high-resolution BOLD fMRI at 7T has been recommended for funding. We have been anxiously waiting for the funding decision which was delayed by the government shutdown…
+  date: '2014-02-21'
+  tags:
+  - research
+- title: Feature Selection for Characterization of ILD and COPD
+  image: images/wp/2014/02/pipeline-300x65.jpg
+  link: /research/feature-selection-for-characterization-of-ild-and-copd.html
+  description: To compare the performance of various image-based metrics computed from thoracic HRCT modality with data from pulmonary function testing (PFT) in characterizing interstitial lung disease (ILD) and chronic obstructive…
+  date: '2014-02-21'
+  tags:
+  - research
+- title: Functional connectivity within MTL
+  image: images/wp/2014/02/results_all.png
+  link: /research/functional-connectivity-within-mtl.html
+  description: There is a ton of work looking at BOLD functional connectivity (FC) in Alzheimer’s Disease, and one consensus that has emerged is that this is a disconnection syndrome, with most studies finding weaker connectivity…
+  date: '2014-02-20'
+  tags:
+  - research
+- title: Co-registration and surgical planning in epilepsy
+  image: images/wp/2014/02/flowchart-245x300.png
+  link: /research/co-registration-and-surgical-planning-in-epilepsy.html
+  description: 'Objective: Visualizing implanted subdural electrodes in 3D space can greatly aid planning, executing, and validating resection in epilepsy surgery. Co-registration software is available, but cost, complexity,…'
+  date: '2014-02-14'
+  tags:
+  - research
+- title: Overview of the Tracking the Outcome of Toddlers (TOT) study
+  image: images/fallback.svg
+  link: /research/overview-of-the-tracking-the-outcome-of-toddlers-tot-study.html
+  description: Children growing up in poverty are at increased risk for poor cognitive outcomes, arguably one of the most critical issues facing our nation today. While many studies have shown that effects of poverty are apparent by…
+  date: '2014-02-12'
+  tags:
+  - research
+- title: SES, CHILDHOOD EXPERIENCE, AND THE NEURAL BASES OF LEARNING
+  image: images/fallback.svg
+  link: /research/ses-childhood-experience-and-the-neural-bases-of-learning.html
+  description: This research seeks to understand the relations among socioeconomic status (SES), early life experience, and learning in adolescents. Previous research has shown that learning ability is positively correlated with SES,…
+  date: '2014-02-12'
+  tags:
+  - research
+- title: The International Consortium on Brain MRI of Neonates with Congenital Heart Defects
+  image: images/wp/2014/02/imagesFromDifferentSites-300x67.png
+  link: /research/the-international-consortium-on-brain-mri-of-neonates-with-congenital-heart-defects.html
+  description: The International Consortium on CHD Neonatal Brain MRI was established to coordinate efforts to tackle this problem of MR data normalization and provide an open common platform with tools for processing and analyzing…
+  date: '2014-02-12'
+  tags:
+  - research
+- title: Automatic parcellation of neonate brains
+  image: images/fallback.svg
+  link: /research/automatic-parcellation-of-neonate-brains.html
+  description: In the absence of a neonatal template with cortical subregion labels, it can be extremely difficult to obtain cortical parcellation of new neonatal brain images automatically. We address this problem by utilizing adult…
+  date: '2014-02-12'
+  tags:
+  - research
+- title: Structure Specific Analysis of white and gray matter in the rat brain
+  image: images/wp/2014/02/rat_tsa_models_alt.png
+  link: /research/structure-specific-analysis-of-white-and-gray-matter-in-the-rat-brain.html
+  description: Tract specific Analysis (TSA) uses continuous medial modeling for structure- specific analysis of diffusion in sheet-like white matter tracts in the human brain. The medial geometry provides both a skeleton surface (the…
+  date: '2014-02-07'
+  tags:
+  - research
+- title: Fusing functional signals by sparse canonical correlation analysis improves network reproducibility
+  image: images/wp/2013/11/retest.png
+  link: /research/fusing-functional-signals-by-sparse-canonical-correlation-analysis-improves-network-reproducibility.html
+  description: We contribute a novel multivariate strategy for computing the structure of functional networks in the brain from arterial spin labeling (ASL) MRI. Our method fuses and correlates multiple functional signals by employing…
+  date: '2013-11-14'
+  tags:
+  - research
+- title: Associations between children's socioeconomic status and prefrontal cortical thickness
+  image: images/wp/2013/08/desc12096-fig-0002.png
+  link: /research/associations-between-childrens-socioeconomic-status-and-prefrontal-cortical-thickness.html
+  description: Childhood socioeconomic status (SES) predicts executive function performance and measures of prefrontal cortical function, but little is known about its anatomical correlates. Structural MRI and demographic data from a…
+  date: '2013-08-09'
+  tags:
+  - research
+- title: How poverty might change the brain
+  image: images/wp/2013/07/farah_cnn.png
+  link: /research/how-poverty-might-change-the-brain.html
+  description: Across the Penn campus in the radiology department, Farah sits in a low chair while Brian Avants, assistant professor of radiology, explains their recent study, using a slide on a computer screen. Farah presented the…
+  date: '2013-07-25'
+  tags:
+  - research
+- title: Manganese-enhanced magnetic resonance imaging (MEMRI) in rats with a history of repeated social stress.
+  image: images/wp/2013/06/memri_bangasser.jpg
+  link: /research/manganese-enhanced-magnetic-resonance-imaging-memri-in-rats-with-a-history-of-repeated-social-stress.html
+  description: Swim stress produces relatively different magnitudes of Mn2 + enhancement in certain brain regions in rats with different coping strategies. The panels illustrate differences in Mn2 + enhancement in the septum, BNST,…
+  date: '2013-06-11'
+  tags:
+  - research
+- title: Relating Cerebral Blood Flow to Structural & Functional Metrics in Typically Developing Children
+  image: images/wp/2013/02/pediatric_atlas.png
+  link: /research/relating-cerebral-blood-flow-to-structural-functional-metrics-in-typically-developing-children.html
+  description: 'Sample slices from the multivariate atlas used as a basis for neuro-anatomical comparison [Could not find the bibliography file(s) Purpose: To evaluate the relationships between cerebral blood flow and other magnetic…'
+  date: '2013-02-01'
+  tags:
+  - research
+- title: Traumatic Brain Injury
+  image: images/wp/2013/01/tbi_model1.png
+  link: /research/traumatic-brain-injury.html
+  description: This collaboration with the Moss Rehabilitation Research Institute at the Albert Einstein Healthcare Network involves the development of methologies for examining both structural and connective properties in the brains…
+  date: '2013-01-24'
+  tags:
+  - research
+- title: Structure-Specific fMRI Analysis
+  image: images/wp/2013/01/hippospm_figure1.jpg
+  link: /research/structure-specific-fmri-analysis.html
+  description: We are developing a new class of techniques that focus statistical analysis of functional neuroimaging data on specific structures such as the hippocampus, using the shape of the structures as the guide by which to…
+  date: '2013-01-23'
+  tags:
+  - research
+- title: Cardiac Medial Modeling
+  image: images/wp/2013/01/thumb-cardiac-medial-modeling.jpg
+  link: /research/cardiac-medial-modeling.html
+  description: The aims of this collaborative project with the Computational Imaging Lab at the Pompeu Fabra University are to use a medial model of the myocardium to generate stronger shape priors for segmentation, richer features…
+  date: '2013-01-23'
+  tags:
+  - research
+- title: Multi-Atlas Segmentation
+  image: images/wp/2013/01/multiatlas-e1359655139135.png
+  link: /research/multi-atlas-labeling.html
+  description: Segmentation, the problem of locating and outlining objects of interest in images, is a central problem in biomedical image analysis. It is the primary mechanism for quantifying the properties of anatomical structures…
+  date: '2013-01-21'
+  tags:
+  - research
+- title: Brain Function
+  image: images/fallback.svg
+  link: /research/brain-function.html
+  description: Using MRI to examine brain function
+  group: area
+  tags:
+  - research
+- title: Brain Injury
+  image: images/fallback.svg
+  link: /research/brain-injury.html
+  description: Traumatic Brain Injury (TBI) Post Traumatic Stress Disorder (PTSD)
+  group: area
+  tags:
+  - research
+- title: ITK-SNAP
+  image: images/wp/2013/01/snaplogo-big.png
+  link: /software/itk-snap.html
+  description: SNAP is a software application used to segment structures in 3D medical images. It provides semi-automatic segmentation using active contour methods, as well as manual delineation and image navigation. In addition to…
+  tags:
+  - software
+- title: ANTs
+  image: images/wp/2013/01/193638.jpeg
+  link: /software/ants.html
+  description: Advanced Normalization Tools (ANTs) extracts information from complex datasets that include imaging. ANTs development is led by Brian Avants and supported by other researchers and developers at PICSL and other…
+  tags:
+  - software
+- title: Camino
+  image: images/wp/2013/06/squid_text_post_size.png
+  link: /software/camino.html
+  description: Camino is an open-source toolkit for diffusion MRI simulation and image processing. The PICSL contribution to the tool is led by Philip Cook and focuses on image reconstruction pipelines and tractography. See the Camino…
+  tags:
+  - software
+- title: HistoloZee
+  image: images/wp/2014/04/HZee01-1024x577.jpg
+  link: /software/histolozee.html
+  description: HistoloZee is a tool that integrates histology reconstruction, MRI co-registration, and manual segmentation tools in an easy-to-use and intuitive interface. HistoloZee permits real-time interaction with complex and…
+  tags:
+  - software
+- title: ASHS
+  image: images/wp/2013/01/multiatlas-300x118.png
+  link: /software/ashs.html
+  description: 'ASHS stands for “Automatic Segmentation of Hippocampal Subfields.” Here is what it does: - Automatically labels hippocampal subfields and medial temporal lobe cortices in MRI - Uses T1-weighted and T2-weighted MRI to…'
+  tags:
+  - software
+- title: LESYMAP
+  image: images/wp/2017/07/LESYMAP-300x150.png
+  link: /software/lesymap.html
+  description: Lesymap uses univariate and multivariate methods to map functional regions of the brain that, when lesioned, cause specific cognitive deficits. All is required is a set of Nifti images with the lesion of each subject…
+  tags:
+  - software
+- title: LINDA
+  image: images/wp/2017/07/LINDA-300x150.png
+  link: /software/linda.html
+  description: An R toolkit for automatic segmentation of chronic stroke lesions. LINDA uses hierarchical predictions from low to high resolution, to achieve an iterative improvement of the segmentation. Relies on ANTsR for image…
+  tags:
+  - software
+- title: TLEprediction
+  image: images/wp/2017/07/TLEprediction-300x150.png
+  link: /software/tleprediction.html
+  description: TLEprediction is a small tool that uses R and Matlab to achieve the prediction of seizure onset laterality in patients with temporal lobe epilepsy. The tools uses three PET asymmetries to achieve the prediction and has…
+  tags:
+  - software
