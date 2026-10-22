@@ -1,0 +1,7 @@
+---
+name: Amanda Denning
+image: images/members/amanda-denning.jpg
+role: phd
+---
+
+I am a Neuroscience PhD student advised by Drs. Paul Yushkevich and David Wolk. My work uses high resolution postmortem imaging and serial histopathology to analyze neuroanatomy and 3-D distributions of neurodegeneration and neuropathology in Alzheimer's Disease and related dementias. In my free time, I enjoying baking for lab meetings and traveling, and am an avid Philly sports fan.

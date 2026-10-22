@@ -1,7 +1,8 @@
 ---
 name: Long Xie
 image: images/wp/2019/07/IMG_2772_meitu_1-1024x1024-1.jpg
-role: faculty
+role: alumni
+group: alum
 links:
   orcid: 0000-0002-7184-7028
 redirect_from:

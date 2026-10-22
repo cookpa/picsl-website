@@ -18,8 +18,8 @@ redirect_from:
 
 ## Faculty
 
-{% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
-{% include list.html data="members" component="portrait" filter="role == 'faculty'" %}
+{% include list.html data="members" component="portrait" filter="role == 'principal-investigator' and group != 'alum'" %}
+{% include list.html data="members" component="portrait" filter="role == 'faculty' and group != 'alum'" %}
 
 {% include section.html %}
 

@@ -1,0 +1,12 @@
+---
+name: Zahra Khodakarami
+image: images/members/zahra-khodakarami.jpg
+role: phd
+links:
+  google-scholar: aXrProgAAAAJ
+  orcid: 0009-0003-2907-2710
+  github: zkhodakarami
+  linkedin: khodakarami
+---
+
+I am a Bioengineering PhD student under the supervision of Dr. Paul Yushkevich in the PATCH Lab, where my research focuses on computational neuropathology and neuroimaging. My work integrates postmortem histopathology with MRI to develop automated pipelines for quantifying brain tissue microstructure, with a particular emphasis on white matter integrity and myelin in the context of Alzheimer's disease and related dementias. By bridging digital pathology and multi-modal neuroimaging, my research aims to establish quantitative links between cellular-level tissue properties and macroscopic imaging biomarkers, ultimately working toward tools that can infer pathology-level information from clinical brain scans. My methodological toolkit spans deep learning, image segmentation and registration, and computational image analysis across scales, from whole-slide histology images to high-field and clinical MRI. Outside of work, I enjoy doing exercises, biking, hiking, and traveling.
