@@ -68,6 +68,7 @@ include:
 # force jekyll to exclude certain files/folders
 exclude:
   - README.md
+  - CLAUDE.md
   - tools
   - .migrate_cache
   - LICENSE.md
