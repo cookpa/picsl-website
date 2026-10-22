@@ -347,7 +347,9 @@ def main():
                 if fm.get("date"):
                     item["date"] = fm["date"]
                 projects[kind].append(item)
-        fm["redirect_from"] = [old_path]
+        # pages whose URL didn't change must not redirect to themselves
+        if urlmap[old_path] != old_path:
+            fm["redirect_from"] = [old_path]
 
         heading = "" if kind.startswith("member") or kind == "research" else f"# {title}\n\n"
         outputs.append((out, front_matter(fm) + heading + md))

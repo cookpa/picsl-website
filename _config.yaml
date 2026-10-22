@@ -7,6 +7,8 @@ baseurl: ""
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
+# the logo already spells out "PICSL", so show only the subtitle next to it
+show-title: false
 
 # site social media and other links
 links:

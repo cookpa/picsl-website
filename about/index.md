@@ -3,8 +3,6 @@ title: About
 nav:
   order: 1
   tooltip: About PICSL
-redirect_from:
-- /about/
 ---
 
 # About
