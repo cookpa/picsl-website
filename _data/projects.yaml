@@ -1,10 +1,3 @@
-- title: 'FireANTs: fast, training-free image registration on the GPU'
-  image: images/research/fireants-thumb.jpg
-  link: /research/fireants.html
-  description: A training-free, GPU-accelerated registration algorithm from the Gee lab that is two orders of magnitude faster than ANTs on a GPU and robust across modalities, species and organs. Published in Nature Communications.
-  date: '2026-06-09'
-  tags:
-  - research
 - title: Postmortem MRI links deep brain atrophy to specific neurodegenerative pathologies
   image: images/research/postmortem-subcortical-thumb.jpg
   link: /research/postmortem-mri-subcortical-pathology.html
@@ -12,11 +5,109 @@
   date: '2026-07-01'
   tags:
   - research
+- title: 'FireANTs: fast, training-free image registration on the GPU'
+  image: images/research/fireants-thumb.jpg
+  link: /research/fireants.html
+  description: A training-free, GPU-accelerated registration algorithm from the Gee lab that is two orders of magnitude faster than ANTs on a GPU and robust across modalities, species and organs. Published in Nature Communications.
+  date: '2026-06-09'
+  tags:
+  - research
+- title: Plasma and MRI reveal vulnerable and resilient Alzheimer's phenotypes
+  image: images/research/mtl-tn-mismatch.svg
+  link: /research/mtl-tn-mismatch.html
+  description: Mismatch between plasma p-tau217 and medial temporal lobe atrophy identifies vulnerable, canonical and resilient groups, including patients with likely LATE co-pathology. Published in Brain.
+  date: '2026-04-28'
+  tags:
+  - research
+- title: A simple hippocampal volume cut-off flags likely LATE co-pathology
+  image: images/research/late-enrichment-thumb.jpg
+  link: /research/late-enrichment.html
+  description: Lower-quartile hippocampal volume identifies Alzheimer's patients with suspected LATE, who show more anterior MTL atrophy and faster decline. Published in Alzheimer's & Dementia.
+  date: '2025-12-01'
+  tags:
+  - research
+- title: ANTsX pipelines for mapping the mouse brain
+  image: images/research/antsx-mouse.jpg
+  link: /research/antsx-mouse-brain.html
+  description: Open-source ANTsX pipelines align spatial transcriptomics, fMOST morphology, MRI and light-sheet data to common mouse brain atlases for the BRAIN Initiative. Published in Nature Communications.
+  date: '2025-11-22'
+  tags:
+  - research
+- title: Open-source tools for 4D cardiac image analysis
+  image: images/research/4d-cardiac-tools.svg
+  link: /research/4d-cardiac-tools.html
+  description: ITK-SNAP 4, Greedy Propagation and Scherzo bring native 4D segmentation, registration and visualization to cardiac imaging. Presented at FIMH 2025.
+  date: '2025-06-01'
+  tags:
+  - research
+- title: A pipeline for MRI-guided histology in brain banking
+  image: images/research/mri-guided-histology.jpg
+  link: /research/mri-guided-histology.html
+  description: Patient-specific 3D-printed molds, MRI-to-histology registration and deep learning pathology scoring make large postmortem pathology-MRI studies practical. Published in Acta Neuropathologica Communications.
+  date: '2025-05-28'
+  tags:
+  - research
 - title: Large language model ensembles turn echocardiography reports into structured data
   image: images/research/llm-echo-ensemble.svg
   link: /research/llm-echo-report-extraction.html
   description: Consensus voting across five open-source LLMs extracts key measurements from intraoperative echocardiography reports with up to 99% accuracy. Published in the British Journal of Anaesthesia.
   date: '2025-05-01'
+  tags:
+  - research
+- title: High-resolution imaging of the medial temporal lobe in ADNI
+  image: images/research/adni3-mtl.jpg
+  link: /research/adni3-mtl-morphometry.html
+  description: 'For ADNI''s 20th anniversary: why a dedicated hippocampal subfield MRI scan joined ADNI3, how it is analyzed, and what surface-based analysis reveals about tau-driven atrophy. Published in Alzheimer''s & Dementia.'
+  date: '2024-11-01'
+  tags:
+  - research
+- title: Deep learning measures of tau and TDP-43 explain medial temporal lobe atrophy
+  image: images/research/quantitative-histopathology-thumb.jpg
+  link: /research/quantitative-histopathology.html
+  description: Deep learning quantification of p-tau and TDP-43 on histology, compared with antemortem MRI in 140 cases, outperforms standard pathology ratings at explaining atrophy. Published in Acta Neuropathologica.
+  date: '2024-09-03'
+  tags:
+  - research
+- title: A 3D atlas of tau tangles in the medial temporal lobe
+  image: images/research/mtl-tau-atlas-thumb.jpg
+  link: /research/mtl-tau-atlas.html
+  description: Ex vivo MRI and serial histology from 25 specimens map where tau tangles accumulate in the medial temporal lobe in 3D, informing early Alzheimer's biomarkers. Published in Nature Communications.
+  date: '2024-06-05'
+  tags:
+  - research
+- title: An open-source tool for designing synthetic skeletons
+  image: images/research/synthetic-skeletons.svg
+  link: /research/synthetic-skeletons.html
+  description: A 3D Slicer interface for designing synthetic skeletons makes deformable medial modeling practical for new anatomies, from the placenta to heart valves. Published in the Journal of Medical Imaging.
+  date: '2024-05-01'
+  tags:
+  - research
+- title: Tau-neurodegeneration mismatch reveals vulnerability and resilience in Alzheimer's
+  image: images/research/tn-mismatch.jpg
+  link: /research/tn-mismatch.html
+  description: Regional mismatch between tau PET and atrophy groups Alzheimer's patients by non-AD factors and predicts diverging outcomes; limbic mismatch tracks TDP-43 at autopsy. Published in Alzheimer's & Dementia.
+  date: '2024-03-01'
+  tags:
+  - research
+- title: A roadmap for bringing machine learning into radiology practice
+  image: images/research/radiology-ml-implementation.svg
+  link: /research/radiology-ml-implementation.html
+  description: 'A step-by-step framework for implementing AI in clinical radiology: problem identification, stakeholder alignment and pipeline integration. Published in Radiology.'
+  date: '2024-01-01'
+  tags:
+  - research
+- title: 'TransMatch: transformer-based feature matching for deformable registration'
+  image: images/research/transmatch.svg
+  link: /research/transmatch.html
+  description: A dual-stream transformer network that explicitly matches features between images at multiple levels, achieving state-of-the-art unsupervised brain MRI registration. Published in IEEE Transactions on Medical Imaging.
+  date: '2024-01-01'
+  tags:
+  - research
+- title: Measuring strain in the aortic root from 4D echocardiography
+  image: images/research/aortic-root-strain.svg
+  link: /research/aortic-root-strain.html
+  description: Medial modeling and deformable registration estimate aortic root strains in vivo, revealing larger shear strains in patients with bicuspid aortic valves. Published in Medical Image Analysis.
+  date: '2023-07-01'
   tags:
   - research
 - title: Short-term memory and medial temporal lobe
