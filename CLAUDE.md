@@ -5,13 +5,13 @@ See README.md for where content lives.
 
 ## Workflow
 
-- Lab members work in a fork (`origin`) of `picsl-upenn/picsl-website` (`upstream`).
+- Lab members work in a fork (`origin`) of `picslupenn/picsl-website` (`upstream`).
   Before starting a change, bring the fork up to date (`git fetch upstream`,
   `git checkout main`, `git merge --ff-only upstream/main`, `git push origin main`) and
   create a branch from it. Never commit to `main`. Admins working in a clone of the lab's
   repository have no `upstream`; for them `origin` is the lab's repository.
 - When the user is done, commit, push the branch to the fork, and open a pull request to
-  the lab's repository with `gh pr create --repo picsl-upenn/picsl-website`. The PR gets a
+  the lab's repository with `gh pr create --repo picslupenn/picsl-website`. The PR gets a
   preview link automatically after an admin approves its checks.
 - Preview locally with `bundle exec jekyll serve` (http://localhost:4000).
 - Before committing, build with `bundle exec jekyll build` and check internal links:
