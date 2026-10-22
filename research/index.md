@@ -17,12 +17,12 @@ across organ systems and imaging modalities.
 
 {% include section.html %}
 
-## Research areas
-
-{% include list.html component="card" data="projects" filter="group == 'area'" %}
-
-{% include section.html %}
-
 ## Projects
 
 {% include list.html component="card" data="projects" filter="(tags || []).include?('research') and group != 'area'" style="small" %}
+
+{% include section.html %}
+
+## Research areas
+
+{% include list.html component="card" data="projects" filter="group == 'area'" %}
