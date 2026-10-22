@@ -1,3 +1,5 @@
+Visit **[picsl-upenn.github.io/picsl-website](https://picsl-upenn.github.io/picsl-website)** 🚀
+
 # PICSL website
 
 Static website for the Penn Image Computing and Science Laboratory, replacing the old
