@@ -1,3 +1,10 @@
+- title: Sharper medial temporal lobe segmentation from isotropic training
+  image: images/research/mtl-isotropic-inr.svg
+  link: /research/mtl-isotropic-segmentation.html
+  description: An implicit neural representation builds an isotropic training atlas from anisotropic T2-weighted MRI, giving MTL subregion measures with stronger effect sizes and better test-retest stability. Published in NeuroImage.
+  date: '2026-10-15'
+  tags:
+  - research
 - title: Postmortem MRI links deep brain atrophy to specific neurodegenerative pathologies
   image: images/research/postmortem-subcortical-thumb.jpg
   link: /research/postmortem-mri-subcortical-pathology.html
