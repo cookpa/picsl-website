@@ -57,5 +57,6 @@ jobs:
           # so Claude needs cp to move them into images/. Research posts need the paper's
           # abstract and license, and licensed figures are downloaded straight into images/
           claude_args: |
+            --add-dir /tmp/github-images
             --allowedTools "WebFetch,WebSearch,Bash(curl -sL -o images/*:*),Bash(cp /tmp/github-images/*:*),Bash(mkdir -p images/*:*),Bash(file *:*),Bash(bundle exec jekyll build:*),Bash(bundle exec htmlproofer:*)"
 
