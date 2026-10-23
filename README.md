@@ -10,7 +10,10 @@ The `protowebsite` repository in the same organization is an earlier draft of th
 that is no longer used; make changes here instead.
 
 The easiest way to update the site is to ask [Claude Code](https://claude.com/claude-code)
-to do it, then open a pull request. The tutorial below walks through that.
+to do it, then open a pull request. The tutorial below walks through that. If you have
+write access to the repository, you can also
+[ask Claude in a GitHub issue](#updating-the-website-from-a-github-issue) without
+installing anything.
 
 ## Updating the website with Claude Code
 
@@ -117,6 +120,31 @@ version of the site.
   picks up changes on the next build.
 - **Big changes:** for something large, such as a redesign or many new pages, ask Claude
   to propose a plan first.
+
+## Updating the website from a GitHub issue
+
+People with write access to this repository (lab admins) can ask Claude for a change
+directly on GitHub, without cloning anything:
+
+1. [Open an issue](https://github.com/picslupenn/picsl-website/issues/new) that describes
+   the change and mentions `@claude` in the title or body. The same kinds of requests as
+   above work, for example:
+
+   > @claude Add Jane Doe as a PhD student, using her profile at https://example.edu/jane.
+
+   Drag images into the issue to attach them, such as a photo for a member page.
+2. A Claude workflow runs in GitHub Actions and replies on the issue with its progress.
+   It follows the same rules as Claude Code locally (`CLAUDE.md`). It makes the change on
+   a `claude/issue-…` branch, builds the site, and checks the links.
+3. Claude's reply links to the branch and to a page for opening a pull request. Open the
+   PR, check its preview link, and review it like any other PR.
+
+To refine the change, comment on the issue or the PR and mention `@claude` again. If
+Claude says it's blocked, for example because the workflow doesn't allow a command it
+needs, the permissions are set in `claude_args` in `.github/workflows/claude.yml`.
+
+Mentions of `@claude` from people without write access are ignored, so lab members
+working in a fork should use Claude Code as described above.
 
 ## For admins: reviewing pull requests
 
