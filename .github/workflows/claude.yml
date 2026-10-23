@@ -30,6 +30,13 @@ jobs:
         with:
           fetch-depth: 1
 
+      # Lets Claude build the site and check links, as CLAUDE.md asks
+      - name: Install Ruby packages
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.4"
+          bundler-cache: true
+
       - name: Run Claude Code
         id: claude
         uses: anthropics/claude-code-action@v1
@@ -46,5 +53,9 @@ jobs:
           # Optional: Add claude_args to customize behavior and configuration
           # See https://github.com/anthropics/claude-code-action/blob/main/docs/usage.md
           # or https://code.claude.com/docs/en/cli-reference for available options
-          # claude_args: '--allowed-tools Bash(gh pr *)'
+          # Images attached to issues are downloaded to /tmp/github-images/, outside the repo,
+          # so Claude needs cp to move them into images/. Research posts need the paper's
+          # abstract and license, and licensed figures are downloaded straight into images/
+          claude_args: |
+            --allowedTools "WebFetch,WebSearch,Bash(curl -sL -o images/*:*),Bash(cp /tmp/github-images/*:*),Bash(mkdir -p images/*:*),Bash(file *:*),Bash(bundle exec jekyll build:*),Bash(bundle exec htmlproofer:*)"
 
