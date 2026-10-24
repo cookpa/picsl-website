@@ -1818,7 +1818,7 @@
   publisher: openRxiv
   date: '2025-08-16'
   link: https://doi.org/hcpjdf
-  orcid: 0000-0001-8543-4016
+  orcid: 0000-0002-1985-8475
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/alz.70511
@@ -7451,7 +7451,7 @@
   publisher: IEEE Transactions on Medical Imaging
   date: '2010-06-01'
   link: https://doi.org/b75xjw
-  orcid: 0000-0001-8543-4016
+  orcid: 0000-0002-1985-8475
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/J.NEUROIMAGE.2010.06.040
@@ -7968,7 +7968,7 @@
   publisher: IEEE Transactions on Medical Imaging
   date: '2007-09-01'
   link: https://doi.org/d644zm
-  orcid: 0000-0001-8543-4016
+  orcid: 0000-0002-1985-8475
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/ICCV.2007.4409169
@@ -8313,6 +8313,162 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1002/hbm.70546
+  title: "<scp>ComBat</scp>\n                    \u2010Predict Enhances Generalizability\
+    \ of Neuroimaging Models to New Sites"
+  authors:
+  - Yao Xin
+  - Margaret Gardner
+  - Nicholas J. Tustison
+  - Philip Cook
+  - James Gee
+  - Andreana Benitez
+  - Jens H. Jensen
+  - Richard Bethlehem
+  - Jakob Seidlitz
+  - "Aaron F. Alexander\u2010Bloch"
+  - Andrew A. Chen
+  publisher: Human Brain Mapping
+  date: '2026-05-19'
+  link: https://doi.org/hcpsgd
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.nicl.2026.104003
+  title: 'Contusions bias cortical thickness estimates after traumatic brain injury:
+    A TRACK-TBI study'
+  authors:
+  - Daniel Brennan
+  - Andrea L.C. Schneider
+  - Russell Taki Shinohara
+  - Ramon Diaz-Arrastia
+  - Philip A. Cook
+  - James C. Gee
+  - James J. Gugger
+  publisher: 'NeuroImage: Clinical'
+  date: '2026-01-01'
+  link: https://doi.org/hcpsgf
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuron.2026.09.021
+  title: Highly replicable multisite patterns of adolescent white matter maturation
+  authors:
+  - Steven L. Meisler
+  - Matthew Cieslak
+  - "Jo\xEBlle Bagautdinova"
+  - Timothy J. Hendrickson
+  - Tanya Pandhi
+  - Andrew A. Chen
+  - Noah Hillman
+  - Hamsanandini Radhakrishnan
+  - Taylor Salo
+  - Eric Feczko
+  - Kimberly B. Weldon
+  - rae McCollum
+  - Begim Fayzullobekova
+  - Lucille A. Moore
+  - Lucinda M. Sisk
+  - Christos Davatzikos
+  - Hao Huang
+  - "B\xE1rbara Avelar-Pereira"
+  - Sendy Caffarra
+  - Kelly Chang
+  - Philip A. Cook
+  - Elizabeth A. Flook
+  - Teresa Gomez
+  - Mareike Grotheer
+  - McKenzie P. Hagen
+  - Zeeshan M. Huque
+  - Iliana I. Karipidis
+  - Arielle S. Keller
+  - John Kruper
+  - Audrey C. Luo
+  - Briana Macedo
+  - Kahini Mehta
+  - Jamie L. Mitchell
+  - Adam R. Pines
+  - Laura Pritschet
+  - Amelie Rauland
+  - Ethan Roy
+  - Brooke L. Sevchik
+  - Golia Shafiei
+  - S. Parker Singleton
+  - Hannah L. Stone
+  - Kevin Y. Sun
+  - Valerie J. Sydnor
+  - Tien T. Tong
+  - Maya Yablonski
+  - Jason D. Yeatman
+  - Ariel Rokem
+  - Russell T. Shinohara
+  - Damien A. Fair
+  - Theodore D. Satterthwaite
+  publisher: Neuron
+  date: '2026-10-01'
+  link: https://doi.org/hcnr6j
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.64898/2026.04.18.719321
+  title: Highly replicable multisite patterns of adolescent white matter maturation
+  authors:
+  - Steven L. Meisler
+  - Matthew Cieslak
+  - "Jo\xEBlle Bagautdinova"
+  - Timothy J. Hendrickson
+  - Tanya Pandhi
+  - Andrew A. Chen
+  - Noah Hillman
+  - Hamsanandini Radhakrishnan
+  - Taylor Salo
+  - Eric Feczko
+  - Kimberly B. Weldon
+  - rae McCollum
+  - Begim Fayzullobekova
+  - Lucille A. Moore
+  - Lucinda Sisk
+  - Christos Davatzikos
+  - Hao Huang
+  - "B\xE1rbara Avelar-Pereira"
+  - Sendy Caffarra
+  - Kelly Chang
+  - Philip A. Cook
+  - Elizabeth A. Flook
+  - Teresa Gomez
+  - Mareike Grotheer
+  - McKenzie P. Hagen
+  - Zeeshan M. Huque
+  - Iliana I. Karipidis
+  - Arielle S. Keller
+  - John Kruper
+  - Audrey C. Luo
+  - Briana Macedo
+  - Kahini Mehta
+  - Jamie L. Mitchell
+  - Adam R. Pines
+  - Laura Pritschet
+  - Amelie Rauland
+  - Ethan Roy
+  - Brooke L. Sevchik
+  - Golia Shafiei
+  - S. Parker Singleton
+  - Hannah L. Stone
+  - Kevin Y. Sun
+  - Valerie J. Sydnor
+  - Tien T. Tong
+  - Maya Yablonski
+  - Jason D. Yeatman
+  - Ariel Rokem
+  - Russell T. Shinohara
+  - Damien A. Fair
+  - Theodore D. Satterthwaite
+  publisher: openRxiv
+  date: '2026-04-19'
+  link: https://doi.org/hb2frr
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2025.11.10.687672
   title: 'Diffusion MRI Processing in the HEALthy Brain and Child Development Study:
     Innovations and Applications'
@@ -8342,6 +8498,460 @@
   orcid: 0000-0002-1985-8475
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1038/s42003-025-08577-9
+  title: Changes in brain connectivity and neurovascular dynamics during dexmedetomidine-induced
+    loss of consciousness
+  authors:
+  - Panagiotis Fotiadis
+  - Andrew R. McKinstry-Wu
+  - Sarah M. Weinstein
+  - Philip A. Cook
+  - Mark Elliott
+  - Matthew Cieslak
+  - Jeffrey T. Duda
+  - Theodore D. Satterthwaite
+  - Russell T. Shinohara
+  - Alexander Proekt
+  - Max B. Kelz
+  - John A. Detre
+  - Dani S. Bassett
+  publisher: Communications Biology
+  date: '2025-08-20'
+  link: https://doi.org/hcpsgg
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.08.21.671401
+  title: ComBat-Predict enhances generalizability of neuroimaging models to new sites
+  authors:
+  - Yao Xin
+  - Margaret Gardner
+  - Nick Tustison
+  - Philip Cook
+  - James Gee
+  - Andreana Benitez
+  - Jens H. Jensen
+  - Richard Bethlehem
+  - Jakob Seidlitz
+  - Aaron F. Alexander-Bloch
+  - Andrew An Chen
+  publisher: openRxiv
+  date: '2025-08-26'
+  link: https://doi.org/hcpsgh
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/alz.70970
+  title: "Enrichment of patients with concomitant limbic\u2010predominant age\u2010\
+    related TDP\u201043 encephalopathy (LATE) on the Alzheimer's disease continuum\
+    \ using hippocampal volume"
+  authors:
+  - Nidhi S. Mundada
+  - Xueying Lyu
+  - Christopher A. Brown
+  - Niyousha Sadeghpour
+  - Emily McGrew
+  - Long Xie
+  - Philip A. Cook
+  - James Gee
+  - Paul A. Yushkevich
+  - Sandhitsu R. Das
+  - David A. Wolk
+  publisher: Alzheimer's &amp; Dementia
+  date: '2025-12-01'
+  link: https://doi.org/hcpjnm
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.nicl.2025.103853
+  title: Executive dysfunction relates to salience network desegregation in behavioural
+    variant frontotemporal dementia
+  authors:
+  - Melanie A. Matyi
+  - Hamsanandini Radhakrishnan
+  - Christopher A. Olm
+  - Jeffrey S. Phillips
+  - Philip A. Cook
+  - Emma Rhodes
+  - James C. Gee
+  - David J. Irwin
+  - Corey T. McMillan
+  - Lauren Massimo
+  publisher: 'NeuroImage: Clinical'
+  date: '2025-01-01'
+  link: https://doi.org/hcpsgj
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41593-025-01991-6
+  title: Human thalamocortical structural connectivity develops in line with a hierarchical
+    axis of cortical plasticity
+  authors:
+  - Valerie J. Sydnor
+  - "Jo\xEBlle Bagautdinova"
+  - Bart Larsen
+  - Michael J. Arcaro
+  - Deanna M. Barch
+  - Dani S. Bassett
+  - Aaron F. Alexander-Bloch
+  - Philip A. Cook
+  - Sydney Covitz
+  - Alexandre R. Franco
+  - Raquel E. Gur
+  - Ruben C. Gur
+  - Allyson P. Mackey
+  - Kahini Mehta
+  - Steven L. Meisler
+  - Michael P. Milham
+  - Tyler M. Moore
+  - "Eli J. M\xFCller"
+  - David R. Roalf
+  - Taylor Salo
+  - Gabriel Schubiner
+  - Jakob Seidlitz
+  - Russell T. Shinohara
+  - James M. Shine
+  - Fang-Cheng Yeh
+  - Matthew Cieslak
+  - Theodore D. Satterthwaite
+  publisher: Nature Neuroscience
+  date: '2025-07-04'
+  link: https://doi.org/g9vd4x
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/mds.30244
+  title: Microstructural Changes in the Tuberal Hypothalamus Correlate with Daytime
+    Sleepiness in Lewy Body Disorders
+  authors:
+  - Jesse S. Cohen
+  - Hamsanandini Radhakrishnan
+  - Christopher A. Olm
+  - Sandhitsu R. Das
+  - Philip A. Cook
+  - David A. Wolk
+  - Daniel Weintraub
+  - David J. Irwin
+  - Corey T. McMillan
+  publisher: Movement Disorders
+  date: '2025-05-30'
+  link: https://doi.org/hcpsgk
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.3047374
+  title: Parameter efficient fine-tuning of transformer-based masked autoencoder enhances
+    resource constrained neuroimage analysis
+  authors:
+  - Nikhil J. Dhinagar
+  - Saket S. Ozarkar
+  - Ketaki U. Buwa
+  - Sophia I. Thomopoulos
+  - Conor Owens-Walton
+  - Emily Laltoo
+  - Chirag Jagad
+  - Yao-Liang Chen
+  - Philip Cook
+  - Corey McMillan
+  - Chih-Chien Tsai
+  - J-J Wang
+  - Yih-Ru Wu
+  - Paul M. Thompson
+  publisher: 'Medical Imaging 2025: Computer-Aided Diagnosis'
+  date: '2025-04-04'
+  link: https://doi.org/hcpsgm
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.02.15.638442
+  title: Parameter Efficient Fine-tuning of Transformer-based Masked Autoencoder Enhances
+    Resource Constrained Neuroimage Analysis
+  authors:
+  - Nikhil J. Dhinagar
+  - Saket S. Ozarkar
+  - Ketaki U. Buwa
+  - Sophia I. Thomopoulos
+  - Conor Owens-Walton
+  - Emily Laltoo
+  - Chirag Jagad
+  - Yao-Liang Chen
+  - Philip Cook
+  - Corey McMillan
+  - Chih-Chien Tsai
+  - J-J Wang
+  - Yih-Ru Wu
+  - Paul M. Thompson
+  publisher: openRxiv
+  date: '2025-02-20'
+  link: https://doi.org/hcpsgn
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.01.16.24301235
+  title: "A Worldwide Study of White Matter Microstructural Alterations in People\
+    \ Living with Parkinson\u2019s Disease"
+  authors:
+  - Conor Owens-Walton
+  - Talia M. Nir
+  - Sarah Al-Bachari
+  - Sonia Ambrogi
+  - Tim J. Anderson
+  - "\xCDtalo Karmann Aventurato"
+  - Fernando Cendes
+  - Yao-Liang Chen
+  - Valentina Ciullo
+  - Phil Cook
+  - John C. Dalrymple-Alford
+  - Michiel F. Dirkx
+  - Jason Druzgal
+  - Hedley C. A. Emsley
+  - "Rachel Guimar\xE3es"
+  - Hamied A. Haroon
+  - Rick C. Helmich
+  - Michele T. Hu
+  - Martin E. Johansson
+  - Ho Bin Kim
+  - Johannes C. Klein
+  - Max Laansma
+  - Katherine E. Lawrence
+  - Christine Lochner
+  - Clare Mackay
+  - Corey McMillan
+  - Tracy R. Melzer
+  - Leila Nabulsi
+  - Ben Newman
+  - Peter Opriessnig
+  - Laura M. Parkes
+  - Clelia Pellicano
+  - Fabrizio Piras
+  - Federica Piras
+  - Lukas Pirpamer
+  - Toni L. Pitcher
+  - Kathleen L. Poston
+  - Annerine Roos
+  - "Lucas Sc\xE1rdua Silva"
+  - Reinhold Schmidt
+  - Petra Schwingenschuh
+  - Marian Shahid
+  - Gianfranco Spalletta
+  - Dan J. Stein
+  - Sophia I. Thomopoulos
+  - Duygu Tosun
+  - Chih-Chien Tsai
+  - Odile A. van den Heuvel
+  - Eva van Heese
+  - Daniela Vecchio
+  - "Julio E. Villal\xF3n-Reina"
+  - Chris Vriend
+  - Jiun-Jie Wang
+  - Yih-Ru Wu
+  - Clarissa Lin Yasuda
+  - Paul M. Thompson
+  - Neda Jahanshad
+  - Ysbrand van der Werf
+  publisher: openRxiv
+  date: '2024-01-17'
+  link: https://doi.org/hcpsgp
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/hbm.26580
+  title: A practical evaluation of measures derived from compressed sensing diffusion
+    spectrum imaging
+  authors:
+  - Hamsanandini Radhakrishnan
+  - Chenying Zhao
+  - Valerie J. Sydnor
+  - Erica B. Baller
+  - Philip A. Cook
+  - Damien A. Fair
+  - Barry Giesbrecht
+  - Bart Larsen
+  - Kristin Murtha
+  - David R. Roalf
+  - "Sage Rush\u2010Goebel"
+  - Russell T. Shinohara
+  - Haochang Shou
+  - M. Dylan Tisdall
+  - Jean M. Vettel
+  - Scott T. Grafton
+  - Matthew Cieslak
+  - Theodore D. Satterthwaite
+  publisher: Human Brain Mapping
+  date: '2024-03-23'
+  link: https://doi.org/hcpsgq
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.06.13.598749
+  title: A sensorimotor-association axis of thalamocortical connection development
+  authors:
+  - Valerie J. Sydnor
+  - "Jo\xEBlle Bagautdinova"
+  - Bart Larsen
+  - Michael J. Arcaro
+  - Deanna M. Barch
+  - Dani S. Bassett
+  - Aaron F. Alexander-Bloch
+  - Philip A. Cook
+  - Sydney Covitz
+  - Alexandre R. Franco
+  - Raquel E. Gur
+  - Ruben C. Gur
+  - Allyson P. Mackey
+  - Kahini Mehta
+  - Steven L. Meisler
+  - Michael P. Milham
+  - Tyler M. Moore
+  - "Eli J. M\xFCller"
+  - David R. Roalf
+  - Taylor Salo
+  - Gabriel Schubiner
+  - Jakob Seidlitz
+  - Russell T. Shinohara
+  - James M. Shine
+  - Fang-Cheng Yeh
+  - Matthew Cieslak
+  - Theodore D. Satterthwaite
+  publisher: openRxiv
+  date: '2024-06-14'
+  link: https://doi.org/hcpsgr
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41531-024-00758-3
+  title: "A worldwide study of white matter microstructural alterations in people\
+    \ living with Parkinson\u2019s disease"
+  authors:
+  - Conor Owens-Walton
+  - Talia M. Nir
+  - Sarah Al-Bachari
+  - Sonia Ambrogi
+  - Tim J. Anderson
+  - "\xCDtalo Karmann Aventurato"
+  - Fernando Cendes
+  - Yao-Liang Chen
+  - Valentina Ciullo
+  - Phil Cook
+  - John C. Dalrymple-Alford
+  - Michiel F. Dirkx
+  - Jason Druzgal
+  - Hedley C. A. Emsley
+  - "Rachel Guimar\xE3es"
+  - Hamied A. Haroon
+  - Rick C. Helmich
+  - Michele T. Hu
+  - Martin E. Johansson
+  - Ho Bin Kim
+  - Johannes C. Klein
+  - Max Laansma
+  - Katherine E. Lawrence
+  - Christine Lochner
+  - Clare Mackay
+  - Corey T. McMillan
+  - Tracy R. Melzer
+  - Leila Nabulsi
+  - Ben Newman
+  - Peter Opriessnig
+  - Laura M. Parkes
+  - Clelia Pellicano
+  - Fabrizio Piras
+  - Federica Piras
+  - Lukas Pirpamer
+  - Toni L. Pitcher
+  - Kathleen L. Poston
+  - Annerine Roos
+  - "Lucas Sc\xE1rdua Silva"
+  - Reinhold Schmidt
+  - Petra Schwingenschuh
+  - Marian Shahid-Besanti
+  - Gianfranco Spalletta
+  - Dan J. Stein
+  - Sophia I. Thomopoulos
+  - Duygu Tosun
+  - Chih-Chien Tsai
+  - Odile A. van den Heuvel
+  - Eva van Heese
+  - Daniela Vecchio
+  - "Julio E. Villal\xF3n-Reina"
+  - Chris Vriend
+  - Jiun-Jie Wang
+  - Yih-Ru Wu
+  - Clarissa Lin Yasuda
+  - Paul M. Thompson
+  - Neda Jahanshad
+  - Ysbrand van der Werf
+  publisher: npj Parkinson's Disease
+  date: '2024-08-11'
+  link: https://doi.org/g9882d
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-024-59440-6
+  title: ANTsX neuroimaging-derived structural phenotypes of UK Biobank
+  authors:
+  - Nicholas J. Tustison
+  - Michael A. Yassa
+  - Batool Rizvi
+  - Philip A. Cook
+  - Andrew J. Holbrook
+  - Mithra T. Sathishkumar
+  - Mia G. Tustison
+  - James C. Gee
+  - James R. Stone
+  - Brian B. Avants
+  publisher: Scientific Reports
+  date: '2024-04-17'
+  link: https://doi.org/hcpsgs
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fneur.2024.1452944
+  title: Boundary-based registration improves sensitivity for detecting hypoperfusion
+    in sporadic frontotemporal lobar degeneration
+  authors:
+  - Sylvia Mihailescu
+  - Quinn Hlava
+  - Philip A. Cook
+  - Maria Luisa Mandelli
+  - Suzee E. Lee
+  - Bradley F. Boeve
+  - Bradford C. Dickerson
+  - Maria Luisa Gorno-Tempini
+  - Emily Rogalski
+  - Murray Grossman
+  - James Gee
+  - Corey T. McMillan
+  - Christopher A. Olm
+  publisher: Frontiers in Neurology
+  date: '2024-08-21'
+  link: https://doi.org/hcpsgt
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.10.04.616650
+  title: Changes in brain connectivity and neurovascular dynamics during dexmedetomidine-induced
+    loss of consciousness
+  authors:
+  - Panagiotis Fotiadis
+  - Andrew R. McKinstry-Wu
+  - Sarah M. Weinstein
+  - Philip A. Cook
+  - Mark Elliott
+  - Matthew Cieslak
+  - Jeffrey T. Duda
+  - Theodore D. Satterthwaite
+  - Russell T. Shinohara
+  - Alexander Proekt
+  - Max B. Kelz
+  - John A. Detre
+  - Dani S. Bassett
+  publisher: openRxiv
+  date: '2024-10-07'
+  link: https://doi.org/hcpsgv
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1002/hbm.26570
   title: "Diffusion\n                    <scp>MRI</scp>\n                    head\
     \ motion correction methods are highly accurate but impacted by denoising and\
@@ -8363,6 +8973,251 @@
   publisher: Human Brain Mapping
   date: '2024-01-30'
   link: https://doi.org/hcpjf2
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/arclin/acad079
+  title: "Discrepancies in Patient and Caregiver Ratings of Personality Change in\
+    \ Alzheimer\u2019s Disease and Related Dementias"
+  authors:
+  - Emma Rhodes
+  - Dawn Mechanic-Hamilton
+  - Jeffrey S Phillips
+  - Alejandra Bahena
+  - Nykko Vitali
+  - Quinn Hlava
+  - Philip Cook
+  - James Gee
+  - Murray Grossman
+  - Corey McMillan
+  - Lauren Massimo
+  publisher: Archives of Clinical Neuropsychology
+  date: '2023-10-20'
+  link: https://doi.org/hcpsgw
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fnins.2024.1353306
+  title: "Greater white matter degeneration and lower structural connectivity in non-amnestic\
+    \ vs. amnestic Alzheimer\u2019s disease"
+  authors:
+  - Jeffrey S. Phillips
+  - Nagesh Adluru
+  - Moo K. Chung
+  - Hamsanandini Radhakrishnan
+  - Christopher A. Olm
+  - Philip A. Cook
+  - James C. Gee
+  - Katheryn A. Q. Cousins
+  - Sanaz Arezoumandan
+  - David A. Wolk
+  - Corey T. McMillan
+  - Murray Grossman
+  - David J. Irwin
+  publisher: Frontiers in Neuroscience
+  date: '2024-03-18'
+  link: https://doi.org/hcpsgx
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neurobiolaging.2023.10.012
+  title: Impact of white matter hyperintensities on structural connectivity and cognition
+    in cognitively intact ADNI participants
+  authors:
+  - Mohammad Taghvaei
+  - Dawn J. Mechanic-Hamilton
+  - Shokufeh Sadaghiani
+  - Banafsheh Shakibajahromi
+  - Sudipto Dolui
+  - Sandhitsu Das
+  - Christopher Brown
+  - William Tackett
+  - Pulkit Khandelwal
+  - Philip Cook
+  - Russell T. Shinohara
+  - Paul Yushkevich
+  - Danielle S. Bassett
+  - David A. Wolk
+  - John A. Detre
+  publisher: Neurobiology of Aging
+  date: '2024-03-01'
+  link: https://doi.org/hcpjpb
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.09.23.24313179
+  title: "Magnetic Resonance Imaging Data Phenotypes for the Parkinson\u2019s Progression\
+    \ Markers Initiative"
+  authors:
+  - Brian B Avants
+  - Leon Fonville
+  - Olivia Hampton
+  - Alexandra Reardon
+  - Andrew Stenger
+  - Xue Wang
+  - Nicholas J Tustison
+  - James R Stone
+  - Philip A Cook
+  - Barbara Marebwa
+  - Lana M Chahine
+  - Kathleen L Poston
+  - Kenneth Marek
+  - Lino Becerra
+  - Roger Gunn
+  publisher: openRxiv
+  date: '2024-09-24'
+  link: https://doi.org/hcpsgz
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.08.16.24312102
+  title: Microstructural changes in the inferior tuberal hypothalamus correlate with
+    daytime sleepiness in Lewy body disease
+  authors:
+  - Jesse S. Cohen
+  - Hamsanandini Radhakrishnan
+  - Christopher A. Olm
+  - Sandhitsu R. Das
+  - Philip A. Cook
+  - David A. Wolk
+  - Daniel Weintraub
+  - David J. Irwin
+  - Corey T. McMillan
+  publisher: openRxiv
+  date: '2024-08-16'
+  link: https://doi.org/hcpsg2
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.3008837
+  title: Video and synthetic MRI pre-training of 3D vision architectures for neuroimage
+    analysis
+  authors:
+  - Nikhil J. Dhinagar
+  - Amit Singh
+  - Saket S. Ozarkar
+  - Ketaki U. Buwa
+  - Sophia Thomopoulos
+  - Conor Owens-Walton
+  - Emily Laltoo
+  - Yao-Liang Chen
+  - Philip A. Cook
+  - Corey McMillan
+  - Chih-Chien Tsai
+  - J-J Wang
+  - Yih-Ru Wu
+  - Paul M. Thompson
+  publisher: 'Medical Imaging 2024: Computer-Aided Diagnosis'
+  date: '2024-04-03'
+  link: https://doi.org/hcpsg3
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21203/rs.3.rs-3459157/v1
+  title: ANTsX neuroimaging-derived structural phenotypes of UK Biobank
+  authors:
+  - Nicholas J. Tustison
+  - Michael A. Yassa
+  - Batool Rizvi
+  - Philip A. Cook
+  - Andrew J. Holbrook
+  - Mithra T. Sathishkumar
+  - Mia G. Tustison
+  - James C. Gee
+  - James R. Stone
+  - Brian B. Avants
+  publisher: Research Square Platform LLC
+  date: '2023-10-30'
+  link: https://doi.org/hcpsg4
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/arXiv.2302.13631
+  title: Curriculum Based Multi-Task Learning for Parkinson's Disease Detection
+  authors:
+  - Nikhil J. Dhinagar
+  - Conor Owens-Walton
+  - Emily Laltoo
+  - Christina P. Boyle
+  - Yao-Liang Chen
+  - Philip Cook
+  - Corey McMillan
+  - Chih-Chien Tsai
+  - J-J Wang
+  - Yih-Ru Wu
+  - Ysbrand van der Werf
+  - Paul M. Thompson
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/hcpsg5
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/EMBC40787.2023.10340792
+  title: "Comparison of Anatomical and Diffusion MRI for detecting Parkinson\u2019\
+    s Disease using Deep Convolutional Neural Network"
+  authors:
+  - Tamoghna Chattopadhyay
+  - Amit Singh
+  - Emily Laltoo
+  - Christina P. Boyle
+  - Conor Owens-Walton
+  - Yao-Liang Chen
+  - Philip Cook
+  - Corey McMillan
+  - Chih-Chien Tsai
+  - J-J Wang
+  - Yih-Ru Wu
+  - Ysbrand van der Werf
+  - Paul M. Thompson
+  publisher: 2023 45th Annual International Conference of the IEEE Engineering in
+    Medicine &amp; Biology Society (EMBC)
+  date: '2023-07-24'
+  link: https://doi.org/hcpsg6
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.05.01.538952
+  title: "Comparison of Anatomical and Diffusion MRI for detecting Parkinson\u2019\
+    s Disease using Deep Convolutional Neural Network"
+  authors:
+  - Tamoghna Chattopadhyay
+  - Amit Singh
+  - Emily Laltoo
+  - Christina P. Boyle
+  - Conor Owens-Walton
+  - Yao-Liang Chen
+  - Philip Cook
+  - Corey McMillan
+  - Chih-Chien Tsai
+  - J-J Wang
+  - Yih-Ru Wu
+  - Ysbrand van der Werf
+  - Paul M. Thompson
+  publisher: openRxiv
+  date: '2023-05-01'
+  link: https://doi.org/hcpsg7
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ISBI53787.2023.10230355
+  title: "Curriculum Based Multi-Task Learning for Parkinson\u2019s Disease Detection"
+  authors:
+  - Nikhil J. Dhinagar
+  - Conor Owens-Walton
+  - Emily Laltoo
+  - Christina P. Boyle
+  - Yao-Liang Chen
+  - Philip Cook
+  - Corey McMillan
+  - Chih-Chien Tsai
+  - J-J Wang
+  - Yih-Ru Wu
+  - Ysbrand van der Werf
+  - Paul M. Thompson
+  publisher: 2023 IEEE 20th International Symposium on Biomedical Imaging (ISBI)
+  date: '2023-04-18'
+  link: https://doi.org/hcpsg8
   orcid: 0000-0002-1985-8475
   plugin: orcid.py
   file: orcid.yaml
@@ -8395,6 +9250,970 @@
   orcid: 0000-0002-1985-8475
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1016/j.celrep.2023.113487
+  title: Development of white matter fiber covariance networks supports executive
+    function in youth
+  authors:
+  - "Jo\xEBlle Bagautdinova"
+  - Josiane Bourque
+  - Valerie J. Sydnor
+  - Matthew Cieslak
+  - Aaron F. Alexander-Bloch
+  - Maxwell A. Bertolero
+  - Philip A. Cook
+  - Raquel E. Gur
+  - Ruben C. Gur
+  - Fengling Hu
+  - Bart Larsen
+  - Tyler M. Moore
+  - Hamsanandini Radhakrishnan
+  - David R. Roalf
+  - Russel T. Shinohara
+  - Tinashe M. Tapera
+  - Chenying Zhao
+  - Aristeidis Sotiras
+  - Christos Davatzikos
+  - Theodore D. Satterthwaite
+  publisher: Cell Reports
+  date: '2023-12-01'
+  link: https://doi.org/hcpsg9
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.03.09.23287003
+  title: "Discrepancies in patient and caregiver ratings of personality change in\
+    \ Alzheimer\u2019s disease and related dementias"
+  authors:
+  - Emma Rhodes
+  - Dawn Mechanic-Hamilton
+  - Jeffrey S. Phillips
+  - Corey McMillan
+  - Alejandra Bahena
+  - Nykko Vitali
+  - Quinn Hlava
+  - Philip Cook
+  - James Gee
+  - Murray Grossman
+  - Lauren Massimo
+  publisher: openRxiv
+  date: '2023-03-13'
+  link: https://doi.org/hcpshb
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.crneur.2023.100089
+  title: Dynamic structural remodeling of the human visual system prompted by bilateral
+    retinal gene therapy
+  authors:
+  - Manzar Ashtari
+  - Philip Cook
+  - Mikhail Lipin
+  - Yinxi Yu
+  - Gui-Shuang Ying
+  - Albert Maguire
+  - Jean Bennett
+  - James Gee
+  - Hui Zhang
+  publisher: Current Research in Neurobiology
+  date: '2023-01-01'
+  link: https://doi.org/hcpshc
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.02.22.529546
+  title: Establishing the Validity of Compressed Sensing Diffusion Spectrum Imaging
+  authors:
+  - Hamsanandini Radhakrishnan
+  - Chenying Zhao
+  - Valerie J. Sydnor
+  - Erica B. Baller
+  - Philip A. Cook
+  - Damien Fair
+  - Barry Giesbrecht
+  - Bart Larsen
+  - Kristin Murtha
+  - David R. Roalf
+  - Sage Rush-Goebel
+  - Russell Shinohara
+  - Haochang Shou
+  - M. Dylan Tisdall
+  - Jean Vettel
+  - Scott Grafton
+  - Matthew Cieslak
+  - Theodore Satterthwaite
+  publisher: openRxiv
+  date: '2023-02-23'
+  link: https://doi.org/g5mb56
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s40035-023-00389-3
+  title: "Novel data-driven subtypes and stages of brain atrophy in the ALS\u2013\
+    FTD spectrum"
+  authors:
+  - Ting Shen
+  - Jacob W. Vogel
+  - Jeffrey Duda
+  - Jeffrey S. Phillips
+  - Philip A. Cook
+  - James Gee
+  - Lauren Elman
+  - Colin Quinn
+  - Defne A. Amado
+  - Michael Baer
+  - Lauren Massimo
+  - Murray Grossman
+  - David J. Irwin
+  - Corey T. McMillan
+  publisher: Translational Neurodegeneration
+  date: '2023-12-07'
+  link: https://doi.org/gtcbrf
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/arXiv.2309.04651
+  title: Video and Synthetic MRI Pre-training of 3D Vision Architectures for Neuroimage
+    Analysis
+  authors:
+  - Nikhil J. Dhinagar
+  - Amit Singh
+  - Saket Ozarkar
+  - Ketaki Buwa
+  - Sophia I. Thomopoulos
+  - Conor Owens-Walton
+  - Emily Laltoo
+  - Yao-Liang Chen
+  - Philip Cook
+  - Corey McMillan
+  - Chih-Chien Tsai
+  - J-J Wang
+  - Yih-Ru Wu
+  - Paul M. Thompson
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/hcpshd
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/hbm.26326
+  title: Young versus older subject diffusion magnetic resonance imaging data for
+    virtual white matter lesion tractography
+  authors:
+  - Mohammad Taghvaei
+  - Philip Cook
+  - Shokufeh Sadaghiani
+  - Banafsheh Shakibajahromi
+  - William Tackett
+  - Sudipto Dolui
+  - Debarun De
+  - Christopher Brown
+  - Pulkit Khandelwal
+  - Paul Yushkevich
+  - Sandhitsu Das
+  - David A. Wolk
+  - John A. Detre
+  publisher: Human Brain Mapping
+  date: '2023-05-06'
+  link: https://doi.org/hcpjps
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41592-022-01458-7
+  title: 'ASLPrep: a platform for processing of arterial spin labeled MRI and quantification
+    of regional brain perfusion'
+  authors:
+  - Azeez Adebimpe
+  - Maxwell Bertolero
+  - Sudipto Dolui
+  - Matthew Cieslak
+  - Kristin Murtha
+  - Erica B. Baller
+  - Bradley Boeve
+  - Adam Boxer
+  - Ellyn R. Butler
+  - Phil Cook
+  - Stan Colcombe
+  - Sydney Covitz
+  - Christos Davatzikos
+  - Diego G. Davila
+  - Mark A. Elliott
+  - Matthew W. Flounders
+  - Alexandre R. Franco
+  - Raquel E. Gur
+  - Ruben C. Gur
+  - Basma Jaber
+  - Corey McMillian
+  - Liana Apostolova
+  - Brian Appleby
+  - Sami Barmada
+  - Yvette Bordelon
+  - Hugo Botha
+  - Adam L. Boxer
+  - Andrea Bozoki
+  - Danielle Brushaber
+  - David Clark
+  - Giovanni Coppola
+  - Ryan Darby
+  - Dennis Dickson
+  - Kimiko Domoto-Reilly
+  - Kelley Faber
+  - Anne Fagan
+  - Julie A. Fields
+  - Tatiana Foroud
+  - Leah K. Forsberg
+  - Daniel Geschwind
+  - Jill Goldman
+  - Douglas R. Galasko
+  - Ralitza Gavrilova
+  - Tania Gendron
+  - Jonathon Graff-Radford
+  - Neill Graff-Radford
+  - Ian M. Grant
+  - Murray Grossman
+  - Matthew Hall
+  - Eric Huang
+  - Hilary W. Heuer
+  - Ging-Yuek Robin Hsiung
+  - Edward D. Huey
+  - David Irwin
+  - David T. Jones
+  - Kejal Kantarci
+  - Daniel Kaufer
+  - Diana Kerwin
+  - David Knopman
+  - John Kornak
+  - Joel Kramer
+  - Walter Kremers
+  - Maria Lapid
+  - Argentina Lario Lago
+  - Gabriel Leger
+  - Peter Ljubenkov
+  - Irene Litvan
+  - Diane Lucente
+  - Ian R. Mackenzie
+  - Joseph C. Masdeu
+  - Scott McGinnis
+  - Mario Mendez
+  - Carly Mester
+  - Bruce L. Miller
+  - Chiadi Onyike
+  - M. Belen Pascual
+  - Leonard Petrucelli
+  - Peter Pressman
+  - Rosa Rademakers
+  - Vijay Ramanan
+  - E. Marisa Ramos
+  - Meghana Rao
+  - Katya Rascovsky
+  - Katherine P. Rankin
+  - Aaron Ritter
+  - Erik D. Roberson
+  - Julio Rojas-Martinez
+  - Howard J. Rosen
+  - Rodolfo Savica
+  - William Seeley
+  - Jeremy Syrjanen
+  - Adam M. Staffaroni
+  - M. Carmela Tartaglia
+  - Jack Taylor
+  - Lawren VandeVrede
+  - Sandra Weintraub
+  - Bonnie Wong
+  - Zbigniew Wszolek
+  - Michael Milham
+  - Henk J. M. M. Mutsaerts
+  - Desmond J. Oathes
+  - Christopher A. Olm
+  - Jeffrey S. Phillips
+  - Will Tackett
+  - David R. Roalf
+  - Howard Rosen
+  - Tinashe M. Tapera
+  - M. Dylan Tisdall
+  - Dale Zhou
+  - Oscar Esteban
+  - Russell A. Poldrack
+  - John A. Detre
+  - Theodore D. Satterthwaite
+  publisher: Nature Methods
+  date: '2022-06-01'
+  link: https://doi.org/hcpshf
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.bpsgos.2021.11.004
+  title: Differential Impact of Anxious Misery Psychopathology on Multiple Representations
+    of the Functional Connectome
+  authors:
+  - Darsol Seok
+  - Joanne Beer
+  - Marc Jaskir
+  - Nathan Smyk
+  - Adna Jaganjac
+  - Walid Makhoul
+  - Philip Cook
+  - Mark Elliott
+  - Russell Shinohara
+  - Yvette I. Sheline
+  publisher: Biological Psychiatry Global Open Science
+  date: '2022-10-01'
+  link: https://doi.org/g8v8sw
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.07.21.500865
+  title: Diffusion MRI Head Motion Correction Methods are Highly Accurate but Impacted
+    by Denoising and Sampling Scheme
+  authors:
+  - Matthew Cieslak
+  - Philip A. Cook
+  - Tinashe M. Tapera
+  - Hamsanandini Radhakrishnan
+  - Mark Elliott
+  - David R. Roalf
+  - Desmond J. Oathes
+  - Dani S. Bassett
+  - M. Dylan Tisdall
+  - Ariel Rokem
+  - Scott T. Grafton
+  - Theodore D. Satterthwaite
+  publisher: openRxiv
+  date: '2022-07-22'
+  link: https://doi.org/hcpshg
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/hbm.25688
+  title: Mitigating site effects in covariance for machine learning in neuroimaging
+    data
+  authors:
+  - Andrew A. Chen
+  - Joanne C. Beer
+  - Nicholas J. Tustison
+  - Philip A. Cook
+  - Russell T. Shinohara
+  - Haochang Shou
+  publisher: Human Brain Mapping
+  date: '2021-12-14'
+  link: https://doi.org/gntvh2
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/alz.12456
+  title: "Rates of longitudinal change in <sup>18</sup>F\u2010flortaucipir PET vary\
+    \ by brain region, cognitive impairment, and age in atypical Alzheimer's disease"
+  authors:
+  - Jeffrey S. Phillips
+  - Frederick J. Nitchie
+  - Fulvio Da Re
+  - Christopher A. Olm
+  - Philip A. Cook
+  - Corey T. McMillan
+  - David J. Irwin
+  - James C. Gee
+  - Jacob G. Dubroff
+  - Murray Grossman
+  - Ilya M. Nasrallah
+  publisher: Alzheimer's &amp; Dementia
+  date: '2021-09-13'
+  link: https://doi.org/gn3mrv
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.2606297
+  title: "3D convolutional neural networks for classification of Alzheimer\u2019s\
+    \ and Parkinson\u2019s disease with T1-weighted brain MRI"
+  authors:
+  - Nikhil J. Dhinagar
+  - Sophia I. Thomopoulos
+  - Conor Owens-Walton
+  - Dimitris Stripelis
+  - Jose Luis Ambite
+  - Greg Ver Steeg
+  - Daniel Weintraub
+  - Philip Cook
+  - Corey McMillan
+  - Paul M. Thompson
+  publisher: 17th International Symposium on Medical Information Processing and Analysis
+  date: '2021-12-10'
+  link: https://doi.org/hcpshh
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.07.26.453903
+  title: "3D Convolutional Neural Networks for Classification of Alzheimer\u2019s\
+    \ and Parkinson\u2019s Disease with T1-Weighted Brain MRI"
+  authors:
+  - Nikhil J. Dhinagar
+  - Sophia I. Thomopoulos
+  - Conor Owens-Walton
+  - Dimitris Stripelis
+  - Jose Luis Ambite
+  - Greg Ver Steeg
+  - Daniel Weintraub
+  - Philip Cook
+  - Corey McMillan
+  - Paul M. Thompson
+  publisher: openRxiv
+  date: '2021-07-27'
+  link: https://doi.org/hcpshj
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.05.20.444998
+  title: 'ASLPrep: A Generalizable Platform for Processing of Arterial Spin Labeled
+    MRI and Quantification of Regional Brain Perfusion'
+  authors:
+  - Azeez Adebimpe
+  - Maxwell Bertolero
+  - Sudipto Dolui
+  - Matthew Cieslak
+  - Kristin Murtha
+  - Erica B. Baller
+  - Bradley Boeve
+  - Adam Boxer
+  - Ellyn R. Butler
+  - Phil Cook
+  - Stan Colcombe
+  - Sydney Covitz
+  - Christos Davatzikos
+  - Diego G. Davila
+  - Mark A. Elliott
+  - Matthew W. Flounders
+  - Alexandre R. Franco
+  - Raquel E. Gur
+  - Ruben C. Gur
+  - Basma Jaber
+  - Corey McMillian
+  - Michael Milham
+  - Henk J.M.M. Mutsaerts
+  - Desmond J. Oathe
+  - Christopher A. Olm
+  - Jeffrey S. Phillips
+  - Will Tackett
+  - David R. Roalf
+  - Howard Rosen
+  - Tinashe M. Tapera
+  - M. Dylan Tisdall
+  - Oscar Esteban
+  - Russell A. Poldrack
+  - John A. Detre
+  - Theodore D. Satterthwaite
+  publisher: openRxiv
+  date: '2021-05-22'
+  link: https://doi.org/gsx3r6
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.03.05.434151
+  title: Differential impact of transdiagnostic, dimensional psychopathology on multiple
+    scales of functional connectivity
+  authors:
+  - Darsol Seok
+  - Joanne Beer
+  - Marc Jaskir
+  - Nathan Smyk
+  - Adna Jaganjac
+  - Walid Makhoul
+  - Philip Cook
+  - Mark Elliott
+  - Russell Shinohara
+  - Yvette I. Sheline
+  publisher: openRxiv
+  date: '2021-03-07'
+  link: https://doi.org/gszvzc
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fninf.2021.678403
+  title: 'FlywheelTools: Data Curation and Manipulation on the Flywheel Platform'
+  authors:
+  - Tinashe M. Tapera
+  - Matthew Cieslak
+  - Max Bertolero
+  - Azeez Adebimpe
+  - Geoffrey K. Aguirre
+  - Ellyn R. Butler
+  - Philip A. Cook
+  - Diego Davila
+  - Mark A. Elliott
+  - Sophia Linguiti
+  - Kristin Murtha
+  - William Tackett
+  - John A. Detre
+  - Theodore D. Satterthwaite
+  publisher: Frontiers in Neuroinformatics
+  date: '2021-06-22'
+  link: https://doi.org/gm7zpq
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.03.12.434998
+  title: 'FlywheelTools: Data Curation and Manipulation on the Flywheel Platform'
+  authors:
+  - Tinashe M. Tapera
+  - Matthew Cieslak
+  - Max Bertolero
+  - Azeez Adebimpe
+  - Geoffrey K. Aguirre
+  - Ellyn R. Butler
+  - Philip A. Cook
+  - Diego Davila
+  - Mark A. Elliott
+  - Sophia Linguiti
+  - Kristin Murtha
+  - William Tackett
+  - John A. Detre
+  - Theodore D. Satterthwaite
+  publisher: openRxiv
+  date: '2021-03-12'
+  link: https://doi.org/gszv95
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.15252/emmm.202012595
+  title: Machine learning suggests polygenic risk for cognitive dysfunction in amyotrophic
+    lateral sclerosis
+  authors:
+  - Katerina Placek
+  - Michael Benatar
+  - Joanne Wuu
+  - Evadnie Rampersaud
+  - Laura Hennessy
+  - Vivianna M Van Deerlin
+  - Murray Grossman
+  - David J Irwin
+  - Lauren Elman
+  - Leo McCluskey
+  - Colin Quinn
+  - Volkan Granit
+  - Jeffrey M Statland
+  - Ted M Burns
+  - John Ravits
+  - Andrea Swenson
+  - Jon Katz
+  - Erik P Pioro
+  - Carlayne Jackson
+  - James Caress
+  - Yuen So
+  - Samuel Maiser
+  - David Walk
+  - Edward B Lee
+  - John Q Trojanowski
+  - Philip Cook
+  - James Gee
+  - Jin Sha
+  - Adam C Naj
+  - Rosa Rademakers
+  - Wenan Chen
+  - Gang Wu
+  - J Paul Taylor
+  - Corey T McMillan
+  publisher: EMBO Molecular Medicine
+  date: '2020-12-03'
+  link: https://doi.org/gjgtxw
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41592-021-01185-5
+  title: 'QSIPrep: an integrative platform for preprocessing and reconstructing diffusion
+    MRI data'
+  authors:
+  - Matthew Cieslak
+  - Philip A. Cook
+  - Xiaosong He
+  - Fang-Cheng Yeh
+  - Thijs Dhollander
+  - Azeez Adebimpe
+  - Geoffrey K. Aguirre
+  - Danielle S. Bassett
+  - Richard F. Betzel
+  - Josiane Bourque
+  - Laura M. Cabral
+  - Christos Davatzikos
+  - John A. Detre
+  - Eric Earl
+  - Mark A. Elliott
+  - Shreyas Fadnavis
+  - Damien A. Fair
+  - Will Foran
+  - Panagiotis Fotiadis
+  - Eleftherios Garyfallidis
+  - Barry Giesbrecht
+  - Ruben C. Gur
+  - Raquel E. Gur
+  - Max B. Kelz
+  - Anisha Keshavan
+  - Bart S. Larsen
+  - Beatriz Luna
+  - Allyson P. Mackey
+  - Michael P. Milham
+  - Desmond J. Oathes
+  - Anders Perrone
+  - Adam R. Pines
+  - David R. Roalf
+  - Adam Richie-Halford
+  - Ariel Rokem
+  - Valerie J. Sydnor
+  - Tinashe M. Tapera
+  - Ursula A. Tooley
+  - Jean M. Vettel
+  - Jason D. Yeatman
+  - Scott T. Grafton
+  - Theodore D. Satterthwaite
+  publisher: Nature Methods
+  date: '2021-06-21'
+  link: https://doi.org/gk82r9
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41380-021-01039-8
+  title: Structural brain measures linked to clinical phenotypes in major depression
+    replicate across clinical centres
+  authors:
+  - Meichen Yu
+  - Nicholas Cullen
+  - Kristin A. Linn
+  - Desmond J. Oathes
+  - Darsol Seok
+  - Philip A. Cook
+  - Romain Duprat
+  - Irem Aselcioglu
+  - Tyler M. Moore
+  - Christos Davatzikos
+  - Maria A. Oquendo
+  - Myrna M. Weissman
+  - Russell T. Shinohara
+  - Yvette I. Sheline
+  publisher: Molecular Psychiatry
+  date: '2021-02-15'
+  link: https://doi.org/gmwnht
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-021-87564-6
+  title: The ANTsX ecosystem for quantitative biological and medical imaging
+  authors:
+  - Nicholas J. Tustison
+  - Philip A. Cook
+  - Andrew J. Holbrook
+  - Hans J. Johnson
+  - John Muschelli
+  - Gabriel A. Devenyi
+  - Jeffrey T. Duda
+  - Sandhitsu R. Das
+  - Nicholas C. Cullen
+  - Daniel L. Gillen
+  - Michael A. Yassa
+  - James R. Stone
+  - James C. Gee
+  - Brian B. Avants
+  publisher: Scientific Reports
+  date: '2021-04-27'
+  link: https://doi.org/gj48zt
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/arXiv.2112.06979
+  title: 'The Brain Tumor Sequence Registration (BraTS-Reg) Challenge: Establishing
+    Correspondence Between Pre-Operative and Follow-up MRI Scans of Diffuse Glioma
+    Patients'
+  authors:
+  - Bhakti Baheti
+  - Satrajit Chakrabarty
+  - Hamed Akbari
+  - Michel Bilello
+  - Benedikt Wiestler
+  - Julian Schwarting
+  - Evan Calabrese
+  - Jeffrey Rudie
+  - Syed Abidi
+  - Mina Mousa
+  - Javier Villanueva-Meyer
+  - Brandon K. K. Fields
+  - Florian Kofler
+  - Russell Takeshi Shinohara
+  - Juan Eugenio Iglesias
+  - Tony C. W. Mok
+  - Albert C. S. Chung
+  - Marek Wodzinski
+  - Artur Jurgas
+  - Niccolo Marini
+  - Manfredo Atzori
+  - Henning Muller
+  - Christoph Grobroehmer
+  - Hanna Siebert
+  - Lasse Hansen
+  - Mattias P. Heinrich
+  - Luca Canalini
+  - Jan Klein
+  - Annika Gerken
+  - Stefan Heldmann
+  - Alessa Hering
+  - Horst K. Hahn
+  - Mingyuan Meng
+  - Lei Bi
+  - Dagan Feng
+  - Jinman Kim
+  - Ramy A. Zeineldin
+  - Mohamed E. Karar
+  - Franziska Mathis-Ullrich
+  - Oliver Burgert
+  - Javid Abderezaei
+  - Aymeric Pionteck
+  - Agamdeep Chopra
+  - Mehmet Kurt
+  - Kewei Yan
+  - Yonghong Yan
+  - Zhe Tang
+  - Jianqiang Ma
+  - Sahar Almahfouz Nasser
+  - Nikhil Cherian Kurian
+  - Mohit Meena
+  - Saqib Shamsi
+  - Amit Sethi
+  - Nicholas J. Tustison
+  - Brian B. Avants
+  - Philip Cook
+  - James C. Gee
+  - Lin Tian
+  - Hastings Greer
+  - Marc Niethammer
+  - Andrew Hoopes
+  - Malte Hoffmann
+  - Adrian V. Dalca
+  - Stergios Christodoulidis
+  - Theo Estiene
+  - Maria Vakalopoulou
+  - Nikos Paragios
+  - Daniel S. Marcus
+  - Christos Davatzikos
+  - Aristeidis Sotiras
+  - Bjoern Menze
+  - Spyridon Bakas
+  - Diana Waldmannstetter
+  publisher: arXiv
+  date: '2021-01-01'
+  link: https://doi.org/hcpshk
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41398-021-01342-6
+  title: "Transdiagnostic dimensions of psychopathology explain individuals\u2019\
+    \ unique deviations from normative neurodevelopment in brain structure"
+  authors:
+  - Linden Parkes
+  - Tyler M. Moore
+  - Monica E. Calkins
+  - Philip A. Cook
+  - Matthew Cieslak
+  - David R. Roalf
+  - Daniel H. Wolf
+  - Ruben C. Gur
+  - Raquel E. Gur
+  - Theodore D. Satterthwaite
+  - Danielle S. Bassett
+  publisher: Translational Psychiatry
+  date: '2021-04-20'
+  link: https://doi.org/gtfwxk
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.1912034117
+  title: "Development of structure\u2013function coupling in human brain networks\
+    \ during youth"
+  authors:
+  - Graham L. Baum
+  - Zaixu Cui
+  - David R. Roalf
+  - Rastko Ciric
+  - Richard F. Betzel
+  - Bart Larsen
+  - Matthew Cieslak
+  - Philip A. Cook
+  - Cedric H. Xia
+  - Tyler M. Moore
+  - Kosha Ruparel
+  - Desmond J. Oathes
+  - Aaron F. Alexander-Bloch
+  - Russell T. Shinohara
+  - Armin Raznahan
+  - Raquel E. Gur
+  - Ruben C. Gur
+  - Danielle S. Bassett
+  - Theodore D. Satterthwaite
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2019-12-24'
+  link: https://doi.org/ggh2v5
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.nicl.2020.102489
+  title: 'Dimensional connectomics of anxious misery, a human connectome study related
+    to human disease: Overview of protocol and data quality'
+  authors:
+  - Darsol Seok
+  - Nathan Smyk
+  - Marc Jaskir
+  - Philip Cook
+  - Mark Elliott
+  - Tommaso Girelli
+  - J. Cobb Scott
+  - Nicholas Balderston
+  - Joanne Beer
+  - Janet Stock
+  - Walid Makhoul
+  - Ruben C. Gur
+  - Christos Davatzikos
+  - Russell Shinohara
+  - Yvette Sheline
+  publisher: 'NeuroImage: Clinical'
+  date: '2020-01-01'
+  link: https://doi.org/hcpshm
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.dcn.2020.100788
+  title: Leveraging multi-shell diffusion for studies of brain development in youth
+    and young adulthood
+  authors:
+  - Adam R. Pines
+  - Matthew Cieslak
+  - Bart Larsen
+  - Graham L. Baum
+  - Philip A. Cook
+  - Azeez Adebimpe
+  - "Diego G. D\xE1vila"
+  - Mark A. Elliott
+  - Robert Jirsaraie
+  - Kristin Murtha
+  - Desmond J. Oathes
+  - Kayla Piiwaa
+  - Adon F.G. Rosen
+  - Sage Rush
+  - Russell T. Shinohara
+  - Danielle S. Bassett
+  - David R. Roalf
+  - Theodore D. Satterthwaite
+  publisher: Developmental Cognitive Neuroscience
+  date: '2020-06-01'
+  link: https://doi.org/hcpshn
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuroimage.2020.117129
+  title: 'Longitudinal ComBat: A method for harmonizing longitudinal multi-scanner
+    imaging data'
+  authors:
+  - Joanne C. Beer
+  - Nicholas J. Tustison
+  - Philip A. Cook
+  - Christos Davatzikos
+  - Yvette I. Sheline
+  - Russell T. Shinohara
+  - Kristin A. Linn
+  publisher: NeuroImage
+  date: '2020-10-01'
+  link: https://doi.org/gg33hf
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2019.12.23.19014407
+  title: Machine learning suggests polygenic contribution to cognitive dysfunction
+    in amyotrophic lateral sclerosis
+  authors:
+  - Katerina Placek
+  - Michael Benatar
+  - Joanne Wuu
+  - Evadnie Rampersaud
+  - Laura Hennessy
+  - Vivianna M. Van Deerlin
+  - Murray Grossman
+  - David J. Irwin
+  - Lauren Elman
+  - Leo McCluskey
+  - Colin Quinn
+  - Volkan Granit
+  - Jeffrey M. Statland
+  - Ted M. Burns
+  - John Ravits
+  - Andrea Swenson
+  - Jon Katz
+  - Erik Pioro
+  - Carlayne Jackson
+  - James Caress
+  - Yuen So
+  - Samuel Maiser
+  - David Walk
+  - Edward B. Lee
+  - John Q. Trojanowski
+  - Philip Cook
+  - James Gee
+  - Jin Sha
+  - Adam C. Naj
+  - Rosa Rademakers
+  - Wenan Chen
+  - Gang Wu
+  - J. Paul Taylor
+  - Corey T. McMillan
+  publisher: openRxiv
+  date: '2019-12-27'
+  link: https://doi.org/hcpshp
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.09.04.282269
+  title: 'QSIPrep: An integrative platform for preprocessing and reconstructing diffusion
+    MRI'
+  authors:
+  - Matthew Cieslak
+  - Philip A. Cook
+  - Xiaosong He
+  - Fang-Cheng Yeh
+  - Thijs Dhollander
+  - Azeez Adebimpe
+  - Geoffrey K. Aguirre
+  - Danielle S. Bassett
+  - Richard F. Betzel
+  - Josiane Bourque
+  - Laura M. Cabral
+  - Christos Davatzikos
+  - John Detre
+  - Eric Earl
+  - Mark A. Elliott
+  - Shreyas Fadnavis
+  - Damien A. Fair
+  - Will Foran
+  - Panagiotis Fotiadis
+  - Eleftherios Garyfallidis
+  - Barry Giesbrecht
+  - Ruben C. Gur
+  - Raquel E. Gur
+  - Max Kelz
+  - Anisha Keshavan
+  - Bart S. Larsen
+  - Beatriz Luna
+  - Allyson P. Mackey
+  - Michael Milham
+  - Desmond J. Oathes
+  - Anders Perrone
+  - Adam R. Pines
+  - David R. Roalf
+  - Adam Richie-Halford
+  - Ariel Rokem
+  - Valerie J. Sydnor
+  - Tinashe M. Tapera
+  - Ursula A. Tooley
+  - Jean M. Vettel
+  - Jason D. Yeatman
+  - Scott T. Grafton
+  - Theodore D. Satterthwaite
+  publisher: openRxiv
+  date: '2020-09-04'
+  link: https://doi.org/gj6wfp
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2020.10.19.20215392
   title: The ANTsX ecosystem for quantitative biological and medical imaging
   authors:
@@ -8418,6 +10237,27 @@
   orcid: 0000-0003-0530-2887
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1101/2020.06.11.147009
+  title: "Transdiagnostic dimensions of psychopathology explain individuals\u2019\
+    \ unique deviations from normative neurodevelopment in brain structure"
+  authors:
+  - Linden Parkes
+  - Tyler M. Moore
+  - Monica E. Calkins
+  - Philip A. Cook
+  - Matthew Cieslak
+  - David R. Roalf
+  - Daniel H. Wolf
+  - Ruben C. Gur
+  - Raquel E. Gur
+  - Theodore D. Satterthwaite
+  - Danielle S. Bassett
+  publisher: openRxiv
+  date: '2020-06-12'
+  link: https://doi.org/hcpshq
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/868810
   title: 'Longitudinal ComBat: A Method for Harmonizing Longitudinal Multi-scanner
     Imaging Data'
@@ -8432,6 +10272,258 @@
   publisher: openRxiv
   date: '2019-12-08'
   link: https://doi.org/gkwj7x
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/596346
+  title: Accelerated Cortical Thinning within Structural Brain Networks is Associated
+    with Irritability in Youth
+  authors:
+  - Robert J. Jirsaraie
+  - Antonia N. Kaczkurkin
+  - Sage Rush
+  - Kayla Piiwia
+  - Azeez Adebimpe
+  - Danielle S. Bassett
+  - Josiane Bourque
+  - Monica E. Calkins
+  - Matthew Cieslak
+  - Rastko Ciric
+  - Philip A. Cook
+  - Diego Davila
+  - Mark A. Elliott
+  - Ellen Leibenluft
+  - Kristin Murtha
+  - David R. Roalf
+  - Adon F.G. Rosen
+  - Kosha Ruparel
+  - Russell T. Shinohara
+  - Aristeidis Sotiras
+  - Daniel H. Wolf
+  - Christos Davatzikos
+  - Theodore D. Satterthwaite
+  publisher: openRxiv
+  date: '2019-04-02'
+  link: https://doi.org/gkwtwn
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41386-019-0508-3
+  title: Accelerated cortical thinning within structural brain networks is associated
+    with irritability in youth
+  authors:
+  - Robert J. Jirsaraie
+  - Antonia N. Kaczkurkin
+  - Sage Rush
+  - Kayla Piiwia
+  - Azeez Adebimpe
+  - Danielle S. Bassett
+  - Josiane Bourque
+  - Monica E. Calkins
+  - Matthew Cieslak
+  - Rastko Ciric
+  - Philip A. Cook
+  - Diego Davila
+  - Mark A. Elliott
+  - Ellen Leibenluft
+  - Kristin Murtha
+  - David R. Roalf
+  - Adon F. G. Rosen
+  - Kosha Ruparel
+  - Russell T. Shinohara
+  - Aristeidis Sotiras
+  - Daniel H. Wolf
+  - Christos Davatzikos
+  - Theodore D. Satterthwaite
+  publisher: Neuropsychopharmacology
+  date: '2019-09-02'
+  link: https://doi.org/gsvq44
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/611590
+  title: Advantages of Multi-shell Diffusion for Studies of Brain Development in Youth
+  authors:
+  - Adam R. Pines
+  - Matthew Cieslak
+  - Graham L. Baum
+  - Philip A. Cook
+  - Azeez Adebimpe
+  - "Diego G. D\xE1vila"
+  - Mark A. Elliott
+  - Robert Jirsaraie
+  - Kristin Murtha
+  - Desmond J. Oathes
+  - Kayla Piiwaa
+  - Adon F. G. Rosen
+  - Sage Rush
+  - Russell T. Shinohara
+  - Danielle S. Bassett
+  - David R. Roalf
+  - Theodore D. Satterthwaite
+  publisher: openRxiv
+  date: '2019-04-18'
+  link: https://doi.org/gkwz8v
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.1900801116
+  title: Childhood trauma history is linked to abnormal brain connectivity in major
+    depression
+  authors:
+  - Meichen Yu
+  - Kristin A. Linn
+  - Russell T. Shinohara
+  - Desmond J. Oathes
+  - Philip A. Cook
+  - Romain Duprat
+  - Tyler M. Moore
+  - Maria A. Oquendo
+  - Mary L. Phillips
+  - Melvin McInnis
+  - Maurizio Fava
+  - Madhukar H. Trivedi
+  - Patrick McGrath
+  - Ramin Parsey
+  - Myrna M. Weissman
+  - Yvette I. Sheline
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2019-04-08'
+  link: https://doi.org/gf3zwd
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.1908918116
+  title: Correction to Supporting Information for Yu et al., Childhood trauma history
+    is linked to abnormal brain connectivity in major depression
+  authors: []
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2019-06-10'
+  link: https://doi.org/hcpshr
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/729004
+  title: Development of structure-function coupling in human brain networks during
+    youth
+  authors:
+  - Graham L. Baum
+  - Zaixu Cui
+  - David R. Roalf
+  - Rastko Ciric
+  - Richard F. Betzel
+  - Bart Larsen
+  - Matthew Cieslak
+  - Philip A. Cook
+  - Cedric H. Xia
+  - Tyler M. Moore
+  - Kosha Ruparel
+  - Desmond Oathes
+  - Aaron Alexander-Bloch
+  - Russell T. Shinohara
+  - Armin Raznahan
+  - Raquel E. Gur
+  - Ruben C. Gur
+  - Danielle S. Bassett
+  - Theodore D. Satterthwaite
+  publisher: openRxiv
+  date: '2019-08-12'
+  link: https://doi.org/gg6xg2
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3233/JAD-190283
+  title: "Longitudinal Mapping of Cortical Thickness Measurements: An Alzheimer\u2019\
+    s Disease Neuroimaging Initiative-Based Evaluation Study"
+  authors:
+  - Nicholas J. Tustison
+  - Andrew J. Holbrook
+  - Brian B. Avants
+  - Jared M. Roberts
+  - Philip A. Cook
+  - Zachariah M. Reagh
+  - Jeffrey T. Duda
+  - James R. Stone
+  - Daniel L. Gillen
+  - Michael A. Yassa
+  publisher: "Journal of Alzheimer\u2019s Disease"
+  date: '2019-07-22'
+  link: https://doi.org/hcpshs
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/brain/awz091
+  title: "Longitudinal progression of grey matter atrophy in non-amnestic Alzheimer\u2019\
+    s disease"
+  authors:
+  - Jeffrey S Phillips
+  - Fulvio Da Re
+  - David J Irwin
+  - Corey T McMillan
+  - Sanjeev N Vaishnavi
+  - Sharon X Xie
+  - Edward B Lee
+  - Philip A Cook
+  - James C Gee
+  - Leslie M Shaw
+  - John Q Trojanowski
+  - David A Wolk
+  - Murray Grossman
+  publisher: Brain
+  date: '2019-04-16'
+  link: https://doi.org/gf2psh
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/858415
+  title: Removal of Scanner Effects in Covariance Improves Multivariate Pattern Analysis
+    in Neuroimaging Data
+  authors:
+  - Andrew A. Chen
+  - Joanne C. Beer
+  - Nicholas J. Tustison
+  - Philip A. Cook
+  - Russell T. Shinohara
+  - Haochang Shou
+  publisher: openRxiv
+  date: '2019-12-02'
+  link: https://doi.org/gk3scr
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1089/neu.2017.5141
+  title: A Retrospective Study of Predictors of Return to Duty versus Medical Retirement
+    in an Active Duty Military Population with Blast-Related Mild Traumatic Brain
+    Injury
+  authors:
+  - Philip A. Cook
+  - Thomas M. Johnson
+  - Suzanne G. Martin
+  - Philip R. Gehrman
+  - Seema Bhatnagar
+  - James C. Gee
+  publisher: Journal of Neurotrauma
+  date: '2018-04-15'
+  link: https://doi.org/gctk8d
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.bpsc.2017.12.006
+  title: Cognitive Behavioral Therapy Is Associated With Enhanced Cognitive Control
+    Network Activity in Major Depression and Posttraumatic Stress Disorder
+  authors:
+  - Zhen Yang
+  - Desmond J. Oathes
+  - Kristin A. Linn
+  - Steven E. Bruce
+  - Theodore D. Satterthwaite
+  - Philip A. Cook
+  - Emma K. Satchell
+  - Haochang Shou
+  - Yvette I. Sheline
+  publisher: 'Biological Psychiatry: Cognitive Neuroscience and Neuroimaging'
+  date: '2018-04-01'
+  link: https://doi.org/gf3gdp
   orcid: 0000-0002-1985-8475
   plugin: orcid.py
   file: orcid.yaml
@@ -8459,6 +10551,1008 @@
   publisher: The Journal of Neuroscience
   date: '2018-02-12'
   link: https://doi.org/gc9hh9
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuroimage.2017.11.024
+  title: Harmonization of cortical thickness measurements across scanners and sites
+  authors:
+  - Jean-Philippe Fortin
+  - Nicholas Cullen
+  - Yvette I. Sheline
+  - Warren D. Taylor
+  - Irem Aselcioglu
+  - Philip A. Cook
+  - Phil Adams
+  - Crystal Cooper
+  - Maurizio Fava
+  - Patrick J. McGrath
+  - Melvin McInnis
+  - Mary L. Phillips
+  - Madhukar H. Trivedi
+  - Myrna M. Weissman
+  - Russell T. Shinohara
+  publisher: NeuroImage
+  date: '2018-02-01'
+  link: https://doi.org/gc8hc5
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-018-05317-y
+  title: Linked dimensions of psychopathology and connectivity in functional brain
+    networks
+  authors:
+  - Cedric Huchuan Xia
+  - Zongming Ma
+  - Rastko Ciric
+  - Shi Gu
+  - Richard F. Betzel
+  - Antonia N. Kaczkurkin
+  - Monica E. Calkins
+  - Philip A. Cook
+  - "Angel Garc\xEDa de la Garza"
+  - Simon N. Vandekar
+  - Zaixu Cui
+  - Tyler M. Moore
+  - David R. Roalf
+  - Kosha Ruparel
+  - Daniel H. Wolf
+  - Christos Davatzikos
+  - Ruben C. Gur
+  - Raquel E. Gur
+  - Russell T. Shinohara
+  - Danielle S. Bassett
+  - Theodore D. Satterthwaite
+  publisher: Nature Communications
+  date: '2018-08-01'
+  link: https://doi.org/gd3crd
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.nicl.2018.05.017
+  title: Longitudinal structural gray matter and white matter MRI changes in presymptomatic
+    progranulin mutation carriers
+  authors:
+  - Christopher A. Olm
+  - Corey T. McMillan
+  - David J. Irwin
+  - Vivianna M. Van Deerlin
+  - Philip A. Cook
+  - James C. Gee
+  - Murray Grossman
+  publisher: 'NeuroImage: Clinical'
+  date: '2018-01-01'
+  link: https://doi.org/gdtwg2
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41596-018-0065-y
+  title: Mitigating head motion artifact in functional connectivity MRI
+  authors:
+  - Rastko Ciric
+  - Adon F. G. Rosen
+  - Guray Erus
+  - Matthew Cieslak
+  - Azeez Adebimpe
+  - Philip A. Cook
+  - Danielle S. Bassett
+  - Christos Davatzikos
+  - Daniel H. Wolf
+  - Theodore D. Satterthwaite
+  publisher: Nature Protocols
+  date: '2018-11-16'
+  link: https://doi.org/gfqn75
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuroimage.2017.12.059
+  title: Quantitative assessment of structural image quality
+  authors:
+  - Adon F.G. Rosen
+  - David R. Roalf
+  - Kosha Ruparel
+  - Jason Blake
+  - Kevin Seelaus
+  - Lakshmi P. Villa
+  - Rastko Ciric
+  - Philip A. Cook
+  - Christos Davatzikos
+  - Mark A. Elliott
+  - Angel Garcia de La Garza
+  - Efstathios D. Gennatas
+  - Megan Quarmley
+  - J. Eric Schmitt
+  - Russell T. Shinohara
+  - M. Dylan Tisdall
+  - R. Cameron Craddock
+  - Raquel E. Gur
+  - Ruben C. Gur
+  - Theodore D. Satterthwaite
+  publisher: NeuroImage
+  date: '2018-04-01'
+  link: https://doi.org/gc9j3f
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/hbm.24241
+  title: "Statistical harmonization corrects site effects in functional connectivity\
+    \ measurements from multi\u2010site fMRI data"
+  authors:
+  - Meichen Yu
+  - Kristin A. Linn
+  - Philip A. Cook
+  - Mary L. Phillips
+  - Melvin McInnis
+  - Maurizio Fava
+  - Madhukar H. Trivedi
+  - Myrna M. Weissman
+  - Russell T. Shinohara
+  - Yvette I. Sheline
+  publisher: Human Brain Mapping
+  date: '2018-07-01'
+  link: https://doi.org/gff7m4
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuroimage.2018.02.041
+  title: The impact of in-scanner head motion on structural connectivity derived from
+    diffusion MRI
+  authors:
+  - Graham L. Baum
+  - David R. Roalf
+  - Philip A. Cook
+  - Rastko Ciric
+  - Adon F.G. Rosen
+  - Cedric Xia
+  - Mark A. Elliott
+  - Kosha Ruparel
+  - Ragini Verma
+  - "Birkan Tun\xE7"
+  - Ruben C. Gur
+  - Raquel E. Gur
+  - Danielle S. Bassett
+  - Theodore D. Satterthwaite
+  publisher: NeuroImage
+  date: '2018-06-01'
+  link: https://doi.org/gdfq65
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0175690
+  title: 'Childhood socioeconomic status and childhood maltreatment: Distinct associations
+    with brain structure'
+  authors:
+  - Gwendolyn M. Lawson
+  - Joshua S. Camins
+  - Laura Wisse
+  - Jue Wu
+  - Jeffrey T. Duda
+  - Philip A. Cook
+  - James C. Gee
+  - Martha J. Farah
+  publisher: PLOS ONE
+  date: '2017-04-17'
+  link: https://doi.org/f93d8q
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.nicl.2017.01.030
+  title: Cognitive behavioral therapy increases amygdala connectivity with the cognitive
+    control network in both MDD and PTSD
+  authors:
+  - Haochang Shou
+  - Zhen Yang
+  - Theodore D. Satterthwaite
+  - Philip A Cook
+  - Steven E. Bruce
+  - Russell T. Shinohara
+  - Benjamin Rosenberg
+  - Yvette I. Sheline
+  publisher: 'NeuroImage: Clinical'
+  date: '2017-01-01'
+  link: https://doi.org/gbqgp7
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/125161
+  title: Data-driven Assessment of Structural Image Quality
+  authors:
+  - Adon F. G. Rosen
+  - David R. Roalf
+  - Kosha Ruparel
+  - Jason Blake
+  - Kevin Seelaus
+  - Lakshmi P. Villa
+  - Rastko Ciric
+  - Philip A. Cook
+  - Christos Davatzikos
+  - Mark A. Elliott
+  - Angel Garcia de La Garza
+  - Efstathios D. Gennatas
+  - Megan Quarmley
+  - J. Eric Schmitt
+  - Russell T. Shinohara
+  - M. Dylan Tisdall
+  - R. Cameron Craddock
+  - Raquel E. Gur
+  - Ruben C. Gur
+  - Theodore D. Satterthwaite
+  publisher: openRxiv
+  date: '2017-04-08'
+  link: https://doi.org/gkv5jq
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/230888
+  title: Diminished Cortical Thickness is Associated with Impulsive Choice in Adolescence
+  authors:
+  - Marieta Pehlivanova
+  - Daniel H. Wolf
+  - Aristeidis Sotiras
+  - Antonia Kaczkurkin
+  - Tyler M. Moore
+  - Rastko Ciric
+  - Philip A. Cook
+  - Angel Garcia de La Garza
+  - Adon Rosen
+  - Kosha Ruparel
+  - Anup Sharma
+  - Russell T. Shinohara
+  - David R. Roalf
+  - Ruben C. Gur
+  - Christos Davatzikos
+  - Raquel E. Gur
+  - Joseph W. Kable
+  - Theodore D Satterthwaite
+  publisher: openRxiv
+  date: '2017-12-07'
+  link: https://doi.org/gkxmk7
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/199406
+  title: Linked dimensions of psychopathology and connectivity in functional brain
+    networks
+  authors:
+  - Cedric Huchuan Xia
+  - Zongming Ma
+  - Rastko Ciric
+  - Shi Gu
+  - Richard F. Betzel
+  - Antonia N. Kaczkurkin
+  - Monica E. Calkins
+  - Philip A. Cook
+  - Angel Garcia de la Garza
+  - Simon Vandekar
+  - Tyler M. Moore
+  - David R. Roalf
+  - Kosha Ruparel
+  - Daniel H. Wolf
+  - Christos Davatzikos
+  - Ruben C. Gur
+  - Raquel E. Gur
+  - Russell T. Shinohara
+  - Danielle S. Bassett
+  - Theodore D. Satterthwaite
+  publisher: openRxiv
+  date: '2017-10-06'
+  link: https://doi.org/gkxd5n
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cub.2017.04.051
+  title: Modular Segregation of Structural Brain Networks Supports the Development
+    of Executive Function in Youth
+  authors:
+  - Graham L. Baum
+  - Rastko Ciric
+  - David R. Roalf
+  - Richard F. Betzel
+  - Tyler M. Moore
+  - Russell T. Shinohara
+  - Ari E. Kahn
+  - Simon N. Vandekar
+  - Petra E. Rupert
+  - Megan Quarmley
+  - Philip A. Cook
+  - Mark A. Elliott
+  - Kosha Ruparel
+  - Raquel E. Gur
+  - Ruben C. Gur
+  - Danielle S. Bassett
+  - Theodore D. Satterthwaite
+  publisher: Current Biology
+  date: '2017-06-01'
+  link: https://doi.org/gbg9d6
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/170209
+  title: The ANTs Longitudinal Cortical Thickness Pipeline
+  authors:
+  - Nicholas J. Tustison
+  - Andrew J. Holbrook
+  - Brian B. Avants
+  - Jared M. Roberts
+  - Philip A. Cook
+  - Zachariah M. Reagh
+  - Jeffrey T. Duda
+  - James R. Stone
+  - Daniel L. Gillen
+  - Michael A. Yassa
+  publisher: openRxiv
+  date: '2017-07-30'
+  link: https://doi.org/gfsc49
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/185397
+  title: The Impact of In-Scanner Head Motion on Structural Connectivity Derived from
+    Diffusion Tensor Imaging
+  authors:
+  - Graham L. Baum
+  - David R. Roalf
+  - Philip A. Cook
+  - Rastko Ciric
+  - Adon F.G. Rosen
+  - Cedric Xia
+  - Mark A. Elliot
+  - Kosha Ruparel
+  - Ragini Verma
+  - Birkan Tunc
+  - Ruben C. Gur
+  - Raquel E. Gur
+  - Danielle S. Bassett
+  - Theodore D. Satterthwaite
+  publisher: openRxiv
+  date: '2017-09-07'
+  link: https://doi.org/gkt9fj
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/mp.2015.149
+  title: Dimensional depression severity in women with major depression and post-traumatic
+    stress disorder correlates with fronto-amygdalar hypoconnectivty
+  authors:
+  - T D Satterthwaite
+  - P A Cook
+  - S E Bruce
+  - C Conway
+  - E Mikkelsen
+  - E Satchell
+  - S N Vandekar
+  - T Durbin
+  - R T Shinohara
+  - Y I Sheline
+  publisher: Molecular Psychiatry
+  date: '2015-09-29'
+  link: https://doi.org/f8rmk9
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/scitranslmed.aaa8791
+  title: "Plasticity of the human visual system after retinal gene therapy in patients\
+    \ with Leber\u2019s congenital amaurosis"
+  authors:
+  - Manzar Ashtari
+  - Hui Zhang
+  - Philip A. Cook
+  - Laura L. Cyckowski
+  - Kenneth S. Shindler
+  - Kathleen A. Marshall
+  - Puya Aravand
+  - Arastoo Vossough
+  - James C. Gee
+  - Albert M. Maguire
+  - Chris I. Baker
+  - Jean Bennett
+  publisher: Science Translational Medicine
+  date: '2015-07-15'
+  link: https://doi.org/58q
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3758/s13415-013-0239-6
+  title: "Frontotemporal neural systems supporting semantic processing in Alzheimer\u2019\
+    s disease"
+  authors:
+  - Jonathan E. Peelle
+  - John Powers
+  - Philip A. Cook
+  - Edward E. Smith
+  - Murray Grossman
+  publisher: Cognitive, Affective, &amp; Behavioral Neuroscience
+  date: '2014-01-15'
+  link: https://doi.org/f53n5v
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neurobiolaging.2013.11.029
+  title: Genetic and neuroanatomic associations in sporadic frontotemporal lobar degeneration
+  authors:
+  - Corey T. McMillan
+  - Jon B. Toledo
+  - Brian B. Avants
+  - Philip A. Cook
+  - Elisabeth M. Wood
+  - Eunran Suh
+  - David J. Irwin
+  - John Powers
+  - Christopher Olm
+  - Lauren Elman
+  - Leo McCluskey
+  - Gerard D. Schellenberg
+  - Virginia M.-Y. Lee
+  - John Q. Trojanowski
+  - Vivianna M. Van Deerlin
+  - Murray Grossman
+  publisher: Neurobiology of Aging
+  date: '2014-06-01'
+  link: https://doi.org/gfkdx8
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuroimage.2014.05.044
+  title: Large-scale evaluation of ANTs and FreeSurfer cortical thickness measurements
+  authors:
+  - Nicholas J. Tustison
+  - Philip A. Cook
+  - Arno Klein
+  - Gang Song
+  - Sandhitsu R. Das
+  - Jeffrey T. Duda
+  - Benjamin M. Kandel
+  - Niels van Strien
+  - James R. Stone
+  - James C. Gee
+  - Brian B. Avants
+  publisher: NeuroImage
+  date: '2014-10-01'
+  link: https://doi.org/f6bv7n
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/hbm.22211
+  title: "Logical circularity in voxel\u2010based analysis: Normalization strategy\
+    \ may induce statistical bias"
+  authors:
+  - Nicholas J. Tustison
+  - Brian B. Avants
+  - Philip A. Cook
+  - Junghoon Kim
+  - John Whyte
+  - James C. Gee
+  - James R. Stone
+  publisher: Human Brain Mapping
+  date: '2012-11-14'
+  link: https://doi.org/gfkzgn
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuroimage.2014.05.008
+  title: Relating brain anatomy and cognitive ability using a multivariate multimodal
+    framework
+  authors:
+  - Philip A. Cook
+  - Corey T. McMillan
+  - Brian B. Avants
+  - Jonathan E. Peelle
+  - James C. Gee
+  - Murray Grossman
+  publisher: NeuroImage
+  date: '2014-10-01'
+  link: https://doi.org/f6bwbv
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fninf.2014.00046
+  title: Reproducibility of graph metrics of human brain structural networks
+  authors:
+  - Jeffrey T. Duda
+  - Philip A. Cook
+  - James C. Gee
+  publisher: Frontiers in Neuroinformatics
+  date: '2014-05-07'
+  link: https://doi.org/ghrdhs
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/hbm.22515
+  title: The power of neuroimaging biomarkers for screening frontotemporal dementia
+  authors:
+  - Corey T. McMillan
+  - Brian B. Avants
+  - Philip Cook
+  - Lyle Ungar
+  - John Q. Trojanowski
+  - Murray Grossman
+  publisher: Human Brain Mapping
+  date: '2014-03-31'
+  link: https://doi.org/f6bjq4
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuroimage.2012.11.057
+  title: 'Category-specific semantic memory: Converging evidence from bold fMRI and
+    Alzheimer''s disease'
+  authors:
+  - Murray Grossman
+  - Jonathan E. Peelle
+  - Edward E. Smith
+  - Corey T. McMillan
+  - Philip Cook
+  - John Powers
+  - Michael Dreyfuss
+  - Michael F. Bonner
+  - Lauren Richmond
+  - Ashley Boller
+  - Emily Camp
+  - Lisa Burkholder
+  publisher: NeuroImage
+  date: '2013-03-01'
+  link: https://doi.org/f4ndk3
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1136/jnnp-2012-303507
+  title: Cognitive decline and reduced survival in<i>C9orf72</i>expansion frontotemporal
+    degeneration and amyotrophic lateral sclerosis
+  authors:
+  - David J Irwin
+  - Corey T McMillan
+  - Johannes Brettschneider
+  - David J Libon
+  - John Powers
+  - Katya Rascovsky
+  - Jon B Toledo
+  - Ashley Boller
+  - Jonathan Bekisz
+  - Keerthi Chandrasekaran
+  - Elisabeth McCarty Wood
+  - Leslie M Shaw
+  - John H Woo
+  - Philip A Cook
+  - David A Wolk
+  - Steven E Arnold
+  - Vivianna M Van Deerlin
+  - Leo F McCluskey
+  - Lauren Elman
+  - Virginia M-Y Lee
+  - John Q Trojanowski
+  - Murray Grossman
+  publisher: Journal of Neurology, Neurosurgery &amp; Psychiatry
+  date: '2012-10-31'
+  link: https://doi.org/f4k2f7
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuroimage.2013.01.006
+  title: Heteromodal conceptual processing in the angular gyrus
+  authors:
+  - Michael F. Bonner
+  - Jonathan E. Peelle
+  - Philip A. Cook
+  - Murray Grossman
+  publisher: NeuroImage
+  date: '2013-05-01'
+  link: https://doi.org/f4rb52
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.bandl.2013.02.006
+  title: Impairment of script comprehension in Lewy body spectrum disorders
+  authors:
+  - Rachel G. Gross
+  - Emily Camp
+  - Corey T. McMillan
+  - Michael Dreyfuss
+  - Delani Gunawardena
+  - Philip A. Cook
+  - Brianna Morgan
+  - Andrew Siderowf
+  - Howard I. Hurtig
+  - Matthew B. Stern
+  - Murray Grossman
+  publisher: Brain and Language
+  date: '2013-06-01'
+  link: https://doi.org/f4x8bg
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.physbeh.2013.04.008
+  title: Manganese-enhanced magnetic resonance imaging (MEMRI) reveals brain circuitry
+    involved in responding to an acute novel stress in rats with a history of repeated
+    social stress
+  authors:
+  - Debra A. Bangasser
+  - Catherine S. Lee
+  - Philip A. Cook
+  - James C. Gee
+  - Seema Bhatnagar
+  - Rita J. Valentino
+  publisher: Physiology &amp; Behavior
+  date: '2013-10-01'
+  link: https://doi.org/f5nwj2
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.2006377
+  title: Statistical bias in optimized VBM
+  authors:
+  - Nicholas J. Tustison
+  - Brian B. Avants
+  - Philip A. Cook
+  - James C. Gee
+  - James R. Stone
+  publisher: SPIE Proceedings
+  date: '2013-03-29'
+  link: https://doi.org/g8fzvq
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1136/jnnp-2012-304418
+  title: White matter imaging helps dissociate tau from TDP-43 in frontotemporal lobar
+    degeneration
+  authors:
+  - C. T. McMillan
+  - D. J. Irwin
+  - B. B. Avants
+  - J. Powers
+  - P. A. Cook
+  - J. B. Toledo
+  - E. McCarty Wood
+  - V. M. Van Deerlin
+  - V. M.-Y. Lee
+  - J. Q. Trojanowski
+  - M. Grossman
+  publisher: Journal of Neurology, Neurosurgery &amp; Psychiatry
+  date: '2013-03-09'
+  link: https://doi.org/f467b7
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.bandl.2011.08.007
+  title: Difficulty processing temporary syntactic ambiguities in Lewy body spectrum
+    disorder
+  authors:
+  - Murray Grossman
+  - Rachel G. Gross
+  - Peachie Moore
+  - Michael Dreyfuss
+  - Corey T. McMillan
+  - Philip A. Cook
+  - Sherry Ash
+  - Andrew Siderowf
+  publisher: Brain and Language
+  date: '2012-01-01'
+  link: https://doi.org/bzwz89
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-642-33454-2_26
+  title: Eigenanatomy Improves Detection Power for Longitudinal Cortical Change
+  authors:
+  - Brian Avants
+  - Paramveer Dhillon
+  - Benjamin M. Kandel
+  - Philip A. Cook
+  - Corey T. McMillan
+  - Murray Grossman
+  - James C. Gee
+  publisher: Lecture Notes in Computer Science
+  date: '2012-01-01'
+  link: https://doi.org/hcpsht
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.bandl.2011.09.004
+  title: Impairments of speech fluency in Lewy body spectrum disorder
+  authors:
+  - Sharon Ash
+  - Corey McMillan
+  - Rachel G. Gross
+  - Philip Cook
+  - Delani Gunawardena
+  - Brianna Morgan
+  - Ashley Boller
+  - Andrew Siderowf
+  - Murray Grossman
+  publisher: Brain and Language
+  date: '2012-03-01'
+  link: https://doi.org/cmm49t
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.bandc.2011.12.004
+  title: 'Sentence processing in Lewy body spectrum disorder: The role of working
+    memory'
+  authors:
+  - Rachel G. Gross
+  - Corey T. McMillan
+  - Keerthi Chandrasekaran
+  - Michael Dreyfuss
+  - Sharon Ash
+  - Brian Avants
+  - Philip Cook
+  - Peachie Moore
+  - David J. Libon
+  - Andrew Siderowf
+  - Murray Grossman
+  publisher: Brain and Cognition
+  date: '2012-03-01'
+  link: https://doi.org/fxvstr
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuroimage.2010.09.025
+  title: A reproducible evaluation of ANTs similarity metric performance in brain
+    image registration
+  authors:
+  - Brian B. Avants
+  - Nicholas J. Tustison
+  - Gang Song
+  - Philip A. Cook
+  - Arno Klein
+  - James C. Gee
+  publisher: NeuroImage
+  date: '2011-02-01'
+  link: https://doi.org/fvqcmw
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s12021-011-9109-y
+  title: An Open Source Multivariate Framework for n-Tissue Segmentation with Evaluation
+    on Public Data
+  authors:
+  - Brian B. Avants
+  - Nicholas J. Tustison
+  - Jue Wu
+  - Philip A. Cook
+  - James C. Gee
+  publisher: Neuroinformatics
+  date: '2011-03-05'
+  link: https://doi.org/b8hczp
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jpsychires.2011.01.004
+  title: Medial temporal structures and memory functions in adolescents with heavy
+    cannabis use
+  authors:
+  - Manzar Ashtari
+  - Brian Avants
+  - Laura Cyckowski
+  - Kelly L. Cervellione
+  - David Roofeh
+  - Philip Cook
+  - James Gee
+  - Serge Sevy
+  - Sanjiv Kumra
+  publisher: Journal of Psychiatric Research
+  date: '2011-08-01'
+  link: https://doi.org/d56kx2
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1118/1.3626571
+  title: "Resolving axon fiber crossings at clinical <i>b</i>\u2010values: An evaluation\
+    \ study"
+  authors:
+  - "Alonso Ramirez\u2010Manzanares"
+  - Philip A. Cook
+  - Matt Hall
+  - Manzar Ashtari
+  - James C. Gee
+  publisher: Medical Physics
+  date: '2011-08-29'
+  link: https://doi.org/d7qkxz
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.bandl.2011.05.006
+  title: The organization of narrative discourse in Lewy body spectrum disorder
+  authors:
+  - Sharon Ash
+  - Corey McMillan
+  - Rachel G. Gross
+  - Philip Cook
+  - Brianna Morgan
+  - Ashley Boller
+  - Michael Dreyfuss
+  - Andrew Siderowf
+  - Murray Grossman
+  publisher: Brain and Language
+  date: '2011-10-01'
+  link: https://doi.org/cbkvhg
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuroimage.2010.01.041
+  title: 'Dementia induces correlated reductions in white matter integrity and cortical
+    thickness: A multivariate neuroimaging study with sparse canonical correlation
+    analysis'
+  authors:
+  - Brian B. Avants
+  - Philip A. Cook
+  - Lyle Ungar
+  - James C. Gee
+  - Murray Grossman
+  publisher: NeuroImage
+  date: '2010-04-01'
+  link: https://doi.org/btfx84
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-642-15705-9_40
+  title: Sparse Unbiased Analysis of Anatomical Variance in Longitudinal Imaging
+  authors:
+  - Brian Avants
+  - Philip A. Cook
+  - Corey McMillan
+  - Murray Grossman
+  - Nicholas J. Tustison
+  - Yuanjie Zheng
+  - James C. Gee
+  publisher: Lecture Notes in Computer Science
+  date: '2010-01-01'
+  link: https://doi.org/dffk6t
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-540-85988-8_37
+  title: A Comparison of Methods for Recovering Intra-voxel White Matter Fiber Architecture
+    from Clinical Diffusion Imaging Scans
+  authors:
+  - Alonso Ramirez-Manzanares
+  - Philip A. Cook
+  - James C. Gee
+  publisher: Lecture Notes in Computer Science
+  date: '2008-01-01'
+  link: https://doi.org/c9h297
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ISBI.2008.4541155
+  title: Atlas-guided probabilistic diffusion-tensor fiber tractography
+  authors:
+  - Philip A. Cook
+  - ' Hui Zhang'
+  - Suyash P. Awate
+  - James C. Gee
+  publisher: '2008 5th IEEE International Symposium on Biomedical Imaging: From Nano
+    to Macro'
+  date: '2008-05-01'
+  link: https://doi.org/dj3np3
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1523/JNEUROSCI.1486-08.2008
+  title: Evidence for Segregated and Integrative Connectivity Patterns in the Human
+    Basal Ganglia
+  authors:
+  - Bogdan Draganski
+  - Ferath Kherif
+  - "Stefan Kl\xF6ppel"
+  - Philip A. Cook
+  - Daniel C. Alexander
+  - Geoff J. M. Parker
+  - Ralf Deichmann
+  - John Ashburner
+  - Richard S. J. Frackowiak
+  publisher: The Journal of Neuroscience
+  date: '2008-07-09'
+  link: https://doi.org/fnf65s
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/brain/awm275
+  title: White matter connections reflect changes in voluntary-guided saccades in
+    pre-symptomatic Huntington's disease
+  authors:
+  - "Stefan Kl\xF6ppel"
+  - Bogdan Draganski
+  - Charlotte V. Golding
+  - Carlton Chu
+  - Zoltan Nagy
+  - Philip A. Cook
+  - Stephen L. Hicks
+  - Christopher Kennard
+  - Daniel C. Alexander
+  - Geoff J. M. Parker
+  - Sarah J. Tabrizi
+  - Richard S. J. Frackowiak
+  publisher: Brain
+  date: '2007-12-03'
+  link: https://doi.org/djstr2
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-540-75759-7_94
+  title: Evaluation of Shape-Based Normalization in the Corpus Callosum for White
+    Matter Connectivity Analysis
+  authors:
+  - Hui Sun
+  - Paul A. Yushkevich
+  - Hui Zhang
+  - Philip A. Cook
+  - Jeffrey T. Duda
+  - Tony J. Simon
+  - James C. Gee
+  publisher: Lecture Notes in Computer Science
+  date: ''
+  link: https://doi.org/d8cf7v
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICCV.2007.4409168
+  title: Exploiting peak anisotropy for tracking through complex structures
+  authors:
+  - Kiran K Seunarine
+  - P A Cook
+  - M G Hall
+  - K V Embleton
+  - G J M Parker
+  - Daniel C Alexander
+  publisher: 2007 IEEE 11th International Conference on Computer Vision
+  date: '2007-01-01'
+  link: https://doi.org/ffst34
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/jmri.20905
+  title: "Optimal acquisition orders of diffusion\u2010weighted MRI measurements"
+  authors:
+  - Philip A. Cook
+  - Mark Symms
+  - Philip A. Boulby
+  - Daniel C. Alexander
+  publisher: Journal of Magnetic Resonance Imaging
+  date: '2007-04-24'
+  link: https://doi.org/fqthcw
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/11566465_21
+  title: An Automated Approach to Connectivity-Based Partitioning of Brain Structures
+  authors:
+  - P. A. Cook
+  - H. Zhang
+  - B. B. Avants
+  - P. Yushkevich
+  - D. C. Alexander
+  - J. C. Gee
+  - O. Ciccarelli
+  - A. J. Thompson
+  publisher: Lecture Notes in Computer Science
+  date: '2005-01-01'
+  link: https://doi.org/dsk58v
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ISBI.2004.1398542
+  title: Modelling noise-induced fibre-orientation error in diffusion-tensor MRI
+  authors:
+  - P.A. Cook
+  - D.C. Alexander
+  - G.J.M. Parker
+  publisher: '2004 2nd IEEE International Symposium on Biomedical Imaging: Macro to
+    Nano (IEEE Cat No. 04EX821)'
+  date: ''
+  link: https://doi.org/fpt9sp
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TPCG.2003.1206943
+  title: Visualizing diffusion-weighted MRI data using collaborative virtual environment
+    and grid technologies
+  authors:
+  - A. Steed
+  - D. Alexander
+  - P. Cook
+  - C. Parker
+  publisher: Proceedings of Theory and Practice of Computer Graphics, 2003.
+  date: ''
+  link: https://doi.org/ds9566
   orcid: 0000-0002-1985-8475
   plugin: orcid.py
   file: orcid.yaml
