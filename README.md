@@ -118,6 +118,10 @@ version of the site.
 - **Publications:** the Publications page is generated automatically from the ORCID
   records in `_data/orcid.yaml`. To fix or add papers, update your ORCID record; the site
   picks up changes on the next build.
+- **Name variants in publications:** If your name in papers is different from your name on
+  the site, or if you have name variants, you can use `aliases` to help the site find your
+  papers (see Jim Gee's page for anexample). The search on the Publications page is
+  case-insensitive but IS sensitive to punctuation.
 - **Big changes:** for something large, such as a redesign or many new pages, ask Claude
   to propose a plan first.
 
