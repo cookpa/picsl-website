@@ -1,5 +1,16 @@
 ---
 name: Philip Cook
+aliases:
+  - Philip Cook
+  - Philip A Cook
+  - Philip A. Cook
+  - P Cook
+  - P. Cook
+  - P A Cook
+  - P. A. Cook
+  - Cook, Philip
+  - Cook, Philip A
+  - Cook, Philip A.
 image: images/wp/2013/02/pac_mainpage.jpg
 role: staff
 links:
@@ -32,7 +43,7 @@ University College London
   Tag me in discussions or issues on GitHub if you have questions about ANTsX or related software.
 
 - Neurostars: [@cookpa](https://neurostars.org/u/cookpa)
-  I don't check this daily but feel free to tag me in questions about ANTsX or related software.
+  Feel free to tag me in questions about ANTsX or related software.
 
 - X: @cookni1
 
