@@ -45,6 +45,7 @@ University College London
 - Neurostars: [@cookpa](https://neurostars.org/u/cookpa)
   Feel free to tag me in questions about ANTsX or related software.
 
-- X: @cookni1
+- X / Bluesky: @cookni1
+  I don't check these feeds much, but you can tag me if needed.
 
 - ORCID: [0000-0002-1985-8475](https://orcid.org/0000-0002-1985-8475)
