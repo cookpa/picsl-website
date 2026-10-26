@@ -2547,7 +2547,7 @@
   publisher: Lecture Notes in Computer Science
   date: '2025-01-01'
   link: https://doi.org/hcpjn4
-  orcid: 0000-0001-8543-4016
+  orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/978-3-031-78761-4_13
@@ -2987,7 +2987,7 @@
   publisher: Journal of Medical Imaging
   date: '2024-05-14'
   link: https://doi.org/hcpjpf
-  orcid: 0000-0001-8543-4016
+  orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/ALZ.14166
@@ -4048,7 +4048,7 @@
   publisher: Medical Image Analysis
   date: '2022-08-01'
   link: https://doi.org/gtxhdd
-  orcid: 0000-0001-8543-4016
+  orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1097/01.OGX.0000905268.90327.EA
@@ -4067,7 +4067,7 @@
   publisher: Obstetrical &amp; Gynecological Survey
   date: '2022-12-01'
   link: https://doi.org/hcpjpx
-  orcid: 0000-0001-8543-4016
+  orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/JUM.15835
@@ -4086,7 +4086,7 @@
   publisher: Journal of Ultrasound in Medicine
   date: '2021-09-23'
   link: https://doi.org/hcpjpz
-  orcid: 0000-0001-8543-4016
+  orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1523/JNEUROSCI.0949-21.2021
@@ -4490,7 +4490,7 @@
   publisher: Experimental Mechanics
   date: '2020-08-17'
   link: https://doi.org/hcpjp5
-  orcid: 0000-0001-8543-4016
+  orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/J.XJON.2020.10.007
@@ -4508,7 +4508,7 @@
   publisher: JTCVS Open
   date: '2021-03-01'
   link: https://doi.org/hcpjp6
-  orcid: 0000-0001-8543-4016
+  orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/J.NICL.2021.102717
@@ -4783,7 +4783,7 @@
   publisher: 2020 IEEE 17th International Symposium on Biomedical Imaging (ISBI)
   date: '2020-04-01'
   link: https://doi.org/hcpjp9
-  orcid: 0000-0001-8543-4016
+  orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/ISBI45749.2020.9098427
@@ -4942,7 +4942,7 @@
   publisher: Journal of Cardiothoracic Surgery
   date: '2020-07-02'
   link: https://doi.org/hcpjqd
-  orcid: 0000-0001-8543-4016
+  orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/HBM.25151
@@ -4979,7 +4979,7 @@
   publisher: Journal of Medical Imaging
   date: '2020-02-22'
   link: https://doi.org/hcpjqf
-  orcid: 0000-0001-8543-4016
+  orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/NOAJNL/VDAA128
@@ -5051,7 +5051,7 @@
   publisher: Journal of Cardiac Surgery
   date: '2019-12-03'
   link: https://doi.org/hcpjqh
-  orcid: 0000-0001-8543-4016
+  orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/J.NICL.2020.102256
@@ -5169,7 +5169,7 @@
   publisher: Journal of Vascular Surgery
   date: '2019-06-01'
   link: https://doi.org/hcpjqj
-  orcid: 0000-0001-8543-4016
+  orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/HBM.24607
@@ -5224,7 +5224,7 @@
   publisher: Lecture Notes in Computer Science
   date: '2019-01-01'
   link: https://doi.org/hcpjqk
-  orcid: 0000-0001-8543-4016
+  orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
 - id: wosuid:WOS:000475965906269
@@ -5252,7 +5252,7 @@
   publisher: American Journal of Obstetrics and Gynecology
   date: '2019-01-01'
   link: https://doi.org/hcpjqm
-  orcid: 0000-0001-8543-4016
+  orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
 - id: wosuid:WOS:000475965900025
@@ -5605,7 +5605,7 @@
   publisher: Lecture Notes in Computer Science
   date: '2018-01-01'
   link: https://doi.org/hcpjdp
-  orcid: 0000-0001-8543-4016
+  orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/J.NICL.2018.02.008
@@ -5665,7 +5665,7 @@
   publisher: ''
   date: ''
   link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000528619401268
-  orcid: 0000-0001-8543-4016
+  orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/978-3-319-75238-9_4
@@ -5942,7 +5942,7 @@
   publisher: Lecture Notes in Computer Science
   date: '2017-01-01'
   link: https://doi.org/g5m2fx
-  orcid: 0000-0001-8543-4016
+  orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/J.NEUROBIOLAGING.2016.09.011
@@ -6028,7 +6028,7 @@
   publisher: American Journal of Obstetrics and Gynecology
   date: '2017-01-01'
   link: https://doi.org/hcpjqq
-  orcid: 0000-0001-8543-4016
+  orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/MRM.26381
@@ -6220,7 +6220,7 @@
   publisher: Journal of Biomechanics
   date: '2016-08-01'
   link: https://doi.org/f86xc9
-  orcid: 0000-0001-8543-4016
+  orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3389/FNANA.2016.00009
@@ -6256,7 +6256,7 @@
   publisher: The Annals of Thoracic Surgery
   date: '2016-09-01'
   link: https://doi.org/f8ztpz
-  orcid: 0000-0001-8543-4016
+  orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/J.ATHORACSUR.2015.09.076
@@ -6284,7 +6284,7 @@
   publisher: The Annals of Thoracic Surgery
   date: '2016-02-01'
   link: https://doi.org/f76pqq
-  orcid: 0000-0001-8543-4016
+  orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/978-3-319-46726-9_8
@@ -6367,7 +6367,7 @@
   publisher: The Journal of Thoracic and Cardiovascular Surgery
   date: '2016-09-01'
   link: https://doi.org/f82p4g
-  orcid: 0000-0001-8543-4016
+  orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3978/J.ISSN.2225-319X.2015.02.01
@@ -6376,7 +6376,7 @@
   publisher: ''
   date: ''
   link: https://doi.org/hcpjqr
-  orcid: 0000-0001-8543-4016
+  orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/J.NEUROBIOLAGING.2014.03.041
@@ -6489,7 +6489,7 @@
   publisher: Medical Image Analysis
   date: '2015-12-01'
   link: https://doi.org/f76hc2
-  orcid: 0000-0001-8543-4016
+  orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/J.NEUROBIOLAGING.2014.09.021
@@ -6598,7 +6598,7 @@
   publisher: Lecture Notes in Computer Science
   date: '2015-01-01'
   link: https://doi.org/hcpjfc
-  orcid: 0000-0001-8543-4016
+  orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/J.NEUROBIOLAGING.2015.08.029
@@ -6684,7 +6684,7 @@
   publisher: Medical Image Analysis
   date: '2014-01-01'
   link: https://doi.org/f5k6zt
-  orcid: 0000-0001-8543-4016
+  orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/J.NEUROIMAGE.2013.08.067
@@ -6743,7 +6743,7 @@
   publisher: The Annals of Thoracic Surgery
   date: '2014-01-01'
   link: https://doi.org/f5ng64
-  orcid: 0000-0001-8543-4016
+  orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1097/WNN.0000000000000044
@@ -7021,7 +7021,7 @@
   publisher: Medical Physics
   date: '2012-01-31'
   link: https://doi.org/fzwg7z
-  orcid: 0000-0001-8543-4016
+  orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/12.910708
@@ -7037,7 +7037,7 @@
   publisher: SPIE Proceedings
   date: '2012-02-23'
   link: https://doi.org/hcpjfr
-  orcid: 0000-0001-8543-4016
+  orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/CVPR.2012.6247771
@@ -7070,7 +7070,7 @@
   publisher: 2012 IEEE International Ultrasonics Symposium
   date: '2012-10-01'
   link: https://doi.org/hcpjft
-  orcid: 0000-0001-8543-4016
+  orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
 - id: wosuid:WOS:000371316700053
@@ -7166,7 +7166,7 @@
   publisher: Journal of Biomechanics
   date: '2012-03-01'
   link: https://doi.org/fx4nds
-  orcid: 0000-0001-8543-4016
+  orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/CVPR.2012.6247765
@@ -11793,6 +11793,159 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1007/S10439-026-04273-9
+  title: A Geometric Feature Tracking Approach for Noninvasive Patient-Specific Estimation
+    of Leaflet Strain from 3D Images of Heart Valves
+  authors:
+  - Wensi Wu
+  - Matthew Daemer
+  - Jeffrey A. Weiss
+  - Alison M. Pouch
+  - Matthew A. Jolley
+  publisher: Annals of Biomedical Engineering
+  date: '2026-07-11'
+  link: https://doi.org/hcpx6b
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:PPRN:172840724
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:172840724
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/S10439-026-04245-Z
+  title: Biomechanically Informed Image Registration for Patient-Specific Aortic Valve
+    Strain Analysis
+  authors:
+  - Mohsen Nakhaei
+  - Alison M. Pouch
+  - Silvani Amin
+  - Matthew Daemer
+  - Christian Herz
+  - Natalie Yushkevich
+  - Lourdes Al Ghofaily
+  - Nimesh Desai
+  - Joseph Bavaria
+  - Matthew A. Jolley
+  - Wensi Wu
+  publisher: Annals of Biomedical Engineering
+  date: '2026-06-23'
+  link: https://doi.org/hcpx6c
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:PPRN:163702134
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:163702134
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/FCVM.2025.1721746
+  title: 'CT-based visualization of aortic valve morphology: from 3D energy-integrating
+    CT to 4D photon counting CT'
+  authors:
+  - Alison M. Pouch
+  - Jessie N. Dong
+  - Harold I. Litt
+  - Brittany J. Cannon
+  - Melanie Freas
+  - Victor Ferrari
+  - Thomas G. Gleason
+  - Matthew A. Jolley
+  - Natalie Yushkevich
+  - Jessica Nunez
+  - Jilei Hao
+  - Zaiyang Guo
+  - Shir Goldfinger
+  - John Kelly
+  - Joseph E. Bavaria
+  - Nimesh D. Desai
+  publisher: Frontiers in Cardiovascular Medicine
+  date: '2026-01-12'
+  link: https://doi.org/hcpx6d
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:PPRN:173134291
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:173134291
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.3086611
+  title: 'From geometry to intensity: a coarse-to-fine pipeline for unsupervised 3D
+    ultrasound stitching'
+  authors:
+  - Xing Yao
+  - Runxuan Yu
+  - Daiwei Lu
+  - Nick DiSanto
+  - Ehsan K. Aghdam
+  - Kanyifeechukwu Oguine
+  - Gabriel Arenas
+  - Baris Oguz
+  - Alison Pouch
+  - Nadav Schwartz
+  - Brett C. Byram
+  - Ipek Oguz
+  publisher: 'Medical Imaging 2026: Image Processing'
+  date: '2026-04-03'
+  link: https://doi.org/hcpx6f
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TBME.2025.3605577
+  title: 'MUSiK: An Open Source Simulation Library for 3D Multi-View Ultrasound'
+  authors:
+  - Trevor J. Chan
+  - Aparna Nair-Kanneganti
+  - Brian Anthony
+  - Alison Pouch
+  publisher: IEEE Transactions on Biomedical Engineering
+  date: '2026-04-01'
+  link: https://doi.org/hcpx6g
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1053/J.JVCA.2026.01.036
+  title: 'Proof-of-Concept Automated Framework for Intraoperative Transesophageal
+    Echocardiography: View Classification and Biventricular Function Assessment'
+  authors:
+  - Trevor Chan
+  - Shir Goldfinger
+  - Rachel Hannah Grasfield
+  - Vikram Eswar
+  - David Barreto
+  - John G. Augoustides
+  - Vivian Yan
+  - Ronak M. Shah
+  - Alison M. Pouch
+  - Emily J. MacKay
+  publisher: Journal of Cardiothoracic and Vascular Anesthesia
+  date: '2026-05-01'
+  link: https://doi.org/hcpx6h
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:001865231100125
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:001865231100125
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.echo.2025.04.004
   title: Dynamic Segmentation of Three-Dimensional Transesophageal Echocardiography
     Using an Automated Neural Network for Transcatheter Edge-to-Edge Repair
@@ -11809,7 +11962,910 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.media.2023.102804
+- id: doi:10.1016/J.ACTBIO.2025.05.021
+  title: A noninvasive method for determining elastic parameters of valve tissue using
+    physics-informed neural networks
+  authors:
+  - Wensi Wu
+  - Mitchell Daneker
+  - Christian Herz
+  - Hannah Dewey
+  - Jeffrey A. Weiss
+  - Alison M. Pouch
+  - Lu Lu
+  - Matthew A. Jolley
+  publisher: Acta Biomaterialia
+  date: '2025-06-01'
+  link: https://doi.org/hcpx6j
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:PPRN:100731348
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:100731348
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1161/CIRC.152.SUPPL_3.4366900
+  title: 'Abstract 4366900: Phenotyping Cardiac Surgery Patients Using Retrieval-Augmented
+    Large Language Models'
+  authors:
+  - Shir Goldfinger
+  - Trevor Chan
+  - Rachel Grasfield
+  - Vikram Eswar
+  - Kelly Li
+  - Quy Cao
+  - Alison Pouch
+  - Emily Mackay
+  publisher: Circulation
+  date: '2025-11-04'
+  link: https://doi.org/hcpx6k
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.BJA.2025.01.028
+  title: Automated structured data extraction from intraoperative echocardiography
+    reports using large language models
+  authors:
+  - Emily J. MacKay
+  - Shir Goldfinger
+  - Trevor J. Chan
+  - Rachel H. Grasfield
+  - Vikram J. Eswar
+  - Kelly Li
+  - Quy Cao
+  - Alison M. Pouch
+  publisher: British Journal of Anaesthesia
+  date: '2025-05-01'
+  link: https://doi.org/hcpx6m
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:PPRN:160364732
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:160364732
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-031-73647-6_13
+  title: Interactive Segmentation Model for Placenta Segmentation from 3D Ultrasound
+    Images
+  authors:
+  - Hao Li
+  - Baris Oguz
+  - Gabriel Arenas
+  - Xing Yao
+  - Jiacheng Wang
+  - Alison Pouch
+  - Brett Byram
+  - Nadav Schwartz
+  - Ipek Oguz
+  publisher: Lecture Notes in Computer Science
+  date: '2024-10-05'
+  link: https://doi.org/hcpx6n
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:001863954300098
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:001863954300098
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:PPRN:160461865
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:160461865
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.3047410
+  title: 'PRISM Lite: a lightweight model for interactive 3D placenta segmentation
+    in ultrasound'
+  authors:
+  - Hao Li
+  - Baris Oguz
+  - Gabriel Arenas
+  - Xing Yao
+  - Jiacheng Wang
+  - Daiwei Lu
+  - Alison Pouch
+  - Brett Byram
+  - Nadav Schwartz
+  - Ipek Oguz
+  publisher: 'Medical Imaging 2025: Image Processing'
+  date: '2025-04-11'
+  link: https://doi.org/hcpx6p
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1161/CIRC.152.SUPPL_3.4369577
+  title: 'Abstract 4369577: Patient-Specific Ascending Aortic Wall Shear Stress and
+    Strain Analysis from 4D CT'
+  authors:
+  - Tricia Lobo
+  - Wensi Wu
+  - Harold Litt
+  - Melanie Freas
+  - Shir Goldfinger
+  - Victor Ferrari
+  - Joseph Bavaria
+  - Nimesh Desai
+  - Alison Pouch
+  publisher: Circulation
+  date: '2025-11-04'
+  link: https://doi.org/hcpx6q
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.3047242
+  title: 'SAM3D: zero-shot semi-automatic segmentation in 3D medical images with the
+    segment anything model'
+  authors:
+  - Trevor Chan
+  - Aarush Sahni
+  - Yijin Fang
+  - Jie Li
+  - Alisha Luthra
+  - Alison Pouch
+  - Chamith S. Rajapakse
+  publisher: 'Medical Imaging 2025: Image Processing'
+  date: '2025-04-11'
+  link: https://doi.org/hcpx6r
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ISBI60581.2025.10981027
+  title: 'SynStitch: A Self-Supervised Learning Network for Ultrasound Image Stitching
+    Using Synthetic Training Pairs and Indirect Supervision'
+  authors:
+  - Xing Yao
+  - Runxuan Yu
+  - Dewei Hu
+  - Hao Yang
+  - Ange Lou
+  - Jiacheng Wang
+  - Daiwei Lu
+  - Gabriel Arenas
+  - Baris Oguz
+  - Alison Pouch
+  - Nadav Schwartz
+  - Brett C Byram
+  - Ipek Oguz
+  publisher: 2025 IEEE 22nd International Symposium on Biomedical Imaging (ISBI)
+  date: '2025-04-14'
+  link: https://doi.org/hcpx6s
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1161/CIRC.152.SUPPL_3.4355972
+  title: 'Abstract 4355972: Simulation Guided Aortic Valve Tracking and Strain Analysis
+    in 4D Echocardiography'
+  authors:
+  - Mohsen Nakhaei
+  - Silvani Amin
+  - Christian Herz
+  - Natalie Yushkevich
+  - Lourdes Al Ghofaily
+  - Nimesh Desai
+  - Joseph Bavaria
+  - Matthew Jolley
+  - Alison Pouch
+  - Wensi Wu
+  publisher: Circulation
+  date: '2025-11-04'
+  link: https://doi.org/hcpx6t
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ISBI60581.2025.10981269
+  title: 'Towards Patient-Specific Surgical Planning for Bicuspid Aortic Valve Repair:
+    Fully Automated Segmentation of the Aortic Valve in 4D CT'
+  authors:
+  - Zaiyang Guo
+  - Ningjun J Dong
+  - Harold Litt
+  - Natalie Yushkevich
+  - Melanie Freas
+  - Jessica Nunez
+  - Victor Ferrari
+  - Jilei Hao
+  - Shir Goldfinger
+  - Matthew A. Jolley
+  - Joseph Bavaria
+  - Nimesh Desai
+  - Alison M. Pouch
+  publisher: 2025 IEEE 22nd International Symposium on Biomedical Imaging (ISBI)
+  date: '2025-04-14'
+  link: https://doi.org/hcpx6v
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:PPRN:121679429
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:121679429
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.JMBBM.2024.106879
+  title: Tricuspid valve edge-to-edge repair simulations are highly sensitive to annular
+    boundary conditions
+  authors:
+  - Collin E. Haese
+  - Vijay Dubey
+  - Mrudang Mathur
+  - Alison M. Pouch
+  - Tomasz A. Timek
+  - Manuel K. Rausch
+  publisher: Journal of the Mechanical Behavior of Biomedical Materials
+  date: '2025-03-01'
+  link: https://doi.org/hcpx6w
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1161/CIRC.150.SUPPL_1.4139198
+  title: 'Abstract 4139198: A Systematic Approach to Prompting Large Language Models
+    for Automated Feature Extraction from Cardiovascular Imaging Reports'
+  authors:
+  - Shir Goldfinger
+  - Emily Mackay
+  - Trevor Chan
+  - Vikram Eswar
+  - Rachel Grasfield
+  - Vivian Yan
+  - David Barreto
+  - Alison Pouch
+  publisher: Circulation
+  date: '2024-11-12'
+  link: https://doi.org/hcpx6x
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1161/CIRC.150.SUPPL_1.4141884
+  title: 'Abstract 4141884: Fully Automatic Quantification of the Aortic Root in 4D
+    Transesophageal Echocardiography'
+  authors:
+  - Silvani Amin
+  - Trevor Chan
+  - Nathanael Tran
+  - Lourdes Al Ghofaily
+  - Albert Cheung
+  - Natalie Yushkevich
+  - Jilei Hao
+  - Matthew Jolley
+  - Y Joseph Woo
+  - Joseph Bavaria
+  - Nimesh Desai
+  - Alison Pouch
+  publisher: Circulation
+  date: '2024-11-12'
+  link: https://doi.org/hcpx6z
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:PPRN:90770666
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:90770666
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/FCVM.2024.1441511
+  title: 'Editorial: Mitral valve disease: mechanisms to therapies'
+  authors:
+  - Maria Carmo Pereira Nunes
+  - Hoda Hatoum
+  - Alison M. Pouch
+  - Muralidhar Padala
+  publisher: Frontiers in Cardiovascular Medicine
+  date: '2024-06-18'
+  link: https://doi.org/hcpx62
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:PPRN:91348801
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:91348801
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:PPRN:89034637
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:89034637
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-031-35302-4_65
+  title: "A Computational Pipeline for\_Patient-Specific Prediction of\_the\_Post-operative\
+    \ Mitral Valve Functional State"
+  authors:
+  - Hao Liu
+  - Natalie T. Simonian
+  - Alison M. Pouch
+  - Joseph H. Gorman, III
+  - Robert C. Gorman
+  - Michael S. Sacks
+  publisher: Lecture Notes in Computer Science
+  date: '2023-01-01'
+  link: https://doi.org/hcpx63
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1115/1.4062849
+  title: A Computational Pipeline for Patient-Specific Prediction of the Postoperative
+    Mitral Valve Functional State
+  authors:
+  - Hao Liu
+  - Natalie T. Simonian
+  - Alison M. Pouch
+  - Paul A. Iaizzo
+  - Joseph H. Gorman
+  - Robert C. Gorman
+  - Michael S. Sacks
+  publisher: Journal of Biomechanical Engineering
+  date: '2023-08-02'
+  link: https://doi.org/gtx3b3
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/S41556-023-01194-W
+  title: Advances and prospects for the Human BioMolecular Atlas Program (HuBMAP)
+  authors:
+  - Sanjay Jain
+  - Liming Pei
+  - Jeffrey M. Spraggins
+  - Michael Angelo
+  - James P. Carson
+  - Nils Gehlenborg
+  - Fiona Ginty
+  - "Joana P. Gon\xE7alves"
+  - James S. Hagood
+  - John W. Hickey
+  - Neil L. Kelleher
+  - Louise C. Laurent
+  - Shin Lin
+  - Yiing Lin
+  - Huiping Liu
+  - Alexandra Naba
+  - Ernesto S. Nakayasu
+  - Wei-Jun Qian
+  - Andrea Radtke
+  - Paul Robson
+  - Brent R. Stockwell
+  - Raf Van de Plas
+  - Ioannis S. Vlachos
+  - Mowei Zhou
+  - Kyung Jin Ahn
+  - Jamie Allen
+  - David M. Anderson
+  - Christopher R. Anderton
+  - Christine Curcio
+  - Alessia Angelin
+  - Constadina Arvanitis
+  - Lyla Atta
+  - Demi Awosika-Olumo
+  - Amir Bahmani
+  - Huajun Bai
+  - Karol Balderrama
+  - Leandro Balzano
+  - Gautam Bandyopadhyay
+  - Shovik Bandyopadhyay
+  - Ziv Bar-Joseph
+  - Kurt Barnhart
+  - Daria Barwinska
+  - Michael Becich
+  - Laren Becker
+  - Winston Becker
+  - Kenneth Bedi
+  - Sean Bendall
+  - Kathy Benninger
+  - David Betancur
+  - Keith Bettinger
+  - Sunteasja Billings
+  - Philip Blood
+  - Daniel Bolin
+  - Samuel Border
+  - Marc Bosse
+  - Lisa Bramer
+  - Maya Brewer
+  - Maigan Brusko
+  - Andreas Bueckle
+  - Karl Burke
+  - Kristin Burnum-Johnson
+  - Eugene Butcher
+  - Elizabeth Butterworth
+  - Long Cai
+  - Riccardo Calandrelli
+  - Michael Caldwell
+  - Martha Campbell-Thompson
+  - Dongfeng Cao
+  - Ivan Cao-Berg
+  - Richard Caprioli
+  - Chiara Caraccio
+  - Anita Caron
+  - Megan Carroll
+  - Chrystal Chadwick
+  - Angela Chen
+  - Derek Chen
+  - Fei Chen
+  - Haoran Chen
+  - Jing Chen
+  - Li Chen
+  - Lu Chen
+  - Kenneth Chiacchia
+  - Sanghee Cho
+  - Peter Chou
+  - Lisa Choy
+  - Cecilia Cisar
+  - Geremy Clair
+  - Laura Clarke
+  - Kelly A. Clouthier
+  - Madeline E. Colley
+  - Kristin Conlon
+  - John Conroy
+  - Kevin Contrepois
+  - Anthony Corbett
+  - Alex Corwin
+  - Daniel Cotter
+  - Elise Courtois
+  - Aaron Cruz
+  - Christopher Csonka
+  - Kimberley Czupil
+  - Vicky Daiya
+  - Kali Dale
+  - Shakeel Ahamed Davanagere
+  - Monica Dayao
+  - Mark P. de Caestecker
+  - Aubrianna Decker
+  - Stephen Deems
+  - David Degnan
+  - Tushar Desai
+  - Vikrant Deshpande
+  - Gail Deutsch
+  - Michelle Devlin
+  - Dinh Diep
+  - Carla Dodd
+  - Sean Donahue
+  - Weixiu Dong
+  - Rafael dos Santos Peixoto
+  - Michael Duffy
+  - Martin Dufresne
+  - Thu Elizabeth Duong
+  - Jennifer Dutra
+  - Michael T. Eadon
+  - Tarek M. El-Achkar
+  - Archibald Enninful
+  - Gokcen Eraslan
+  - Diane Eshelman
+  - Almudena Espin-Perez
+  - Edward D. Esplin
+  - Allison Esselman
+  - Louis D. Falo
+  - Louis Falo
+  - Jean Fan
+  - Rong Fan
+  - Melissa A. Farrow
+  - Negin Farzad
+  - Patricia Favaro
+  - Jamie Fermin
+  - Ferda Filiz
+  - Shane Filus
+  - Kathleen Fisch
+  - Eyal Fisher
+  - Stephen Fisher
+  - Katelyn Flowers
+  - William F. Flynn
+  - Agnes B. Fogo
+  - Dongtao Fu
+  - James Fulcher
+  - Anthony Fung
+  - Derek Furst
+  - Michael Gallant
+  - Fu Gao
+  - Yu Gao
+  - Kyle Gaulton
+  - Joseph P. Gaut
+  - James Gee
+  - Reetika R. Ghag
+  - Shila Ghazanfar
+  - Soumya Ghose
+  - Debora Gisch
+  - Ilan Gold
+  - Aashay Gondalia
+  - Brittney Gorman
+  - William Greenleaf
+  - Noah Greenwald
+  - Brian Gregory
+  - Rong Guo
+  - Rajat Gupta
+  - Hunter Hakimian
+  - Jeff Haltom
+  - Marc Halushka
+  - Kyu Sang Han
+  - Casey Hanson
+  - Pehr Harbury
+  - Josef Hardi
+  - Linda Harlan
+  - Raymond C. Harris
+  - Austin Hartman
+  - Elyas Heidari
+  - Jesse Helfer
+  - David Helminiak
+  - Martin Hemberg
+  - Nathaniel Henning
+  - Bruce W. Herr
+  - Jonhan Ho
+  - Jeanne Holden-Wiltse
+  - Seung-Hyun Hong
+  - Young-Kwon Hong
+  - Brendan Honick
+  - Greg Hood
+  - Po Hu
+  - Qiwen Hu
+  - Molly Huang
+  - Heidie Huyck
+  - Tamjid Imtiaz
+  - Olof Gerdur Isberg
+  - Maxim Itkin
+  - Dana Jackson
+  - Marni Jacobs
+  - Yashvardhan Jain
+  - David Jewell
+  - Lihua Jiang
+  - Zhenghui G. Jiang
+  - Sarah Johnston
+  - Pujan Joshi
+  - Yingnan Ju
+  - Audra Judd
+  - Adam Kagel
+  - Ari Kahn
+  - Nikolaos Kalavros
+  - Kian Kalhor
+  - Dimitra Karagkouni
+  - Thomas Karathanos
+  - Arivarasan Karunamurthy
+  - Suhas Katari
+  - Heather Kates
+  - Madhurima Kaushal
+  - Nicholas Keener
+  - Mark Keller
+  - Mariah Kenney
+  - Colin Kern
+  - Peter Kharchenko
+  - Junhyong Kim
+  - Carl Kingsford
+  - Jessica Kirwan
+  - Vladimir Kiselev
+  - Jocelyn Kishi
+  - Reta Birhanu Kitata
+  - Amanda Knoten
+  - Charles Kollar
+  - Praveen Krishnamoorthy
+  - Angela R. S. Kruse
+  - Kuang Da
+  - Anshul Kundaje
+  - Eric Kutschera
+  - Yumi Kwon
+  - Blue B. Lake
+  - Samuel Lancaster
+  - Jonah Langlieb
+  - Roy Lardenoije
+  - Monica Laronda
+  - Julia Laskin
+  - Ken Lau
+  - Hayan Lee
+  - Maria Lee
+  - Mejeong Lee
+  - Yulia Levites Strekalova
+  - Dongshunyi Li
+  - Jennifer Li
+  - Jilong Li
+  - Xiangtang Li
+  - Zhi Li
+  - Yen-Chen Liao
+  - Tiffany Liaw
+  - Pei Lin
+  - Yulieh Lin
+  - Scott Lindsay
+  - Chunjie Liu
+  - Yang Liu
+  - Yuan Liu
+  - Marie Lott
+  - Martin Lotz
+  - Lisa Lowery
+  - Peiran Lu
+  - Xinyue Lu
+  - Nicholas Lucarelli
+  - Xiaokang Lun
+  - Zhifei Luo
+  - Jian Ma
+  - Evan Macosko
+  - Mayank Mahajan
+  - Libby Maier
+  - Danika Makowski
+  - Morad Malek
+  - David Manthey
+  - Trevor Manz
+  - Kenneth Margulies
+  - John Marioni
+  - Matthew Martindale
+  - Cayla Mason
+  - Clayton Mathews
+  - Peter Maye
+  - Chuck McCallum
+  - Elizabeth McDonough
+  - Liz McDonough
+  - Hannah Mcdowell
+  - Morgan Meads
+  - Miguel Medina-Serpas
+  - Ricardo Melo Ferreira
+  - Jeffrey Messinger
+  - Kay Metis
+  - Lukasz G. Migas
+  - Brendan Miller
+  - Sayat Mimar
+  - Brittany Minor
+  - Ravi Misra
+  - Alsu Missarova
+  - Christopher Mistretta
+  - Roger Moens
+  - Eric Moerth
+  - Jeffrey Moffitt
+  - Gesmira Molla
+  - Matthew Monroe
+  - Emma Monte
+  - Mike Morgan
+  - Daniele Muraro
+  - Bob Murphy
+  - Evan Murray
+  - Mark A. Musen
+  - Ahmed Naglah
+  - Chanond Nasamran
+  - Taruna Neelakantan
+  - Stephanie Nevins
+  - Hieu Nguyen
+  - Nam Nguyen
+  - Tram Nguyen
+  - Tri Nguyen
+  - Deb Nigra
+  - Michel Nofal
+  - Garry Nolan
+  - Gerald Nwanne
+  - "Martin O\u2019Connor"
+  - Kenichi Okuda
+  - Merissa Olmer
+  - "Kathleen O\u2019Neill"
+  - Nancy Otaluka
+  - Minxing Pang
+  - Mana Parast
+  - Ljiljana Pasa-Tolic
+  - Benedict Paten
+  - Nathan Heath Patterson
+  - Ting Peng
+  - Gesina Phillips
+  - Mina Pichavant
+  - Paul Piehowski
+  - Hannah Pilner
+  - Ellie Pingry
+  - Yered Pita-Juarez
+  - Sylvia Plevritis
+  - Athanasios Ploumakis
+  - Alison Pouch
+  - Gloria Pryhuber
+  - Juan Puerto
+  - Danial Qaurooni
+  - Ling Qin
+  - Ellen M. Quardokus
+  - Presha Rajbhandari
+  - Rebecca Rakow-Penner
+  - Ramalakshmi Ramasamy
+  - David Read
+  - Elizabeth G. Record
+  - David Reeves
+  - Allyson Ricarte
+  - "Ana Rodr\xEDguez-Soto"
+  - Alexander Ropelewski
+  - Jean Rosario
+  - Morla-Adames Roselkis
+  - David Rowe
+  - Tarun Kanti Roy
+  - Matt Ruffalo
+  - Nancy Ruschman
+  - Angela Sabo
+  - Nina Sachdev
+  - Sinem Saka
+  - Diane Salamon
+  - Pinaki Sarder
+  - Hiroshi Sasaki
+  - Rahul Satija
+  - Diane Saunders
+  - Riley Sawka
+  - Kevin Schey
+  - Heidi Schlehlein
+  - David Scholten
+  - Sarah Schultz
+  - Lauren Schwartz
+  - Melissa Schwenk
+  - Robin Scibek
+  - Ayellet Segre
+  - Matthew Serrata
+  - Walter Shands
+  - Xiaotao Shen
+  - Jay Shendure
+  - Holly Shephard
+  - Lingyan Shi
+  - Tujin Shi
+  - Dong-Guk Shin
+  - Bill Shirey
+  - Max Sibilla
+  - Michal Silber
+  - Jonathan Silverstein
+  - Derek Simmel
+  - Alan Simmons
+  - Dhruv Singhal
+  - Santhosh Sivajothi
+  - Thomas Smits
+  - Francesca Soncin
+  - Qi Song
+  - Valentina Stanley
+  - Tim Stuart
+  - Hanquan Su
+  - Pei Su
+  - Xin Sun
+  - Christine Surrette
+  - Hannah Swahn
+  - Kai Tan
+  - Sarah Teichmann
+  - Abhiroop Tejomay
+  - George Tellides
+  - Kathleen Thomas
+  - Tracey Thomas
+  - Marissa Thompson
+  - Hua Tian
+  - Leonoor Tideman
+  - Cole Trapnell
+  - Albert G. Tsai
+  - Chia-Feng Tsai
+  - Leo Tsai
+  - Elizabeth Tsui
+  - Tina Tsui
+  - Jason Tung
+  - Morgan Turner
+  - Jackie Uranic
+  - Eeshit Dhaval Vaishnav
+  - Sricharan Reddy Varra
+  - Vasyl Vaskivskyi
+  - Dusan Velickovic
+  - Marija Velickovic
+  - Jamie Verheyden
+  - Jessica Waldrip
+  - Douglas Wallace
+  - Xueyi Wan
+  - Allen Wang
+  - Fusheng Wang
+  - Meng Wang
+  - Shuoshuo Wang
+  - Xuefei Wang
+  - Clive Wasserfall
+  - Leonard Wayne
+  - James Webber
+  - Griffin M. Weber
+  - Bei Wei
+  - Jian-Jun Wei
+  - Annika Weimer
+  - Joel Welling
+  - Xingzhao Wen
+  - Zishen Wen
+  - MacKenzie Williams
+  - Seth Winfree
+  - Nicholas Winograd
+  - Abashai Woodard
+  - Devin Wright
+  - Fan Wu
+  - Pei-Hsun Wu
+  - Qiuyang Wu
+  - Xiaodong Wu
+  - Yi Xing
+  - Tianyang Xu
+  - Manxi Yang
+  - Mingyu Yang
+  - Joseph Yap
+  - Dong Hye Ye
+  - Peng Yin
+  - Zhou Yuan
+  - Chi Yun
+  - Ali Zahraei
+  - Kevin Zemaitis
+  - Bo Zhang
+  - Caibin Zhang
+  - Chenyu Zhang
+  - Chi Zhang
+  - Kun Zhang
+  - Shiping Zhang
+  - Ted Zhang
+  - Yida Zhang
+  - Bingqing Zhao
+  - Wenxin Zhao
+  - Jia Wen Zheng
+  - Sheng Zhong
+  - Bokai Zhu
+  - Chenchen Zhu
+  - Diming Zhu
+  - Quan Zhu
+  - Ying Zhu
+  - "Katy B\xF6rner"
+  - Michael P. Snyder
+  publisher: Nature Cell Biology
+  date: '2023-07-19'
+  link: https://doi.org/g8wr9n
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.AJOG.2022.09.040
+  title: 'Anatomic nomenclature and 3-dimensional regional model of the human ovary:
+    call for a new paradigm'
+  authors:
+  - "Kathleen E. O\u2019Neill"
+  - Jacqueline Y. Maher
+  - Monica M. Laronda
+  - Francesca E. Duncan
+  - Richard D. LeDuc
+  - Marla E. Lujan
+  - Kutluk H. Oktay
+  - Alison M. Pouch
+  - James H. Segars
+  - Elizabeth L. Tsui
+  - Mary B. Zelinski
+  - Lisa M. Halvorson
+  - Veronica Gomez-Lobo
+  publisher: American Journal of Obstetrics and Gynecology
+  date: '2023-03-01'
+  link: https://doi.org/hcpx64
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/S13239-023-00680-4
+  title: Patient-Specific Quantitative In-Vivo Assessment of Human Mitral Valve Leaflet
+    Strain Before and After MitraClip Repair
+  authors:
+  - Natalie T. Simonian
+  - Hao Liu
+  - Sneha Vakamudi
+  - Mark J. Pirwitz
+  - Alison M. Pouch
+  - Joseph H. Gorman
+  - Robert C. Gorman
+  - Michael S. Sacks
+  publisher: Cardiovascular Engineering and Technology
+  date: '2023-09-05'
+  link: https://doi.org/gtx3cb
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.MEDIA.2023.102804
   title: Strain estimation in aortic roots from 4D echocardiographic images using
     medial modeling and deformable registration
   authors:
@@ -11829,7 +12885,291 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/cnm.3142
+- id: doi:10.1016/J.ATHORACSUR.2020.12.013
+  title: Dynamic Annular Modeling of the Unrepaired Complete Atrioventricular Canal
+    Annulus
+  authors:
+  - Hannah H. Nam
+  - Patrick V. Dinh
+  - Andras Lasso
+  - Christian Herz
+  - Jing Huang
+  - Adriana Posada
+  - Ahmed H. Aly
+  - Alison M. Pouch
+  - Saleha Kabir
+  - John Simpson
+  - Andrew C. Glatz
+  - David M. Harrild
+  - Gerald Marx
+  - Gabor Fichtinger
+  - Meryl S. Cohen
+  - Matthew A. Jolley
+  publisher: The Annals of Thoracic Surgery
+  date: '2022-02-01'
+  link: https://doi.org/hcpx65
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.JVSSCI.2021.11.004
+  title: Local aortic aneurysm wall expansion measured with automated image analysis
+  authors:
+  - Jordan B. Stoecker
+  - Kevin C. Eddinger
+  - Alison M. Pouch
+  - Amey Vrudhula
+  - Benjamin M. Jackson
+  publisher: JVS-Vascular Science
+  date: '2022-01-01'
+  link: https://doi.org/hcpx66
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/S10439-021-02882-0
+  title: Patient-Specific Quantification of Normal and Bicuspid Aortic Valve Leaflet
+    Deformations from Clinically Derived Images
+  authors:
+  - Bruno V. Rego
+  - Alison M. Pouch
+  - Joseph H. Gorman
+  - Robert C. Gorman
+  - Michael S. Sacks
+  publisher: Annals of Biomedical Engineering
+  date: '2022-01-01'
+  link: https://doi.org/hcpx67
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.XJTC.2022.09.013
+  title: "Quantitative in\_vivo assessment of human mitral valve coaptation area after\
+    \ undersized ring annuloplasty repair for ischemic mitral regurgitation"
+  authors:
+  - Natalie T. Simonian
+  - Hao Liu
+  - Alison M. Pouch
+  - Joseph H. Gorman
+  - Robert C. Gorman
+  - Michael S. Sacks
+  publisher: JTCVS Techniques
+  date: '2022-12-01'
+  link: https://doi.org/hcpx68
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.11.04.22281143
+  title: Strain estimation in aortic roots from 4D echocardiographic images using
+    medial modeling and deformable registration
+  authors:
+  - Ankush Aggarwal
+  - Peter Mortensen
+  - Jilei Hao
+  - "\u0141ukasz Kaczmarczyk"
+  - Albert T. Cheung
+  - Lourdes Al Ghofaily
+  - Robert C. Gorman
+  - Nimesh D. Desai
+  - Joseph E. Bavaria
+  - Alison M. Pouch
+  publisher: openRxiv
+  date: '2022-11-07'
+  link: https://doi.org/hcpx69
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.AVSG.2021.10.043
+  title: The Hyperattenuating Crescent Sign Is Not Necessarily a Sign of Impending
+    Aortic Aneurysm Rupture
+  authors:
+  - Jordan B. Stoecker
+  - Kevin C. Eddinger
+  - Alison M. Pouch
+  - Julia D. Glaser
+  - Paul J. III Foley
+  - Grace J. Wang
+  - Venkat R Kalapatapu
+  - Benjamin M. Jackson
+  publisher: Annals of Vascular Surgery
+  date: '2022-05-01'
+  link: https://doi.org/hcpx7b
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1161/CIRCIMAGING.122.014424
+  title: 'Truncal Valve Repair: 3-Dimensional Imaging and Modeling to Enhance Preoperative
+    Surgical Planning'
+  authors:
+  - Trevor R. Williams
+  - Alana R. Cianciulli
+  - Yan Wang
+  - Andras Lasso
+  - Csaba Pinter
+  - Alison M. Pouch
+  - David M. Biko
+  - Muhammad Nuri
+  - Michael D. Quartermain
+  - Lindsay S. Rogers
+  - Jonathan M. Chen
+  - Matthew A. Jolley
+  publisher: 'Circulation: Cardiovascular Imaging'
+  date: '2022-12-01'
+  link: https://doi.org/hcpx7c
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000691401100147
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000691401100147
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.ATHORACSUR.2020.07.036
+  title: 'Dynamic Volumetric Assessment of the Aortic Root: The Influence of Bicuspid
+    Aortic Valve Competence'
+  authors:
+  - Alison M. Pouch
+  - Prakash A. Patel
+  - Nimesh D. Desai
+  - Natalie Yushkevich
+  - Michael Goodwin
+  - Eric K. Lai
+  - Albert T. Cheung
+  - Patrick Moeller
+  - Stuart J. Weiss
+  - Joseph H. Gorman
+  - Joseph E. Bavaria
+  - Robert C. Gorman
+  publisher: The Annals of Thoracic Surgery
+  date: '2021-10-01'
+  link: https://doi.org/hcpx7d
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-78710-3_4
+  title: Image-Derived Geometric Characteristics Predict Abdominal Aortic Aneurysm
+    Growth in a Machine Learning Model
+  authors:
+  - Jordan B. Stoecker
+  - Kevin C. Eddinger
+  - Alison M. Pouch
+  - Benjamin M. Jackson
+  publisher: Lecture Notes in Computer Science
+  date: '2021-01-01'
+  link: https://doi.org/hcpx7f
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/S10439-021-02772-5
+  title: Pre-surgical Prediction of Ischemic Mitral Regurgitation Recurrence Using
+    In Vivo Mitral Valve Leaflet Strains
+  authors:
+  - Harshita Narang
+  - Bruno V. Rego
+  - Amir H. Khalighi
+  - Ahmed Aly
+  - Alison M. Pouch
+  - Robert C. Gorman
+  - Joseph H. Gorman III
+  - Michael S. Sacks
+  publisher: Annals of Biomedical Engineering
+  date: '2021-04-09'
+  link: https://doi.org/gtx3cd
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000707158200113
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000707158200113
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1177/1556984520930336
+  title: A Novel Quantitative Ex Vivo Model of Functional Mitral Regurgitation
+  authors:
+  - Chetan Pasrija
+  - Rachael Quinn
+  - Mehrdad Ghoreishi
+  - Thomas Eperjesi
+  - Eric Lai
+  - Robert C. Gorman
+  - Joseph H. Gorman
+  - Robert C. Gorman
+  - Alison Pouch
+  - Felino V. Cortez
+  - Michael N D'Ambra
+  - James S. Gammie
+  publisher: 'Innovations: Technology and Techniques in Cardiothoracic and Vascular
+    Surgery'
+  date: '2020-07-01'
+  link: https://doi.org/hcpx7g
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000544100700399
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000544100700399
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000607190405375
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000607190405375
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:PPRN:13618389
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:13618389
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.ECHO.2019.01.002
+  title: Dynamic Three-Dimensional Geometry of the Tricuspid Valve Annulus in Hypoplastic
+    Left Heart Syndrome with a Fontan Circulation
+  authors:
+  - Alex V. Nguyen
+  - Andras Lasso
+  - Hannah H. Nam
+  - Jennifer Faerber
+  - Ahmed H. Aly
+  - Alison M. Pouch
+  - Adam B. Scanlan
+  - Francis X. McGowan
+  - Laura Mercer-Rosa
+  - Meryl S. Cohen
+  - John Simpson
+  - Gabor Fichtinger
+  - Matthew A. Jolley
+  publisher: Journal of the American Society of Echocardiography
+  date: '2019-05-01'
+  link: https://doi.org/hcpx7h
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000529998007227
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000529998007227
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/CNM.3142
   title: A noninvasive method for the determination of<i>in vivo</i>mitral valve leaflet
     strains
   authors:
@@ -11847,24 +13187,234 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.media.2015.09.003
-  title: 'Medially constrained deformable modeling for segmentation of branching medial
-    structures: Application to aortic valve segmentation and morphometry'
+- id: doi:10.1016/J.JBIOMECH.2016.11.039
+  title: 'Patient-specific CFD models for intraventricular flow analysis from 3D ultrasound
+    imaging: Comparison of three clinical cases'
   authors:
+  - A.M. Bavo
+  - A.M. Pouch
+  - J. Degroote
+  - J. Vierendeels
+  - J.H. Gorman
+  - R.C. Gorman
+  - P. Segers
+  publisher: Journal of Biomechanics
+  date: '2017-01-01'
+  link: https://doi.org/f9p93w
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/S12938-016-0231-9
+  title: Patient-specific CFD simulation of intraventricular haemodynamics based on
+    3D ultrasound imaging
+  authors:
+  - A. M. Bavo
+  - A. M. Pouch
+  - J. Degroote
+  - J. Vierendeels
+  - J. H. Gorman
+  - R. C. Gorman
+  - P. Segers
+  publisher: BioMedical Engineering OnLine
+  date: '2016-09-09'
+  link: https://doi.org/ghxwgj
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.ATHORACSUR.2015.03.096
+  title: Saddle-Shaped Annuloplasty Improves Leaflet Coaptation in Repair for Ischemic
+    Mitral Regurgitation
+  authors:
+  - Wobbe Bouma
+  - Chikashi Aoki
+  - Mathieu Vergnat
   - Alison M. Pouch
-  - Sijie Tian
-  - Manabu Takebe
-  - Jiefu Yuan
-  - Robert Gorman
-  - Albert T. Cheung
-  - Hongzhi Wang
+  - Shanna R. Sprinkle
+  - Matthew J. Gillespie
+  - Massimo A. Mariani
   - Benjamin M. Jackson
+  - Robert C. Gorman
+  - Joseph H. Gorman
+  publisher: The Annals of Thoracic Surgery
+  date: '2015-10-01'
+  link: https://doi.org/f7tjqf
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.JVS.2013.11.065
+  title: Validation of semiautomated and locally resolved aortic wall thickness measurements
+    from computed tomography
+  authors:
+  - Eric K. Shang
+  - Eric Lai
+  - Alison M. Pouch
+  - Robin Hinmon
+  - Robert C. Gorman
+  - Joseph H. Gorman
+  - Chandra M. Sehgal
+  - Giovanni Ferrari
+  - Joseph E. Bavaria
+  - Benjamin M. Jackson
+  publisher: Journal of Vascular Surgery
+  date: '2015-04-01'
+  link: https://doi.org/f6648k
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.ATHORACSUR.2013.12.017
+  title: Feasibility of In Vivo Human Aortic Valve Modeling Using Real-Time Three-Dimensional
+    Echocardiography
+  authors:
+  - Arminder S. Jassar
+  - Melissa M. Levack
+  - Ricardo D. Solorzano
+  - Alison M. Pouch
+  - Giovanni Ferrari
+  - Albert T. Cheung
+  - Victor A. Ferrari
   - Joseph H. Gorman
   - Robert C. Gorman
-  - Paul A. Yushkevich
-  publisher: Medical Image Analysis
-  date: '2015-12-01'
-  link: https://doi.org/f76hc2
+  - Benjamin M. Jackson
+  publisher: The Annals of Thoracic Surgery
+  date: '2014-04-01'
+  link: https://doi.org/f5xgzm
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.ATHORACSUR.2014.04.094
+  title: "Three-Dimensional Ultrasound-Derived Physical\_Mitral Valve Modeling"
+  authors:
+  - Walter R.T. Witschey
+  - Alison M. Pouch
+  - Jeremy R. McGarvey
+  - Kaori Ikeuchi
+  - Francisco Contijoch
+  - Melissa M. Levack
+  - Paul A. Yushkevick
+  - Chandra M. Sehgal
+  - Benjamin M. Jackson
+  - Robert C. Gorman
+  - Joseph H. Gorman
+  publisher: The Annals of Thoracic Surgery
+  date: '2014-08-01'
+  link: https://doi.org/f6hs98
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000333330700061
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000333330700061
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000304398900083
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000304398900083
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000299738708044
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000299738708044
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.AVSG.2011.07.008
+  title: Increased Wall Stress of Saccular Versus Fusiform Aneurysms of the Descending
+    Thoracic Aorta
+  authors:
+  - Derek P. Nathan
+  - Chun Xu
+  - Alison M. Pouch
+  - Krishnan B. Chandran
+  - Benoit Desjardins
+  - Joseph H. Gorman
+  - Ron M. Fairman
+  - Robert C. Gorman
+  - Benjamin M. Jackson
+  publisher: Annals of Vascular Surgery
+  date: '2011-11-01'
+  link: https://doi.org/b3bqt3
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.ATHORACSUR.2010.09.078
+  title: 'Ischemic Mitral Regurgitation: A Quantitative Three-Dimensional Echocardiographic
+    Analysis'
+  authors:
+  - Mathieu Vergnat
+  - Arminder S. Jassar
+  - Benjamin M. Jackson
+  - Liam P. Ryan
+  - Thomas J. Eperjesi
+  - Alison M. Pouch
+  - Stuart J. Weiss
+  - Albert T. Cheung
+  - Michael A. Acker
+  - Joseph H. Gorman
+  - Robert C. Gorman
+  publisher: The Annals of Thoracic Surgery
+  date: '2011-01-01'
+  link: https://doi.org/d49p8h
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.ATHORACSUR.2010.10.034
+  title: 'Quantitative Mitral Valve Modeling Using Real-Time Three-Dimensional Echocardiography:
+    Technique and Repeatability'
+  authors:
+  - Arminder Singh Jassar
+  - Clayton J. Brinster
+  - Mathieu Vergnat
+  - J. Daniel Robb
+  - Thomas J. Eperjesi
+  - Alison M. Pouch
+  - Albert T. Cheung
+  - Stuart J. Weiss
+  - Michael A. Acker
+  - Joseph H. Gorman
+  - Robert C. Gorman
+  - Benjamin M. Jackson
+  publisher: The Annals of Thoracic Surgery
+  date: '2011-01-01'
+  link: https://doi.org/bhxwbg
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7863/JUM.2010.29.11.1595
+  title: In Vivo Noninvasive Temperature Measurement by B-Mode Ultrasound Imaging
+  authors:
+  - Alison M. Pouch
+  - Theodore W. Cary
+  - Susan M. Schultz
+  - Chandra M. Sehgal
+  publisher: Journal of Ultrasound in Medicine
+  date: '2010-11-01'
+  link: https://doi.org/f3wdkf
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.ULTRASMEDBIO.2007.04.008
+  title: Gaseous Microemboli Sizing in Extracorporeal Circuits Using Ultrasound Backscatter
+  authors:
+  - John E. Lynch
+  - Alison Pouch
+  - Randi Sanders
+  - Mark Hinders
+  - Kevin Rudd
+  - John Sevick
+  publisher: Ultrasound in Medicine &amp; Biology
+  date: '2007-10-01'
+  link: https://doi.org/fddbbv
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
