@@ -14,6 +14,11 @@ redirect_from:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
+{% include button.html link="team/#faculty" text="Faculty" style="bare" %}
+{% include button.html link="team/#staff-postdocs-and-students" text="Staff, Postdocs and Students" style="bare" %}
+{% include button.html link="team/#alumni" text="Alumni" style="bare" %}
+{% include button.html link="team/#collaborating-labs-and-centers" text="Collaborating Labs and Centers" style="bare" %}
+
 {% include section.html %}
 
 ## Faculty
@@ -32,3 +37,17 @@ redirect_from:
 ## Alumni
 
 {% include list.html data="members" component="portrait" filter="group == 'alum'" style="small" %}
+
+{% include section.html %}
+
+## Collaborating Labs and Centers
+
+Labs and centers whose investigators frequently co-author papers with PICSL.
+
+### At Penn
+
+{% include list.html component="portrait" data="collaborators" filter="group == 'penn'" %}
+
+### Outside Penn
+
+{% include list.html component="portrait" data="collaborators" filter="group == 'external'" %}

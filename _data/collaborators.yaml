@@ -1,0 +1,104 @@
+# Collaborating labs and centers shown on the Team page (team/index.md) as
+# portraits. group: penn or external. Logos are square images in
+# images/collaborators/ with the logo centered on white so it fits in the circle;
+# groups without their own logo use their institution's logo. `url` is optional.
+- name: PATCH Lab
+  slug: patch-lab
+  group: penn
+  image: images/collaborators/patch-lab.png
+  url: https://patchlab.pennbrain.upenn.edu/
+- name: Penn Alzheimer's Disease Research Center
+  slug: penn-alzheimers-disease-research-center
+  group: penn
+  image: images/collaborators/penn.png
+  url: https://www.med.upenn.edu/adrc/
+- name: Penn Frontotemporal Degeneration Center
+  slug: penn-frontotemporal-degeneration-center
+  group: penn
+  image: images/collaborators/penn-ftd-center.png
+  url: https://www.pennftdcenter.org
+- name: Center for Neurodegenerative Disease Research (CNDR)
+  slug: center-for-neurodegenerative-disease-research-cndr
+  group: penn
+  image: images/collaborators/penn.png
+  url: https://www.med.upenn.edu/cndr/
+- name: Penn Digital Neuropathology Lab
+  slug: penn-digital-neuropathology-lab
+  group: penn
+  image: images/collaborators/digital-neuropathology-lab.png
+  url: https://www.med.upenn.edu/digitalneuropathologylab/
+- name: Detre Lab
+  slug: detre-lab
+  group: penn
+  image: images/collaborators/detre-lab.png
+  url: https://hosting.med.upenn.edu/detrelab/
+- name: Center for Biomedical Image Computing and Analytics (CBICA)
+  slug: center-for-biomedical-image-computing-and-analytics-cbica
+  group: penn
+  image: images/collaborators/cbica.png
+  url: https://www.med.upenn.edu/cbica/
+- name: PennSIVE
+  slug: pennsive
+  group: penn
+  image: images/collaborators/pennsive.png
+  url: https://dbei.med.upenn.edu/center-of-excellence/pennsive/
+- name: PennLINC (Satterthwaite Lab)
+  slug: pennlinc-satterthwaite-lab
+  group: penn
+  image: images/collaborators/pennlinc.png
+  url: https://www.pennlinc.io
+- name: Gorman-Gillespie Structural Heart Group
+  slug: gorman-gillespie-structural-heart-group
+  group: penn
+  image: images/collaborators/gorman-gillespie.png
+  url: https://gorman-gillespestructuralheart.com/home
+- name: Maternal-Fetal Medicine
+  slug: maternal-fetal-medicine
+  group: penn
+  image: images/collaborators/penn.png
+  url: https://www.pennmedicine.org/departments-and-centers/obstetrics-and-gynecology/divisions/maternal-fetal-medicine
+- name: Jolley Lab
+  slug: jolley-lab
+  group: penn
+  image: images/collaborators/chop.png
+  url: https://www.research.chop.edu/jolley-laboratory
+- name: Chaudhari Lab
+  slug: chaudhari-lab
+  group: penn
+  image: images/collaborators/penn.png
+  url: https://pratikac.github.io
+- name: Hippocampal Subfields Group
+  slug: hippocampal-subfields-group
+  group: external
+  image: images/collaborators/hippocampal-subfields-group.png
+  url: https://hippocampalsubfields.com
+- name: Human Neuroanatomy Laboratory
+  slug: human-neuroanatomy-laboratory
+  group: external
+  image: images/collaborators/uclm.png
+  url: https://www.uclm.es/albacete/farmacia/lnh
+- name: ANTsX
+  slug: antsx
+  group: external
+  image: images/collaborators/antsx.png
+  url: https://github.com/ANTsX
+- name: Wisse Lab
+  slug: wisse-lab
+  group: external
+  image: images/collaborators/lund.png
+  url: https://portal.research.lu.se/en/persons/laura-wisse
+- name: Neuropresage
+  slug: neuropresage
+  group: external
+  image: images/collaborators/neuropresage.png
+  url: https://neuropresage.fr/
+- name: ENIGMA Consortium
+  slug: enigma-consortium
+  group: external
+  image: images/collaborators/enigma.png
+  url: https://enigma.ini.usc.edu
+- name: Chang Gung Memorial Hospital
+  slug: chang-gung-memorial-hospital
+  group: external
+  image: images/collaborators/chang-gung.png
+  url: https://www.cgmh.org.tw/eng
