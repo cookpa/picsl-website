@@ -1,4 +1,4 @@
-Visit **[picslupenn.github.io/picsl-website](https://picslupenn.github.io/picsl-website)** 🚀
+Visit **[picsl.upenn.edu](http://picsl.upenn.edu)** 🚀
 
 # PICSL website
 
