@@ -96,6 +96,14 @@ for plugin in plugins:
 
 log("Merging sources by id")
 
+# Normalize DOI case and whitespace before matching, including manual overrides.
+for source in sources:
+    source_id = source.get("id")
+    if isinstance(source_id, str):
+        compact_id = "".join(source_id.split())
+        if compact_id.lower().startswith("doi:"):
+            source["id"] = compact_id.lower()
+
 # merge sources with matching (non-blank) ids
 for a in range(0, len(sources)):
     a_id = get_safe(sources, f"{a}.id", "")
