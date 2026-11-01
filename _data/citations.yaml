@@ -1,6 +1,6 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1162/IMAG.a.1358
+- id: doi:10.1162/imag.a.1358
   title: Spatial covariance of mGluR5 density and structural degeneration in behavioral
     variant frontotemporal degeneration
   authors:
@@ -73,7 +73,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.48550/arXiv.2406.18344
+- id: doi:10.48550/arxiv.2406.18344
   title: 'AlignedCut: Visual Concepts Discovery on Brain-Guided Universal Feature
     Space'
   authors:
@@ -143,7 +143,7 @@
   publisher: Brain Communications
   date: '2026-01-01'
   link: https://doi.org/hcpjm6
-  orcid: 0000-0002-2258-0187
+  orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/2767-9764.crc-26-0443
@@ -211,7 +211,7 @@
   orcid: 0000-0002-1985-8475
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.48550/arXiv.2608.15424
+- id: doi:10.48550/arxiv.2608.15424
   title: 'ETHOS: Towards a Modular Ethics Framework for Clinical Multi-Agent Systems'
   authors:
   - Rakesh Sharma
@@ -237,7 +237,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.48550/arXiv.2603.19371
+- id: doi:10.48550/arxiv.2603.19371
   title: 'Factored Levenberg-Marquardt for Diffeomorphic Image Registration: An efficient
     optimizer for FireANTs'
   authors:
@@ -250,7 +250,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.48550/arXiv.2404.01249
+- id: doi:10.48550/arxiv.2404.01249
   title: 'FireANTs: Adaptive Riemannian Optimization for Multi-Scale Diffeomorphic
     Matching'
   authors:
@@ -287,7 +287,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.48550/arXiv.2605.06859
+- id: doi:10.48550/arxiv.2605.06859
   title: Knowledge Transfer Scaling Laws for 3D Medical Imaging
   authors:
   - Ho Hin Lee
@@ -303,7 +303,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/TCSVT.2026.3682491
+- id: doi:10.1109/tcsvt.2026.3682491
   title: 'LSDiff: Diffusion-Guided Level Set for Low-Contrast Lesion Boundary Segmentation'
   authors:
   - Wenshuo Li
@@ -317,7 +317,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ISBI61048.2026.11515902
+- id: doi:10.1109/isbi61048.2026.11515902
   title: 'NEUSEG: Interpretable Unsupervised GM/WM Segmentation in Brain Histopathology
     Using Nuclei Morphometrics'
   authors:
@@ -529,7 +529,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/TMI.2026.3674592
+- id: doi:10.1109/tmi.2026.3674592
   title: Text-Image Co-Alignment for Weakly Supervised Polyp Segmentation
   authors:
   - Wenhui Huang
@@ -624,7 +624,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1161/HYPERTENSIONAHA.125.25259
+- id: doi:10.1161/hypertensionaha.125.25259
   title: 'Geometric Aging of the Thoracic Aorta: Insights From 2 Large Cohorts'
   authors:
   - Cameron A. Beeche
@@ -641,7 +641,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1161/CIRCULATIONAHA.125.074554
+- id: doi:10.1161/circulationaha.125.074554
   title: 'Early Vascular Aging Determined by 3-Dimensional Aortic Geometry: Genetic
     Determinants and Clinical Consequences'
   authors:
@@ -792,7 +792,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ICCVW69036.2025.00240
+- id: doi:10.1109/iccvw69036.2025.00240
   title: "Adapting Vision\u2013Language Models for 3D CT/MRI Understanding on PMBB\
     \ via Slice Selection and Explanation Analysis"
   authors:
@@ -1014,7 +1014,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.48550/arXiv.2501.18768
+- id: doi:10.48550/arxiv.2501.18768
   title: 'Diversity By Design: Leveraging Distribution Matching for Offline Model-Based
     Optimization'
   authors:
@@ -1378,7 +1378,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.48550/arXiv.2512.15505
+- id: doi:10.48550/arxiv.2512.15505
   title: 'The LUMirage: An independent evaluation of zero-shot performance in the
     LUMIR challenge'
   authors:
@@ -1391,7 +1391,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.48550/arXiv.2403.05606
+- id: doi:10.48550/arxiv.2403.05606
   title: A Concept-based Interpretable Model for the Diagnosis of Choroid Neoplasias
     using Multimodal Data
   authors:
@@ -1423,7 +1423,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.48550/arXiv.2405.14839
+- id: doi:10.48550/arxiv.2405.14839
   title: 'A Textbook Remedy for Domain Shifts: Knowledge Priors for Medical Image
     Analysis'
   authors:
@@ -1531,7 +1531,7 @@
   orcid: 0000-0002-1985-8475
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/CVPR52733.2024.02173
+- id: doi:10.1109/cvpr52733.2024.02173
   title: Brain Decodes Deep Nets
   authors:
   - Huzheng Yang
@@ -2159,7 +2159,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.48550/arXiv.2406.07361
+- id: doi:10.48550/arxiv.2406.07361
   title: Deep Implicit Optimization enables Robust Learnable Features for Deformable
     Image Registration
   authors:
@@ -2172,7 +2172,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.48550/arXiv.2408.05839
+- id: doi:10.48550/arxiv.2408.05839
   title: 'Deep Learning in Medical Image Registration: Magic or Mirage?'
   authors:
   - Rohit Jena
@@ -2287,7 +2287,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.48550/arXiv.2409.19177
+- id: doi:10.48550/arxiv.2409.19177
   title: 'Evidence Is All You Need: Ordering Imaging Studies via Language Model Alignment
     with the ACR Appropriateness Criteria'
   authors:
@@ -2304,7 +2304,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.48550/arXiv.2402.06532
+- id: doi:10.48550/arxiv.2402.06532
   title: Generative Adversarial Model-Based Optimization via Source Critic Regularization
   authors:
   - Michael S. Yao
@@ -2342,7 +2342,7 @@
   orcid: 0000-0002-1985-8475
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.48550/arXiv.2404.02106
+- id: doi:10.48550/arxiv.2404.02106
   title: Neural Ordinary Differential Equation based Sequential Image Registration
     for Dynamic Characterization
   authors:
@@ -2501,7 +2501,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/TMI.2023.3288136
+- id: doi:10.1109/tmi.2023.3288136
   title: 'TransMatch: A Transformer-Based Multilevel Dual-Stream Feature Matching
     Network for Unsupervised Deformable Image Registration'
   authors:
@@ -2876,7 +2876,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/CVPR52729.2023.01088
+- id: doi:10.1109/cvpr52729.2023.01088
   title: 'Beyond mAP: Towards Better Evaluation of Instance Segmentation'
   authors:
   - Rohit Jena
@@ -2892,7 +2892,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.48550/arXiv.2312.01280
+- id: doi:10.48550/arxiv.2312.01280
   title: Brain Decodes Deep Nets
   authors:
   - Huzheng Yang
@@ -3103,7 +3103,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.48550/arXiv.2308.01175
+- id: doi:10.48550/arxiv.2308.01175
   title: Memory Encoding Model
   authors:
   - Huzheng Yang
@@ -3138,7 +3138,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.48550/arXiv.2303.08808
+- id: doi:10.48550/arxiv.2303.08808
   title: 'Mesh Strikes Back: Fast and Efficient Human Reconstruction from RGB videos'
   authors:
   - Rohit Jena
@@ -3180,7 +3180,7 @@
   publisher: Frontiers in Neurology
   date: '2023-10-11'
   link: https://doi.org/hcpjpn
-  orcid: 0000-0002-2258-0187
+  orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/s40035-023-00389-3
@@ -3238,7 +3238,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.48550/arXiv.2311.10812
+- id: doi:10.48550/arxiv.2311.10812
   title: 'SplatArmor: Articulated Gaussian splatting for animatable humans from monocular
     RGB videos'
   authors:
@@ -3275,7 +3275,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.48550/arXiv.2311.09193
+- id: doi:10.48550/arxiv.2311.09193
   title: The Role of Chain-of-Thought in Complex Vision-Language Reasoning Task
   authors:
   - Yifan Wu
@@ -3290,7 +3290,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.48550/arXiv.2312.11593
+- id: doi:10.48550/arxiv.2312.11593
   title: 'Towards Establishing Dense Correspondence on Multiview Coronary Angiography:
     From Point-to-Point to Curve-to-Curve Query Matching'
   authors:
@@ -3349,7 +3349,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.48550/arXiv.2207.01614
+- id: doi:10.48550/arxiv.2207.01614
   title: 'Beyond mAP: Towards better evaluation of instance segmentation'
   authors:
   - Rohit Jena
@@ -3393,7 +3393,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1523/JNEUROSCI.2061-21.2022
+- id: doi:10.1523/jneurosci.2061-21.2022
   title: Divergent Histopathological Networks of Frontotemporal Degeneration Proteinopathy
     Subytpes
   authors:
@@ -3440,7 +3440,7 @@
   publisher: 'NeuroImage: Clinical'
   date: '2022-01-01'
   link: https://doi.org/hcpjpt
-  orcid: 0000-0002-2258-0187
+  orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1097/01.ogx.0000905268.90327.ea
@@ -3459,7 +3459,7 @@
   publisher: Obstetrical &amp; Gynecological Survey
   date: '2022-12-01'
   link: https://doi.org/hcpjpx
-  orcid: 0000-0002-2258-0187
+  orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/jum.15835
@@ -3478,7 +3478,7 @@
   publisher: Journal of Ultrasound in Medicine
   date: '2021-09-23'
   link: https://doi.org/hcpjpz
-  orcid: 0000-0002-2258-0187
+  orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2022.02.10.479607
@@ -3503,7 +3503,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/CVPR52688.2022.02014
+- id: doi:10.1109/cvpr52688.2022.02014
   title: 'NODEO: A Neural Ordinary Differential Equation Based Optimization Framework
     for Deformable Image Registration'
   authors:
@@ -4220,7 +4220,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1097/CCM.0000000000005071
+- id: doi:10.1097/ccm.0000000000005071
   title: Diminishing Efficacy of Prone Positioning With Late Application in Evolving
     Lung Injury
   authors:
@@ -4385,7 +4385,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.48550/arXiv.2108.03443
+- id: doi:10.48550/arxiv.2108.03443
   title: 'NODEO: A Neural Ordinary Differential Equation Based Optimization Framework
     for Deformable Image Registration'
   authors:
@@ -4424,7 +4424,7 @@
   orcid: 0000-0002-1985-8475
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.48550/arXiv.2112.06979
+- id: doi:10.48550/arxiv.2112.06979
   title: 'The Brain Tumor Sequence Registration (BraTS-Reg) Challenge: Establishing
     Correspondence Between Pre-Operative and Follow-up MRI Scans of Diffuse Glioma
     Patients'
@@ -4797,7 +4797,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ISBI45749.2020.9098428
+- id: doi:10.1109/isbi45749.2020.9098428
   title: 'Automated Meshing of Anatomical Shapes for Deformable Medial Modeling: Application
     to the Placenta in 3D Ultrasound'
   authors:
@@ -4911,7 +4911,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/WACV45572.2020.9093603
+- id: doi:10.1109/wacv45572.2020.9093603
   title: Enhanced generative adversarial network for 3D brain MRI super-resolution
   authors:
   - Jiancong Wang
@@ -5001,7 +5001,7 @@
   orcid: 0000-0002-1985-8475
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1117/1.JMI.7.1.014004
+- id: doi:10.1117/1.jmi.7.1.014004
   title: Minimally interactive placenta segmentation from three-dimensional ultrasound
     images
   authors:
@@ -5020,7 +5020,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/CVPR42600.2020.00552
+- id: doi:10.1109/cvpr42600.2020.00552
   title: Nested Scale-Editing for Conditional Image Synthesis
   authors:
   - Lingzhi Zhang
@@ -5052,7 +5052,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1097/ALN.0000000000003509
+- id: doi:10.1097/aln.0000000000003509
   title: Positional Therapy and Regional Pulmonary Ventilation
   authors:
   - Yi Xin
@@ -5076,7 +5076,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ISBI45749.2020.9098455
+- id: doi:10.1109/isbi45749.2020.9098455
   title: Spatially Informed CNN for Automated Cone Detection in Adaptive Optics Retinal
     Images
   authors:
@@ -5186,7 +5186,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1364/BOE.10.006476
+- id: doi:10.1364/boe.10.006476
   title: Automatic longitudinal montaging of adaptive optics retinal images using
     constellation matching
   authors:
@@ -5249,7 +5249,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.3174/ajnr.A6138
+- id: doi:10.3174/ajnr.a6138
   title: Convolutional Neural Network for Automated FLAIR Lesion Segmentation on Clinical
     Brain MR Imaging
   authors:
@@ -5266,7 +5266,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1097/RTI.0000000000000387
+- id: doi:10.1097/rti.0000000000000387
   title: Deep Learning Applications in Chest Radiography and Computed Tomography
   authors:
   - Sang Min Lee
@@ -5288,7 +5288,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1097/RTI.0000000000000389
+- id: doi:10.1097/rti.0000000000000389
   title: Effect of Reconstruction Parameters on the Quantitative Analysis of Chest
     Computed Tomography
   authors:
@@ -5435,7 +5435,7 @@
   orcid: 0000-0002-1985-8475
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1097/ALN.0000000000002729
+- id: doi:10.1097/aln.0000000000002729
   title: Postoperative Delirium and Postoperative Cognitive Dysfunction
   authors:
   - Lori A. Daiello
@@ -5525,7 +5525,7 @@
   orcid: 0000-0002-1985-8475
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/HealthCom.2018.8531160
+- id: doi:10.1109/healthcom.2018.8531160
   title: A Blockchain-based Architecture Framework for Secure Sharing of Personal
     Health Data
   authors:
@@ -5663,7 +5663,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1097/RTI.0000000000000307
+- id: doi:10.1097/rti.0000000000000307
   title: Quantitative Computed Tomography Metrics From the Transplanted Lung can Predict
     Forced Expiratory Volume in the First Second After Lung Transplantation
   authors:
@@ -5694,7 +5694,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1164/rccm.201708-1728OC
+- id: doi:10.1164/rccm.201708-1728oc
   title: Unstable Inflation Causing Injury. Insight from Prone Position and Paired
     Computed Tomography Scans
   authors:
@@ -5718,7 +5718,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/Cybermatics_2018.2018.00228
+- id: doi:10.1109/cybermatics_2018.2018.00228
   title: 'V-Chain: A Blockchain-Based Car Lease Platform'
   authors:
   - Kwame O.-B Obour Agyekum
@@ -5755,7 +5755,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1212/WNL.0000000000004324
+- id: doi:10.1212/wnl.0000000000004324
   title: Brain network efficiency is influenced by the pathologic source of corticobasal
     syndrome
   authors:
@@ -5812,7 +5812,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1364/BOE.8.000890
+- id: doi:10.1364/boe.8.000890
   title: Joint alignment of multispectral images via semidefinite programming
   authors:
   - Yuanjie Zheng
@@ -5918,7 +5918,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1097/ICO.0000000000001157
+- id: doi:10.1097/ico.0000000000001157
   title: Use of Crossed Polarizers to Enhance Images of the Eyelids
   authors:
   - Ryan O'Sullivan
@@ -5986,7 +5986,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ICCSNT.2015.7490970
+- id: doi:10.1109/iccsnt.2015.7490970
   title: Constraint Split Bregman method combined with total variation for structural
     decomposition of breast DCE-MRI
   authors:
@@ -6023,7 +6023,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1364/OE.24.025277
+- id: doi:10.1364/oe.24.025277
   title: Groupwise registration of sequential images from multispectral imaging (MSI)
     of the retina and choroid
   authors:
@@ -6040,7 +6040,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1364/BOE.7.004899
+- id: doi:10.1364/boe.7.004899
   title: Multi-modal automatic montaging of adaptive optics retinal images
   authors:
   - Min Chen
@@ -6099,7 +6099,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/TBME.2016.2621727
+- id: doi:10.1109/tbme.2016.2621727
   title: 'The Power of Connecting Dots: Advanced Techniques to Evaluate Brain Functional
     Connectivity in Humans'
   authors:
@@ -6111,7 +6111,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1097/ALN.0000000000000916
+- id: doi:10.1097/aln.0000000000000916
   title: Visualizing the Propagation of Acute Lung Injury
   authors:
   - Maurizio Cereda
@@ -6152,7 +6152,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1097/WNR.0000000000000488
+- id: doi:10.1097/wnr.0000000000000488
   title: A study of brain white matter plasticity in early blinds using tract-based
     spatial statistics and tract statistical analysis
   authors:
@@ -6172,7 +6172,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.3174/ajnr.A4357
+- id: doi:10.3174/ajnr.a4357
   title: Assessment of MRI-Based Automated Fetal Cerebral Cortical Folding Measures
     in Prediction of Gestational Age in the Third Trimester
   authors:
@@ -6235,7 +6235,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.3233/JAD-142943
+- id: doi:10.3233/jad-142943
   title: "Neuropsychological Testing Predicts Cerebrospinal Fluid Amyloid-\u03B2 in\
     \ Mild          Cognitive Impairment"
   authors:
@@ -6285,7 +6285,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1117/1.JMI.2.2.024501
+- id: doi:10.1117/1.jmi.2.2.024501
   title: 'Parenchymal texture analysis in digital mammography: robust texture feature
     identification and equivalence across devices'
   authors:
@@ -6494,7 +6494,7 @@
   publisher: NeuroImage
   date: '2014-01-01'
   link: https://doi.org/f5mgw9
-  orcid: 0000-0002-2258-0187
+  orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1115/1.4028250
@@ -6661,7 +6661,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1097/WNN.0000000000000044
+- id: doi:10.1097/wnn.0000000000000044
   title: White Matter Disease Contributes to Apathy and Disinhibition in Behavioral
     Variant Frontotemporal Dementia
   authors:
@@ -6709,7 +6709,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ISBI.2013.6556807
+- id: doi:10.1109/isbi.2013.6556807
   title: An automated drusen detection system for classifying age-related macular
     degeneration with color fundus photographs
   authors:
@@ -6726,7 +6726,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/PRNI.2013.16
+- id: doi:10.1109/prni.2013.16
   title: Anatomically-Constrained PCA for Image Parcellation
   authors:
   - Paramveer S. Dhillon
@@ -6848,7 +6848,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/TPAMI.2012.210
+- id: doi:10.1109/tpami.2012.210
   title: Single-Image Vignetting Correction from Gradient Distribution Symmetries
   authors:
   - Yuanjie Zheng
@@ -6940,7 +6940,7 @@
   publisher: Frontiers in Neurology
   date: '2013-01-01'
   link: https://doi.org/gssmr3
-  orcid: 0000-0002-2258-0187
+  orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.acra.2012.03.007
@@ -7050,7 +7050,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ISBI.2012.6235479
+- id: doi:10.1109/isbi.2012.6235479
   title: Agreement between the white matter connectivity based on the tensor-based
     morphometry and the volumetric white matter parcellations based on diffusion tensor
     imaging
@@ -7119,7 +7119,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ISBI.2012.6235759
+- id: doi:10.1109/isbi.2012.6235759
   title: Partial sparse canonical correlation analysis (PSCCA) for population studies
     in medical imaging
   authors:
@@ -7133,7 +7133,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ISBI.2012.6235542
+- id: doi:10.1109/isbi.2012.6235542
   title: Reconstruction of the human hippocampus in 3D from histology and high-resolution
     ex-vivo MRI
   authors:
@@ -7152,7 +7152,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ISBI.2012.6235719
+- id: doi:10.1109/isbi.2012.6235719
   title: Retrospective illumination correction of retinal fundus images from gradient
     distribution sparsity
   authors:
@@ -7170,7 +7170,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1523/JNEUROSCI.0307-12.2012
+- id: doi:10.1523/jneurosci.0307-12.2012
   title: Structural Variations in Prefrontal Cortex Mediate the Relationship between
     Early Childhood Stress and Spatial Working Memory
   authors:
@@ -7214,7 +7214,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1212/WNL.0b013e31825830bd
+- id: doi:10.1212/wnl.0b013e31825830bd
   title: White matter imaging contributes to the multimodal diagnosis of frontotemporal
     lobar degeneration
   authors:
@@ -7231,10 +7231,10 @@
   publisher: Neurology
   date: '2012-05-29'
   link: https://doi.org/gfkdx7
-  orcid: 0000-0002-2258-0187
+  orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/TMI.2010.2067451
+- id: doi:10.1109/tmi.2010.2067451
   title: "A Nonconservative Lagrangian Framework for Statistical Fluid Registration\u2014\
     SAFIRA"
   authors:
@@ -7320,7 +7320,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/TMI.2011.2158349
+- id: doi:10.1109/tmi.2011.2158349
   title: 'Evaluation of Registration Methods on Thoracic CT: The EMPIRE10 Challenge'
   authors:
   - Keelin Murphy
@@ -7419,7 +7419,7 @@
   orcid: 0000-0002-1985-8475
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ISBI.2011.5872500
+- id: doi:10.1109/isbi.2011.5872500
   title: 'Multiscale analysis revisited: Detection of drusen and vessel in digital
     retinal images'
   authors:
@@ -7435,7 +7435,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/NEBC.2011.5778690
+- id: doi:10.1109/nebc.2011.5778690
   title: Optimization of image registration and application to human disc mechanics
     with nucleotomy
   authors:
@@ -7455,7 +7455,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/TMI.2010.2086065
+- id: doi:10.1109/tmi.2010.2086065
   title: "Point Set Registration Using Havrda\u2013Charvat\u2013Tsallis Entropy Measures"
   authors:
   - Nicholas J Tustison
@@ -7514,7 +7514,7 @@
   orcid: 0000-0002-1985-8475
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ISBI.2011.5872528
+- id: doi:10.1109/isbi.2011.5872528
   title: Structural connectivity via the tensor-based morphometry
   authors:
   - Seung-Goo Kim
@@ -7531,7 +7531,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/TIP.2010.2095021
+- id: doi:10.1109/tip.2010.2095021
   title: 'Topological Well-Composedness and Glamorous Glue: A Digital Gluing Algorithm
     for Topologically Constrained Front Propagation'
   authors:
@@ -7590,10 +7590,10 @@
   publisher: Medical Image Analysis
   date: '2010-10-01'
   link: https://doi.org/dh54tc
-  orcid: 0000-0002-2258-0187
+  orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ISBI.2010.5490290
+- id: doi:10.1109/isbi.2010.5490290
   title: Accurate registration of dynamic contrast-enhanced breast mr images with
     robust estimation and linear programming
   authors:
@@ -7633,10 +7633,10 @@
   publisher: NeuroImage
   date: '2010-11-01'
   link: https://doi.org/fbqdhm
-  orcid: 0000-0002-2258-0187
+  orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1631/jzus.C0910349
+- id: doi:10.1631/jzus.c0910349
   title: Cranio-maxillofacial surgery simulation based on pre-specified target face
     configurations
   authors:
@@ -7686,7 +7686,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1523/JNEUROSCI.0859-10.2010
+- id: doi:10.1523/jneurosci.0859-10.2010
   title: 'Early Stress Is Associated with Alterations in the Orbitofrontal Cortex:
     A Tensor-Based Morphometry Investigation of Brain Structure and Behavioral Risk'
   authors:
@@ -7703,7 +7703,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/CVPR.2010.5540205
+- id: doi:10.1109/cvpr.2010.5540205
   title: Estimation of image bias field with sparsity constraints
   authors:
   - Yuanjie Zheng
@@ -7780,7 +7780,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/TMI.2010.2046908
+- id: doi:10.1109/tmi.2010.2046908
   title: 'N4ITK: Improved N3 Bias Correction'
   authors:
   - Nicholas J Tustison
@@ -7908,7 +7908,7 @@
   publisher: NeuroImage
   date: '2010-02-01'
   link: https://doi.org/cj9s4z
-  orcid: 0000-0002-2258-0187
+  orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.neuropsychologia.2010.07.036
@@ -7931,7 +7931,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1212/WNL.0b013e3181ed9c7d
+- id: doi:10.1212/wnl.0b013e3181ed9c7d
   title: Why are patients with progressive nonfluent aphasia nonfluent?
   authors:
   - D. Gunawardena
@@ -7946,7 +7946,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ISBI.2009.5193237
+- id: doi:10.1109/isbi.2009.5193237
   title: A framework for craniofacial surgery simulation based on pre-specified target
     face configurations
   authors:
@@ -7977,7 +7977,7 @@
   publisher: NeuroImage
   date: '2009-01-15'
   link: https://doi.org/cscfcf
-  orcid: 0000-0002-2258-0187
+  orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/978-3-642-02498-6_18
@@ -8042,7 +8042,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ISBI.2009.5193223
+- id: doi:10.1109/isbi.2009.5193223
   title: Computational analysis of HRCT images for characterization and differentiation
     of ILD and COPD
   authors:
@@ -8072,7 +8072,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/TIP.2008.2010072
+- id: doi:10.1109/tip.2008.2010072
   title: Directly Manipulated Free-Form Deformation Image Registration
   authors:
   - N.J. Tustison
@@ -8172,7 +8172,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1017/CBO9780511994685.014
+- id: doi:10.1017/cbo9780511994685.014
   title: Registration and atlas building
   authors:
   - James C. Gee
@@ -8250,7 +8250,7 @@
   orcid: 0000-0002-1985-8475
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ISBI.2008.4541155
+- id: doi:10.1109/isbi.2008.4541155
   title: Atlas-guided probabilistic diffusion-tensor fiber tractography
   authors:
   - Philip A. Cook
@@ -8280,7 +8280,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ISBI.2008.4541289
+- id: doi:10.1109/isbi.2008.4541289
   title: Branching medial models for cardiac shape representation
   authors:
   - ' Hui Sun'
@@ -8296,7 +8296,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ISBI.2008.4540957
+- id: doi:10.1109/isbi.2008.4540957
   title: Building an atlas of hippocampal subfields using postmortem MRI
   authors:
   - Paul A. Yushkevich
@@ -8330,7 +8330,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/MSP.2008.4408451
+- id: doi:10.1109/msp.2008.4408451
   title: Digital Brain Atlases for Biomedicine [Life Sciences]
   authors:
   - J.C. Gee
@@ -8391,7 +8391,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/CVPRW.2008.4562992
+- id: doi:10.1109/cvprw.2008.4562992
   title: Multivariate analysis of thalamo-cortical connectivity loss in TBI
   authors:
   - Jeffrey Duda
@@ -8408,7 +8408,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ISBI.2008.4540970
+- id: doi:10.1109/isbi.2008.4540970
   title: Multivariate segmentation of brain tissues by fusion of MRI and DTI data
   authors:
   - Suyash P. Awate
@@ -8422,7 +8422,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ISBI.2008.4540935
+- id: doi:10.1109/isbi.2008.4540935
   title: Nonparametric Markov priors for tissue segmentation
   authors:
   - ' Zhuang Song'
@@ -8435,7 +8435,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ISBI.2008.4541110
+- id: doi:10.1109/isbi.2008.4541110
   title: Point-set registration of tagged HE-3 images using a structurally-based Jensen-Shannon
     divergence measure within a deterministic annealing framework
   authors:
@@ -8454,7 +8454,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/CVPRW.2008.4562993
+- id: doi:10.1109/cvprw.2008.4562993
   title: Robust regularization for the estimation of intra-voxel axon fiber orientations
   authors:
   - Alonso Ramirez-Manzanares
@@ -8502,7 +8502,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ISBI.2008.4541071
+- id: doi:10.1109/isbi.2008.4541071
   title: Spatial correspondence based asymmetry analysis in FMRI
   authors:
   - Sandhitsu R. Das
@@ -8550,7 +8550,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ISBI.2008.4541094
+- id: doi:10.1109/isbi.2008.4541094
   title: Surface-based modeling of white matter fasciculi with orientation encoding
   authors:
   - ' Hui Zhang'
@@ -8603,7 +8603,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/TMI.2007.907301
+- id: doi:10.1109/tmi.2007.907301
   title: 'A Fuzzy, Nonparametric Segmentation Framework for DTI and MRI Analysis:
     With Applications to DTI-Tract Extraction'
   authors:
@@ -8747,7 +8747,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/TMI.2007.895009
+- id: doi:10.1109/tmi.2007.895009
   title: 'Guest editorial: Special Issue on Computational Neuroanatomy'
   authors:
   - James Gee
@@ -8758,7 +8758,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/TMI.2007.906784
+- id: doi:10.1109/tmi.2007.906784
   title: 'High-Dimensional Spatial Normalization of Diffusion Tensor Images Improves
     the Detection of White Matter Differences: An Example Study Using Amyotrophic
     Lateral Sclerosis'
@@ -8794,7 +8794,7 @@
   publisher: NeuroImage
   date: '2007-05-01'
   link: https://doi.org/csc8qv
-  orcid: 0000-0002-2258-0187
+  orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/978-3-540-75757-3_99
@@ -8811,7 +8811,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ICCV.2007.4409161
+- id: doi:10.1109/iccv.2007.4409161
   title: Improved FFD B-Spline Image Registration
   authors:
   - Nicholas J. Tustison
@@ -8837,7 +8837,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ICCV.2007.4409136
+- id: doi:10.1109/iccv.2007.4409136
   title: Measuring Cortical Thickness Using An Image Domain Local Surface Model And
     Topology Preserving Segmentation
   authors:
@@ -8851,7 +8851,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ICCV.2007.4409159
+- id: doi:10.1109/iccv.2007.4409159
   title: Multi-start Method with Prior Learning for Image Registration
   authors:
   - Gang Song
@@ -8897,7 +8897,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/TCBB.2007.1035
+- id: doi:10.1109/tcbb.2007.1035
   title: Neuroinformatics for Genome-Wide 3-D Gene Expression Mapping in the Mouse
     Brain
   authors:
@@ -8921,7 +8921,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ISBI.2007.356878
+- id: doi:10.1109/isbi.2007.356878
   title: NON-UNIFORM SMOOTHING IN HIPPOCAMPUS-SPECIFIC GROUP FMRI ANALYSIS
   authors:
   - Paul Yushkevich
@@ -8934,7 +8934,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ISBI.2007.356865
+- id: doi:10.1109/isbi.2007.356865
   title: PULMONARY KINEMATICS FROM HYPERPOLARIZED HELIUM-3 TAGGED MAGNETIC RESONANCE
     IMAGING
   authors:
@@ -8967,7 +8967,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/TMI.2007.900322
+- id: doi:10.1109/tmi.2007.900322
   title: Shape-Based Normalization of the Corpus Callosum for DTI Connectivity Analysis
   authors:
   - Hui Sun
@@ -8997,7 +8997,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ICCV.2007.4409169
+- id: doi:10.1109/iccv.2007.4409169
   title: Structure-Specific Statistical Mapping of White Matter Tracts using the Continuous
     Medial Representation
   authors:
@@ -9011,7 +9011,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ISBI.2007.356932
+- id: doi:10.1109/isbi.2007.356932
   title: SYMMETRIC SHAPE AVERAGING IN THE DIFFEOMORPHIC SPACE
   authors:
   - Brian Avants
@@ -9083,7 +9083,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ISBI.2006.1625028
+- id: doi:10.1109/isbi.2006.1625028
   title: Adaptive Graph Cuts with Tissue Priors for Brain MRI Segmentation
   authors:
   - ' Zhuang Song'
@@ -9097,7 +9097,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/CVPRW.2006.30
+- id: doi:10.1109/cvprw.2006.30
   title: Analyzing Effects of Intra-Uterine Cocaine Exposure on Adolescent Brain Structure
     with Symmetric Diffeomorphisms
   authors:
@@ -9129,7 +9129,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/TMI.2006.884634
+- id: doi:10.1109/tmi.2006.884634
   title: Continuous Medial Representation for Anatomical Structures
   authors:
   - Paul A. Yushkevich
@@ -9152,7 +9152,7 @@
   publisher: Medical Image Analysis
   date: '2006-10-01'
   link: https://doi.org/fdg77d
-  orcid: 0000-0002-2258-0187
+  orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/3-540-31272-2_20
@@ -9177,7 +9177,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/CVPRW.2006.68
+- id: doi:10.1109/cvprw.2006.68
   title: Efficient Generation of Shape-Based Reference Frames for the Corpus Callosum
     for DTI-based Connectivity Analysis
   authors:
@@ -9320,10 +9320,10 @@
   publisher: NeuroImage
   date: '2006-07-01'
   link: https://doi.org/d585gp
-  orcid: 0000-0002-2258-0187
+  orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1017/S0954579405050364
+- id: doi:10.1017/s0954579405050364
   title: "A multilevel analysis of cognitive dysfunction and psychopathology \nassociated\
     \ with chromosome 22q11.2 deletion syndrome in children"
   authors:
@@ -9396,7 +9396,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1142/S0218195905001609
+- id: doi:10.1142/s0218195905001609
   title: CONSTRAINED QUADRILATERAL MESHES OF BOUNDED SIZE
   authors:
   - SUNEETA RAMASWAMI
@@ -9485,7 +9485,7 @@
   publisher: Academic Radiology
   date: '2005-10-01'
   link: https://doi.org/fxb49j
-  orcid: 0000-0002-2258-0187
+  orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1089/neu.2005.22.1388
@@ -9616,7 +9616,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1212/01.WNL.0000118209.95423.96
+- id: doi:10.1212/01.wnl.0000118209.95423.96
   title: Dissociation of numbers and objects in corticobasal degeneration and semantic
     dementia
   authors:
@@ -9687,7 +9687,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ISBI.2004.1398608
+- id: doi:10.1109/isbi.2004.1398608
   title: Shape averaging with diffeomorphic flows for atlas creation
   authors:
   - B. Avants
@@ -9699,7 +9699,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/S0933-3657(03)00039-3
+- id: doi:10.1016/s0933-3657(03)00039-3
   title: Structural shape characterization via exploratory factor analysis
   authors:
   - Alexei M.C. Machado
@@ -9722,7 +9722,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ISBI.2004.1398540
+- id: doi:10.1109/isbi.2004.1398540
   title: Towards diffusion profile image registration
   authors: []
   publisher: '2004 2nd IEEE International Symposium on Biomedical Imaging: Nano to
@@ -9732,7 +9732,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/MSP.2004.1296539
+- id: doi:10.1109/msp.2004.1296539
   title: Visual data mining for modeling prior distributions in morphometry - minimizing
     data redundancy and revealing hidden patterns
   authors:
@@ -9770,7 +9770,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/S1076-6332(03)00543-9
+- id: doi:10.1016/s1076-6332(03)00543-9
   title: "Alzheimer\u2019s disease and frontotemporal dementia exhibit distinct atrophy-behavior\
     \ correlates"
   authors:
@@ -9813,7 +9813,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/S1076-6332(03)00329-5
+- id: doi:10.1016/s1076-6332(03)00329-5
   title: Characterization of regional pulmonary mechanics from serial magnetic resonance
     imaging data1
   authors:
@@ -9828,7 +9828,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/S1053-8119(03)00313-6
+- id: doi:10.1016/s1053-8119(03)00313-6
   title: Characterization of sexual dimorphism in the human corpus callosum
   authors:
   - Abraham Dubb
@@ -9864,7 +9864,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1212/01.WNL.0000044398.73241.13
+- id: doi:10.1212/01.wnl.0000044398.73241.13
   title: "Grammatical and resource components of sentence processing in Parkinson\u2019\
     s disease"
   authors:
@@ -9912,7 +9912,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/S0093-934X(02)00562-X
+- id: doi:10.1016/s0093-934x(02)00562-x
   title: Neural basis for sentence comprehension deficits in frontotemporal dementia
   authors:
   - Ayanna Cooke
@@ -9928,7 +9928,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/S1077-3142(03)00116-4
+- id: doi:10.1016/s1077-3142(03)00116-4
   title: Point similarity measures for non-rigid registration of multi-modal data
   authors:
   - Peter Rogelj
@@ -9987,7 +9987,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/S1076-6332(03)00142-9
+- id: doi:10.1016/s1076-6332(03)00142-9
   title: 'Voxelwise mapping of magnetic resonance ventilation-perfusion ratio in a
     porcine model by multimodality registration: technical note1'
   authors:
@@ -10122,7 +10122,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ISBI.2002.1029298
+- id: doi:10.1109/isbi.2002.1029298
   title: Non-rigid registration of diffusion tensor MR images
   authors:
   - J.C. Gee
@@ -10135,7 +10135,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ISBI.2002.1029264
+- id: doi:10.1109/isbi.2002.1029264
   title: 'Registration patterns: the generic framework for image registration of the
     insight toolkit'
   authors:
@@ -10149,7 +10149,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ISBI.2002.1029262
+- id: doi:10.1109/isbi.2002.1029262
   title: Robust rotations between anatomical curves
   authors:
   - B. Avants
@@ -10215,7 +10215,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/SIBGRA.2002.1167117
+- id: doi:10.1109/sibgra.2002.1167117
   title: Substructural segmentation based on regional shape differences
   authors:
   - A.M.C. Machado
@@ -10438,7 +10438,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/SIBGRA.2000.883897
+- id: doi:10.1109/sibgra.2000.883897
   title: Probabilistic intensity mapping in MRI image registration
   authors:
   - A.M. Correa Machado
@@ -10484,7 +10484,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/S0031-3203(98)00093-4
+- id: doi:10.1016/s0031-3203(98)00093-4
   title: On matching brain volumes
   authors:
   - J.C. Gee
@@ -10518,7 +10518,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/SIBGRA.1998.722766
+- id: doi:10.1109/sibgra.1998.722766
   title: Density estimation for MR image elastic matching
   authors:
   - A.M.C. Machado
@@ -10644,7 +10644,7 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/0953-5438(93)90011-H
+- id: doi:10.1016/0953-5438(93)90011-h
   title: 'User interface design for medical imaging workstations: image display and
     processing'
   authors:
@@ -10752,7 +10752,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/ALZ.71649
+- id: doi:10.1002/alz.71649
   title: "<i>Postmortem</i>\n                    brain MRI reveals differential associations\
     \ of subcortical and limbic volumes with cortical thinning and neurodegenerative\
     \ pathologies"
@@ -10794,7 +10794,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1007/S00259-026-07925-Z
+- id: doi:10.1007/s00259-026-07925-z
   title: Assessing subcortical, brainstem and cerebellar metabolic patterns using
     [18F]FDG PET-CT imaging in dementia with Lewy bodies
   authors:
@@ -11615,7 +11615,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/S13195-026-02118-0
+- id: doi:10.1186/s13195-026-02118-0
   title: Characterizing the MRI signature of hippocampal sclerosis of aging
   authors:
   - "Gustaf R\xE5dman"
@@ -11653,7 +11653,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1177/0271678X251389043
+- id: doi:10.1177/0271678x251389043
   title: Clinical correlates of perfusion and diffusion MRI metrics in cognitively
     unimpaired older adults
   authors:
@@ -11675,37 +11675,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/BRAINCOMMS/FCAG169
-  title: Clinicoanatomic localization of iron-rich gliosis in aphasic presentations
-    of globular glial tauopathy
-  authors:
-  - David J Irwin
-  - Sheina Emrani
-  - Daniel T Ohm
-  - Winifred Trotman
-  - Alejandra Bahena
-  - Eric Teunissen-Bermeo
-  - Philip Sabatini
-  - Sandhitsu R Das
-  - Gabor Mizsei
-  - Karthik Prabhakaran
-  - Ranjit Ittyerah
-  - H Branch Coslett
-  - Lauren Massimo
-  - David A Wolk
-  - John A Detre
-  - James C Gee
-  - Edward B Lee
-  - Paul Yushkevich
-  - Corey T McMillan
-  - M Dylan Tisdall
-  publisher: Brain Communications
-  date: '2026-01-01'
-  link: https://doi.org/hcpjm6
-  orcid: 0000-0001-8543-4016
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1001/JAMA.2026.13058
+- id: doi:10.1001/jama.2026.13058
   title: Clinicopathologic Evaluation of Amyloid Clearance in Alzheimer Disease
   authors:
   - Christopher A. Brown
@@ -11726,7 +11696,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/MDS.70186
+- id: doi:10.1002/mds.70186
   title: "Discordance of Dopaminergic Dysfunction and Subcortical Atrophy by \u03B1\
     \u2010Synuclein Status in Sporadic and Genetic Parkinson's Disease"
   authors:
@@ -11757,7 +11727,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1001/JAMANEUROL.2025.4974
+- id: doi:10.1001/jamaneurol.2025.4974
   title: Evaluation of Copathology and Clinical Trajectories in Individuals With Tau-Clinical
     Mismatch
   authors:
@@ -11935,7 +11905,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/HIPO.70073
+- id: doi:10.1002/hipo.70073
   title: "Harmonized Protocol for Subfield Segmentation in the Hippocampal Body on\
     \ High\u2010Resolution In\_Vivo\n                    <scp>MRI</scp>\n        \
     \            From the Hippocampal Subfields Group (\n                    <scp>HSG</scp>\n\
@@ -11995,7 +11965,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1007/S00401-026-03013-6
+- id: doi:10.1007/s00401-026-03013-6
   title: "Idiotypic-susceptible Alzheimer\u2019s disease: a clinically relevant, neurofibrillary\
     \ tangle subtype"
   authors:
@@ -12020,7 +11990,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/ALZ.71822
+- id: doi:10.1002/alz.71822
   title: "SynthPET: A 3D generative AI approach for FDG\u2010PET image synthesis from\
     \ T1\u2010weighted MRI and ASL CBF in Alzheimer's disease"
   authors:
@@ -12045,7 +12015,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/ANA.78194
+- id: doi:10.1002/ana.78194
   title: "Temporal Modeling of Amyloid and Tau Trajectories in Alzheimer's Disease\
     \ Using\n                    <scp>PET</scp>\n                    and Plasma Biomarkers"
   authors:
@@ -12069,7 +12039,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/ALZ.71474
+- id: doi:10.1002/alz.71474
   title: "Uncovering distinct spatiotemporal trajectories of T\u2010N mismatch subtypes\
     \ with likely co\u2010pathology in Alzheimer's disease using event\u2010based\
     \ modeling"
@@ -12093,7 +12063,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/ALZ.71571
+- id: doi:10.1002/alz.71571
   title: "Vulnerability of anterior medial temporal lobe subregions to early tau\u2010\
     related neurodegeneration in Alzheimer's disease: Converging evidence from tau\u2010\
     PET and plasma p\u2010tau217"
@@ -12177,7 +12147,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/ALZ.14492
+- id: doi:10.1002/alz.14492
   title: "A multi\u2010cohort study of longitudinal and cross\u2010sectional Alzheimer's\
     \ disease biomarkers in cognitively unimpaired older adults"
   authors:
@@ -12211,7 +12181,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/ALZ70862_110000
+- id: doi:10.1002/alz70862_110000
   title: "Enrichment of patients with concomitant LATE on the Alzheimer\u2019s disease\
     \ continuum: comparing structural and cognitive trajectories"
   authors:
@@ -12230,7 +12200,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/HIPO.70036
+- id: doi:10.1002/hipo.70036
   title: "Automatic Segmentation of Medial Temporal Lobe Subregions in Multi\u2010\
     Scanner, Multi\u2010Modality Magnetic Resonance Imaging of Variable Quality"
   authors:
@@ -12274,7 +12244,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.NEUROBIOLAGING.2025.06.003
+- id: doi:10.1016/j.neurobiolaging.2025.06.003
   title: "Biological age acceleration in Alzheimer\u2019s disease modulates relative\
     \ cortical to medial temporal lobe neurodegeneration"
   authors:
@@ -12290,7 +12260,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/HIPO.70027
+- id: doi:10.1002/hipo.70027
   title: Developing an Anatomically Valid Segmentation Protocol for Anterior Regions
     of the Medial Temporal Lobe for Neurodegenerative Diseases
   authors:
@@ -12333,7 +12303,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1212/WNL.0000000000212429
+- id: doi:10.1212/wnl.0000000000212429
   title: Effects of APOE Genotypes on Periventricular White Matter Cerebral Blood
     Flow in Cognitively Intact Adults (P3-3.004)
   authors:
@@ -12351,29 +12321,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/ALZ.70970
-  title: "Enrichment of patients with concomitant limbic\u2010predominant age\u2010\
-    related TDP\u201043 encephalopathy (LATE) on the Alzheimer's disease continuum\
-    \ using hippocampal volume"
-  authors:
-  - Nidhi S. Mundada
-  - Xueying Lyu
-  - Christopher A. Brown
-  - Niyousha Sadeghpour
-  - Emily McGrew
-  - Long Xie
-  - Philip A. Cook
-  - James Gee
-  - Paul A. Yushkevich
-  - Sandhitsu R. Das
-  - David A. Wolk
-  publisher: Alzheimer's &amp; Dementia
-  date: '2025-12-01'
-  link: https://doi.org/hcpjnm
-  orcid: 0000-0001-8543-4016
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1162/IMAG.A.1053
+- id: doi:10.1162/imag.a.1053
   title: Fully individualized models for cross-sectional and longitudinal network-based
     tau spread
   authors:
@@ -12390,7 +12338,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/BRAIN/AWAE352
+- id: doi:10.1093/brain/awae352
   title: "Hypometabolic mismatch with atrophy and tau pathology in mixed Alzheimer\u2019\
     s and Lewy body disease"
   authors:
@@ -12413,7 +12361,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1038/S43856-025-01170-5
+- id: doi:10.1038/s43856-025-01170-5
   title: Integrating individualized connectome with amyloid pathology improves predictive
     modeling of future cognitive decline
   authors:
@@ -12624,7 +12572,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/BRAIN/AWAF133
+- id: doi:10.1093/brain/awaf133
   title: "Medial temporal lobe atrophy in Down syndrome along the Alzheimer\u2019\
     s disease continuum"
   authors:
@@ -12660,7 +12608,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/ALZ70862_110130
+- id: doi:10.1002/alz70862_110130
   title: "Microstructural and Water Exchange Alterations in ARIA\u2010E in a Real\u2010\
     World Cohort Receiving Anti\u2010Amyloid Therapy"
   authors:
@@ -12690,7 +12638,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/HIPO.70005
+- id: doi:10.1002/hipo.70005
   title: "Remembering Ricardo Serrano Insausti 1954\u20132024"
   authors:
   - Maria Carmen Lorduy
@@ -12705,7 +12653,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/S40478-025-02030-Y
+- id: doi:10.1186/s40478-025-02030-y
   title: "Operationalizing postmortem pathology-MRI association studies in Alzheimer\u2019\
     s disease and related disorders with MRI-guided histology sampling"
   authors:
@@ -12738,7 +12686,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.NICL.2024.103714
+- id: doi:10.1016/j.nicl.2024.103714
   title: "Posterior hippocampal sparing in Lewy body disorders with Alzheimer\u2019\
     s copathology: An in vivo MRI study"
   authors:
@@ -12804,7 +12752,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/ALZ.14382
+- id: doi:10.1002/alz.14382
   title: Regional cerebral blood flow reflects both neurodegeneration and microvascular
     integrity across the Alzheimer's continuum
   authors:
@@ -12918,7 +12866,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/HBM.70004
+- id: doi:10.1002/hbm.70004
   title: "A (sub)field guide to quality control in hippocampal subfield segmentation\
     \ on high\u2010resolution\n                    <scp>\n                      T\n\
     \                      <sub>2</sub>\n                    </scp>\n            \
@@ -12955,7 +12903,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1007/S00401-024-02789-9
+- id: doi:10.1007/s00401-024-02789-9
   title: "Association of quantitative histopathology measurements with antemortem\
     \ medial temporal lobe cortical thickness in the Alzheimer\u2019s disease continuum"
   authors:
@@ -13003,7 +12951,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1162/IMAG_A_00171
+- id: doi:10.1162/imag_a_00171
   title: "Automated deep learning segmentation of high-resolution 7 Tesla\n      \
     \              postmortem MRI for quantitative analysis of structure-pathology\
     \ correlations in\n                    neurodegenerative diseases"
@@ -13051,7 +12999,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/S13195-023-01374-8
+- id: doi:10.1186/s13195-023-01374-8
   title: "Correction: Baseline structural MRI and plasma biomarkers predict longitudinal\
     \ structural atrophy and cognitive decline in early Alzheimer\u2019s disease"
   authors:
@@ -13069,7 +13017,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/HIPO.23602
+- id: doi:10.1002/hipo.23602
   title: Comparison of histological delineations of medial temporal lobe cortices
     by four independent neuroanatomy laboratories
   authors:
@@ -13119,7 +13067,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1097/PRS.0000000000010526
+- id: doi:10.1097/prs.0000000000010526
   title: Craniofacial Soft-Tissue Anthropomorphic Database with Magnetic Resonance
     Imaging and Unbiased Diffeomorphic Registration
   authors:
@@ -13148,7 +13096,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.NEUROBIOLAGING.2023.10.012
+- id: doi:10.1016/j.neurobiolaging.2023.10.012
   title: Impact of white matter hyperintensities on structural connectivity and cognition
     in cognitively intact ADNI participants
   authors:
@@ -13170,10 +13118,10 @@
   publisher: Neurobiology of Aging
   date: '2024-03-01'
   link: https://doi.org/hcpjpb
-  orcid: 0000-0001-8543-4016
+  orcid: 0000-0002-1985-8475
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/ALZ.14303
+- id: doi:10.1002/alz.14303
   title: "Implementation and validation of face de\u2010identification (de\u2010facing)\
     \ in ADNI4"
   authors:
@@ -13216,7 +13164,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/S13195-024-01571-Z
+- id: doi:10.1186/s13195-024-01571-z
   title: "Medial temporal lobe atrophy patterns in early-versus late-onset amnestic\
     \ Alzheimer\u2019s disease"
   authors:
@@ -13241,7 +13189,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/ALZ.13832
+- id: doi:10.1002/alz.13832
   title: Medial temporal lobe gray matter microstructure in preclinical Alzheimer's
     disease
   authors:
@@ -13261,7 +13209,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1117/1.JMI.11.3.036001
+- id: doi:10.1117/1.jmi.11.3.036001
   title: Open-source graphical user interface for the creation of synthetic skeletons
     for medical image analysis
   authors:
@@ -13283,7 +13231,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/ALZ.14166
+- id: doi:10.1002/alz.14166
   title: Overview of ADNI MRI
   authors:
   - Clifford R. Jack
@@ -13318,7 +13266,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1038/S41467-024-49205-0
+- id: doi:10.1038/s41467-024-49205-0
   title: "Postmortem imaging reveals patterns of medial temporal lobe vulnerability\
     \ to tau pathology in Alzheimer\u2019s disease"
   authors:
@@ -13355,7 +13303,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1162/IMAG_A_00294
+- id: doi:10.1162/imag_a_00294
   title: "Regional deep atrophy: Using temporal information to automatically identify\
     \ regions associated with Alzheimer\u2019s disease progression from longitudinal\
     \ MRI"
@@ -13374,7 +13322,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/HBM.70082
+- id: doi:10.1002/hbm.70082
   title: "Subject\u2010Level Segmentation Precision Weights for Volumetric Studies\
     \ Involving Label Fusion"
   authors:
@@ -13401,7 +13349,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/ALZ.13559
+- id: doi:10.1002/alz.13559
   title: "Tau\u2010neurodegeneration <i>mismatch</i> reveals vulnerability and resilience\
     \ to comorbidities in Alzheimer's continuum"
   authors:
@@ -13430,7 +13378,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.3389/FNANA.2023.1149674
+- id: doi:10.3389/fnana.2023.1149674
   title: Ex vivo, in situ perfusion protocol for human brain fixation compatible with
     microscopy, MRI techniques, and anatomical studies
   authors:
@@ -13519,7 +13467,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/BRAINCOMMS/FCAD245
+- id: doi:10.1093/braincomms/fcad245
   title: "Aging and Alzheimer\u2019s disease have dissociable effects on local and\
     \ regional medial temporal lobe connectivity"
   authors:
@@ -13550,7 +13498,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1212/WNL.0000000000207421
+- id: doi:10.1212/wnl.0000000000207421
   title: Association of Sleep-Disordered Breathing and Medial Temporal Lobe Atrophy
     in Cognitively Unimpaired Amyloid-Positive Older Adults
   authors:
@@ -13575,7 +13523,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1111/BIOM.13708
+- id: doi:10.1111/biom.13708
   title: Automated Analysis of Low-Field Brain MRI in Cerebral Malaria
   authors:
   - Danni Tu
@@ -13614,7 +13562,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/S13195-023-01210-Z
+- id: doi:10.1186/s13195-023-01210-z
   title: "Baseline structural MRI and plasma biomarkers predict longitudinal structural\
     \ atrophy and cognitive decline in early Alzheimer\u2019s disease"
   authors:
@@ -13632,7 +13580,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.MEDIA.2022.102683
+- id: doi:10.1016/j.media.2022.102683
   title: 'Deep label fusion: A generalizable hybrid multi-atlas and deep convolutional
     neural network for medical image segmentation'
   authors:
@@ -13721,37 +13669,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.3389/FNEUR.2023.1245886
-  title: Neuroanatomical and cellular degeneration associated with a social disorder
-    characterized by new ritualistic belief systems in a TDP-C patient vs. a Pick
-    patient
-  authors:
-  - Daniel T. Ohm
-  - Emma Rhodes
-  - Alejandra Bahena
-  - Noah Capp
-  - MaKayla Lowe
-  - Philip Sabatini
-  - Winifred Trotman
-  - Christopher A. Olm
-  - Jeffrey Phillips
-  - Karthik Prabhakaran
-  - Katya Rascovsky
-  - Lauren Massimo
-  - Corey McMillan
-  - James Gee
-  - M. Dylan Tisdall
-  - Paul A. Yushkevich
-  - Edward B. Lee
-  - Murray Grossman
-  - David J. Irwin
-  publisher: Frontiers in Neurology
-  date: '2023-10-11'
-  link: https://doi.org/hcpjpn
-  orcid: 0000-0001-8543-4016
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1212/WNL.0000000000202552
+- id: doi:10.1212/wnl.0000000000202552
   title: Periventricular White Matter Fractional Anisotropy as a Biomarker of Cerebral
     Small Vessel Disease (P11-6.007)
   authors:
@@ -13771,7 +13689,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1212/WNL.0000000000203911
+- id: doi:10.1212/wnl.0000000000203911
   title: Prediction of Regional Tau Spread Using Individualized Tau Epicenters and
     Structural Connectomes (S39.002)
   authors:
@@ -13797,7 +13715,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.3389/FPSYT.2023.1060770
+- id: doi:10.3389/fpsyt.2023.1060770
   title: 'Stress-related reduction of hippocampal subfield volumes in major depressive
     disorder: A 7-Tesla study'
   authors:
@@ -13873,7 +13791,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/HBM.26326
+- id: doi:10.1002/hbm.26326
   title: Young versus older subject diffusion magnetic resonance imaging data for
     virtual white matter lesion tractography
   authors:
@@ -13893,37 +13811,10 @@
   publisher: Human Brain Mapping
   date: '2023-05-06'
   link: https://doi.org/hcpjps
-  orcid: 0000-0001-8543-4016
+  orcid: 0000-0002-1985-8475
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.NICL.2021.102913
-  title: Ex vivo MRI and histopathology detect novel iron-rich cortical inflammation
-    in frontotemporal lobar degeneration with tau versus TDP-43 pathology
-  authors:
-  - M. Dylan Tisdall
-  - Daniel T. Ohm
-  - Rebecca Lobrovich
-  - Sandhitsu R. Das
-  - Gabor Mizsei
-  - Karthik Prabhakaran
-  - Ranjit Ittyerah
-  - Sydney Lim
-  - Corey T. McMillan
-  - David A. Wolk
-  - James Gee
-  - John Q. Trojanowski
-  - Edward B. Lee
-  - John A. Detre
-  - Paul Yushkevich
-  - Murray Grossman
-  - David J. Irwin
-  publisher: 'NeuroImage: Clinical'
-  date: '2022-01-01'
-  link: https://doi.org/hcpjpt
-  orcid: 0000-0001-8543-4016
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1002/ALZ.12884
+- id: doi:10.1002/alz.12884
   title: "Associations of phosphorylated tau pathology with whole\u2010hemisphere\
     \ ex vivo morphometry in 7 tesla MRI"
   authors:
@@ -13968,7 +13859,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.ACRA.2021.03.010
+- id: doi:10.1016/j.acra.2021.03.010
   title: Automatic Segmentation of Bone Selective MR Images for Visualization and
     Craniometry of the Cranial Vault
   authors:
@@ -13987,7 +13878,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1038/S41467-022-28941-1
+- id: doi:10.1038/s41467-022-28941-1
   title: "Dissociation of tau pathology and neuronal hypometabolism within the ATN\
     \ framework of Alzheimer\u2019s disease"
   authors:
@@ -14288,7 +14179,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.MEDIA.2022.102513
+- id: doi:10.1016/j.media.2022.102513
   title: Fully Automated 3D Segmentation and Diffeomorphic Medial Modeling of the
     Left Ventricle Mitral Valve Complex in Ischemic Mitral Regurgitation
   authors:
@@ -14309,45 +14200,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1097/01.OGX.0000905268.90327.EA
-  title: Fully Automated Placental Volume Quantification From 3D Ultrasound for Prediction
-    of Small-for-Gestational-Age Infants
-  authors:
-  - Nadav Schwartz
-  - Ipek Oguz
-  - Jiancong Wang
-  - Alison Pouch
-  - Natalie Yushkevich
-  - Shobhana Parameshwaran
-  - James Gee
-  - Paul Yushkevich
-  - Baris Oguz
-  publisher: Obstetrical &amp; Gynecological Survey
-  date: '2022-12-01'
-  link: https://doi.org/hcpjpx
-  orcid: 0000-0001-8854-5301
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1002/JUM.15835
-  title: "Fully Automated Placental Volume Quantification From<scp>3D</scp>Ultrasound\
-    \ for Prediction of Small\u2010for\u2010Gestational\u2010Age Infants"
-  authors:
-  - Nadav Schwartz
-  - Ipek Oguz
-  - Jiancong Wang
-  - Alison Pouch
-  - Natalie Yushkevich
-  - Shobhana Parameshwaran
-  - James Gee
-  - Paul Yushkevich
-  - Baris Oguz
-  publisher: Journal of Ultrasound in Medicine
-  date: '2021-09-23'
-  link: https://doi.org/hcpjpz
-  orcid: 0000-0001-8854-5301
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1523/JNEUROSCI.0949-21.2021
+- id: doi:10.1523/jneurosci.0949-21.2021
   title: 'Medial Temporal Lobe Networks in Alzheimer''s Disease: Structural and Molecular
     Vulnerabilities'
   authors:
@@ -14365,7 +14218,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.3233/JAD-215728
+- id: doi:10.3233/jad-215728
   title: "Neuropsychological and Neuroanatomical Features of Patients with Behavioral/Dysexecutive\
     \ Variant Alzheimer\u2019s Disease (AD): A Comparison to Behavioral Variant Frontotemporal\
     \ Dementia and Amnestic AD Groups"
@@ -14391,7 +14244,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1007/S00401-022-02472-X
+- id: doi:10.1007/s00401-022-02472-x
   title: "Regional distribution and maturation of tau pathology among phenotypic variants\
     \ of Alzheimer\u2019s disease"
   authors:
@@ -14417,7 +14270,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.3233/ADR-220013
+- id: doi:10.3233/adr-220013
   title: 'Self- and Partner-Reported Subjective Memory Complaints: Association with
     Objective Cognitive Impairment and Risk of Decline'
   authors:
@@ -14445,7 +14298,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.NEUROBIOLAGING.2021.09.017
+- id: doi:10.1016/j.neurobiolaging.2021.09.017
   title: Tau pathology mediates age effects on medial temporal lobe structure
   authors:
   - Laura EM Wisse
@@ -14514,7 +14367,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.3390/APP11041892
+- id: doi:10.3390/app11041892
   title: Accurate and Robust Alignment of Differently Stained Histologic Images Based
     on Greedy Diffeomorphic Registration
   authors:
@@ -14530,7 +14383,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.NEUROBIOLAGING.2020.11.012
+- id: doi:10.1016/j.neurobiolaging.2020.11.012
   title: Cross-sectional and longitudinal medial temporal lobe subregional atrophy
     patterns in semantic variant primary progressive aphasia
   authors:
@@ -14568,7 +14421,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.NEUROIMAGE.2021.118514
+- id: doi:10.1016/j.neuroimage.2021.118514
   title: 'DeepAtrophy: Teaching a neural network to detect progressive changes in
     longitudinal MRI of the hippocampal region in Alzheimer''s disease'
   authors:
@@ -14586,7 +14439,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/S40478-021-01225-3
+- id: doi:10.1186/s40478-021-01225-3
   title: Downstream effects of polypathology on neurodegeneration of medial temporal
     lobe subregions
   authors:
@@ -14626,7 +14479,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/BRAIN/AWAB114
+- id: doi:10.1093/brain/awab114
   title: Early stages of tau pathology and its associations with functional connectivity,
     atrophy and memory
   authors:
@@ -14649,7 +14502,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/S40478-021-01275-7
+- id: doi:10.1186/s40478-021-01275-7
   title: 'Ex vivo MRI atlas of the human medial temporal lobe: characterizing neurodegeneration
     due to tau pathology'
   authors:
@@ -14690,7 +14543,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/HBM.25234
+- id: doi:10.1002/hbm.25234
   title: "Hippocampal subfield volumetry from structural isotropic 1\u2009mm<sup>3</sup><scp>MRI</scp>\
     \ scans: A note of caution"
   authors:
@@ -14714,7 +14567,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1007/S11340-020-00656-8
+- id: doi:10.1007/s11340-020-00656-8
   title: In Vivo Image-Based 4D Modeling of Competent and Regurgitant Mitral Valve
     Dynamics
   authors:
@@ -14735,7 +14588,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.XJON.2020.10.007
+- id: doi:10.1016/j.xjon.2020.10.007
   title: Multimodal image analysis and subvalvular dynamics in ischemic mitral regurgitation
   authors:
   - Ahmed H. Aly
@@ -14753,7 +14606,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.NICL.2021.102717
+- id: doi:10.1016/j.nicl.2021.102717
   title: Oh brother, where art tau? Amyloid, neurodegeneration, and cognitive decline
     without elevated tau
   authors:
@@ -14772,7 +14625,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/S13195-021-00835-2
+- id: doi:10.1186/s13195-021-00835-2
   title: "Pathological drivers of neurodegeneration in suspected non-Alzheimer\u2019\
     s disease pathophysiology"
   authors:
@@ -14793,7 +14646,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.3233/JAD-201280
+- id: doi:10.3233/jad-201280
   title: Sensitive Measures of Cognition in Mild Cognitive Impairment
   authors:
   - Nathaniel Klooster
@@ -14813,7 +14666,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/ANA.26233
+- id: doi:10.1002/ana.26233
   title: "Tau\u2010Atrophy Variability Reveals Phenotypic Heterogeneity in Alzheimer's\
     \ Disease"
   authors:
@@ -14832,10 +14685,10 @@
   publisher: Annals of Neurology
   date: '2021-10-15'
   link: https://doi.org/gnbmmc
-  orcid: 0000-0001-8543-4016
+  orcid: 0000-0003-0530-2887
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/BRAIN/AWAB262
+- id: doi:10.1093/brain/awab262
   title: Three-dimensional mapping of neurofibrillary tangle burden in the human medial
     temporal lobe
   authors:
@@ -14924,7 +14777,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ISBI45749.2020.9098462
+- id: doi:10.1109/isbi45749.2020.9098462
   title: 3D Mapping of TAU Neurofibrillary Tangle Pathology in the Human Medial Temporal
     Lobe
   authors:
@@ -14967,7 +14820,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/TMI.2020.2986331
+- id: doi:10.1109/tmi.2020.2986331
   title: 'ANHIR: Automatic Non-Rigid Histological Image Registration Challenge'
   authors:
   - Jiri Borovec
@@ -15005,7 +14858,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ISBI45749.2020.9098427
+- id: doi:10.1109/isbi45749.2020.9098427
   title: Building an Ex Vivo Atlas of the Earliest Brain Regions Affected by Alzheimer's
     Disease Pathology
   authors:
@@ -15041,7 +14894,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/HIPO.23172
+- id: doi:10.1002/hipo.23172
   title: 'Characterization of hippocampal subfields using ex vivo MRI and histology
     data: Lessons for in vivo segmentation'
   authors:
@@ -15068,7 +14921,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/ALZ.12079
+- id: doi:10.1002/alz.12079
   title: Contribution of mixed pathology to medial temporal lobe atrophy in Alzheimer's
     disease
   authors:
@@ -15111,7 +14964,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1111/NAN.12659
+- id: doi:10.1111/nan.12659
   title: "Hippocampal subfield pathologic burden in Lewy body diseases <i>vs</i>.\
     \ Alzheimer\u2019s disease"
   authors:
@@ -15138,7 +14991,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/S13019-020-01138-7
+- id: doi:10.1186/s13019-020-01138-7
   title: Intraoperative post-annuloplasty three-dimensional valve analysis does not
     predict recurrent ischemic mitral regurgitation
   authors:
@@ -15164,7 +15017,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/HBM.25151
+- id: doi:10.1002/hbm.25151
   title: Longitudinal atrophy in early Braak regions in preclinical Alzheimer's disease
   authors:
   - Long Xie
@@ -15182,7 +15035,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/NOAJNL/VDAA128
+- id: doi:10.1093/noajnl/vdaa128
   title: Multi-institutional noninvasive in vivo characterization of <i>IDH</i>, 1p/19q,
     and EGFRvIII in glioma using neuro-Cancer Imaging Phenomics Toolkit (neuro-CaPTk)
   authors:
@@ -15213,7 +15066,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.NEUROPSYCHOLOGIA.2020.107549
+- id: doi:10.1016/j.neuropsychologia.2020.107549
   title: Neural and behavioral correlates of episodic memory are associated with temporal
     discounting in older adults
   authors:
@@ -15233,7 +15086,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1111/JOCS.14387
+- id: doi:10.1111/jocs.14387
   title: "Quantitative three\u2010dimensional echocardiographic analysis of the bicuspid\
     \ aortic valve and aortic root: A single modality approach"
   authors:
@@ -15254,7 +15107,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.NICL.2020.102256
+- id: doi:10.1016/j.nicl.2020.102256
   title: 'TAPAS: A Thresholding Approach for Probability Map Automatic Segmentation
     in Multiple Sclerosis'
   authors:
@@ -15336,7 +15189,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/HIPO.23063
+- id: doi:10.1002/hipo.23063
   title: Associative memory for conceptually unitized word pairs in mild cognitive
     impairment is related to the volume of the perirhinal cortex
   authors:
@@ -15354,7 +15207,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.JVS.2019.04.410
+- id: doi:10.1016/j.jvs.2019.04.410
   title: PC234. Automated Image Analysis to Determine Local Wall Strain of Abdominal
     Aortic Aneurysms
   authors:
@@ -15372,7 +15225,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/HBM.24607
+- id: doi:10.1002/hbm.24607
   title: "Automated segmentation of medial temporal lobe subregions on in vivo T1\u2010\
     weighted MRI in early stages of Alzheimer's disease"
   authors:
@@ -15436,7 +15289,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.AJOG.2018.11.1073
+- id: doi:10.1016/j.ajog.2018.11.1073
   title: '1049: Fully automated placental volume quantification from 3DUS for prediction
     of small-for-gestational age infants'
   authors:
@@ -15479,7 +15332,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.JALZ.2019.05.009
+- id: doi:10.1016/j.jalz.2019.05.009
   title: "In\_vivo measures of tau burden are associated with atrophy in early Braak\
     \ stage medial temporal lobe regions in amyloid\u2010negative individuals"
   authors:
@@ -15497,7 +15350,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1089/NEU.2018.6357
+- id: doi:10.1089/neu.2018.6357
   title: Longitudinal Changes in Hippocampal Subfield Volume Associated with Collegiate
     Football
   authors:
@@ -15541,7 +15394,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.DADM.2019.04.001
+- id: doi:10.1016/j.dadm.2019.04.001
   title: Progress update from the hippocampal subfields group
   authors:
   - Rosanna K. Olsen
@@ -15596,7 +15449,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/HBM.24530
+- id: doi:10.1002/hbm.24530
   title: 'Structural and functional asymmetry of medial temporal subregions in unilateral
     temporal lobe epilepsy: A 7T MRI study'
   authors:
@@ -15616,7 +15469,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/HIPO.23026
+- id: doi:10.1002/hipo.23026
   title: "Task\u2010enhanced arterial spin labeled perfusion MRI predicts longitudinal\
     \ neurodegeneration in mild cognitive impairment"
   authors:
@@ -15635,7 +15488,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1007/S12021-018-9385-X
+- id: doi:10.1007/s12021-018-9385-x
   title: User-Guided Segmentation of Multi-modality Medical Imaging Datasets with
     ITK-SNAP
   authors:
@@ -15658,7 +15511,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.3233/JAD-170932
+- id: doi:10.3233/jad-170932
   title: "Automated Multi-Atlas Segmentation of Hippocampal and Extrahippocampal Subregions\
     \ in Alzheimer\u2019s Disease at 3T and 7T: What Atlas Composition Works Best?"
   authors:
@@ -15686,7 +15539,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1117/1.JMI.5.1.011018
+- id: doi:10.1117/1.jmi.5.1.011018
   title: 'Cancer imaging phenomics toolkit: quantitative imaging analytics for precision
     diagnostics and predictive modeling of clinical outcome'
   authors:
@@ -15739,7 +15592,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1073/PNAS.1801093115
+- id: doi:10.1073/pnas.1801093115
   title: "Characterizing the human hippocampus in aging and Alzheimer\u2019s disease\
     \ using a computational atlas derived from ex vivo MRI and histology"
   authors:
@@ -15770,7 +15623,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.NICL.2018.09.032
+- id: doi:10.1016/j.nicl.2018.09.032
   title: Clinical validation of automated hippocampal segmentation in temporal lobe
     epilepsy
   authors:
@@ -15790,7 +15643,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.NICL.2018.02.008
+- id: doi:10.1016/j.nicl.2018.02.008
   title: Defining SNAP by cross-sectional and longitudinal definitions of neurodegeneration
   authors:
   - L.E.M. Wisse
@@ -15825,7 +15678,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.3233/JAD-170945
+- id: doi:10.3233/jad-170945
   title: Early Tau Burden Correlates with Higher Rate of Atrophy in Transentorhinal
     Cortex
   authors:
@@ -15868,7 +15721,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.NEUROBIOLAGING.2018.01.024
+- id: doi:10.1016/j.neurobiolaging.2018.01.024
   title: Longitudinal and cross-sectional structural magnetic resonance imaging correlates
     of AV-1451 uptake
   authors:
@@ -15886,7 +15739,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/HBM.23887
+- id: doi:10.1002/hbm.23887
   title: Mapping the structural and functional network architecture of the medial
     temporal lobe using 7T MRI
   authors:
@@ -15920,7 +15773,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.3174/AJNR.A5734
+- id: doi:10.3174/ajnr.a5734
   title: Quantitative MRI of Perivascular Spaces at 3T for Early Diagnosis of Mild
     Cognitive Impairment
   authors:
@@ -15933,10 +15786,10 @@
   publisher: American Journal of Neuroradiology
   date: '2018-08-09'
   link: https://doi.org/gd7rg4
-  orcid: 0000-0001-8543-4016
+  orcid: 0000-0003-0530-2887
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.NICL.2017.12.036
+- id: doi:10.1016/j.nicl.2017.12.036
   title: Systematic comparison of different techniques to measure hippocampal subfield
     volumes in ADNI2
   authors:
@@ -15957,7 +15810,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/HIPO.22671
+- id: doi:10.1002/hipo.22671
   title: 'A harmonized segmentation protocol for hippocampal and parahippocampal subregions:
     Why do we need one and what are the key goals?'
   authors:
@@ -16011,7 +15864,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.NICL.2017.05.022
+- id: doi:10.1016/j.nicl.2017.05.022
   title: A protocol for manual segmentation of medial temporal lobe subregions in
     7 Tesla MRI
   authors:
@@ -16035,7 +15888,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.NEUROIMAGE.2017.04.057
+- id: doi:10.1016/j.neuroimage.2017.04.057
   title: A tract-specific approach to assessing white matter in preterm infants
   authors:
   - Diliana Pecheva
@@ -16055,7 +15908,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/CERCOR/BHW299
+- id: doi:10.1093/cercor/bhw299
   title: Comparison of In Vivo and Ex Vivo MRI of the Human Hippocampal Formation
     in the Same Subjects
   authors:
@@ -16094,7 +15947,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/MPUL.2017.2701493
+- id: doi:10.1109/mpul.2017.2701493
   title: 'ITK-SNAP: An Intractive Medical Image Segmentation Tool to Meet the Need
     for Expert-Guided Segmentation of Complex Medical Images'
   authors:
@@ -16127,7 +15980,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.NEUROBIOLAGING.2016.09.011
+- id: doi:10.1016/j.neurobiolaging.2016.09.011
   title: Medial temporal lobe subregional morphometry using high resolution MRI in
     Alzheimer's disease
   authors:
@@ -16142,7 +15995,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.NEUROIMAGE.2016.09.070
+- id: doi:10.1016/j.neuroimage.2016.09.070
   title: 'Multi-template analysis of human perirhinal cortex in brain MRI: Explicitly
     accounting for anatomical variability'
   authors:
@@ -16179,7 +16032,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.3389/FNINS.2017.00330
+- id: doi:10.3389/fnins.2017.00330
   title: Neural Correlates of Verbal Episodic Memory and Lexical Retrieval in Logopenic
     Variant Primary Progressive Aphasia
   authors:
@@ -16197,7 +16050,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.AJOG.2016.11.118
+- id: doi:10.1016/j.ajog.2016.11.118
   title: '213: Novel 3D morphologic analysis of the early placenta using deformable
     medial modeling'
   authors:
@@ -16213,7 +16066,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/MRM.26381
+- id: doi:10.1002/mrm.26381
   title: Self-gated MRI of multiple beat morphologies in the presence of arrhythmias
   authors:
   - Francisco Contijoch
@@ -16260,7 +16113,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.NICL.2016.03.002
+- id: doi:10.1016/j.nicl.2016.03.002
   title: 'A brain stress test: Cerebral perfusion during memory encoding in mild cognitive
     impairment'
   authors:
@@ -16279,7 +16132,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/EMBC.2016.7592099
+- id: doi:10.1109/embc.2016.7592099
   title: 'A framework for informing segmentation of in vivo MRI with information derived
     from ex vivo imaging: Application in the medial temporal lobe'
   authors:
@@ -16323,7 +16176,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.3174/AJNR.A4659
+- id: doi:10.3174/ajnr.a4659
   title: Automated Hippocampal Subfield Segmentation at 7T MRI
   authors:
   - L.E.M. Wisse
@@ -16339,10 +16192,10 @@
   publisher: American Journal of Neuroradiology
   date: '2016-02-04'
   link: https://doi.org/gtcd6h
-  orcid: 0000-0001-8543-4016
+  orcid: 0000-0003-0530-2887
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.3233/JAD-160014
+- id: doi:10.3233/jad-160014
   title: "Clinical Application of Automatic Segmentation of Medial Temporal Lobe Subregions\
     \ in Prodromal and Dementia-Level Alzheimer\u2019s Disease"
   authors:
@@ -16373,7 +16226,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/EMBC.2016.7591443
+- id: doi:10.1109/embc.2016.7591443
   title: 'ITK-SNAP: An interactive tool for semi-automatic segmentation of multi-modality
     biomedical images'
   authors:
@@ -16387,7 +16240,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.JBIOMECH.2016.04.038
+- id: doi:10.1016/j.jbiomech.2016.04.038
   title: In-vivo heterogeneous functional and residual strains in human aortic valve
     leaflets
   authors:
@@ -16405,7 +16258,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.3389/FNANA.2016.00009
+- id: doi:10.3389/fnana.2016.00009
   title: Maturation Along White Matter Tracts in Human Brain Using a Diffusion Tensor
     Surface Model Tract-Specific Analysis
   authors:
@@ -16420,7 +16273,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.ATHORACSUR.2016.05.087
+- id: doi:10.1016/j.athoracsur.2016.05.087
   title: Modeling the Myxomatous Mitral Valve With Three-Dimensional Echocardiography
   authors:
   - Alison M. Pouch
@@ -16441,7 +16294,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.ATHORACSUR.2015.09.076
+- id: doi:10.1016/j.athoracsur.2015.09.076
   title: Preoperative Three-Dimensional Valve Analysis Predicts Recurrent Ischemic
     Mitral Regurgitation After Mitral Annuloplasty
   authors:
@@ -16485,7 +16338,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1161/CIRCEP.115.003520
+- id: doi:10.1161/circep.115.003520
   title: Quantification of Left Ventricular Function With Premature Ventricular Complexes
     Reveals Variable Hemodynamics
   authors:
@@ -16521,7 +16374,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.JTCVS.2016.06.040
+- id: doi:10.1016/j.jtcvs.2016.06.040
   title: The value of preoperative 3-dimensional over 2-dimensional valve analysis
     in predicting recurrent ischemic mitral regurgitation after mitral annuloplasty
   authors:
@@ -16552,7 +16405,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.3978/J.ISSN.2225-319X.2015.02.01
+- id: doi:10.3978/j.issn.2225-319x.2015.02.01
   title: ''
   authors: []
   publisher: ''
@@ -16561,7 +16414,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.NEUROBIOLAGING.2014.03.041
+- id: doi:10.1016/j.neurobiolaging.2014.03.041
   title: Anterior and posterior MTL networks in aging and MCI
   authors:
   - Sandhitsu R. Das
@@ -16576,7 +16429,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.NEUROIMAGE.2015.07.087
+- id: doi:10.1016/j.neuroimage.2015.07.087
   title: 'Assessing atrophy measurement techniques in dementia: Results from the MIRIAD
     atrophy challenge'
   authors:
@@ -16616,7 +16469,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/HBM.22627
+- id: doi:10.1002/hbm.22627
   title: Automated volumetry and regional thickness analysis of hippocampal subfields
     and medial temporal cortical structures in mild cognitive impairment
   authors:
@@ -16636,7 +16489,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ISBI.2015.7163891
+- id: doi:10.1109/isbi.2015.7163891
   title: Multi-atlas label fusion with augmented atlases for fast and accurate segmentation
     of cardiac MR images
   authors:
@@ -16653,7 +16506,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.MEDIA.2015.09.003
+- id: doi:10.1016/j.media.2015.09.003
   title: 'Medially constrained deformable modeling for segmentation of branching medial
     structures: Application to aortic valve segmentation and morphometry'
   authors:
@@ -16674,7 +16527,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.NEUROBIOLAGING.2014.09.021
+- id: doi:10.1016/j.neurobiolaging.2014.09.021
   title: Guest editorial
   authors:
   - Lei Wang
@@ -16686,7 +16539,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.NEUROIMAGE.2015.01.004
+- id: doi:10.1016/j.neuroimage.2015.01.004
   title: 'Quantitative comparison of 21 protocols for labeling hippocampal subfields
     and parahippocampal subregions in in vivo MRI: Towards a harmonized segmentation
     protocol'
@@ -16744,7 +16597,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1017/S1355617715000223
+- id: doi:10.1017/s1355617715000223
   title: Relationship of Contextual Cueing and Hippocampal Volume in Amnestic Mild
     Cognitive Impairment Patients and Cognitively Normal Older Adults
   authors:
@@ -16783,7 +16636,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.NEUROBIOLAGING.2015.08.029
+- id: doi:10.1016/j.neurobiolaging.2015.08.029
   title: Suspected non-AD pathology in mild cognitive impairment
   authors:
   - Laura E.M. Wisse
@@ -16800,7 +16653,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/S12968-015-0146-9
+- id: doi:10.1186/s12968-015-0146-9
   title: User-initialized active contour segmentation and golden-angle real-time cardiovascular
     magnetic resonance enable accurate assessment of LV function in patients with
     sinus rhythm and arrhythmias
@@ -16850,7 +16703,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.MEDIA.2013.10.001
+- id: doi:10.1016/j.media.2013.10.001
   title: Fully automatic segmentation of the mitral leaflets in 3D transesophageal
     echocardiographic images using multi-atlas joint label fusion and deformable medial
     modeling
@@ -16869,24 +16722,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.NEUROIMAGE.2013.08.067
-  title: Histology-derived volumetric annotation of the human hippocampal subfields
-    in postmortem MRI
-  authors:
-  - Daniel H. Adler
-  - John Pluta
-  - Salmon Kadivar
-  - Caryne Craige
-  - James C. Gee
-  - Brian B. Avants
-  - Paul A. Yushkevich
-  publisher: NeuroImage
-  date: '2014-01-01'
-  link: https://doi.org/f5mgw9
-  orcid: 0000-0001-8543-4016
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/J.ATHORACSUR.2014.01.010
+- id: doi:10.1016/j.athoracsur.2014.01.010
   title: "Real-Time Magnetic Resonance Imaging Technique\_for Determining Left Ventricle\
     \ Pressure-Volume Loops"
   authors:
@@ -16909,7 +16745,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.ATHORACSUR.2013.07.096
+- id: doi:10.1016/j.athoracsur.2013.07.096
   title: Statistical Assessment of Normal Mitral Annular Geometry Using Automated
     Three-Dimensional Echocardiographic Analysis
   authors:
@@ -16996,7 +16832,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/HIPO.22051
+- id: doi:10.1002/hipo.22051
   title: Increased functional connectivity within medial temporal lobe in mild cognitive
     impairment
   authors:
@@ -17014,7 +16850,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/TPAMI.2012.143
+- id: doi:10.1109/tpami.2012.143
   title: Multi-Atlas Segmentation with Joint Label Fusion
   authors:
   - ' Hongzhi Wang'
@@ -17040,7 +16876,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.3389/FNINF.2013.00027
+- id: doi:10.3389/fninf.2013.00027
   title: "Multi-atlas segmentation with joint label fusion and corrective learning\u2014\
     an open source implementation"
   authors:
@@ -17111,24 +16947,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.3389/FNEUR.2013.00212
-  title: White Matter Disease Correlates with Lexical Retrieval Deficits in Primary
-    Progressive Aphasia
-  authors:
-  - John P. Powers
-  - Corey T. McMillan
-  - Caroline C. Brun
-  - Paul A. Yushkevich
-  - Hui Zhang
-  - James C. Gee
-  - Murray Grossman
-  publisher: Frontiers in Neurology
-  date: '2013-01-01'
-  link: https://doi.org/gssmr3
-  orcid: 0000-0001-8543-4016
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.3233/JAD-2012-111931
+- id: doi:10.3233/jad-2012-111931
   title: In vivo Analysis of Hippocampal Subfield Atrophy in Mild Cognitive Impairment
     via Semi-Automatic Segmentation of T2-Weighted MRI
   authors:
@@ -17160,7 +16979,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ISBI.2012.6235692
+- id: doi:10.1109/isbi.2012.6235692
   title: Dependency prior for multi-atlas label fusion
   authors:
   - Hongzhi Wang
@@ -17205,7 +17024,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/CVPR.2012.6247771
+- id: doi:10.1109/cvpr.2012.6247771
   title: 'From label fusion to correspondence fusion: A new approach to unbiased groupwise
     registration'
   authors:
@@ -17219,7 +17038,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ULTSYM.2012.0055
+- id: doi:10.1109/ultsym.2012.0055
   title: Fully automatic segmentation of the open mitral leaflets in 3D transesophageal
     echocardiographic images using multi-atlas label fusion and deformable medial
     modeling
@@ -17256,7 +17075,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.NEUROIMAGE.2012.01.098
+- id: doi:10.1016/j.neuroimage.2012.01.098
   title: Measuring longitudinal change in the hippocampal formation from in vivo high-resolution
     T2-weighted MRI
   authors:
@@ -17274,7 +17093,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.3389/FNINS.2012.00166
+- id: doi:10.3389/fnins.2012.00166
   title: Robust Automated Amygdala Segmentation via Multi-Atlas Diffeomorphic Registration
   authors:
   - Jamie L. Hanson
@@ -17296,7 +17115,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.JBIOMECH.2011.11.033
+- id: doi:10.1016/j.jbiomech.2011.11.033
   title: Semi-automated mitral valve morphometry and computational stress analysis
     using 3D ultrasound
   authors:
@@ -17315,7 +17134,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/CVPR.2012.6247765
+- id: doi:10.1109/cvpr.2012.6247765
   title: Spatial bias in multi-atlas based segmentation
   authors:
   - ' Hongzhi Wang'
@@ -17353,27 +17172,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1212/WNL.0B013E31825830BD
-  title: White matter imaging contributes to the multimodal diagnosis of frontotemporal
-    lobar degeneration
-  authors:
-  - C.T. McMillan
-  - C. Brun
-  - S. Siddiqui
-  - M. Churgin
-  - D. Libon
-  - P. Yushkevich
-  - H. Zhang
-  - A. Boller
-  - J. Gee
-  - M. Grossman
-  publisher: Neurology
-  date: '2012-05-29'
-  link: https://doi.org/gfkdx7
-  orcid: 0000-0001-8543-4016
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/J.NEUROIMAGE.2011.01.006
+- id: doi:10.1016/j.neuroimage.2011.01.006
   title: 'A learning-based wrapper method to correct systematic errors in automatic
     image segmentation: Consistently improved performance in hippocampus, cortex and
     brain segmentation'
@@ -17392,7 +17191,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ISBI.2011.5872812
+- id: doi:10.1109/isbi.2011.5872812
   title: Hippocampus segmentation using a stable maximum likelihood classifier ensemble
     algorithm
   authors:
@@ -17409,7 +17208,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.NEUROIMAGE.2011.06.085
+- id: doi:10.1016/j.neuroimage.2011.06.085
   title: Heterogeneity of functional activation during memory encoding across hippocampal
     subfields in temporal lobe epilepsy
   authors:
@@ -17446,7 +17245,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/CVPR.2011.5995382
+- id: doi:10.1109/cvpr.2011.5995382
   title: Regression-based label fusion for multi-atlas segmentation
   authors:
   - Hongzhi Wang
@@ -17470,7 +17269,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/IEMBS.2010.5626538
+- id: doi:10.1109/iembs.2010.5626538
   title: '3D mesh based wall thickness measurement: Identification of left ventricular
     hypertrophy phenotypes'
   authors:
@@ -17493,23 +17292,6 @@
     and Biology Society. Conference'
   date: '2026-10-22'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-79953192248&partnerID=MN8TOARS
-  orcid: 0000-0001-8543-4016
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/J.MEDIA.2010.05.002
-  title: A tract-specific framework for white matter morphometry combining macroscopic
-    and microscopic tract features
-  authors:
-  - Hui Zhang
-  - Suyash P. Awate
-  - Sandhitsu R. Das
-  - John H. Woo
-  - Elias R. Melhem
-  - James C. Gee
-  - Paul A. Yushkevich
-  publisher: Medical Image Analysis
-  date: '2010-10-01'
-  link: https://doi.org/dh54tc
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -17539,7 +17321,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.NEUROIMAGE.2009.12.007
+- id: doi:10.1016/j.neuroimage.2009.12.007
   title: 'Bias in estimation of hippocampal atrophy using deformation-based morphometry
     arises from asymmetric global normalization: An illustration in ADNI 3 T MRI data'
   authors:
@@ -17555,22 +17337,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.NEUROIMAGE.2010.06.072
-  title: 'Cerebral cortical folding analysis with multivariate modeling and testing:
-    Studies on gender differences and neonatal development'
-  authors:
-  - Suyash P. Awate
-  - Paul A. Yushkevich
-  - Zhuang Song
-  - Daniel J. Licht
-  - James C. Gee
-  publisher: NeuroImage
-  date: '2010-11-01'
-  link: https://doi.org/fbqdhm
-  orcid: 0000-0001-8543-4016
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/J.NEUROIMAGE.2010.06.040
+- id: doi:10.1016/j.neuroimage.2010.06.040
   title: Nearly automatic segmentation of hippocampal subfields in in vivo focal T2-weighted
     MRI
   authors:
@@ -17588,7 +17355,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ISBI.2010.5490318
+- id: doi:10.1109/isbi.2010.5490318
   title: Shape-based semi-automatic hippocampal subfield segmentation with learning-based
     bias removal
   authors:
@@ -17636,42 +17403,6 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.NEUROIMAGE.2009.09.062
-  title: The optimal template effect in hippocampus studies of diseased populations
-  authors:
-  - Brian B. Avants
-  - Paul Yushkevich
-  - John Pluta
-  - David Minkoff
-  - Marc Korczykowski
-  - John Detre
-  - James C. Gee
-  publisher: NeuroImage
-  date: '2010-02-01'
-  link: https://doi.org/cj9s4z
-  orcid: 0000-0001-8543-4016
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/J.NEUROIMAGE.2008.08.042
-  title: "A high-resolution computational atlas of the human hippocampus from postmortem\
-    \ magnetic resonance imaging at 9.4\_T"
-  authors:
-  - P YUSHKEVICH
-  - B AVANTS
-  - J PLUTA
-  - S DAS
-  - D MINKOFF
-  - D MECHANICHAMILTON
-  - S GLYNN
-  - S PICKUP
-  - W LIU
-  - J GEE
-  publisher: NeuroImage
-  date: '2009-01-15'
-  link: https://doi.org/cscfcf
-  orcid: 0000-0001-8543-4016
-  plugin: orcid.py
-  file: orcid.yaml
 - title: A tract-specific framework for white matter morphometry combining macroscopic
     and microscopic tract features.
   publisher: 'Medical image computing and computer-assisted intervention : MICCAI
@@ -17682,7 +17413,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.NEUROIMAGE.2008.10.051
+- id: doi:10.1016/j.neuroimage.2008.10.051
   title: Continuous medial representation of brain structures using the biharmonic
     PDE
   authors:
@@ -17703,7 +17434,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.YEBEH.2009.07.012
+- id: doi:10.1016/j.yebeh.2009.07.012
   title: Hippocampal volumetry and functional MRI of memory in temporal lobe epilepsy
   authors:
   - Dawn Mechanic-Hamilton
@@ -17731,7 +17462,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/HIPO.20620
+- id: doi:10.1002/hipo.20620
   title: Structure specific analysis of the hippocampus in temporal lobe epilepsy
   authors:
   - Sandhitsu R. Das
@@ -17758,7 +17489,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ISBI.2009.5193136
+- id: doi:10.1109/isbi.2009.5193136
   title: Ventricularwall thickness analysis in acute myocardial infarction and hypertrophic
     cardiomyopathy
   authors:
@@ -17841,25 +17572,6 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.NEUROIMAGE.2007.01.029
-  title: Hippocampus-specific fMRI group activation analysis using the continuous
-    medial representation
-  authors:
-  - Paul A. Yushkevich
-  - John A. Detre
-  - Dawn Mechanic-Hamilton
-  - "Mar\xEDa A. Fern\xE1ndez-Seara"
-  - Kathy Z. Tang
-  - Angela Hoang
-  - Marc Korczykowski
-  - Hui Zhang
-  - James C. Gee
-  publisher: NeuroImage
-  date: '2007-05-01'
-  link: https://doi.org/csc8qv
-  orcid: 0000-0001-8543-4016
-  plugin: orcid.py
-  file: orcid.yaml
 - id: wosuid:WOS:000250917700026
   title: Web of Science
   authors: []
@@ -17878,20 +17590,6 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.MEDIA.2006.06.004
-  title: Deformable registration of diffusion tensor MR images with explicit orientation
-    optimization
-  authors:
-  - H ZHANG
-  - P YUSHKEVICH
-  - D ALEXANDER
-  - J GEE
-  publisher: Medical Image Analysis
-  date: '2006-10-01'
-  link: https://doi.org/fdg77d
-  orcid: 0000-0001-8543-4016
-  plugin: orcid.py
-  file: orcid.yaml
 - title: Hippocampus-specific fMRI group activation analysis with continuous M-Reps.
   publisher: 'Medical image computing and computer-assisted intervention : MICCAI
     ... International Conference on Medical Image Computing and Computer-Assisted
@@ -17907,23 +17605,6 @@
   publisher: ''
   date: ''
   link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000241556700035
-  orcid: 0000-0001-8543-4016
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/J.NEUROIMAGE.2006.01.015
-  title: 'User-guided 3D active contour segmentation of anatomical structures: Significantly
-    improved efficiency and reliability'
-  authors:
-  - Paul A. Yushkevich
-  - Joseph Piven
-  - Heather Cody Hazlett
-  - Rachel Gimpel Smith
-  - Sean Ho
-  - James C. Gee
-  - Guido Gerig
-  publisher: NeuroImage
-  date: '2006-07-01'
-  link: https://doi.org/d585gp
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -17972,21 +17653,6 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.ACRA.2005.06.014
-  title: Regional Structural Characterization of the Brain of Schizophrenia Patients1
-  authors:
-  - Paul Yushkevich
-  - Abraham Dubb
-  - Zhiyong Xie
-  - Ruben Gur
-  - Raquel Gur
-  - James Gee
-  publisher: Academic Radiology
-  date: '2005-10-01'
-  link: https://doi.org/fxb49j
-  orcid: 0000-0001-8543-4016
-  plugin: orcid.py
-  file: orcid.yaml
 - title: Statistical modeling of shape and appearance using the continuous medial
     representation.
   publisher: 'Medical image computing and computer-assisted intervention : MICCAI
@@ -18023,7 +17689,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/S0262-8856(02)00135-X
+- id: doi:10.1016/s0262-8856(02)00135-x
   title: Continuous medial representations for geometric object modeling in 2D and
     3D
   authors:
@@ -18038,7 +17704,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1023/A:1026313132218
+- id: doi:10.1023/a:1026313132218
   title: Deformable M-Reps for 3D Medical Image Segmentation
   authors:
   - Stephen M. Pizer
@@ -18078,7 +17744,7 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/TMI.2002.1009389
+- id: doi:10.1109/tmi.2002.1009389
   title: Multiscale deformable model segmentation and statistical shape analysis using
     medial descriptions
   authors:
@@ -18638,31 +18304,6 @@
   orcid: 0000-0002-1985-8475
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.neurobiolaging.2023.10.012
-  title: Impact of white matter hyperintensities on structural connectivity and cognition
-    in cognitively intact ADNI participants
-  authors:
-  - Mohammad Taghvaei
-  - Dawn J. Mechanic-Hamilton
-  - Shokufeh Sadaghiani
-  - Banafsheh Shakibajahromi
-  - Sudipto Dolui
-  - Sandhitsu Das
-  - Christopher Brown
-  - William Tackett
-  - Pulkit Khandelwal
-  - Philip Cook
-  - Russell T. Shinohara
-  - Paul Yushkevich
-  - Danielle S. Bassett
-  - David A. Wolk
-  - John A. Detre
-  publisher: Neurobiology of Aging
-  date: '2024-03-01'
-  link: https://doi.org/hcpjpb
-  orcid: 0000-0002-1985-8475
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1101/2024.09.23.24313179
   title: "Magnetic Resonance Imaging Data Phenotypes for the Parkinson\u2019s Progression\
     \ Markers Initiative"
@@ -18731,7 +18372,7 @@
   orcid: 0000-0002-1985-8475
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.48550/arXiv.2302.13631
+- id: doi:10.48550/arxiv.2302.13631
   title: Curriculum Based Multi-Task Learning for Parkinson's Disease Detection
   authors:
   - Nikhil J. Dhinagar
@@ -18752,7 +18393,7 @@
   orcid: 0000-0002-1985-8475
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/EMBC40787.2023.10340792
+- id: doi:10.1109/embc40787.2023.10340792
   title: "Comparison of Anatomical and Diffusion MRI for detecting Parkinson\u2019\
     s Disease using Deep Convolutional Neural Network"
   authors:
@@ -18799,7 +18440,7 @@
   orcid: 0000-0002-1985-8475
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ISBI53787.2023.10230355
+- id: doi:10.1109/isbi53787.2023.10230355
   title: "Curriculum Based Multi-Task Learning for Parkinson\u2019s Disease Detection"
   authors:
   - Nikhil J. Dhinagar
@@ -18906,7 +18547,7 @@
   orcid: 0000-0002-1985-8475
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.48550/arXiv.2309.04651
+- id: doi:10.48550/arxiv.2309.04651
   title: Video and Synthetic MRI Pre-training of 3D Vision Architectures for Neuroimage
     Analysis
   authors:
@@ -18927,29 +18568,6 @@
   publisher: arXiv
   date: '2023-01-01'
   link: https://doi.org/hcpshd
-  orcid: 0000-0002-1985-8475
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1002/hbm.26326
-  title: Young versus older subject diffusion magnetic resonance imaging data for
-    virtual white matter lesion tractography
-  authors:
-  - Mohammad Taghvaei
-  - Philip Cook
-  - Shokufeh Sadaghiani
-  - Banafsheh Shakibajahromi
-  - William Tackett
-  - Sudipto Dolui
-  - Debarun De
-  - Christopher Brown
-  - Pulkit Khandelwal
-  - Paul Yushkevich
-  - Sandhitsu Das
-  - David A. Wolk
-  - John A. Detre
-  publisher: Human Brain Mapping
-  date: '2023-05-06'
-  link: https://doi.org/hcpjps
   orcid: 0000-0002-1985-8475
   plugin: orcid.py
   file: orcid.yaml
@@ -19728,7 +19346,7 @@
   orcid: 0000-0002-1985-8475
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.3233/JAD-190283
+- id: doi:10.3233/jad-190283
   title: "Longitudinal Mapping of Cortical Thickness Measurements: An Alzheimer\u2019\
     s Disease Neuroimaging Initiative-Based Evaluation Study"
   authors:
@@ -19783,7 +19401,7 @@
   orcid: 0000-0002-1985-8475
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1523/JNEUROSCI.2200-17.2018
+- id: doi:10.1523/jneurosci.2200-17.2018
   title: Diminished Cortical Thickness Is Associated with Impulsive Choice in Adolescence
   authors:
   - Marieta Pehlivanova
@@ -20389,7 +20007,7 @@
   orcid: 0000-0002-1985-8475
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1523/JNEUROSCI.1486-08.2008
+- id: doi:10.1523/jneurosci.1486-08.2008
   title: Evidence for Segregated and Integrative Connectivity Patterns in the Human
     Basal Ganglia
   authors:
@@ -20430,7 +20048,7 @@
   orcid: 0000-0002-1985-8475
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ICCV.2007.4409168
+- id: doi:10.1109/iccv.2007.4409168
   title: Exploiting peak anisotropy for tracking through complex structures
   authors:
   - Kiran K Seunarine
@@ -20458,7 +20076,7 @@
   orcid: 0000-0002-1985-8475
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ISBI.2004.1398542
+- id: doi:10.1109/isbi.2004.1398542
   title: Modelling noise-induced fibre-orientation error in diffusion-tensor MRI
   authors:
   - P.A. Cook
@@ -20471,7 +20089,7 @@
   orcid: 0000-0002-1985-8475
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/TPCG.2003.1206943
+- id: doi:10.1109/tpcg.2003.1206943
   title: Visualizing diffusion-weighted MRI data using collaborative virtual environment
     and grid technologies
   authors:
@@ -20607,28 +20225,6 @@
   orcid: 0000-0003-0530-2887
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/ana.26233
-  title: "Tau\u2010Atrophy Variability Reveals Phenotypic Heterogeneity in Alzheimer's\
-    \ Disease"
-  authors:
-  - Sandhitsu R. Das
-  - Xueying Lyu
-  - Michael Tran Duong
-  - Long Xie
-  - Lauren McCollum
-  - Robin de Flores
-  - Michael DiCalogero
-  - David J. Irwin
-  - Bradford C. Dickerson
-  - Ilya M. Nasrallah
-  - Paul A. Yushkevich
-  - David A. Wolk
-  publisher: Annals of Neurology
-  date: '2021-10-15'
-  link: https://doi.org/gnbmmc
-  orcid: 0000-0003-0530-2887
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1101/2020.11.05.20224873
   title: 'Remote effects of temporal lobe epilepsy surgery: long-term morphological
     changes after surgical resection'
@@ -20647,41 +20243,6 @@
   publisher: openRxiv
   date: '2020-11-06'
   link: https://doi.org/hcpjgc
-  orcid: 0000-0003-0530-2887
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.3174/ajnr.A5734
-  title: Quantitative MRI of Perivascular Spaces at 3T for Early Diagnosis of Mild
-    Cognitive Impairment
-  authors:
-  - M. Niazi
-  - M. Karaman
-  - S. Das
-  - X.J. Zhou
-  - P. Yushkevich
-  - K. Cai
-  publisher: American Journal of Neuroradiology
-  date: '2018-08-09'
-  link: https://doi.org/gd7rg4
-  orcid: 0000-0003-0530-2887
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.3174/ajnr.A4659
-  title: Automated Hippocampal Subfield Segmentation at 7T MRI
-  authors:
-  - L.E.M. Wisse
-  - H.J. Kuijf
-  - A.M. Honingh
-  - H. Wang
-  - J.B. Pluta
-  - S.R. Das
-  - D.A. Wolk
-  - J.J.M. Zwanenburg
-  - P.A. Yushkevich
-  - M.I. Geerlings
-  publisher: American Journal of Neuroradiology
-  date: '2016-02-04'
-  link: https://doi.org/gtcd6h
   orcid: 0000-0003-0530-2887
   plugin: orcid.py
   file: orcid.yaml
@@ -20722,7 +20283,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1007/S10439-026-04273-9
+- id: doi:10.1007/s10439-026-04273-9
   title: A Geometric Feature Tracking Approach for Noninvasive Patient-Specific Estimation
     of Leaflet Strain from 3D Images of Heart Valves
   authors:
@@ -20746,7 +20307,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1007/S10439-026-04245-Z
+- id: doi:10.1007/s10439-026-04245-z
   title: Biomechanically Informed Image Registration for Patient-Specific Aortic Valve
     Strain Analysis
   authors:
@@ -20776,7 +20337,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.3389/FCVM.2025.1721746
+- id: doi:10.3389/fcvm.2025.1721746
   title: 'CT-based visualization of aortic valve morphology: from 3D energy-integrating
     CT to 4D photon counting CT'
   authors:
@@ -20833,7 +20394,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/TBME.2025.3605577
+- id: doi:10.1109/tbme.2025.3605577
   title: 'MUSiK: An Open Source Simulation Library for 3D Multi-View Ultrasound'
   authors:
   - Trevor J. Chan
@@ -20846,7 +20407,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1053/J.JVCA.2026.01.036
+- id: doi:10.1053/j.jvca.2026.01.036
   title: 'Proof-of-Concept Automated Framework for Intraoperative Transesophageal
     Echocardiography: View Classification and Biventricular Function Assessment'
   authors:
@@ -20891,7 +20452,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.ACTBIO.2025.05.021
+- id: doi:10.1016/j.actbio.2025.05.021
   title: A noninvasive method for determining elastic parameters of valve tissue using
     physics-informed neural networks
   authors:
@@ -20918,7 +20479,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1161/CIRC.152.SUPPL_3.4366900
+- id: doi:10.1161/circ.152.suppl_3.4366900
   title: 'Abstract 4366900: Phenotyping Cardiac Surgery Patients Using Retrieval-Augmented
     Large Language Models'
   authors:
@@ -20936,7 +20497,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.BJA.2025.01.028
+- id: doi:10.1016/j.bja.2025.01.028
   title: Automated structured data extraction from intraoperative echocardiography
     reports using large language models
   authors:
@@ -21020,7 +20581,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1161/CIRC.152.SUPPL_3.4369577
+- id: doi:10.1161/circ.152.suppl_3.4369577
   title: 'Abstract 4369577: Patient-Specific Ascending Aortic Wall Shear Stress and
     Strain Analysis from 4D CT'
   authors:
@@ -21056,7 +20617,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ISBI60581.2025.10981027
+- id: doi:10.1109/isbi60581.2025.10981027
   title: 'SynStitch: A Self-Supervised Learning Network for Ultrasound Image Stitching
     Using Synthetic Training Pairs and Indirect Supervision'
   authors:
@@ -21079,7 +20640,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1161/CIRC.152.SUPPL_3.4355972
+- id: doi:10.1161/circ.152.suppl_3.4355972
   title: 'Abstract 4355972: Simulation Guided Aortic Valve Tracking and Strain Analysis
     in 4D Echocardiography'
   authors:
@@ -21099,7 +20660,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ISBI60581.2025.10981269
+- id: doi:10.1109/isbi60581.2025.10981269
   title: 'Towards Patient-Specific Surgical Planning for Bicuspid Aortic Valve Repair:
     Fully Automated Segmentation of the Aortic Valve in 4D CT'
   authors:
@@ -21131,7 +20692,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.JMBBM.2024.106879
+- id: doi:10.1016/j.jmbbm.2024.106879
   title: Tricuspid valve edge-to-edge repair simulations are highly sensitive to annular
     boundary conditions
   authors:
@@ -21147,7 +20708,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1161/CIRC.150.SUPPL_1.4139198
+- id: doi:10.1161/circ.150.suppl_1.4139198
   title: 'Abstract 4139198: A Systematic Approach to Prompting Large Language Models
     for Automated Feature Extraction from Cardiovascular Imaging Reports'
   authors:
@@ -21165,7 +20726,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1161/CIRC.150.SUPPL_1.4141884
+- id: doi:10.1161/circ.150.suppl_1.4141884
   title: 'Abstract 4141884: Fully Automatic Quantification of the Aortic Root in 4D
     Transesophageal Echocardiography'
   authors:
@@ -21196,7 +20757,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.3389/FCVM.2024.1441511
+- id: doi:10.3389/fcvm.2024.1441511
   title: 'Editorial: Mitral valve disease: mechanisms to therapies'
   authors:
   - Maria Carmo Pereira Nunes
@@ -21260,7 +20821,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1038/S41556-023-01194-W
+- id: doi:10.1038/s41556-023-01194-w
   title: Advances and prospects for the Human BioMolecular Atlas Program (HuBMAP)
   authors:
   - Sanjay Jain
@@ -21753,7 +21314,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.AJOG.2022.09.040
+- id: doi:10.1016/j.ajog.2022.09.040
   title: 'Anatomic nomenclature and 3-dimensional regional model of the human ovary:
     call for a new paradigm'
   authors:
@@ -21776,7 +21337,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1007/S13239-023-00680-4
+- id: doi:10.1007/s13239-023-00680-4
   title: Patient-Specific Quantitative In-Vivo Assessment of Human Mitral Valve Leaflet
     Strain Before and After MitraClip Repair
   authors:
@@ -21794,7 +21355,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.MEDIA.2023.102804
+- id: doi:10.1016/j.media.2023.102804
   title: Strain estimation in aortic roots from 4D echocardiographic images using
     medial modeling and deformable registration
   authors:
@@ -21814,7 +21375,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.ATHORACSUR.2020.12.013
+- id: doi:10.1016/j.athoracsur.2020.12.013
   title: Dynamic Annular Modeling of the Unrepaired Complete Atrioventricular Canal
     Annulus
   authors:
@@ -21840,7 +21401,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.JVSSCI.2021.11.004
+- id: doi:10.1016/j.jvssci.2021.11.004
   title: Local aortic aneurysm wall expansion measured with automated image analysis
   authors:
   - Jordan B. Stoecker
@@ -21854,7 +21415,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1007/S10439-021-02882-0
+- id: doi:10.1007/s10439-021-02882-0
   title: Patient-Specific Quantification of Normal and Bicuspid Aortic Valve Leaflet
     Deformations from Clinically Derived Images
   authors:
@@ -21869,7 +21430,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.XJTC.2022.09.013
+- id: doi:10.1016/j.xjtc.2022.09.013
   title: "Quantitative in\_vivo assessment of human mitral valve coaptation area after\
     \ undersized ring annuloplasty repair for ischemic mitral regurgitation"
   authors:
@@ -21905,7 +21466,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.AVSG.2021.10.043
+- id: doi:10.1016/j.avsg.2021.10.043
   title: The Hyperattenuating Crescent Sign Is Not Necessarily a Sign of Impending
     Aortic Aneurysm Rupture
   authors:
@@ -21923,7 +21484,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1161/CIRCIMAGING.122.014424
+- id: doi:10.1161/circimaging.122.014424
   title: 'Truncal Valve Repair: 3-Dimensional Imaging and Modeling to Enhance Preoperative
     Surgical Planning'
   authors:
@@ -21954,7 +21515,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.ATHORACSUR.2020.07.036
+- id: doi:10.1016/j.athoracsur.2020.07.036
   title: 'Dynamic Volumetric Assessment of the Aortic Root: The Influence of Bicuspid
     Aortic Valve Competence'
   authors:
@@ -21990,7 +21551,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1007/S10439-021-02772-5
+- id: doi:10.1007/s10439-021-02772-5
   title: Pre-surgical Prediction of Ischemic Mitral Regurgitation Recurrence Using
     In Vivo Mitral Valve Leaflet Strains
   authors:
@@ -22066,7 +21627,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.ECHO.2019.01.002
+- id: doi:10.1016/j.echo.2019.01.002
   title: Dynamic Three-Dimensional Geometry of the Tricuspid Valve Annulus in Hypoplastic
     Left Heart Syndrome with a Fontan Circulation
   authors:
@@ -22098,7 +21659,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/CNM.3142
+- id: doi:10.1002/cnm.3142
   title: A noninvasive method for the determination of<i>in vivo</i>mitral valve leaflet
     strains
   authors:
@@ -22116,7 +21677,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.JBIOMECH.2016.11.039
+- id: doi:10.1016/j.jbiomech.2016.11.039
   title: 'Patient-specific CFD models for intraventricular flow analysis from 3D ultrasound
     imaging: Comparison of three clinical cases'
   authors:
@@ -22133,7 +21694,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/S12938-016-0231-9
+- id: doi:10.1186/s12938-016-0231-9
   title: Patient-specific CFD simulation of intraventricular haemodynamics based on
     3D ultrasound imaging
   authors:
@@ -22150,7 +21711,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.ATHORACSUR.2015.03.096
+- id: doi:10.1016/j.athoracsur.2015.03.096
   title: Saddle-Shaped Annuloplasty Improves Leaflet Coaptation in Repair for Ischemic
     Mitral Regurgitation
   authors:
@@ -22170,7 +21731,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.JVS.2013.11.065
+- id: doi:10.1016/j.jvs.2013.11.065
   title: Validation of semiautomated and locally resolved aortic wall thickness measurements
     from computed tomography
   authors:
@@ -22190,7 +21751,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.ATHORACSUR.2013.12.017
+- id: doi:10.1016/j.athoracsur.2013.12.017
   title: Feasibility of In Vivo Human Aortic Valve Modeling Using Real-Time Three-Dimensional
     Echocardiography
   authors:
@@ -22210,7 +21771,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.ATHORACSUR.2014.04.094
+- id: doi:10.1016/j.athoracsur.2014.04.094
   title: "Three-Dimensional Ultrasound-Derived Physical\_Mitral Valve Modeling"
   authors:
   - Walter R.T. Witschey
@@ -22257,7 +21818,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.AVSG.2011.07.008
+- id: doi:10.1016/j.avsg.2011.07.008
   title: Increased Wall Stress of Saccular Versus Fusiform Aneurysms of the Descending
     Thoracic Aorta
   authors:
@@ -22276,7 +21837,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.ATHORACSUR.2010.09.078
+- id: doi:10.1016/j.athoracsur.2010.09.078
   title: 'Ischemic Mitral Regurgitation: A Quantitative Three-Dimensional Echocardiographic
     Analysis'
   authors:
@@ -22297,7 +21858,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.ATHORACSUR.2010.10.034
+- id: doi:10.1016/j.athoracsur.2010.10.034
   title: 'Quantitative Mitral Valve Modeling Using Real-Time Three-Dimensional Echocardiography:
     Technique and Repeatability'
   authors:
@@ -22319,7 +21880,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.7863/JUM.2010.29.11.1595
+- id: doi:10.7863/jum.2010.29.11.1595
   title: In Vivo Noninvasive Temperature Measurement by B-Mode Ultrasound Imaging
   authors:
   - Alison M. Pouch
@@ -22332,7 +21893,7 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/J.ULTRASMEDBIO.2007.04.008
+- id: doi:10.1016/j.ultrasmedbio.2007.04.008
   title: Gaseous Microemboli Sizing in Extracorporeal Circuits Using Ultrasound Backscatter
   authors:
   - John E. Lynch
