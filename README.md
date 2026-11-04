@@ -197,7 +197,12 @@ at the first usable result:
 5. Use ORCID's metadata and flag the publication for review.
 
 Blank titles and known error-page titles trigger the next method. Missing authors
-or dates alone do not. Identifiers marked `part-of` or `version-of` are excluded
+or dates alone do not trigger another retrieval method. After manual overrides
+are applied, citations without authors are omitted and reported as errors with
+their source ORCID(s), ID, and title. The generator saves the remaining citations
+and exits with an error if any records were rejected. Citations with an ID always
+put `id` first in the YAML, including ORCID metadata fallbacks.
+Identifiers marked `part-of` or `version-of` are excluded
 from retrieval to avoid substituting a containing publication or another version.
 
 At the end of the **Build updated citations** step in the `update-citations` run,

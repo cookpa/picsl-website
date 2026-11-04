@@ -188,6 +188,26 @@ for index, source in enumerate(sources):
     # preserve fields from input source, overriding existing fields
     citation.update({key: value for key, value in source.items() if key != "_orcid"})
 
+    # Apply this check after overrides so manual entries can supply authors.
+    authors = citation.get("authors")
+    if not authors or not any(str(author or "").strip() for author in authors):
+        source_orcids = list(dict.fromkeys(
+            context["orcid"] for context in source.get("_orcid", [])
+        ))
+        orcid = ", ".join(source_orcids) or citation.get("orcid") or "[not available]"
+        error = (
+            f"Citation has no authors; orcid: {orcid}; "
+            f"id: {citation.get('id') or '[no id]'}; "
+            f"title: {citation.get('title') or '[no title]'}"
+        )
+        log(error, indent=1, level="ERROR")
+        errors.append(error)
+        continue
+
+    # Keep identifier-based exports consistent, including ORCID metadata fallbacks.
+    if _id:
+        citation = {"id": _id, **citation}
+
     # ensure date in proper format for correct date sorting
     if get_safe(citation, "date", ""):
         citation["date"] = format_date(get_safe(citation, "date", ""))
