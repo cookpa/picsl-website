@@ -3,6 +3,7 @@
 import json
 from urllib.parse import quote, urlencode
 from urllib.request import Request, urlopen
+from xml.etree import ElementTree
 
 from util import (
     cache, citation_from_csl, cite_with_manubot, format_date, get_safe,
@@ -59,6 +60,41 @@ def cite_with_crossref(doi):
     citation = citation_from_csl(f"doi:{doi}", csl)
     validate_citation(citation)
     return citation
+
+
+@log_cache
+@cache.memoize(name="pmid-doi-v1", expire=90 * (60 * 60 * 24))
+def doi_from_pmid(pmid):
+    """Read only the DOI from PubMed XML, including articles outside PMC."""
+    params = urlencode({
+        "db": "pubmed", "id": pmid, "retmode": "xml",
+        "tool": "picsl-website-citations",
+    })
+    request = Request(
+        "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?" + params,
+        headers={
+            "Accept": "application/xml",
+            "User-Agent": "picsl-website-citations (https://picsl.upenn.edu)",
+        },
+    )
+    with urlopen(request, timeout=30) as response:
+        root = ElementTree.parse(response).getroot()
+    for article in root:
+        record_pmid = article.findtext("./MedlineCitation/PMID") or article.findtext("./BookDocument/PMID")
+        if record_pmid != str(pmid):
+            continue
+        # Avoid DOIs in the article's reference list: they identify other works.
+        paths = [
+            "./PubmedData/ArticleIdList/ArticleId[@IdType='doi']",
+            "./PubmedBookData/ArticleIdList/ArticleId[@IdType='doi']",
+            "./MedlineCitation/Article/ELocationID[@EIdType='doi']",
+        ]
+        for path in paths:
+            for identifier in article.findall(path):
+                doi = normalize_identifier("doi", identifier.text)
+                if doi:
+                    return doi.split(":", 1)[1]
+    raise ValueError(f"No DOI found for PMID {pmid}")
 
 
 @log_cache
@@ -128,18 +164,34 @@ def cite_orcid(contexts):
             log(f"{description} failed: {error}", indent=2, level="WARNING")
             return None
 
+    attempted_dois = set()
+
+    def try_crossref(doi):
+        doi = normalize_identifier("doi", doi).split(":", 1)[1]
+        if doi in attempted_dois:
+            log(f"Skipping Crossref doi:{doi}: already attempted for this work", indent=2)
+            return None
+        attempted_dois.add(doi)
+        return attempt(f"Crossref doi:{doi}", lambda: cite_with_crossref(doi))
+
     for identifier in [f"doi:{doi}" for doi in dois] + pmids:
         citation = attempt(f"Manubot {identifier}", lambda: cite_with_manubot(identifier))
         if citation is not None:
             return citation, False
     for doi in dois:
-        citation = attempt(f"Crossref doi:{doi}", lambda: cite_with_crossref(doi))
+        citation = try_crossref(doi)
         if citation is not None:
             return citation, False
-    for pmcid in pmcids:
-        citation = attempt(
-            f"Crossref via pmc:{pmcid}", lambda: cite_with_crossref(doi_from_pmcid(pmcid))
-        )
+    # Resolve both NCBI identifier types, trying each distinct Crossref DOI once.
+    for identifier in pmids + [f"pmc:{pmcid}" for pmcid in pmcids]:
+        log(f"Resolving {identifier} to a DOI", indent=1)
+        try:
+            kind, value = identifier.split(":", 1)
+            doi = doi_from_pmid(value) if kind == "pubmed" else doi_from_pmcid(value)
+        except Exception as error:
+            log(f"DOI lookup for {identifier} failed: {error}", indent=2, level="WARNING")
+            continue
+        citation = try_crossref(doi)
         if citation is not None:
             return citation, False
 

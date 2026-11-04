@@ -193,7 +193,10 @@ at the first usable result:
 1. Manubot using a DOI.
 2. Manubot using a PMID from the same work.
 3. Crossref using a DOI.
-4. Resolve a PMCID from the same work to a DOI through NCBI, then query Crossref.
+4. Resolve PMIDs, then PMCIDs from the same work to DOIs through NCBI, then query
+   Crossref. Each distinct DOI is tried with Crossref only once per work, including
+   DOIs already tried in step 3. PMID resolution reads PubMed records directly,
+   so it also works for articles outside PubMed Central.
 5. Use ORCID's metadata and flag the publication for review.
 
 Blank titles and known error-page titles trigger the next method. Missing authors
